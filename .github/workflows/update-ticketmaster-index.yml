@@ -1,0 +1,62 @@
+name: Update Ticketmaster Event Indexes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ticketmaster-feed-index
+  cancel-in-progress: true
+
+jobs:
+  update-indexes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: feed-processor/package.json
+
+      - name: Install feed processor dependencies
+        working-directory: feed-processor
+        run: npm install --no-audit --no-fund
+
+      - name: Build complete and parking indexes
+        working-directory: feed-processor
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          COUNTRY_CODE: US
+        run: npm run build
+
+      - name: Show generated data sizes
+        run: |
+          echo "Generated files:"
+          find data -type f -printf '%s %p\n' | sort -nr | head -50
+
+      - name: Commit generated indexes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A data
+
+          if git diff --cached --quiet; then
+            echo "No index changes detected."
+            exit 0
+          fi
+
+          git commit -m "chore: update Ticketmaster event indexes"
+          git push
