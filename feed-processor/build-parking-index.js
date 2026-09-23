@@ -32,7 +32,6 @@ if (!API_KEY) {
   console.error(
     "ERROR: TICKETMASTER_API_KEY is not set."
   );
-
   process.exit(1);
 }
 
@@ -74,10 +73,8 @@ function isParkingEvent(event) {
       ? event.attractions
           .map(
             (item) =>
-              item?.attraction
-                ?.attractionName ||
-              item?.attraction
-                ?.name ||
+              item?.attraction?.attractionName ||
+              item?.attraction?.name ||
               ""
           )
           .join(" ")
@@ -107,11 +104,7 @@ function isParkingEvent(event) {
 }
 
 function getAttractions(event) {
-  if (
-    !Array.isArray(
-      event?.attractions
-    )
-  ) {
+  if (!Array.isArray(event?.attractions)) {
     return [];
   }
 
@@ -160,12 +153,10 @@ function normalizeEvent(event) {
     event.eventName,
     event.eventInfo,
     event.eventNotes,
-
     venue.venueName,
     venue.venueCity,
     venue.venueStateCode,
     venue.venueCountryCode,
-
     ...attractionNames
   ];
 
@@ -237,12 +228,10 @@ function normalizeEvent(event) {
         null,
 
       latitude:
-        venue.venueLatitude ??
-        null,
+        venue.venueLatitude ?? null,
 
       longitude:
-        venue.venueLongitude ??
-        null,
+        venue.venueLongitude ?? null,
 
       street:
         venue.venueStreet ||
@@ -365,12 +354,8 @@ function httpsStream(url) {
           }
         },
         (response) => {
-          /*
-           * Follow redirects.
-           */
           if (
-            response.statusCode >=
-              300 &&
+            response.statusCode >= 300 &&
             response.statusCode < 400 &&
             response.headers.location
           ) {
@@ -386,8 +371,7 @@ function httpsStream(url) {
           }
 
           if (
-            response.statusCode !==
-            200
+            response.statusCode !== 200
           ) {
             reject(
               new Error(
@@ -410,9 +394,7 @@ function httpsStream(url) {
   );
 }
 
-async function processFeed(
-  feed
-) {
+async function processFeed(feed) {
   console.log(
     "Downloading and streaming feed..."
   );
@@ -427,18 +409,17 @@ async function processFeed(
 
   const results = [];
 
-  let processed =
-    0;
-
-  let parking =
-    0;
+  let processed = 0;
+  let parking = 0;
 
   const pipelineStream =
     chain([
       response,
       gzip,
       parser(),
-      streamArray()
+      streamArray({
+        path: "events"
+      })
     ]);
 
   for await (
@@ -449,13 +430,9 @@ async function processFeed(
 
     processed++;
 
-    if (
-      isParkingEvent(event)
-    ) {
+    if (isParkingEvent(event)) {
       const normalized =
-        normalizeEvent(
-          event
-        );
+        normalizeEvent(event);
 
       if (
         normalized.id ||
@@ -470,8 +447,7 @@ async function processFeed(
     }
 
     if (
-      processed % 10000 ===
-      0
+      processed % 10000 === 0
     ) {
       console.log(
         `Processed ${processed} events; parking events: ${parking}`
@@ -490,9 +466,7 @@ async function processFeed(
   return results;
 }
 
-function sortParkingEvents(
-  events
-) {
+function sortParkingEvents(events) {
   return events.sort(
     (a, b) => {
       const dateA =
@@ -569,14 +543,12 @@ async function main() {
 
       numberOfEvents:
         Number(
-          feed.num_events ||
-          0
+          feed.num_events || 0
         ),
 
       compressedSizeBytes:
         Number(
-          feed.compressed_size_bytes ||
-          0
+          feed.compressed_size_bytes || 0
         ),
 
       checksum:
