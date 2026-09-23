@@ -6,7 +6,7 @@ import zlib from "node:zlib";
 import streamChain from "stream-chain";
 import streamJson from "stream-json";
 import streamArrayModule from "stream-json/streamers/StreamArray.js";
-import pickModule from "stream-json/filters/pick.js";
+import pickModule from "stream-json/filters/Pick.js";
 
 const { chain } = streamChain;
 const { parser } = streamJson;
@@ -436,13 +436,13 @@ async function processFeed(feed) {
 
   const pipelineStream =
     chain([
-      response,
-      gzip,
-      parser(),
-      pick({
+        response,
+        gzip,
+        parser(),
+        pick({
         filter: "events"
-      }),
-      streamArray()
+        }),
+        streamArray()
     ]);
 
   for await (
