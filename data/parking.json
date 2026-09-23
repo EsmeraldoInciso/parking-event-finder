@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:54:02.530Z",
+  "generatedAt": "2026-09-23T12:19:48.079Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
@@ -10,6 +10,1230 @@
   },
   "summary": {
     "parkingEvents": 2500
+  },
+  "diagnostics": {
+    "terms": {
+      "olivia": 110,
+      "rodrigo": 101,
+      "metallica": 77,
+      "intuit dome": 122,
+      "sphere": 953,
+      "parking": 6460
+    },
+    "samples": {
+      "olivia": [
+        {
+          "id": "1AvbZ_aGkM9w2rv",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-pittsburgh-pennsylvania-09-29-2026/event/1600649DD7C8F781",
+          "venue": "PPG Paints Arena",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_3GkBYyU63",
+          "name": "SYD & OLIVIA TALK SH*T LIVE",
+          "eventUrl": "https://www.ticketmaster.com/syd-olivia-talk-sht-live-brooklyn-new-york-01-29-2027/event/3000652EB0E761D2",
+          "venue": "The Bell House",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1zZ_3lSF4ln",
+          "name": "Stan Society Presents: Olivia Rodrigo Night | 18+",
+          "eventUrl": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-atlanta-georgia-10-23-2026/event/0E00652AF3215AEA",
+          "venue": "The Masquerade - Heaven",
+          "city": "Atlanta",
+          "state": "GA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MiRJO",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-24-2027/event/090064A4B7B2F9A0",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5eVZ_aUyt5-g",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-charlotte-north-carolina-10-08-2026/event/2D00649DB9A4B875",
+          "venue": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfG_O7",
+          "name": "Black Widows wsg The Moonrays",
+          "eventUrl": "https://www.ticketweb.com/event/black-widows-the-moonrays-tip-top-deluxe-bar-tickets/14319804",
+          "venue": "Tip Top Deluxe Bar & Grill",
+          "city": "Grand Rapids",
+          "state": "MI",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "k7v1Akf6CbZA82e6d",
+          "name": "Olivia O'Brien Presents: The PIXIE Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-obrien-presents-the-pixie-tour-new-york-new-york-10-06-2026/event/00006507398FE162",
+          "venue": "Irving Plaza Powered By Verizon 5G",
+          "city": "New York",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_8GkY7m5q7",
+          "name": "Olivia Carter",
+          "eventUrl": "https://www.ticketmaster.com/olivia-carter-brooklyn-new-york-11-06-2026/event/3000650C04B8B744",
+          "venue": "The Bell House",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfGY_0",
+          "name": "There's Something Here ft. Elijah Nevels, Andy Haynes, Alex Kumin, Olivia Stadler, and Clare Austen-Smith",
+          "eventUrl": "https://www.ticketweb.com/event/theres-something-here-ft-elijah-brooklyn-improv-the-lab-tickets/14330664",
+          "venue": "Brooklyn Improv (The Lab)",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfGZGf",
+          "name": "Stan Society Presents Olivia Rodrigo Night",
+          "eventUrl": "https://www.ticketweb.com/event/stan-society-presents-olivia-rodrigo-the-mill-mine-tickets/14300314",
+          "venue": "The Mill & Mine",
+          "city": "Knoxville",
+          "state": "TN",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfGoZ0",
+          "name": "In The Round with Olivia Rudeen & friends",
+          "eventUrl": "https://www.ticketweb.com/event/in-the-round-with-olivia-the-bluebird-cafe-tickets/14311024",
+          "venue": "The Bluebird Cafe",
+          "city": "Nashville",
+          "state": "TN",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv178Z_aGkMlEBGy",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/0400649DEB9FA339",
+          "venue": "United Center",
+          "city": "Chicago",
+          "state": "IL",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1HZ_aMovxTY",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-seattle-washington-12-07-2026/event/0F00649DD1062FF0",
+          "venue": "Climate Pledge Arena",
+          "city": "Seattle",
+          "state": "WA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AvbZ_aGkM9wRr7",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-pittsburgh-pennsylvania-09-30-2026/event/1600649DD7CAF784",
+          "venue": "PPG Paints Arena",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1zZ_aUW8bjb",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-atlanta-georgia-11-12-2026/event/0E00649DBD418718",
+          "venue": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfJFoS",
+          "name": "Katie Pruitt -  Fools for the Fleeting Tour",
+          "eventUrl": "https://www.ticketweb.com/event/katie-pruitt-the-district-tickets/14988473",
+          "venue": "The District",
+          "city": "Spokane",
+          "state": "WA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1FA8vP1KfJZ755Ad",
+          "name": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
+          "eventUrl": "https://www.ticketmaster.com/united-globe-concert-accessolivia-rodrigo-event-washington-district-of-columbia-10-03-2026/event/150065293526AA42",
+          "venue": "Capital One Arena",
+          "city": "Washington",
+          "state": "DC",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MJRPr",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-20-2027/event/090064A4B79AF95E",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVwuqPX",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-28-2027/event/3000649D3235D97E",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVwvWPx",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-19-2027/event/3000649D3207D962",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        }
+      ],
+      "rodrigo": [
+        {
+          "id": "1AvbZ_aGkM9w2rv",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-pittsburgh-pennsylvania-09-29-2026/event/1600649DD7C8F781",
+          "venue": "PPG Paints Arena",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1zZ_3lSF4ln",
+          "name": "Stan Society Presents: Olivia Rodrigo Night | 18+",
+          "eventUrl": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-atlanta-georgia-10-23-2026/event/0E00652AF3215AEA",
+          "venue": "The Masquerade - Heaven",
+          "city": "Atlanta",
+          "state": "GA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MiRJO",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-24-2027/event/090064A4B7B2F9A0",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5eVZ_aUyt5-g",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-charlotte-north-carolina-10-08-2026/event/2D00649DB9A4B875",
+          "venue": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfFw0V",
+          "name": "Anthony Geraci: Album Release Party",
+          "eventUrl": "https://www.ticketweb.com/event/anthony-geraci-album-release-party-space-tickets/14232934",
+          "venue": "SPACE",
+          "city": "Evanston",
+          "state": "IL",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfGZGf",
+          "name": "Stan Society Presents Olivia Rodrigo Night",
+          "eventUrl": "https://www.ticketweb.com/event/stan-society-presents-olivia-rodrigo-the-mill-mine-tickets/14300314",
+          "venue": "The Mill & Mine",
+          "city": "Knoxville",
+          "state": "TN",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1aOv0JeA4jtvC",
+          "name": "Michael Lives Forever",
+          "eventUrl": "https://www.ticketmaster.com/michael-lives-forever-atlantic-city-new-jersey-10-03-2026/event/020064982155729D",
+          "venue": "Sound Waves at Hard Rock Hotel & Casino Atlantic City",
+          "city": "Atlantic City",
+          "state": "NJ",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv178Z_aGkMlEBGy",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/0400649DEB9FA339",
+          "venue": "United Center",
+          "city": "Chicago",
+          "state": "IL",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1HZ_aMovxTY",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-seattle-washington-12-07-2026/event/0F00649DD1062FF0",
+          "venue": "Climate Pledge Arena",
+          "city": "Seattle",
+          "state": "WA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "17A8v0G6GCsQXu1",
+          "name": "Rodrigo y Gabriela - OurHome Tour",
+          "eventUrl": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-washington-district-of-columbia-10-20-2026/event/150064C3B16BE34A",
+          "venue": "The Anthem",
+          "city": "Washington",
+          "state": "DC",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AvbZ_aGkM9wRr7",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-pittsburgh-pennsylvania-09-30-2026/event/1600649DD7CAF784",
+          "venue": "PPG Paints Arena",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG1zZ_aUW8bjb",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-atlanta-georgia-11-12-2026/event/0E00649DBD418718",
+          "venue": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1FA8vP1KfJZ755Ad",
+          "name": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
+          "eventUrl": "https://www.ticketmaster.com/united-globe-concert-accessolivia-rodrigo-event-washington-district-of-columbia-10-03-2026/event/150065293526AA42",
+          "venue": "Capital One Arena",
+          "city": "Washington",
+          "state": "DC",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MJRPr",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-20-2027/event/090064A4B79AF95E",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVwuqPX",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-28-2027/event/3000649D3235D97E",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVwvWPx",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-19-2027/event/3000649D3207D962",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AYZk39GkdWVWfq",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-11-2027/event/30006497FDD3D51D",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5dIZ_2dt8Ao1",
+          "name": "Rodrigo y Gabriela - OurHome Tour",
+          "eventUrl": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-houston-texas-10-02-2026/event/3A0064F0E940544A",
+          "venue": "House of Blues Houston",
+          "city": "Houston",
+          "state": "TX",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5dIZbzxQK4He",
+          "name": "Austin City Limits Music Festival - Weekend Two",
+          "eventUrl": "https://on.fgtix.com/trk/y8SK",
+          "venue": "Zilker Park",
+          "city": "Austin",
+          "state": "TX",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkV43GJN",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-12-2027/event/3000649D1548C9A3",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        }
+      ],
+      "metallica": [
+        {
+          "id": "1A9Zko-GkeJ2m5j",
+          "name": "Metallica 2-Day Ticket (3/11/27 & 3/13/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-31127-31327-cannot-las-vegas-nevada-03-11-2027/event/17006461A63EE2DC",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5eVZ_3TnKsfK",
+          "name": "Metallica M72 World Tour",
+          "eventUrl": "https://gopack.evenue.net/events/MET",
+          "venue": "Carter Finley Stadium",
+          "city": "Raleigh",
+          "state": "NC",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5viZ_8wCQAJB",
+          "name": "The Rock Orchestra By Candlelight",
+          "eventUrl": "https://www.ticketmaster.com/the-rock-orchestra-by-candlelight-memphis-tennessee-03-31-2027/event/1B00650C8E6859BA",
+          "venue": "The Orpheum Theatre Memphis",
+          "city": "Memphis",
+          "state": "TN",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "k7vGF_kSixwUT",
+          "name": "The Rock Orchestra: Arena of Fire",
+          "eventUrl": "https://www.ticketmaster.com/the-rock-orchestra-arena-of-fire-albany-new-york-11-12-2026/event/0000646CEC8B2DBF",
+          "venue": "MVP Arena",
+          "city": "Albany",
+          "state": "NY",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv17fZ_3GkDYwNGG",
+          "name": "Metallica M72 World Tour",
+          "eventUrl": "https://www.ticketmaster.com/metallica-m72-world-tour-cleveland-ohio-06-15-2027/event/0500652EF0CA330C",
+          "venue": "Huntington Bank Field",
+          "city": "Cleveland",
+          "state": "OH",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-GkeJ2C5C",
+          "name": "Metallica 2-Day Ticket (2/4/27 & 2/6/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-2427-2627-cannot-las-vegas-nevada-02-04-2027/event/17006461A63CE2CE",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv17fZ_3GkTr8LNi",
+          "name": "Metallica M72 World Tour",
+          "eventUrl": "https://www.ticketmaster.com/metallica-m72-world-tour-indianapolis-indiana-06-05-2027/event/0500652FDE41F8EC",
+          "venue": "Lucas Oil Stadium",
+          "city": "Indianapolis",
+          "state": "IN",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5vVZ_6n-zPJb",
+          "name": "Metallica",
+          "eventUrl": "https://www.ticketmaster.com/metallica-uncasville-connecticut-11-21-2026/event/1D00647AA1E25998",
+          "venue": "Mohegan Sun Arena",
+          "city": "Uncasville",
+          "state": "CT",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfFVj7",
+          "name": "Mandatory Metallica",
+          "eventUrl": "https://www.ticketweb.com/event/mandatory-metallica-the-forge-tickets/14234704",
+          "venue": "The Forge",
+          "city": "Joliet",
+          "state": "IL",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5vVZ_6RTZyR2",
+          "name": "Metallica 2-day Ticket (11/19/26 & 11/21/26) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-111926-112126-cannot-uncasville-connecticut-11-19-2026/event/1D00647BFF039BCF",
+          "venue": "Mohegan Sun Arena",
+          "city": "Uncasville",
+          "state": "CT",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-GkeJ2r59",
+          "name": "Metallica 2-Day Ticket (3/4/27 & 3/6/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-3427-3627-cannot-las-vegas-nevada-03-04-2027/event/17006461A63DE2D7",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-GkeJ2r58",
+          "name": "Metallica 2-Day Ticket (2/18/27 & 2/20/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-21827-22027-cannot-las-vegas-nevada-02-18-2027/event/17006461A63DE2D0",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-GkeJ2r54",
+          "name": "Metallica 2-Day Ticket (2/25/27 & 2/27/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-22527-22727-cannot-las-vegas-nevada-02-25-2027/event/17006461A63DE2D5",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5eVZ_35d6TLR",
+          "name": "Hardwired - A Tribute to Metallica",
+          "eventUrl": "https://www.ticketmaster.com/hardwired-a-tribute-to-metallica-north-myrtle-beach-south-carolina-12-18-2026/event/2D006522C31FF7EF",
+          "venue": "House of Blues Myrtle Beach",
+          "city": "North Myrtle Beach",
+          "state": "SC",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1FAYv0b_jAZ7uaeF",
+          "name": "Metallica 2-Day Ticket (1/28/27 & 1/30/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-12827-13027-cannot-las-vegas-nevada-01-28-2027/event/170064619705C817",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-Gke0ycT0",
+          "name": "Metallica: Life Burns Faster",
+          "eventUrl": "https://www.ticketmaster.com/metallica-life-burns-faster-las-vegas-nevada-02-04-2027/event/17006461A4E6DFE4",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko-Gke0yWTn",
+          "name": "Metallica: Life Burns Faster",
+          "eventUrl": "https://www.ticketmaster.com/metallica-life-burns-faster-las-vegas-nevada-02-18-2027/event/17006461A4E7DFEA",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1Afk_PV",
+          "name": "Damage, Inc: Tribute to Metallica",
+          "eventUrl": "https://www.ticketweb.com/event/damage-inc-tribute-to-metallica-daryls-house-tickets/14199974",
+          "venue": "Daryl's House",
+          "city": "Pawling",
+          "state": "NY",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG17Z_13GNy_V",
+          "name": "The Four Horsemen - A Celebration of Metallica",
+          "eventUrl": "https://www.ticketmaster.com/the-four-horsemen-a-celebration-of-leesburg-virginia-10-24-2026/event/010064A48C8F9674",
+          "venue": "Tally Ho Theater",
+          "city": "Leesburg",
+          "state": "VA",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "k7vGF_GoXnJjO",
+          "name": "The Rock Orchestra By Candlelight",
+          "eventUrl": "https://www.ticketmaster.com/the-rock-orchestra-by-candlelight-newark-new-jersey-12-12-2026/event/000064C47EAA6720",
+          "venue": "New Jersey Performing Arts Center",
+          "city": "Newark",
+          "state": "NJ",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        }
+      ],
+      "intuit dome": [
+        {
+          "id": "vvG10Z_CNXK2UA",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-04-2026/event/090064E8FE4CFD85",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vPF-GAu8eGa",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-02-2026/event/090065221D402309",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vPF-GAu8xGo",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-17-2026/event/090065221D422311",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MiRJO",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-24-2027/event/090064A4B7B2F9A0",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXo2g0",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-10-16-2026/event/090064E8FE44FD64",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXoLgt",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-10-21-2026/event/090064E8FE45FD69",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXL8xi",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-19-2026/event/090064E8FE7D08AC",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv170Z_8GkRQTWlu",
+          "name": "LA Clippers vs Houston Rockets",
+          "eventUrl": "https://www.ticketmaster.com/la-clippers-vs-houston-rockets-inglewood-california-02-16-2027/event/0900650BDAFFDACD",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXp2UY",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-11-2026/event/090064E8FE58FDB0",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXoTgR",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-10-22-2026/event/090064E8FE47FD6F",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXLON7",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-20-2026/event/090064E8FE7E08C4",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXpRUg",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-12-2026/event/090064E8FE5AFDB5",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv170Z_8GkRDAsxG",
+          "name": "LA Clippers v TBD (Emirates NBA Cup)",
+          "eventUrl": "https://www.ticketmaster.com/la-clippers-v-tbd-emirates-nba-inglewood-california/event/0900650BFB17188C",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXqOOf",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-10-2026/event/090064E8FE760814",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXr8-1",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-17-2026/event/090064E8FE79084A",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_13MJRPr",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-20-2027/event/090064A4B79AF95E",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_5hx9J6X",
+          "name": "THE KEHLANI WORLD TOUR: North America",
+          "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-inglewood-california-09-24-2026/event/090064B6E25E61FE",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXqZO6",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-09-2026/event/090064E8FE740807",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXOONY",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-26-2026/event/090064E8FE8208F0",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_CNXrY-4",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-18-2026/event/090064E8FE7B0855",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        }
+      ],
+      "sphere": [
+        {
+          "id": "1A9Zko-GkeJ2m5j",
+          "name": "Metallica 2-Day Ticket (3/11/27 & 3/13/27) Cannot Split By Day",
+          "eventUrl": "https://www.ticketmaster.com/metallica-2day-ticket-31127-31327-cannot-las-vegas-nevada-03-11-2027/event/17006461A63EE2DC",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "17k8v0G6CNPvFLP",
+          "name": "Charles Lewis Quintet + 1",
+          "eventUrl": "https://www.ticketmaster.com/charles-lewis-quintet-1-scottsdale-arizona-03-03-2027/event/190064E8E50487E5",
+          "venue": "ASU Kerr",
+          "city": "Scottsdale",
+          "state": "AZ",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9ZkuPGkdYPnEX",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-18-2026/event/17006365F096A9FE",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "17AYv0G6ulhoNA4",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-11-16-2026/event/170064DADB463155",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "LvZ18QJtWhPlg8NIIAy3w",
+          "name": "R&B ONLY LIVE - Kansas City, MO",
+          "eventUrl": "https://www.universe.com/events/r-b-only-live-kansas-city-mo-tickets-D3H28V?ref=ticketmaster",
+          "venue": "The Truman",
+          "city": "Kansas City",
+          "state": "MO",
+          "matchedTerm": "sphere",
+          "matchedAsParking": true
+        },
+        {
+          "id": "1kAYvN_IGAG9Mb9",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-27-2026/event/170063668C5F7617",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "16vjZbUffG7cHRI",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-14-2026/event/1700636514B7CBE8",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1avjZ_d7_38ZdGF1",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-11-26-2026/event/1700643119490B79",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfF0of",
+          "name": "Tacos, Hops & Tequila",
+          "eventUrl": "https://www.ticketweb.com/event/tacos-hops-tequila-360-event-productions-tickets/14224454",
+          "venue": "360 Event Productions",
+          "city": "Wyandotte",
+          "state": "MI",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "16vjZ_d7bG7URM7",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-16-2026/event/1700643118DAFDC4",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zkf4GkdXaKxr",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-04-11-2027/event/17006515FE25389E",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zkf4GkdHdS3j",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-03-20-2027/event/17006515FC0F349C",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1FAYv0GoupZ78vdk",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-27-2026/event/170064311356F025",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9Zko0GkdAcWNz",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-09-26-2026/event/17006464C5B7D8F8",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "11AYvPA88xftvG",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-03-29-2027/event/170065150422529B",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9ZkffGkeg0W0N",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-02-15-2027/event/17006514B593D923",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "169Zk8s7gZAu8v7e",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-28-2026/event/17006431135CF031",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1FAYv0GoGoZ728k2",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-09-28-2026/event/170064311311EF5E",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "17k8v0G62TuXa_o",
+          "name": "Spiritual Thing",
+          "eventUrl": "https://www.ticketmaster.com/spiritual-thing-scottsdale-arizona-01-16-2027/event/190064FFCDF89651",
+          "venue": "ASU Kerr",
+          "city": "Scottsdale",
+          "state": "AZ",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9ZkffGkecCG0E",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-02-04-2027/event/17006514AD38C927",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        }
+      ],
+      "parking": [
+        {
+          "id": "k7vGF_8Lxrh73",
+          "name": "PBR: Pendleton Whiskey Velocity Tour",
+          "eventUrl": "https://www.ticketmaster.com/pbr-pendleton-whiskey-velocity-tour-albany-new-york-12-12-2026/event/00006507E279B112",
+          "venue": "MVP Arena",
+          "city": "Albany",
+          "state": "NY",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1ApZkf_Gkd_scLZ",
+          "name": "Jack's Lantern Trail",
+          "eventUrl": "https://www.ticketmaster.com/jacks-lantern-trail-louisville-kentucky-10-21-2026/event/16006519D9C6D7C0",
+          "venue": "Iroquois Amphitheater",
+          "city": "Louisville",
+          "state": "KY",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfF7P0",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204964",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7P7",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204944",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7PV",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204974",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7Pf",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204954",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7Jf",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204994",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "17FOv0G6GEMc12a",
+          "name": "Polyphia: BE NOT AFRAID World Tour ",
+          "eventUrl": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-orlando-florida-03-13-2027/event/220064C9F7B4A3C9",
+          "venue": "Hard Rock Live Orlando",
+          "city": "Orlando",
+          "state": "FL",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7J7",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204984",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "vvG1VZ_K9nZi48",
+          "name": "Mamma Mia! (Touring)",
+          "eventUrl": "https://www.ticketmaster.com/mamma-mia-touring-ft-lauderdale-florida-02-14-2027/event/0D006535EA02C550",
+          "venue": "Au-Rene Theater at the Broward Center",
+          "city": "Ft Lauderdale",
+          "state": "FL",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfF7af",
+          "name": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
+          "eventUrl": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254",
+          "venue": "Music Box",
+          "city": "San Diego",
+          "state": "CA",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7x7",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204884",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7q0",
+          "name": "INOHA - This Might Be Useful Tour w/ Buddha Trixie & Flight By Nothing",
+          "eventUrl": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764",
+          "venue": "Music Box",
+          "city": "San Diego",
+          "state": "CA",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7qV",
+          "name": "Mimosas & Motown: Sunday Brunch October 11th Brunch in Anzu at 11:30 AM / Show at 12:45 PM",
+          "eventUrl": "https://www.ticketweb.com/event/mimosas-motown-sunday-brunch-feinsteins-at-the-nikko-tickets/14204774",
+          "venue": "Feinstein's at The Nikko",
+          "city": "San Francisco",
+          "state": "CA",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1AfF7r7",
+          "name": "SOLD OUT! Mimosas & Motown: Sunday Brunch November 8th Brunch in Anzu at 11:30 AM / Show at 12:45 PM",
+          "eventUrl": "https://www.ticketweb.com/event/sold-out-mimosas-motown-feinsteins-at-the-nikko-tickets/14204784",
+          "venue": "Feinstein's at The Nikko",
+          "city": "San Francisco",
+          "state": "CA",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG10Z_urtlbxD",
+          "name": "Dustin Lynch",
+          "eventUrl": "https://www.ticketmaster.com/dustin-lynch-paso-robles-california-10-18-2026/event/090064D7A9AD88BB",
+          "venue": "Vina Robles Amphitheatre",
+          "city": "Paso Robles",
+          "state": "CA",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5vzZ_83EJBSk",
+          "name": "Boise State Theatre Arts Presents A Christmas Carol",
+          "eventUrl": "https://www.ticketmaster.com/boise-state-theatre-arts-presents-a-boise-idaho-11-22-2026/event/1E006504A79BACC6",
+          "venue": "Danny Peterson Theatre at the Morrison Center",
+          "city": "Boise",
+          "state": "ID",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF9C7",
+          "name": "Merry Christmas to You With Henry Kapono",
+          "eventUrl": "https://www.ticketweb.com/event/merry-christmas-to-you-with-blue-note-hawaii-tickets/14217384",
+          "venue": "Blue Note Hawaii",
+          "city": "Honolulu",
+          "state": "HI",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "rZ7HnEZ1AfF7xf",
+          "name": "The Polar Express",
+          "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204894",
+          "venue": "Delaware River Railroad Excursions (Polar Express Train Ride)",
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "matchedTerm": "parking",
+          "matchedAsParking": true
+        },
+        {
+          "id": "1kFOvPFIGACi3ut",
+          "name": "Orlando Solar Bears vs. South Carolina Stingrays",
+          "eventUrl": "https://www.ticketmaster.com/orlando-solar-bears-vs-south-carolina-orlando-florida-02-24-2027/event/220065228EB12369",
+          "venue": "Kia Center",
+          "city": "Orlando",
+          "state": "FL",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
+        }
+      ]
+    }
   },
   "events": [
     {
