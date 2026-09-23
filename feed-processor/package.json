@@ -1,0 +1,9 @@
+{
+  "name": "ticketmaster-parking-feed-processor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "stream-json": "^1.9.1"
+  }
+}

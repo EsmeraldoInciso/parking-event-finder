@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Ticketmaster Parking Event Finder</title>
+
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Ticketmaster Parking Event Finder</h1>
+      <p>
+        Find upcoming Ticketmaster events worth researching for parking
+        opportunities.
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Search -->
+    <section class="search-panel">
+      <h2>Search Events</h2>
+
+      <form id="searchForm">
+
+        <div class="form-grid">
+
+          <div class="form-group">
+            <label for="startDate">Start date</label>
+            <input
+              type="date"
+              id="startDate"
+              name="startDate"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="endDate">End date</label>
+            <input
+              type="date"
+              id="endDate"
+              name="endDate"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="countryCode">Country</label>
+            <select id="countryCode" name="countryCode">
+              <option value="US" selected>United States</option>
+              <option value="CA">Canada</option>
+              <option value="MX">Mexico</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="stateCode">State</label>
+            <input
+              type="text"
+              id="stateCode"
+              name="stateCode"
+              placeholder="NY"
+              maxlength="2"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="city">City</label>
+            <input
+              type="text"
+              id="city"
+              name="city"
+              placeholder="New York"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="classificationName">
+              Classification
+            </label>
+
+            <select
+              id="classificationName"
+              name="classificationName"
+            >
+              <option value="">All classifications</option>
+              <option value="Music">Music</option>
+              <option value="Sports">Sports</option>
+              <option value="Comedy">Comedy</option>
+              <option value="Theater">Theater</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+
+          <div class="form-group form-group-wide">
+            <label for="keyword">Keyword / Artist</label>
+            <input
+              type="text"
+              id="keyword"
+              name="keyword"
+              placeholder="e.g. Taylor Swift"
+            />
+          </div>
+
+        </div>
+
+        <div class="form-actions">
+          <button
+            type="submit"
+            id="searchButton"
+            class="primary-button"
+          >
+            Search Events
+          </button>
+
+          <button
+            type="button"
+            id="clearButton"
+            class="secondary-button"
+          >
+            Clear
+          </button>
+        </div>
+
+      </form>
+    </section>
+
+    <!-- Status -->
+    <section
+      id="statusArea"
+      class="status-area hidden"
+      aria-live="polite"
+    ></section>
+
+    <!-- Results -->
+    <section class="results-section">
+
+      <div class="results-header">
+        <div>
+          <h2>Events</h2>
+          <p id="resultsSummary">
+            Search for events to begin.
+          </p>
+        </div>
+
+        <div id="resultCount" class="result-count"></div>
+      </div>
+
+      <div
+        id="loading"
+        class="loading hidden"
+      >
+        <div class="spinner"></div>
+        <span>Searching Ticketmaster...</span>
+      </div>
+
+      <div
+        id="emptyState"
+        class="empty-state"
+      >
+        <h3>No events loaded</h3>
+        <p>
+          Enter your search criteria and click
+          <strong>Search Events</strong>.
+        </p>
+      </div>
+
+      <div
+        id="resultsContainer"
+        class="results-container hidden"
+      ></div>
+
+    </section>
+
+    <section
+      id="pagination"
+      class="pagination hidden"
+    >
+      <button
+        id="previousButton"
+        class="secondary-button"
+      >
+        Previous
+      </button>
+
+      <span id="pageInfo"></span>
+
+      <button
+        id="nextButton"
+        class="secondary-button"
+      >
+        Next
+      </button>
+    </section>
+
+    <!-- Pagination -->
+    <section
+      id="pagination"
+      class="pagination hidden"
+    >
+      <button
+        id="previousButton"
+        class="secondary-button"
+      >
+        Previous
+      </button>
+
+      <span id="pageInfo"></span>
+
+      <button
+        id="nextButton"
+        class="secondary-button"
+      >
+        Next
+      </button>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>
+        Event data provided through Ticketmaster Discovery API.
+      </p>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

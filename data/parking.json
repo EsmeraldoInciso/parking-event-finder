@@ -1,0 +1,15 @@
+{
+  "generatedAt": null,
+  "source": "Ticketmaster Discovery Feed",
+  "countryCode": "US",
+  "feed": {
+    "lastUpdated": null,
+    "numberOfEvents": 0,
+    "compressedSizeBytes": 0,
+    "checksum": null
+  },
+  "summary": {
+    "parkingEvents": 0
+  },
+  "events": []
+}

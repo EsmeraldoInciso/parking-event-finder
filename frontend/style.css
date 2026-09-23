@@ -1,0 +1,637 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  background: #f5f7fa;
+  color: #1f2937;
+}
+
+.container {
+  width: min(1200px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.site-header {
+  background: #111827;
+  color: white;
+  padding: 40px 0;
+}
+
+.site-header h1 {
+  margin: 0 0 8px;
+  font-size: 32px;
+}
+
+.site-header p {
+  margin: 0;
+  color: #d1d5db;
+}
+
+main {
+  padding: 32px 0 50px;
+}
+
+.search-panel {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.search-panel h2 {
+  margin-top: 0;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.form-group-wide {
+  grid-column: span 2;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 11px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 7px;
+  background: white;
+  font-size: 14px;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+.form-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+button {
+  border: 0;
+  border-radius: 7px;
+  padding: 11px 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.primary-button {
+  background: #2563eb;
+  color: white;
+}
+
+.primary-button:hover {
+  background: #1d4ed8;
+}
+
+.primary-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.secondary-button {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.secondary-button:hover {
+  background: #d1d5db;
+}
+
+.status-area {
+  margin-top: 20px;
+  padding: 14px 16px;
+  border-radius: 8px;
+}
+
+.status-area.error {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.status-area.success {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.results-section {
+  margin-top: 32px;
+}
+
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.results-header h2 {
+  margin: 0 0 4px;
+}
+
+.results-header p {
+  margin: 0;
+  color: #6b7280;
+}
+
+.result-count {
+  font-weight: 600;
+}
+
+.results-container {
+  display: grid;
+  gap: 14px;
+}
+
+.event-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.event-card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.event-title {
+  margin: 0;
+  font-size: 20px;
+}
+
+.event-artist {
+  margin-top: 5px;
+  color: #6b7280;
+}
+
+.event-meta {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px 20px;
+  margin-top: 18px;
+}
+
+.meta-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.meta-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #6b7280;
+  font-weight: 700;
+}
+
+.meta-value {
+  font-size: 14px;
+}
+
+.event-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.event-actions a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 9px 13px;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.event-actions a.secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.badge-available {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.badge-cancelled {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.badge-postponed {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.badge-unknown {
+  background: #e5e7eb;
+  color: #374151;
+}
+
+.map-indicator {
+  margin-top: 14px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 50px;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+}
+
+.spinner {
+  width: 20px;
+  height: 20px;
+  border: 3px solid #d1d5db;
+  border-top-color: #2563eb;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 50px 20px;
+  background: white;
+  border: 1px dashed #d1d5db;
+  border-radius: 10px;
+}
+
+.empty-state h3 {
+  margin-top: 0;
+}
+
+.empty-state p {
+  color: #6b7280;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+footer {
+  border-top: 1px solid #e5e7eb;
+  padding: 25px 0;
+  color: #6b7280;
+  font-size: 13px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 700px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .form-group-wide {
+    grid-column: auto;
+  }
+
+  .event-card-header {
+    flex-direction: column;
+  }
+
+  .event-meta {
+    grid-template-columns: 1fr;
+  }
+
+  .results-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .form-actions {
+    flex-direction: column;
+  }
+
+  .form-actions button {
+    width: 100%;
+  }
+}
+
+/* ================================
+   Parking Research
+================================ */
+
+.research-panel {
+  margin-top: 22px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.research-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 16px;
+}
+
+.research-header h4 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.research-status {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 9px;
+  border-radius: 999px;
+}
+
+.research-status-unchecked {
+  background: #e5e7eb;
+  color: #374151;
+}
+
+.research-status-found {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.research-status-not-found {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.research-status-unknown {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.parking-types {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.parking-type {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.parking-type:hover {
+  background: #f3f4f6;
+}
+
+.parking-type input {
+  width: auto;
+}
+
+.research-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.research-field {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.research-field-full {
+  grid-column: span 2;
+}
+
+.research-field label {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.research-field textarea {
+  min-height: 100px;
+  resize: vertical;
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 7px;
+  font-family: inherit;
+  font-size: 14px;
+}
+
+.research-field textarea:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+.parking-status-options {
+  display: flex;
+  gap: 8px;
+}
+
+.parking-status-option {
+  flex: 1;
+}
+
+.parking-status-option input {
+  display: none;
+}
+
+.parking-status-option span {
+  display: block;
+  text-align: center;
+  padding: 9px;
+  border: 1px solid #d1d5db;
+  border-radius: 7px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.parking-status-option input:checked + span {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: white;
+}
+
+.save-research-button {
+  margin-top: 16px;
+  background: #111827;
+  color: white;
+}
+
+.save-research-button:hover {
+  background: #1f2937;
+}
+
+.save-research-button.saved {
+  background: #166534;
+}
+
+.research-saved-message {
+  margin-left: 10px;
+  color: #166534;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.priority-indicator {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.priority-high {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.priority-review {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.priority-excluded {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.priority-normal {
+  background: #e5e7eb;
+  color: #374151;
+}
+
+@media (max-width: 700px) {
+  .parking-types {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .research-fields {
+    grid-template-columns: 1fr;
+  }
+
+  .research-field-full {
+    grid-column: auto;
+  }
+
+  .parking-status-options {
+    flex-direction: column;
+  }
+
+  .research-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+.parking-section {
+  margin-top: 16px;
+  padding: 14px;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.parking-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.parking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.parking-event {
+  padding: 10px;
+  border-radius: 8px;
+  background: white;
+  border: 1px solid #e5e5e5;
+}
+
+.parking-event-name {
+  font-weight: 600;
+}
+
+.parking-event-meta {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #666;
+}
+
+.parking-ticket-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.parking-none {
+  color: #777;
+  font-size: 14px;
+}
