@@ -4,9 +4,13 @@ import https from "node:https";
 import zlib from "node:zlib";
 import { pipeline } from "node:stream/promises";
 
-import { chain } from "stream-chain";
-import { parser } from "stream-json";
-import { streamArray } from "stream-json/streamers/StreamArray.js";
+import streamChain from "stream-chain";
+import streamJson from "stream-json";
+import streamArrayModule from "stream-json/streamers/StreamArray.js";
+
+const { chain } = streamChain;
+const { parser } = streamJson;
+const { streamArray } = streamArrayModule;
 
 const API_KEY =
   process.env.TICKETMASTER_API_KEY;
