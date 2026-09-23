@@ -2,15 +2,16 @@ import fs from "node:fs";
 import path from "node:path";
 import https from "node:https";
 import zlib from "node:zlib";
-import { pipeline } from "node:stream/promises";
 
 import streamChain from "stream-chain";
 import streamJson from "stream-json";
 import streamArrayModule from "stream-json/streamers/StreamArray.js";
+import pickModule from "stream-json/filters/pick.js";
 
 const { chain } = streamChain;
 const { parser } = streamJson;
 const { streamArray } = streamArrayModule;
+const { pick } = pickModule;
 
 const API_KEY =
   process.env.TICKETMASTER_API_KEY;
@@ -32,6 +33,7 @@ if (!API_KEY) {
   console.error(
     "ERROR: TICKETMASTER_API_KEY is not set."
   );
+
   process.exit(1);
 }
 
@@ -80,7 +82,8 @@ function isParkingEvent(event) {
           .join(" ")
       : "";
 
-  const venue = event.venue || {};
+  const venue =
+    event.venue || {};
 
   const searchableText =
     normalizeText(
@@ -104,7 +107,11 @@ function isParkingEvent(event) {
 }
 
 function getAttractions(event) {
-  if (!Array.isArray(event?.attractions)) {
+  if (
+    !Array.isArray(
+      event?.attractions
+    )
+  ) {
     return [];
   }
 
@@ -412,14 +419,30 @@ async function processFeed(feed) {
   let processed = 0;
   let parking = 0;
 
+  /*
+   * Ticketmaster feed structure:
+   *
+   * {
+   *   "events": [
+   *     {...},
+   *     {...}
+   *   ]
+   * }
+   *
+   * pick() selects the "events" array.
+   * streamArray() then processes one event
+   * at a time without loading the entire feed.
+   */
+
   const pipelineStream =
     chain([
       response,
       gzip,
       parser(),
-      streamArray({
-        path: "events"
-      })
+      pick({
+        filter: "events"
+      }),
+      streamArray()
     ]);
 
   for await (
@@ -430,9 +453,13 @@ async function processFeed(feed) {
 
     processed++;
 
-    if (isParkingEvent(event)) {
+    if (
+      isParkingEvent(event)
+    ) {
       const normalized =
-        normalizeEvent(event);
+        normalizeEvent(
+          event
+        );
 
       if (
         normalized.id ||
@@ -466,7 +493,9 @@ async function processFeed(feed) {
   return results;
 }
 
-function sortParkingEvents(events) {
+function sortParkingEvents(
+  events
+) {
   return events.sort(
     (a, b) => {
       const dateA =
