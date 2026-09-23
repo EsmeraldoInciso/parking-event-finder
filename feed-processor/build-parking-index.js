@@ -47,6 +47,13 @@ function normalizeText(value) {
     .trim();
 }
 
+
+/*
+ * ---------------------------------------------------------
+ * PARKING DETECTION
+ * ---------------------------------------------------------
+ */
+
 const PARKING_TERMS = [
   "parking",
   "parking pass",
@@ -64,6 +71,32 @@ const PARKING_TERMS = [
   "parking lot",
   "tailgate parking"
 ];
+
+
+/*
+ * ---------------------------------------------------------
+ * DIAGNOSTIC SEARCH TERMS
+ *
+ * These are NOT used to decide whether something is a
+ * parking event.
+ *
+ * They search the ENTIRE raw Ticketmaster event object.
+ * This lets us determine whether Olivia/Metallica/etc.
+ * actually exist in the Discovery Feed.
+ * ---------------------------------------------------------
+ */
+
+const DIAGNOSTIC_TERMS = [
+  "olivia",
+  "rodrigo",
+  "metallica",
+  "intuit dome",
+  "sphere",
+  "parking"
+];
+
+const MAX_DIAGNOSTIC_SAMPLES = 20;
+
 
 function isParkingEvent(event) {
   if (!event) {
@@ -106,6 +139,7 @@ function isParkingEvent(event) {
   );
 }
 
+
 function getAttractions(event) {
   if (
     !Array.isArray(
@@ -140,6 +174,7 @@ function getAttractions(event) {
         attraction.name
     );
 }
+
 
 function normalizeEvent(event) {
   const venue =
@@ -262,6 +297,7 @@ function normalizeEvent(event) {
   };
 }
 
+
 async function fetchJson(url) {
   const response =
     await fetch(url);
@@ -280,6 +316,7 @@ async function fetchJson(url) {
 
   return JSON.parse(text);
 }
+
 
 async function discoverFeed() {
   console.log(
@@ -349,6 +386,7 @@ async function discoverFeed() {
   return feed;
 }
 
+
 function httpsStream(url) {
   return new Promise(
     (resolve, reject) => {
@@ -401,6 +439,13 @@ function httpsStream(url) {
   );
 }
 
+
+/*
+ * ---------------------------------------------------------
+ * PROCESS FEED
+ * ---------------------------------------------------------
+ */
+
 async function processFeed(feed) {
   console.log(
     "Downloading and streaming feed..."
@@ -419,6 +464,27 @@ async function processFeed(feed) {
   let processed = 0;
   let parking = 0;
 
+  const diagnosticCounts =
+    Object.fromEntries(
+      DIAGNOSTIC_TERMS.map(
+        (term) => [
+          term,
+          0
+        ]
+      )
+    );
+
+  const diagnosticSamples =
+    Object.fromEntries(
+      DIAGNOSTIC_TERMS.map(
+        (term) => [
+          term,
+          []
+        ]
+      )
+    );
+
+
   /*
    * Ticketmaster feed structure:
    *
@@ -430,32 +496,121 @@ async function processFeed(feed) {
    * }
    *
    * pick() selects the "events" array.
-   * streamArray() then processes one event
-   * at a time without loading the entire feed.
+   * streamArray() processes one event at a time.
    */
 
   const pipelineStream =
     chain([
-        response,
-        gzip,
-        parser(),
-        pick({
+      response,
+      gzip,
+      parser(),
+      pick({
         filter: "events"
-        }),
-        streamArray()
+      }),
+      streamArray()
     ]);
+
 
   for await (
     const item of pipelineStream
   ) {
+
     const event =
       item.value;
 
     processed++;
 
+
+    /*
+     * -----------------------------------------------------
+     * RAW FEED DIAGNOSTIC
+     *
+     * Search the COMPLETE raw event JSON.
+     *
+     * This happens BEFORE parking filtering.
+     * -----------------------------------------------------
+     */
+
+    let rawEventText = "";
+
+    try {
+      rawEventText =
+        normalizeText(
+          JSON.stringify(event)
+        );
+    } catch {
+      rawEventText = "";
+    }
+
+
+    for (
+      const term of DIAGNOSTIC_TERMS
+    ) {
+
+      const normalizedTerm =
+        normalizeText(term);
+
+      if (
+        normalizedTerm &&
+        rawEventText.includes(
+          normalizedTerm
+        )
+      ) {
+
+        diagnosticCounts[term]++;
+
+        if (
+          diagnosticSamples[term].length <
+          MAX_DIAGNOSTIC_SAMPLES
+        ) {
+
+          diagnosticSamples[term].push({
+            id:
+              event?.eventId ||
+              event?.legacyEventId ||
+              null,
+
+            name:
+              event?.eventName ||
+              null,
+
+            eventUrl:
+              event?.primaryEventUrl ||
+              null,
+
+            venue:
+              event?.venue?.venueName ||
+              null,
+
+            city:
+              event?.venue?.venueCity ||
+              null,
+
+            state:
+              event?.venue?.venueStateCode ||
+              null,
+
+            matchedTerm:
+              term,
+
+            matchedAsParking:
+              isParkingEvent(event)
+          });
+        }
+      }
+    }
+
+
+    /*
+     * -----------------------------------------------------
+     * NORMAL PARKING FILTER
+     * -----------------------------------------------------
+     */
+
     if (
       isParkingEvent(event)
     ) {
+
       const normalized =
         normalizeEvent(
           event
@@ -465,6 +620,7 @@ async function processFeed(feed) {
         normalized.id ||
         normalized.eventUrl
       ) {
+
         results.push(
           normalized
         );
@@ -473,14 +629,21 @@ async function processFeed(feed) {
       }
     }
 
+
     if (
       processed % 10000 === 0
     ) {
+
       console.log(
-        `Processed ${processed} events; parking events: ${parking}`
+        `Processed ${processed} events; ` +
+        `parking events: ${parking}; ` +
+        `diagnostics: ${JSON.stringify(
+          diagnosticCounts
+        )}`
       );
     }
   }
+
 
   console.log(
     `Finished processing ${processed} events.`
@@ -490,14 +653,34 @@ async function processFeed(feed) {
     `Parking events found: ${parking}`
   );
 
-  return results;
+  console.log(
+    `Diagnostic counts: ${JSON.stringify(
+      diagnosticCounts
+    )}`
+  );
+
+
+  return {
+    parkingEvents:
+      results,
+
+    diagnostic: {
+      terms:
+        diagnosticCounts,
+
+      samples:
+        diagnosticSamples
+    }
+  };
 }
+
 
 function sortParkingEvents(
   events
 ) {
   return events.sort(
     (a, b) => {
+
       const dateA =
         `${a.localDate || ""} ${
           a.localTime || ""
@@ -515,21 +698,37 @@ function sortParkingEvents(
   );
 }
 
+
+/*
+ * ---------------------------------------------------------
+ * MAIN
+ * ---------------------------------------------------------
+ */
+
 async function main() {
+
   const feed =
     await discoverFeed();
 
-  const events =
+
+  const feedResult =
     await processFeed(
       feed
     );
 
+
+  const events =
+    feedResult.parkingEvents;
+
+
   const unique =
     new Map();
+
 
   for (
     const event of events
   ) {
+
     const key =
       event.id ||
       event.eventUrl;
@@ -541,12 +740,14 @@ async function main() {
     if (
       !unique.has(key)
     ) {
+
       unique.set(
         key,
         event
       );
     }
   }
+
 
   const parkingEvents =
     sortParkingEvents(
@@ -555,7 +756,9 @@ async function main() {
       )
     );
 
+
   const output = {
+
     generatedAt:
       new Date().toISOString(),
 
@@ -566,6 +769,7 @@ async function main() {
       COUNTRY_CODE,
 
     feed: {
+
       lastUpdated:
         feed.last_updated ||
         null,
@@ -585,14 +789,22 @@ async function main() {
         null
     },
 
+
     summary: {
+
       parkingEvents:
         parkingEvents.length
     },
 
+
+    diagnostics:
+      feedResult.diagnostic,
+
+
     events:
       parkingEvents
   };
+
 
   fs.mkdirSync(
     path.dirname(
@@ -602,6 +814,7 @@ async function main() {
       recursive: true
     }
   );
+
 
   fs.writeFileSync(
     OUTPUT_FILE,
@@ -613,13 +826,16 @@ async function main() {
     "utf8"
   );
 
+
   console.log(
     `Wrote ${parkingEvents.length} parking events to ${OUTPUT_FILE}`
   );
 }
 
+
 main().catch(
   (error) => {
+
     console.error(
       error
     );
