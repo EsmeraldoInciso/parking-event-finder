@@ -1,10 +1,12 @@
 {
-"name": "ticketmaster-parking-feed-processor",
-"version": "1.0.0",
-"private": true,
-"type": "module",
-"dependencies": {
-"stream-chain": "^2.2.5",
-"stream-json": "^1.9.1"
-}
+  "name": "ticketmaster-parking-feed-processor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-index.js"
+  },
+  "dependencies": {
+    "stream-chain": "^2.2.5",
+    "stream-json": "^1.9.1"
+  }
 }
