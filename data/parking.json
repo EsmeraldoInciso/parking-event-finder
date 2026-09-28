@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-27T08:50:39.680Z",
+  "generatedAt": "2026-09-28T09:14:28.820Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-09-27T08:35:06Z",
-    "numberOfEvents": 102443,
-    "compressedSizeBytes": 80353847,
-    "checksum": "5fe8410078f40fef77258af66612f707"
+    "lastUpdated": "2026-09-28T08:17:30Z",
+    "numberOfEvents": 101849,
+    "compressedSizeBytes": 79676142,
+    "checksum": "534e9c247757804a907f9c03961dc4cf"
   },
   "summary": {
-    "parkingEvents": 2499
+    "parkingEvents": 2483
   },
   "diagnostics": {
     "terms": {
-      "olivia": 114,
-      "rodrigo": 107,
+      "olivia": 113,
+      "rodrigo": 106,
       "metallica": 81,
-      "intuit dome": 119,
-      "sphere": 923,
-      "parking": 6285
+      "intuit dome": 118,
+      "sphere": 915,
+      "parking": 6226
     },
     "samples": {
       "olivia": [
@@ -1021,12 +1021,12 @@
           "matchedAsParking": false
         },
         {
-          "id": "rZ7HnEZ1AfFKbV",
-          "name": "Alien Ant Farm, Scarhaven, Vent to Atmosphere, Valla and the Villains, Incidental",
-          "eventUrl": "https://www.ticketweb.com/event/alien-ant-farm-scarhaven-vent-the-forge-tickets/14213634",
-          "venue": "The Forge",
-          "city": "Joliet",
-          "state": "IL",
+          "id": "16vjZ_d7bG7yLML",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-23-2026/event/1700643118E5FDDF",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
           "matchedTerm": "sphere",
           "matchedAsParking": false
         }
@@ -1650,544 +1650,6 @@
         }
       ],
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
-    },
-    {
-      "id": "LvZ18QQDO2yPCv8ZiWDJH",
-      "legacyEventId": "LvZ18QQDO2yPCv8ZiWDJH",
-      "name": "River Revival 12: The Final Chapter",
-      "eventUrl": "https://www.universe.com/events/river-revival-12-the-final-chapter-tickets-CB7FLH?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-24",
-      "localTime": "13:00",
-      "startDateTime": "2026-09-24T18:00:00Z",
-      "endDateTime": "2026-09-27T18:00:00Z",
-      "imageUrl": "https://images.universe.com/e85c89bb-752e-4ae2-9c87-74bde141d99b/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZpZAa1EJA",
-        "name": "LOCOMOTION PLAZA",
-        "city": "Reno",
-        "state": "NV",
-        "country": "US",
-        "latitude": 29.741106,
-        "longitude": -98.133462,
-        "street": "301 N VIRGINIA ST",
-        "zipCode": "89501",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917b3yf",
-          "name": "River Revival Festival",
-          "url": "https://www.ticketmaster.com/river-revival-festival-tickets/artist/2665914"
-        }
-      ],
-      "searchText": "river revival 12 the final chapter what is river revival river revival the annual camping and independent music festival collaboration between splice records and saint arnold brewing company is the most accommodating and exciting festival in texas history with pristine campgrounds the mighty guadalupe and live music from all over texas our goal is to be the most fun music festival that does almost everything different from other events first off each admission includes an all inclusive ticket providing every attendee with the unique experience of not being continuously haggled by steep festival prices meals and camping are all included in the ticket price and please feel free to bring your own cooler and camping supplies with your admission we offer an impeccable food program amazing music live art installations and of course we have something most fest do not have the mighty guadalupe river where is river revival once again we are partnering with our favorite campgrounds kl ranch camp on the river and cliffside in new braunfels texas river revival is a great escape from city life as it stretches over 10 acres along the entire river front property the campsite price varies based on campsite amenities size and location on the grounds kl on the river the campsite address is 5455 river rd new braunfels tx 78132 check in for on the river passes and sites are located at this address kl cliffside 5300 river rd new braunfels tx 78132 check in for cliffside passes and sites are located at this address who attends river revival nature lovers music goers river rats camping enthusiasts foodies and festival followers make up the campgrounds we often hear back from our attendees that the campgrounds are filled with nice and very cool people families with children are more than welcome to attend children age 12 or under are free and do not count toward package capacity if you choose to bring your child we highly suggest you select a campsite between sites 70 to 60 on the river or cliffside as it is the furthest from live entertainment at any hour no unattended children after 8 00 pm you will also be required to sign a personal responsibility waiver at check in when is river revival we annually schedule the festival on the last full weekend of september as the river s peak season has ended and there are less people on the river the nights are a tad bit cooler allowing for good tent camping conditions and the river is ideal for when that texas sun gets high in the sky we also do our smaller half way to the revival event called river retreat on the last full weekend of march to learn more click here this year s river revival is scheduled for 4 days and 3 nights thursday september 24 through sunday sept 27 check in gates open at 1 00 pm on thursday 24th every pass and reservation is for all four days unless you buy a single day pass gates open at 1 00 pm on friday 25th and saturday 26th you can check in on thursday friday or saturday but it s the same price check in available until 10 00 pm unless you re bringing your own rv camper then please arrive no later than 5 00 pm attendees can stay as late as 12 00 pm on sunday september 27th river revival group packages available now the texas trident package 4 950 on the river only 4 available beginning thursday may 7th you can become the god or goddess of the guadalupe river with the texas trident package the sheer magnitude of this offering makes it our most comprehensive package available and we re proud to offer it for the third year in a row the texas trident is a mighty ideal way to experience river revival and is perfect for all marketing activations small business retreats large family vacations bachelor bachelorette party or as a generous client gift with the texas trident you will receive 10 x general admission passes 2 x on the river parking passes for your site prime campsite location a reserved table on the lawn seats 6 glamping experience upgrade with a premium rv camper sleeps 8 to 10 with a stocked fridge and mountains of swag waiting for you the campsite will have plenty of space for some of your group or add ons to tent camp as well splice the cost up between 10 people hint hint do the math the texas trident is the most platinum of premium packages river revival has ever offered which is why there are only 1 package available we handpick these premium site locations where your rv camper sleeps up to 8 will be waiting for your arrival and brimming with enough river revival swag for everyone not only do you get the be the envy of the campgrounds but you ll host and sit front row at our first full band amplified concert at the new cliffside stage the texas trident package comes with 10 general admission passes but you may add up to 8 more additional people to your campsite add x 1 general admission pass to site 18 total max there will be plenty of premium camping real estate at your campsite for your entire party to camp comfortably or to set up tents whether you re a business trying to make an impression or just a big group of friends splitting up cost of the coolest vip experience on the guadalupe the texas trident package has everything you need to maximize your good time river revival campsite reservation prices are rv campers not included general admission pass tent camping at on the river 375 electricity nearby and available general admission pass tent camping at cliffside 315 primitive but some campsites with access to electricity add 1 x general admission pass to a group package cliffside on the river 375 if you are purchasing a general admission pass to be added to a group package if you have purchased a group package and want additional general admission passes for your group package shared site packages including 2 general admission passes these packages are designed for parties of two people cliffside 650 tent camping electricity yes water no on the river 785 tent camping electricity yes water no but available cliffside group packages including 4 general admission passes 30 amp hookup no water 995 smaller campers 12 16 feet 30 amp hookup with water 1 195 16 30 foot rv campers welcome 50 amp hookup with water 1 350 32 44 foot rv 5thwheels campers are welcome on the river group packages including 4 general admission passes sites 59 68 family recommended section small camper 30 amp hook up electricity amp water 1 195 smaller campers only 12 16 feet on the river group packages including 4 general admission passes sites 69 101 30 amp hookup with water 1 350 campsites available without water but now w 30 amps and what was once primitive now has electricity 102 110 between both stages close to the waterfall and near zen city 50 amp hookup with water 1 450 also available couple s retreat package yeah baby it s the honeymoon suite this package comes with 2 ga passes a river side bell tent set up prior to arrival located between 88 80 at kl on the river electricity usb plugs rug flooring two chairs and two cots wake up each morning to the ducks gathering around and open the door to the riverbanks 1 395 single day passes are available for thursday friday and saturday 145 click here for geographical reference all camping is communal unless otherwise noted general admission amp group packages include four days three nights campsite all campsite reservations are thursday sunday and you can check in on thursday from 1 00 pm until 10 00 pm and at 1 00 pm until 10 00 pm on friday and saturday the event will be over around 1 00 pm sunday if you are bringing your own rv camper please do not arrive after 5 00 pm shuttle service for those needing a ride to and from cliffside we ve got you covered with state of the art golf carts and two kl cliffside buses the river revival shuttle service has pickup drop off locations at on the river and cliffside food program the steady bounty of nourishment served at river revival is top notch and a key ingredient to our all inclusive concept once again we ve partnered with little kitchen htx to provide brunch dinner snacks and late night munchies throughout the weekend on sunday little kitchen htx will be serving a bountiful brunch to pair with the final musical performance six meals included brunch friday saturday sunday and dinner thursday friday saturday all meals are communal brunch is around 10 00 am and dinner s around 6 00 pm even though your ticket is all inclusive all campers are welcome to bring their own food snacks beverages and supplies live entertainment thursday the main stage starts around 6 00 pm with the synergy one stage providing late night shows friday and saturday daytime music is designed to be viewed from your tube in the river while you float back and forth between the saint arnold brewing stage and the synergy one stage the evening concerts are on the lawn at the saint arnold brewing company main stage with the late night show taking place at the synergy one stage no amplified music allowed past 11 00 pm on the grounds or at your site be kind to your neighbors costume contests amp awards every night we ll highlight some of the best dressed in the crowd saturday night awards will be given out for the best dressed best hat best campsite best in float parade river couple of the weekend and of course the shoulda been at woodstock award custom wristband upon arrival and check in each attendee will receive a custom wristband granting access to food river music and more do not remove your wristband for the active hiking tubing morning yoga canoeing paddle boarding kayaking swimming rope swings and fishing showers the showers at on the river use tokens now and they are available at the merch booth cliffside still uses quarters and they are also available at the merch booth group package reservations come with an allotment of up to 4 people camping on your campsite except for the texas trident and where otherwise noted the texas trident package this package is designed for bachelor or bachelorette parties or for a group of friends that want to go big it comes with 10 all inclusive weekend passes you can add more a premium rv rental for all 4 days waiting on your site upon your arrival a stocked fridge and much much more there are four packages available for on the river price varies by location vendors sporting a wide range of vendors there s bound to be something that will catch your eye or to interact with such as clothing shops thrift stores bars and more add ons menu glamping experience upgrade 1 095 rent a camper rv from us that will be waiting for you on your site for you at kl ranch camp on the river or cliffside prices vary all campers come with beds bedding not included restroom heater ac kitchen fridge and they accommodate 4 6 people comfortably the campers have very limited supplies and you will need to bring your own bedding camping supplies cleaning supplies etc the rv campers are very limited and they sell out quickly for bigger parties refer to the super duper glamping experience upgrade or the texas trident package super duper glamping experience upgrade 1 495 this package is all about upgrading an upgrade this new addition to the menu has everything included in the glamping experience upgrade beds restroom heater ac kitchen fridge etc plus a larger rv camper that will accommodate 6 8 people comfortably more rooms more amenities more supplies and more special river magic you will not need to bring your own bedding but feel free to bring your camping supplies for even bigger party packages refer to the the texas trident package weekend tube rental 35 river retreat is offering a tube rental service at the merch booth they will be available to rent onsite but here is your opportunity to rent one ahead of the event a 35 deposit is taken at the merch booth when you come to pick up your tube rent yours in advance and pick it up when you arrive on the lawn on the river parking pass 150 to park onsite at kl on the river we require you to have an on the river parking pass otherwise there is plenty of free parking directly across the street parking pass not required for cliffside camping there will only be 20 in total sold this parking pass also allows you to sleep in your car there is no longer a separate sleeper parking pass option vip seating on the lawn with picnic table for you 195 reserve the best seat in the house with this picnic table seats 6 and umbrella upgrade your reservation begins each night at 5 00 pm just in time for the communal dinner and live music at the saint arnold brewing company stage cliffside or on the river golf cart concierge service 400 for cliffside or on the river sites 59 68 only are you one of the movers amp shakers that can t wait for a shuttle or golf cart to pick you up because there are so many wonderful things to do at river revival and you don t want to miss a single moment we feel your pain and prescribe for you the concierge service hey look we get it there s a lot to do and you don t want to wait nor should you the cliffside concierge service assigns your group your own personal golf cart driver to come get you and take you to your desired destination scheduled pick ups drop offs the service also provides supplies delivery to your campsite from the cliffside general store need ice beer sunscreen snacks just call the concierge of cliffside we also have some swag surprises and deliveries that comes with this service purchasing this add on covers your group of four people the stages saint arnold brewing company stage on the lawn river revival radio sponsors vendors food and fun and main stage live music the synergy one stage all day chill vibes river entrance for campground floating all weekend live music cold beer and the late late night parties as always we encourage you to express your awesomeness in fashion and decor camping information new rv camper rental policy this year we re handling all of the rv and camper rentals and providing onsite maintenance 9am 9pm in the past we allowed attendees to rent rv s and campers from third party vendors that would deliver the rv camper to kl campgrounds ahead of the attendee for myriad reasons this has become an untenable arrangement and this change should make the entire experience easier if you would like to rent an rv camper for the festival and have it delivered and waiting for you you must now use our glamping experience upgrade please select either the glamping experience add on or the new super duper glamping experience add on this policy change does not affect those attendees who own an rv camper and drive it onto the campgrounds themselves who have rented and picked up an rv camper and drive it onto the campgrounds themselves if you are bringing your own rv camper motorhome to revival please make sure you reserve a group package that has the proper 30 50 amp plugin options most rv sites have water but some do not and those sites are a bit smaller and cost less all the rv sites have 30 amp electrical plug ins most have water connections 50 amp sites are also available but limited generators are not welcome and we ask that all rv campers do not run their generator for power please note that one can reserve a 50 or 30 amp rv site and choose not to bring or use an rv motorhome camper you may simply pitch tents on the premium sites please read all descriptions you are welcome to setup as many tents as are necessary to accommodate your party only one rv camper per campsite permitted attendees who plan to tent camp will do so just like a regular camping weekend at kl ga passes on the river or cliffside will offer communal camping on shared sites so pack lightly as it is shared space and campsites all sites even if specified with 30 or 50 amps can be used for tent camping as well they just cost more due to upgraded amenities and there is plenty of tent camping that can also be done at cliffside and the price is right over there always cliffsideiscool clean and well maintained showers are available on site but they do require quarters for operation we will have numerous hand washing and hand sanitizer stations spread around the campgrounds as well as portable bathrooms everyone is encouraged to bring their own camping supplies food equipment coolers and beverages please feel free to cook on your campsite the campgrounds have firewood and ice on site for purchase there is also a small store on both campgrounds with various camping necessities should one forget or need something you can even buy cold beverages at the cliffside corner store stay tuned for fire ban information provided by comal county five of the seven years the fire ban was not in effect sorry campground rules not ours service dogs welcome please contact us about service dogs if you would like to volunteer for a shift and get a free t shirt and 50 off your pass click here for more information you will work 16 20 hours over the weekend and you will camp with all other volunteers click on the link to read about 20 things you need to know or bring to the river revival here little kitchen htx river revival not only features super talented performers on stage but also in the kitchen jason and becca kerr of little kitchen htx have spearheaded our all inclusive food program since 2018 as chef kerr describes it himself the river revival food program is an outdoor culinary experience dripping with nostalgia wielded in smoke and smothered in americana for all ages little kitchen htx takes the spirit of the texas river and revitalizes your soul with food cooked from the heart while chef kerr is known for his meat centric lowbrow take on american comfort food little kitchen htx provides vegetarian and vegan options for brunch and dinner each day check out his 2016 appearance on the chopped episode titled a bloody battle in the kitchen wherein jason kerr advances to the final round available on hulu river revival faq s q can i stay off site a yes you do not have to stay overnight your wristband allows you to leave the campgrounds and return please identify your wristband when you check back in at the box office q can i bring my own beverages and food a yes feel free to bring your own beverages and food the event is all inclusive but you can bring your own supplies q can i bring my own rv camper a yes you can but you must reserve a campsite that has the proper plug for your camper rv each site has different amenities so please read the descriptions q can i bring my rv camper and just run the generator a no we do not allow generators on the campsite because of the noise pollution q may i sleep in my car truck van a yes but you must purchase an on the river sleeper parking pass if you are planning on staying at kl on the river and sleeping in your vehicle at cliffside you do not have to buy a parking pass regardless of whether or not you re sleeping in your car q if i bought a cliffside pass do i need to check in at kl on the river a no we no longer require everyone to check in at on the river if you bought a site or a pass at cliffside then you can check in at cliffside this is a new policy that will continue for the foreseeable future q can i bring my own golf cart a no but you may contact the event first and request permission attendees who are older or have an issue walking will likely be granted permission please feel free to bring your bike w lights or an electric bike q is there shuttle service at cliffside a yes there is we have golf carts that are designed specifically for cliffside pick up and drop off and the campgrounds have van shuttle pick up and drop off as well pick up and drop off areas are clearly marked with signage on both campgrounds feel free to ask bobby or jennifer at cliffside for a ride or updates on the shuttle q can we have campfires a yes if there is no fire ban six out of nine years there has not been a fire ban q can we bring our own float a yes or you may rent one from us at the merch booth for the entire weekend q do you have a volunteer program a yes click here to sign up here once approved you will be sent a code to purchase a discounted ticket volunteers work 16 20 hours of light work over the weekend please note that if you are volunteering then we will account for your hours if you do not fulfill your obligation you will not be allowed to volunteer again new additions to river revival 1 improved shuttle service we ve added another bus to our transportation team the golf carts will be marked cliffside and they are for cliffside transportation only 2 payment plans if you would prefer to pay for river revival in 3 easy installments select the automated option during check out 3 to help reduce our environmental impact on the campgrounds and mother nature at large vendors will no longer be serving beverages in single use cups plastic or otherwise reusable souvenir cups will be available for purchase at the merch booth if you have your own reusable cup or canteen we will serve you 4 new saturday market at cliffside starting at 10 00 am on saturday the new market at cliffside will feature dozens of local vendors selling clothing jewelry plants river and camping gear food possibly real estate or even state secrets we re very excited about this addition to the festival and we re certain you will too 5 float parade friday the world famous river revival float parade has returned to friday at 2 30pm we get it sometimes it s a little tough getting organized on saturday morning at river revival so we ve moved the float parade to friday 6 new parking policy we will have very very limited parking at on the river because we are cutting off the road access from campsite 88 to 114 of on the river this means no parking spots or car access past campsite 88 you can buy the sleeper parking pass for on the river if you want to park at one of the designated parking spots at on the river 7 new rv camper rental policy 8 cliffside concierge service for cliffside only don t want to wait for a shuttle or golf cart to pick you up need ice beer sunscreen snacks the cliffside concierge service allows you to call for your personal golf cart to come get you and take you to your desired destination as well as provides supplies delivery to your campsite from the cliffside general store get a musical preview here volunteer program the river revival volunteer program allows us to offer a discounted general admission pass to the festival in exchange for working 16 hours with festival staff all volunteer signups must be approved once approved volunteers will receive a promo code allowing them to purchase their discounted general admission pass volunteer signup ends september 12 2026 anyone who does not fulfill their 16 hours will be required to pay the full ticket price or asked to leave the festival and will not be allowed to volunteer for future splice records events the volunteer programs will begin taking applications on june 18 application here volunteer camping is at cliffside this year campsites 30 32 upon arrival at the festival you will receive your karma krew t shirt krews available to work merch booth karma karts golf carts karma guides parking amp gates kitchen krew set up amp break down for more information email us or to sign up for the volunteer program click here the parking policy river revival s parking policy is designed to enhance the overall festival experience for all by opening up the campgrounds while also providing another level of safety and security beginning at 5pm on thursday at on the river the dirt road stretching from site 88 all the way to 114 and zen city starting at the turnaround near the restrooms will be closed to cars and trucks there is no parking available in this area unless you purchase the on the river parking pass free parking is available across river road at cliffside health amp safety protocols the health amp safety of all river revival attendees is of the highest importance to us which is why we will be following all guidelines and regulations set by the local and state governments state and local refunds there are no refunds for this event and please do not ask as always if you purchase a ticket and cannot attend you can transfer your reservation to a friend or family member if we have to cancel this event for any reason or postpone it for any reason we will offer everyone a 100 refund in conclusion we are very excited to bring river revival back to the kl campgrounds for the 12th and final time people who come to the revival often comment that our staff is kind learn that we love hospitality agree the event is well thought out and believe the river has healing powers and the worst thing they find out about the entire weekend is that it ends we hated that we waited 365 days to see everyone again so we created river retreat which is a smaller version of the river revival with a time warp twist to learn more about the retreat and splice records the record label behind all these magical events and some of the best music from the south click here river revival 2026 sponsors so far please become a sponsor by emailing us here for options deck and sponsor information the best way to experience the revival is as a sponsorship partner locomotion plaza reno nv us river revival festival"
-    },
-    {
-      "id": "17F8v0G65cMSoup",
-      "legacyEventId": "210064BB77CD1356",
-      "name": "Parking Pass: Presidents Cup Sunday",
-      "eventUrl": "https://www.ticketmaster.com/parking-pass-presidents-cup-sunday-medinah-illinois-09-27-2026/event/210064BB77CD1356",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/98e/c0eda76b-d246-41b8-ae76-144012cd698e_SOURCE",
-      "venue": {
-        "id": "KovZ917ALWG",
-        "name": "Medinah Country Club",
-        "city": "Medinah",
-        "state": "IL",
-        "country": "US",
-        "latitude": 40.857047,
-        "longitude": -89.55865,
-        "street": "6N001 Medinah Rd.",
-        "zipCode": "60157",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171NR0",
-          "name": "Presidents Cup",
-          "url": "https://www.ticketmaster.com/presidents-cup-tickets/artist/1333236"
-        }
-      ],
-      "searchText": "parking pass presidents cup sunday 2026 presidents cup parking locations black lot 225 windsor ave itasca il 60143 red lot 251 n martingale rd schaumburg illinois 60173 green lot 425 fawell blvd glen ellyn illinois 60137 medinah country club medinah il us presidents cup"
-    },
-    {
-      "id": "rZ7HnEZ1AfFaoV",
-      "legacyEventId": "rZ7HnEZ1AfFaoV",
-      "name": "FITZGERALDS Presents: Handmade & Hand-me-down: A Kids' Maker Faire & Used Toy Sale!",
-      "eventUrl": "https://www.ticketweb.com/event/fitzgeralds-presents-handmade-hand-fitzgeralds-patio-tickets/14209474",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "11:00",
-      "startDateTime": "2026-09-27T16:00:00Z",
-      "endDateTime": "2026-09-27T19:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/79/34_Edp.jpg?v=9",
-      "venue": {
-        "id": "rZ7HnEZ17f7ZP",
-        "name": "FITZGERALDS PATIO",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "fitzgeralds presents handmade hand me down a kids maker faire used toy sale live on fitzgeralds patio handmade maker faire and used toy salegrab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds patio berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1AfGPaf",
-      "legacyEventId": "rZ7HnEZ1AfGPaf",
-      "name": "Country Brunch on the Patio w/ DIAMONDBACK!",
-      "eventUrl": "https://www.ticketweb.com/event/country-brunch-on-the-patio-fitzgeralds-patio-tickets/14325254",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "12:00",
-      "startDateTime": "2026-09-27T17:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/17/84_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7ZP",
-        "name": "FITZGERALDS PATIO",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "country brunch on the patio w diamondback country brunch on the patio featuring diamondback free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over diamondback has been a staple in the chicago music scene for many years specializing in country music country rock americana and old rock and roll our extensive song list is truly a history of country and for that matter american pop music female fronted tight vocal harmonies and multi instrumentalists guitar fiddle mandolin add texture and excitement to our sound we guarantee to have folks singing along and partying from the first song enjoy brunch from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds patio berwyn il us"
-    },
-    {
-      "id": "vv1AAZkf4Gkenfnx0",
-      "legacyEventId": "05006515AA52A8A4",
-      "name": "Wild Thread Presents: Marjorie Prime by Jordan Harrison",
-      "eventUrl": "https://www.ticketmaster.com/wild-thread-presents-marjorie-prime-by-akron-ohio-09-27-2026/event/05006515AA52A8A4",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "14:30",
-      "startDateTime": "2026-09-27T18:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/48d/03d08f59-29f0-4c85-8819-30b00efbe48d_SOURCE",
-      "venue": {
-        "id": "KovZ917Am4V",
-        "name": "Wild Oscar's",
-        "city": "Akron",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.081084,
-        "longitude": -81.519453,
-        "street": "182 S. Main Street",
-        "zipCode": "44308",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "wild thread presents marjorie prime by jordan harrison park in the state street parking deck at 52 w state street take the elevator to the lock 3 level and head toward lock 4 wild oscar s akron oh us"
-    },
-    {
-      "id": "rZ7HnEZ1Af-37d",
-      "legacyEventId": "rZ7HnEZ1Af-37d",
-      "name": "Shayne Smith",
-      "eventUrl": "https://www.ticketweb.com/event/shayne-smith-blue-note-hawaii-tickets/14852103",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "18:30",
-      "startDateTime": "2026-09-28T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/45/21/63_Edp.jpg?v=15",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [],
-      "searchText": "shayne smith shayne smith shayne smith is a utah born comedian writer podcaster and musician whose raw story driven comedy has earned him a devoted following after launching his stand up career in 2014 he quickly amassed accolades including runner up in wiseguys 2015 rdquo funniest person in utah contest and best alternative comedian of 2016 by city weekly he went on to release a string of acclaimed specials prison for wizards 2018 alligator boys 2019 the animal 2021 banned from karate 2023 and most recently ghosts are real january 2025 alongside his specials shayne contributes to one blade magazine and fronts the band painted devils all while touring sold out venues nationwide tickets 25 35 club policies show 6 30pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
-    },
-    {
-      "id": "rZ7HnEZ1AfGk8V",
-      "legacyEventId": "rZ7HnEZ1AfGk8V",
-      "name": "Big Band & BBQ: British Buddy Big Band!",
-      "eventUrl": "https://www.ticketweb.com/event/big-band-bbq-british-fitzgeralds-nightclub-tickets/14306434",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/02/29/64_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "big band bbq british buddy big band fitzgeralds presents british buddy big band free click book now then select nightclub table to book full service dining by babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "17AYv0G61pL4itB",
-      "legacyEventId": "170064A59F56CA7A",
-      "name": "SiriusXM Presents An Intimate Evening with SANTANA Greatest Hits Live",
-      "eventUrl": "https://www.ticketmaster.com/siriusxm-presents-an-intimate-evening-with-las-vegas-nevada-09-27-2026/event/170064A59F56CA7A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:00",
-      "startDateTime": "2026-09-28T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/84d/48d8005a-2613-4db9-8701-f70231c3384d_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91718pf",
-          "name": "Santana",
-          "url": "https://www.ticketmaster.com/santana-tickets/artist/741473"
-        },
-        {
-          "id": "K8vZ9171uV0",
-          "name": "Carlos Santana",
-          "url": "https://www.ticketmaster.com/carlos-santana-tickets/artist/781063"
-        }
-      ],
-      "searchText": "siriusxm presents an intimate evening with santana greatest hits live room music hall door time 7 pm ages 18 years and older with valid photo id artist website santana com special offers complimentary admission to vinyl room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues las vegas las vegas nv us santana carlos santana"
-    },
-    {
-      "id": "vvG1iZ_66A2P92",
-      "legacyEventId": "0B006471C53E55CF",
-      "name": "Geoff Tate Operation: Mindcrime - The Final Chapter",
-      "eventUrl": "https://www.ticketmaster.com/geoff-tate-operation-mindcrime-the-final-san-diego-california-09-27-2026/event/0B006471C53E55CF",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:00",
-      "startDateTime": "2026-09-28T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/696/e825189c-aecd-4641-82be-3fd9d3c78696_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175FxV",
-          "name": "Geoff Tate",
-          "url": "https://www.ticketmaster.com/geoff-tate-tickets/artist/821358"
-        }
-      ],
-      "searchText": "geoff tate operation mindcrime the final chapter all ages welcome doors 7pm show 8pm all times and supporting acts are subject to change this event is open to all ages all guests under the age of 18 must be accompanied by a parent guardian or responsible adult over the age of 25 with written authorization parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us geoff tate"
-    },
-    {
-      "id": "1A-ZkoeGkdpaeSF",
-      "legacyEventId": "21006442D6242CC8",
-      "name": "Jefferson Starship with Atlanta Rhythm Section, Firefall, and Orleans",
-      "eventUrl": "https://www.ticketmaster.com/jefferson-starship-with-atlanta-rhythm-section-jefferson-city-missouri-09-27-2026/event/21006442D6242CC8",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/d95/ad71a92f-acb4-4aaa-a1d2-17e720d27d95_SOURCE",
-      "venue": {
-        "id": "KovZ917APMr",
-        "name": "Capital Region Amphitheater",
-        "city": "Jefferson City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 38.5667999,
-        "longitude": -92.1484557,
-        "street": "300 Ellis Porter Drive",
-        "zipCode": "65101",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91712df",
-          "name": "Jefferson Starship",
-          "url": "https://www.ticketmaster.com/jefferson-starship-tickets/artist/781023"
-        }
-      ],
-      "searchText": "jefferson starship with atlanta rhythm section firefall and orleans please note 3 00 parking fee included in ticket price event takes place rain or shine list of prohibited items can be found at www crmuamphitheater com capital region amphitheater jefferson city mo us jefferson starship"
-    },
-    {
-      "id": "vvG1fZ_C5iKdS5",
-      "legacyEventId": "050064E2EC4C3CCB",
-      "name": "Scotty McCreery",
-      "eventUrl": "https://www.ticketmaster.com/scotty-mccreery-northfield-ohio-09-27-2026/event/050064E2EC4C3CCB",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:30",
-      "startDateTime": "2026-09-27T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/e81/8c2a8e1c-c84d-46a7-bef5-21b97bc28e81_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91726j0",
-          "name": "Scotty McCreery",
-          "url": "https://www.ticketmaster.com/scotty-mccreery-tickets/artist/1647050"
-        },
-        {
-          "id": "K8vZ917_yz0",
-          "name": "Ashley Kutcher",
-          "url": "https://www.ticketmaster.com/ashley-kutcher-tickets/artist/2844746"
-        }
-      ],
-      "searchText": "scotty mccreery this is a 21 over all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor dining areas and live harness racing on scheduled nights all seats are reserved ashley kutcher will also perform support acts subject to change without notice no cameras permitted the box office opens at 1 00pm on days of shows for more information call 330 908 7793 there is ample free parking available the closest entrance to center stage is the south entrance northfield park racino center stage northfield oh us scotty mccreery ashley kutcher"
-    },
-    {
-      "id": "vvG18Z_5mlsWfI",
-      "legacyEventId": "040064BBABC7D528",
-      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-tinley-park-illinois-09-27-2026/event/040064BBABC7D528",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "19:30",
-      "startDateTime": "2026-09-28T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/433/021fc7b3-815d-4f88-9fce-83b31a96d433_SOURCE",
-      "venue": {
-        "id": "KovZpZAEktFA",
-        "name": "Credit Union 1 Amphitheatre",
-        "city": "Tinley Park",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.5426094,
-        "longitude": -87.7711753,
-        "street": "19100 S Ridgeland",
-        "zipCode": "60477",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917KBFf",
-          "name": "Bryson Tiller",
-          "url": "https://www.ticketmaster.com/bryson-tiller-tickets/artist/2171167"
-        },
-        {
-          "id": "K8vZ917fb2V",
-          "name": "Majid Jordan",
-          "url": "https://www.ticketmaster.com/majid-jordan-tickets/artist/2213649"
-        },
-        {
-          "id": "K8vZ917ozIV",
-          "name": "Ty Dolla $ign",
-          "url": "https://www.ticketmaster.com/ty-dolla-ign-tickets/artist/1932449"
-        },
-        {
-          "id": "K8vZ917fofV",
-          "name": "Austin Millz",
-          "url": "https://www.ticketmaster.com/austin-millz-tickets/artist/2201141"
-        }
-      ],
-      "searchText": "bryson tiller presents the neo trapsoul tour please note this event is rain or shine parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue credit union 1 amphitheatre tinley park il us bryson tiller majid jordan ty dolla ign austin millz"
-    },
-    {
-      "id": "vvG1zZ_107_x2w",
-      "legacyEventId": "0E0064A9046623F2",
-      "name": "Monsieur Perine",
-      "eventUrl": "https://www.ticketmaster.com/monsieur-perine-atlanta-georgia-09-27-2026/event/0E0064A9046623F2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "20:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/145/2a167f3b-d878-4f36-bd5f-3d0d8b903145_SOURCE",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9172NOf",
-          "name": "Monsieur Perine",
-          "url": "https://www.ticketmaster.com/monsieur-perine-tickets/artist/1704902"
-        }
-      ],
-      "searchText": "monsieur perine rival masquerade presents monsieur perine instrucciones para ser feliz w gabriel hidalgo september 27 2026 center stage general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us monsieur perine"
-    },
-    {
-      "id": "vv177Z_aGkwlX2lL",
-      "legacyEventId": "0100649CABF8FADF",
-      "name": "40 Fingers",
-      "eventUrl": "https://www.ticketmaster.com/40-fingers-boston-massachusetts-09-27-2026/event/0100649CABF8FADF",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "20:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2dc/edca60d6-6c87-4a08-b99b-dac6610282dc_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r67V",
-          "name": "40 Fingers",
-          "url": "https://www.ticketmaster.com/40-fingers-tickets/artist/3036720"
-        }
-      ],
-      "searchText": "40 fingers wilbur theatre parking is available at the link below the wilbur boston ma us 40 fingers"
-    },
-    {
-      "id": "vvG1zZ_G6eHlCj",
-      "legacyEventId": "0E0064C1C2F2B39C",
-      "name": "overtonight",
-      "eventUrl": "https://www.ticketmaster.com/overtonight-atlanta-georgia-09-27-2026/event/0E0064C1C2F2B39C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "20:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2f8/292f940d-99c1-4374-a509-b70faadde2f8_SOURCE",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917rzDV",
-          "name": "overtonight",
-          "url": "https://www.ticketmaster.com/overtonight-tickets/artist/4086619"
-        },
-        {
-          "id": "K8vZ917j-FV",
-          "name": "Tommy Ragen",
-          "url": "https://www.ticketmaster.com/tommy-ragen-tickets/artist/3128669"
-        }
-      ],
-      "searchText": "overtonight rival presents overtonight w tommy ragen september 27 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us overtonight tommy ragen"
-    },
-    {
-      "id": "vvG17Z_51TwrQB",
-      "legacyEventId": "010064B2BFC9E6BA",
-      "name": "Oakwood",
-      "eventUrl": "https://www.ticketmaster.com/oakwood-somerville-massachusetts-09-27-2026/event/010064B2BFC9E6BA",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-09-27",
-      "localTime": "20:00",
-      "startDateTime": "2026-09-28T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZ917AJnQ",
-        "name": "Crystal Ballroom at Somerville Theatre",
-        "city": "Somerville",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.396646,
-        "longitude": -71.123041,
-        "street": "55 Davis Square",
-        "zipCode": "02144",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qH07",
-          "name": "Oakwood",
-          "url": "https://www.ticketmaster.com/oakwood-tickets/artist/3543079"
-        },
-        {
-          "id": "K8vZ917QzsV",
-          "name": "Camping In Alaska",
-          "url": "https://www.ticketmaster.com/camping-in-alaska-tickets/artist/2949486"
-        },
-        {
-          "id": "K8vZ917Ofof",
-          "name": "Empty Parking Lot",
-          "url": "https://www.ticketmaster.com/empty-parking-lot-tickets/artist/4457384"
-        }
-      ],
-      "searchText": "oakwood crystal ballroom at somerville theatre somerville ma us oakwood camping in alaska empty parking lot"
     },
     {
       "id": "rZ7HnEZ1Af-IrK",
@@ -4280,17 +3742,12 @@
           "url": "https://www.ticketmaster.com/roman-candle-tickets/artist/835799"
         },
         {
-          "id": "K8vZ917rgnf",
-          "name": "Ashes at Last",
-          "url": "https://www.ticketmaster.com/ashes-at-last-tickets/artist/4057689"
-        },
-        {
           "id": "K8vZ917O6lf",
           "name": "Sorry X",
           "url": "https://www.ticketmaster.com/sorry-x-tickets/artist/4436284"
         }
       ],
-      "searchText": "from first to last balcony section is 21 only no refunds exchanges all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event a tiered system is in place for certain ticket types this allows us to reward the most loyal fans who buy early by giving them access to the lowest priced tickets prices will increase as each tier sells out every ga tiered ticket regardless of tier will have the same access and benefits at the show marquee theatre tempe az us from first to last i set my friends on fire roman candle ashes at last sorry x"
+      "searchText": "from first to last balcony section is 21 only no refunds exchanges all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event a tiered system is in place for certain ticket types this allows us to reward the most loyal fans who buy early by giving them access to the lowest priced tickets prices will increase as each tier sells out every ga tiered ticket regardless of tier will have the same access and benefits at the show marquee theatre tempe az us from first to last i set my friends on fire roman candle sorry x"
     },
     {
       "id": "1kF8v0fNGA2cpkG",
@@ -26675,7 +26132,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-11-07T00:00:00Z",
       "endDateTime": "2026-11-07T04:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/02/64_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/06/02/64_Edp.jpg?v=15",
       "venue": {
         "id": "rZ7HnEZ17f64g",
         "name": "Ferg's Pavilion",
