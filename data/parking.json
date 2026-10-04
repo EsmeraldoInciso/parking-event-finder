@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-03T08:47:59.494Z",
+  "generatedAt": "2026-10-04T09:13:15.565Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-03T08:30:45Z",
-    "numberOfEvents": 107906,
-    "compressedSizeBytes": 84756881,
-    "checksum": "d4876033a9f6f7885c95ebd048a380ad"
+    "lastUpdated": "2026-10-04T08:19:47Z",
+    "numberOfEvents": 106412,
+    "compressedSizeBytes": 83511548,
+    "checksum": "fc06c79aca5dec0069e8573848669b6b"
   },
   "summary": {
-    "parkingEvents": 4259
+    "parkingEvents": 4212
   },
   "diagnostics": {
     "terms": {
-      "olivia": 111,
-      "rodrigo": 97,
-      "metallica": 78,
-      "intuit dome": 117,
-      "sphere": 3059,
-      "parking": 8065
+      "olivia": 108,
+      "rodrigo": 92,
+      "metallica": 76,
+      "intuit dome": 116,
+      "sphere": 3031,
+      "parking": 7954
     },
     "samples": {
       "olivia": [
@@ -153,16 +153,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "1FA8vP1KfJZ755Ad",
-          "name": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
-          "eventUrl": "https://www.ticketmaster.com/united-globe-concert-accessolivia-rodrigo-event-washington-district-of-columbia-10-03-2026/event/150065293526AA42",
-          "venue": "Capital One Arena",
-          "city": "Washington",
-          "state": "DC",
-          "matchedTerm": "olivia",
-          "matchedAsParking": false
-        },
-        {
           "id": "vvG10Z_13MJRPr",
           "name": "Olivia Rodrigo: The Unraveled Tour",
           "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-20-2027/event/090064A4B79AF95E",
@@ -221,6 +211,16 @@
           "state": "CA",
           "matchedTerm": "olivia",
           "matchedAsParking": false
+        },
+        {
+          "id": "G5vYZ_FBhhauY",
+          "name": "SYML - Solo in North America 2026",
+          "eventUrl": "https://www.ticketmaster.com/syml-solo-in-north-america-2026-san-francisco-california-11-06-2026/event/1C00648E9B6C9370",
+          "venue": "The Castro Theatre",
+          "city": "San Francisco",
+          "state": "CA",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
         }
       ],
       "rodrigo": [
@@ -275,16 +275,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "vv1aOv0JeA4jtvC",
-          "name": "Michael Lives Forever",
-          "eventUrl": "https://www.ticketmaster.com/michael-lives-forever-atlantic-city-new-jersey-10-03-2026/event/020064982155729D",
-          "venue": "Sound Waves at Hard Rock Hotel & Casino Atlantic City",
-          "city": "Atlantic City",
-          "state": "NJ",
-          "matchedTerm": "rodrigo",
-          "matchedAsParking": false
-        },
-        {
           "id": "vv178Z_aGkMlEBGy",
           "name": "Olivia Rodrigo: The Unraveled Tour",
           "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/0400649DEB9FA339",
@@ -321,16 +311,6 @@
           "venue": "State Farm Arena",
           "city": "Atlanta",
           "state": "GA",
-          "matchedTerm": "rodrigo",
-          "matchedAsParking": false
-        },
-        {
-          "id": "1FA8vP1KfJZ755Ad",
-          "name": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
-          "eventUrl": "https://www.ticketmaster.com/united-globe-concert-accessolivia-rodrigo-event-washington-district-of-columbia-10-03-2026/event/150065293526AA42",
-          "venue": "Capital One Arena",
-          "city": "Washington",
-          "state": "DC",
           "matchedTerm": "rodrigo",
           "matchedAsParking": false
         },
@@ -421,6 +401,26 @@
           "venue": "The Fillmore Detroit",
           "city": "Detroit",
           "state": "MI",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVw1WPg",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-27-2027/event/3000649D322BD975",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vvG17Z_13S_x9k",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-boston-massachusetts-10-18-2026/event/010064A4B36625C6",
+          "venue": "TD Garden",
+          "city": "Boston",
+          "state": "MA",
           "matchedTerm": "rodrigo",
           "matchedAsParking": false
         }
@@ -931,16 +931,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "rZ7HnEZ1AfF0of",
-          "name": "Tacos, Hops & Tequila",
-          "eventUrl": "https://www.ticketweb.com/event/tacos-hops-tequila-360-event-productions-tickets/14224454",
-          "venue": "360 Event Productions",
-          "city": "Wyandotte",
-          "state": "MI",
-          "matchedTerm": "sphere",
-          "matchedAsParking": false
-        },
-        {
           "id": "16vjZ_d7bG7URM7",
           "name": "The Wizard of Oz at Sphere",
           "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-16-2026/event/1700643118DAFDC4",
@@ -1027,6 +1017,16 @@
           "venue": "Sphere",
           "city": "Las Vegas",
           "state": "NV",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "17k8v0G62TuXa_o",
+          "name": "Spiritual Thing",
+          "eventUrl": "https://www.ticketmaster.com/spiritual-thing-scottsdale-arizona-01-16-2027/event/190064FFCDF89651",
+          "venue": "ASU Kerr",
+          "city": "Scottsdale",
+          "state": "AZ",
           "matchedTerm": "sphere",
           "matchedAsParking": false
         }
@@ -1460,6 +1460,49 @@
       "searchText": "isaiah falls presents lvrs paradise side b tour doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us isaiah falls"
     },
     {
+      "id": "17k8v0G651KYdJM",
+      "legacyEventId": "190064B293C039B7",
+      "name": "SiM - HOOMAN WORLD TOUR",
+      "eventUrl": "https://www.ticketmaster.com/sim-hooman-world-tour-tempe-arizona/event/190064B293C039B7",
+      "resaleEventUrl": null,
+      "status": "postponed",
+      "localDate": null,
+      "localTime": null,
+      "startDateTime": null,
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/755/1166b682-599c-4d3b-96cd-ad37840f1755_SOURCE",
+      "venue": {
+        "id": "KovZpZAJk7eA",
+        "name": "Marquee Theatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US",
+        "latitude": 33.43699137,
+        "longitude": -111.94398356,
+        "street": "730 N. Mill Ave",
+        "zipCode": "85281",
+        "timezone": "America/Phoenix"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917Q067",
+          "name": "SiM",
+          "url": "https://www.ticketmaster.com/sim-tickets/artist/2903865"
+        },
+        {
+          "id": "K8vZ917_pG7",
+          "name": "Zero 9:36",
+          "url": "https://www.ticketmaster.com/zero-936-tickets/artist/2781529"
+        },
+        {
+          "id": "K8vZ917j3yV",
+          "name": "aurorawave",
+          "url": "https://www.ticketmaster.com/aurorawave-tickets/artist/3101055"
+        }
+      ],
+      "searchText": "sim hooman world tour balcony section is 21 only this show is general admission no refunds exchanges all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event marquee theatre tempe az us sim zero 9 36 aurorawave"
+    },
+    {
       "id": "vvG1VZ_oP-zshq",
       "legacyEventId": "0D00651961E316DD",
       "name": "Kaseya Center Parking: HEAT vs. TBD",
@@ -1657,7 +1700,7 @@
       "name": "Neverender Festival - 2 Day Pass",
       "eventUrl": "https://www.ticketmaster.com/neverender-festival-2-day-pass-santa-ana-california-10-03-2026/event/0900648DA22D560C",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-10-03",
       "localTime": null,
       "startDateTime": null,
@@ -1768,1532 +1811,6 @@
         }
       ],
       "searchText": "neverender festival 2 day pass this is an outdoor event this event will be held at the observatory festival grounds in the observatory parking lot 3503 s harbor blvd october 3rd 2026 doors 2 00pm show 3 00pm october 4th 2026 doors 1 00pm show 2 00pm all ages 2 day passes valid for entry for both days of the festival lineup coheed and cambria circa survive sunny day real estate turnover pup thursday la dispute destroy boys hail the sun the prize fighter inferno covet rocket narrow head joey eppard held willowake slow mass observatory festival grounds santa ana ca us coheed and cambria circa survive sunny day real estate turnover pup thursday la dispute destroy boys hail the sun the prize fighter inferno covet rocket narrow head joey eppard held willowake slow mass elliott"
-    },
-    {
-      "id": "G5viZ_oCuLJur",
-      "legacyEventId": "1B0065138D7E635E",
-      "name": "UT Football Park & Ride (UT vs Auburn)",
-      "eventUrl": "https://www.ticketmaster.com/ut-football-park-ride-ut-vs-knoxville-tennessee-10-03-2026/event/1B0065138D7E635E",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-03T16:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/486/3933d4f8-8fd8-4a34-ab96-c7c6f9df1486_SOURCE",
-      "venue": {
-        "id": "KovZpZA1JnFA",
-        "name": "Knoxville Civic Coliseum",
-        "city": "Knoxville",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.965101,
-        "longitude": -83.911513,
-        "street": "500 Howard Baker Jr. Drive",
-        "zipCode": "37915",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "ut football park ride ut vs auburn park ride is provides vehicle parking along with shuttle service to and from the kcac garages to neyland stadium shuttle start approximately 3 hours before kick off until kick off return service will begin at the end of the 3 quarter parking garages open approximately 4 hours before kick off parking and ride is per vehicle and includes everyone in the vehicle for the shuttle no refund or exchange knoxville civic coliseum knoxville tn us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Cree",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Cree",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "12:30",
-      "startDateTime": "2026-10-03T16:30:00Z",
-      "endDateTime": "2026-10-03T17:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Cred",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Cred",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "13:30",
-      "startDateTime": "2026-10-03T17:30:00Z",
-      "endDateTime": "2026-10-03T18:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "vvG1OZ_CLnwhLc",
-      "legacyEventId": "080064E7EAC9B7ED",
-      "name": "Mrs Doubtfire",
-      "eventUrl": "https://www.ticketmaster.com/mrs-doubtfire-detroit-michigan-10-03-2026/event/080064E7EAC9B7ED",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "13:30",
-      "startDateTime": "2026-10-03T17:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2ec/3aac55f2-b395-4c8c-90be-a68e0edb22ec_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QMsV",
-          "name": "Mrs Doubtfire - The Musical",
-          "url": "https://www.ticketmaster.com/mrs-doubtfire-the-musical-tickets/artist/2949093"
-        }
-      ],
-      "searchText": "mrs doubtfire all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us mrs doubtfire the musical"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCZ",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCZ",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "13:45",
-      "startDateTime": "2026-10-03T17:45:00Z",
-      "endDateTime": "2026-10-03T18:05:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "vvG10Z_GNE9WyQ",
-      "legacyEventId": "090064C8E75FDE5A",
-      "name": "Neverender Festival - Single Day 10/3",
-      "eventUrl": "https://www.ticketmaster.com/neverender-festival-single-day-103-santa-ana-california-10-03-2026/event/090064C8E75FDE5A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "14:00",
-      "startDateTime": "2026-10-03T21:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a59/7402034d-479c-447a-8d0a-9ac40942da59_SOURCE",
-      "venue": {
-        "id": "KovZ917AJIb",
-        "name": "Observatory Festival Grounds",
-        "city": "Santa Ana",
-        "state": "CA",
-        "country": "US",
-        "latitude": 33.70064,
-        "longitude": -117.91775,
-        "street": "3503 South Harbor Boulevard",
-        "zipCode": "92704",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175Kbf",
-          "name": "Coheed and Cambria",
-          "url": "https://www.ticketmaster.com/coheed-and-cambria-tickets/artist/852827"
-        },
-        {
-          "id": "K8vZ9171_y7",
-          "name": "Sunny Day Real Estate",
-          "url": "https://www.ticketmaster.com/sunny-day-real-estate-tickets/artist/766668"
-        },
-        {
-          "id": "K8vZ917ou80",
-          "name": "Turnover",
-          "url": "https://www.ticketmaster.com/turnover-tickets/artist/1867411"
-        },
-        {
-          "id": "K8vZ917bvP0",
-          "name": "Destroy Boys",
-          "url": "https://www.ticketmaster.com/destroy-boys-tickets/artist/2627312"
-        },
-        {
-          "id": "K8vZ91783f7",
-          "name": "Hail the Sun",
-          "url": "https://www.ticketmaster.com/hail-the-sun-tickets/artist/1777787"
-        },
-        {
-          "id": "K8vZ917QIhV",
-          "name": "Rocket",
-          "url": "https://www.ticketmaster.com/rocket-tickets/artist/2913133"
-        },
-        {
-          "id": "K8vZ9179jVV",
-          "name": "Narrow Head",
-          "url": "https://www.ticketmaster.com/narrow-head-tickets/artist/2548892"
-        },
-        {
-          "id": "K8vZ917hx_0",
-          "name": "Glixen",
-          "url": "https://www.ticketmaster.com/glixen-tickets/artist/3039989"
-        },
-        {
-          "id": "K8vZ917hC6f",
-          "name": "Willowake",
-          "url": "https://www.ticketmaster.com/willowake-tickets/artist/2988165"
-        },
-        {
-          "id": "K8vZ917KFp7",
-          "name": "Joey Eppard",
-          "url": "https://www.ticketmaster.com/joey-eppard-tickets/artist/2080565"
-        }
-      ],
-      "searchText": "neverender festival single day 10 3 this is an outdoor event single day tickets for saturday 10 3 only for 2 day passes or sunday single day tickets please visit the observatory website this event will be held at the observatory festival grounds in the observatory parking lot 3503 s harbor blvd saturday lineup coheed and cambria sunny day real estate turnover destroy boys hail the sun rocket narrow head glixen willowake joey eppard the rat utopia doors 2 00pm show 3 00pm all times and supporting acts are subject to change observatory festival grounds santa ana ca us coheed and cambria sunny day real estate turnover destroy boys hail the sun rocket narrow head glixen willowake joey eppard"
-    },
-    {
-      "id": "rZ7HnEZ1AfaYJf",
-      "legacyEventId": "rZ7HnEZ1AfaYJf",
-      "name": "Pachanka Music Culture Presents: LATIN AMERICAN MUSIC FESTIVAL",
-      "eventUrl": "https://www.ticketweb.com/event/pachanka-music-culture-presents-latin-fitzgeralds-patio-tickets/14270994",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "14:00",
-      "startDateTime": "2026-10-03T19:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/592/0a066b11-e550-42c3-a7cd-a82e4282a592_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17f7ZP",
-        "name": "FITZGERALDS PATIO",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZfZ7tA6k",
-          "name": "Son Rompe Pera",
-          "url": "https://www.ticketmaster.com/son-rompe-pera-tickets/artist/2805529"
-        }
-      ],
-      "searchText": "pachanka music culture presents latin american music festival live at fitzgeralds pachanka music culture presents the first ever latin american music festival at fitzgeralds nightclub w son rompe pera combo chimbita mariposas galacticas and many more 50 general admission advance 65 day of show at the door the festival brings together generations of artists of latin american music and culture the latin american music fest creates a space to celebrate creativity diversity and heritage rooted in tradition yet driven by innovation the festival highlights sounds from across latin america from cumbia and psychedelic rock to folk surf and experimental music reflecting the evolving cultural landscape of our communities the latin american music fest is more than a concert it is a gathering built on unity inclusion and the belief that art and music inspire understanding strengthen communities and help build a better more connected world son rompe pera combo chimbita mariposas galacticas beats y bateria olmeca lamor calpulli ocelotl cihuacoatl la rosa noir la sonora dinamita de colombia la maquina camaleon maria fatal grab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds patio berwyn il us son rompe pera"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCv",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCv",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "14:15",
-      "startDateTime": "2026-10-03T18:15:00Z",
-      "endDateTime": "2026-10-03T18:35:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Cre7",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Cre7",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "14:30",
-      "startDateTime": "2026-10-03T18:30:00Z",
-      "endDateTime": "2026-10-03T19:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCe",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCe",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "15:15",
-      "startDateTime": "2026-10-03T19:15:00Z",
-      "endDateTime": "2026-10-03T19:35:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3CreA",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3CreA",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "15:30",
-      "startDateTime": "2026-10-03T19:30:00Z",
-      "endDateTime": "2026-10-03T20:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCd",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCd",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "15:45",
-      "startDateTime": "2026-10-03T19:45:00Z",
-      "endDateTime": "2026-10-03T20:05:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtC7",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtC7",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "16:15",
-      "startDateTime": "2026-10-03T20:15:00Z",
-      "endDateTime": "2026-10-03T20:35:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Crek",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Crek",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "16:30",
-      "startDateTime": "2026-10-03T20:30:00Z",
-      "endDateTime": "2026-10-03T21:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCA",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCA",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "16:45",
-      "startDateTime": "2026-10-03T20:45:00Z",
-      "endDateTime": "2026-10-03T21:05:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzf3LA9EvNHtCk",
-      "legacyEventId": "LvZ18QlHzf3LA9EvNHtCk",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "17:15",
-      "startDateTime": "2026-10-03T21:15:00Z",
-      "endDateTime": "2026-10-03T21:35:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Cre6",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Cre6",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "17:30",
-      "startDateTime": "2026-10-03T21:30:00Z",
-      "endDateTime": "2026-10-03T22:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "vvG1iZ_5Moit5p",
-      "legacyEventId": "0B0064BDD1B292D6",
-      "name": "Jessica Kirson",
-      "eventUrl": "https://www.ticketmaster.com/jessica-kirson-san-diego-california-10-03-2026/event/0B0064BDD1B292D6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-04T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/61e/6a3c4cc4-f3e5-4106-bf6a-8a7833cd061e_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9174Qv0",
-          "name": "Jessica Kirson",
-          "url": "https://www.ticketmaster.com/jessica-kirson-tickets/artist/1486100"
-        }
-      ],
-      "searchText": "jessica kirson all ages welcome doors open 6pm show starts 7pm all times are subject to change this event is open to all ages all guests under the age of 18 must be accompanied by a parent guardian or responsible adult over the age of 25 with written authorization dinner and drinks are available at our connected restaurant more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us jessica kirson"
-    },
-    {
-      "id": "17AYv0G6Cu6qo0i",
-      "legacyEventId": "170064E34775192C",
-      "name": "The Aquabats! - Trick Or Treat To The Beat",
-      "eventUrl": "https://www.ticketmaster.com/the-aquabats-trick-or-treat-to-las-vegas-nevada-10-03-2026/event/170064E34775192C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-04T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/987/385c952b-1368-4283-8e5b-d0e514083987_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91719j7",
-          "name": "The Aquabats!",
-          "url": "https://www.ticketmaster.com/the-aquabats-tickets/artist/790384"
-        }
-      ],
-      "searchText": "the aquabats trick or treat to the beat door time 6pm show time 7pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support the aggro dulus sullivan all support acts are subject to change without notice parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us the aquabats"
-    },
-    {
-      "id": "vvG1iZ_8CIASoG",
-      "legacyEventId": "0B006503A817344C",
-      "name": "Prince Again",
-      "eventUrl": "https://www.ticketmaster.com/prince-again-el-cajon-california-10-03-2026/event/0B006503A817344C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-04T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/4d9/832766c3-c67e-4184-be68-59098bc464d9_SOURCE",
-      "venue": {
-        "id": "KovZ917AOww",
-        "name": "The Magnolia",
-        "city": "El Cajon",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.795625,
-        "longitude": -116.95955,
-        "street": "210 E Main Street",
-        "zipCode": "92020",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QqKf",
-          "name": "Prince Again",
-          "url": "https://www.ticketmaster.com/prince-again-tickets/artist/2893507"
-        },
-        {
-          "id": "K8vZ917hKRf",
-          "name": "Always Tina",
-          "url": "https://www.ticketmaster.com/always-tina-tickets/artist/3001095"
-        }
-      ],
-      "searchText": "prince again doors 6pm show 7pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us prince again always tina"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3CreF",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3CreF",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-03T22:30:00Z",
-      "endDateTime": "2026-10-03T23:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QJwW2i5EqzJbl7qV",
-      "legacyEventId": "LvZ18QJwW2i5EqzJbl7qV",
-      "name": "R&B ONLY LIVE - Madison, WI",
-      "eventUrl": "https://www.universe.com/events/r-b-only-live-madison-wi-tickets-HWF03S?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-03T23:30:00Z",
-      "endDateTime": "2026-10-04T04:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_SOURCE",
-      "venue": {
-        "id": "KovZ917AQBC",
-        "name": "The Sylvee",
-        "city": "Madison",
-        "state": "WI",
-        "country": "US",
-        "latitude": 43.080888,
-        "longitude": -89.374566,
-        "street": "25 S. Livingston Street",
-        "zipCode": "53703",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bcfV",
-          "name": "R&B ONLY",
-          "url": "https://www.ticketmaster.com/rb-only-tickets/artist/2473787"
-        },
-        {
-          "id": "K8vZfZ71F7k",
-          "name": "R&B ONLY LIVE",
-          "url": "https://www.ticketmaster.com/rb-only-live-tickets/artist/2797748"
-        }
-      ],
-      "searchText": "r b only live madison wi 18 r amp b only live is coming to your city for the ultimate r amp b experience come sing dance and experience r amp b music from past to present pics and videos from r amp b only live instagram com rnbonly tiktok com rnbonly q what is r amp b only live a r amp b only live is a live music experience produced by colors worldwide dedicated to celebrating r amp b music from past to present it s a dj driven event where audiences can sing dance and enjoy a nostalgic journey through r amp b music s greatest hits and modern favorites q what can i expect at an r amp b only live show a r amp b only live is a high energy event designed for fans to connect with r amp b music our dj led show takes audiences on a musical journey through classic and contemporary r amp b hits in an atmosphere full of singing dancing and r amp b nostalgia q what s the dress code a there is no specific dress code but we encourage fans to come ready for a night of dancing and fun whether you prefer casual or dressed up come as you are and enjoy the experience q what s the ticketing policy a all tickets for r amp b only live events are non refundable if you have questions about your ticket or need it resent please contact us at info colorsworldwide com q what should i know before attending the show a a valid id is required for entry at age restricted shows we also encourage attendees to check the venue s bag policy and parking information in advance as these are determined by the venue and may vary q how can i stay updated on future shows a follow us on social media instagram tiktok youtube x and facebook for the latest updates event announcements and exclusive content you can also join our mailing list on our website to be among the first to know about new shows and ticket releases legal must be 18 to attend as a condition of your attendance at r amp b only live you agree and irrevocably consent to your image and or likeness being captured on film and or video the benefit of which shall vest in colors worldwide inc its licensees successors and assigns and may be distributed throughout the world in perpetuity without limitation all sales are final with rsvp and or ticket purchase you agree to receive communications from colors worldwide inc the sylvee madison wi us r b only r b only live"
-    },
-    {
-      "id": "LvZ18QIjbtVjtZwZh4hx4",
-      "legacyEventId": "LvZ18QIjbtVjtZwZh4hx4",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-03T22:30:00Z",
-      "endDateTime": "2026-10-04T00:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience an all inclusive halloween adventure packed with new attractions spooky surprises family activities and haunted fun all included with your forever forest halloween experience ticket no additional cost for listed attractions special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2025 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for s mores and family gathering barns with indoor activities and halloween photo opportunities food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session each session is designed as an approximately 2 hour experience please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday amp saturday 6 30 pm and 8 00 pm sunday 5 30 pm and 7 30 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas if you are looking for the scariest experience please book the later time slot 7 30 pm on sundays or 8 00 pm on fridays and saturdays guests may stay until closing time at 9 30 pm parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "1A-Zk8PGkdxix7u",
-      "legacyEventId": "21006425E2B2210D",
-      "name": "Five Finger Death Punch",
-      "eventUrl": "https://www.ticketmaster.com/five-finger-death-punch-kansas-city-missouri-10-03-2026/event/21006425E2B2210D",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "18:45",
-      "startDateTime": "2026-10-03T23:45:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/253/b53fa94f-d21a-4b07-8822-7e00b6142253_SOURCE",
-      "venue": {
-        "id": "KovZ917ASlK",
-        "name": "Morton Amphitheater",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.16288,
-        "longitude": -94.6368,
-        "street": "6150 NW Music Blvd",
-        "zipCode": "64150",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GCJ7",
-          "name": "Five Finger Death Punch",
-          "url": "https://www.ticketmaster.com/five-finger-death-punch-tickets/artist/1170515"
-        },
-        {
-          "id": "K8vZ917KogV",
-          "name": "Cody Jinks",
-          "url": "https://www.ticketmaster.com/cody-jinks-tickets/artist/2099200"
-        },
-        {
-          "id": "K8vZ917p47V",
-          "name": "Eva Under Fire",
-          "url": "https://www.ticketmaster.com/eva-under-fire-tickets/artist/2416865"
-        }
-      ],
-      "searchText": "five finger death punch parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue morton amphitheater kansas city mo us five finger death punch cody jinks eva under fire"
-    },
-    {
-      "id": "vv1AkZko3GkdjCytU",
-      "legacyEventId": "06006452DC3B9A76",
-      "name": "Brooks & Dunn: Neon Moon Tour 2026",
-      "eventUrl": "https://www.ticketmaster.com/brooks-dunn-neon-moon-tour-2026-moline-illinois-10-03-2026/event/06006452DC3B9A76",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/1cf/60b10f8a-1b12-44ac-ae40-9f52559351cf_SOURCE",
-      "venue": {
-        "id": "KovZpZAJEaEA",
-        "name": "Vibrant Arena at the Mark",
-        "city": "Moline",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.5078737,
-        "longitude": -90.52071936,
-        "street": "1201 River Dr",
-        "zipCode": "61265",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91713ZV",
-          "name": "Brooks & Dunn",
-          "url": "https://www.ticketmaster.com/brooks-dunn-tickets/artist/732704"
-        },
-        {
-          "id": "K8vZ9171fh0",
-          "name": "David Lee Murphy",
-          "url": "https://www.ticketmaster.com/david-lee-murphy-tickets/artist/776114"
-        }
-      ],
-      "searchText": "brooks dunn neon moon tour 2026 all ages require a ticket ticket pricing is subject to change without prior notice no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us brooks dunn david lee murphy"
-    },
-    {
-      "id": "vv17fZbUGkUMn5m6",
-      "legacyEventId": "0500636DB7A8BB87",
-      "name": "Brad Williams: The Tall Tales Tour",
-      "eventUrl": "https://www.ticketmaster.com/brad-williams-the-tall-tales-tour-northfield-ohio-10-03-2026/event/0500636DB7A8BB87",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-03T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/685/0c876ac5-1fa5-43a2-9fd5-08187f9b7685_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917uABV",
-          "name": "Brad Williams",
-          "url": "https://www.ticketmaster.com/brad-williams-tickets/artist/1113004"
-        }
-      ],
-      "searchText": "brad williams the tall tales tour this is a 21 over event all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor and dining areas before doors all seats are reserved no cameras permitted the box office opens at 1 00 pm on day of the show for more information call 1 330 908 7793 parking is free the closest entrance to theater is the south entrance northfield park racino center stage northfield oh us brad williams"
-    },
-    {
-      "id": "rZ7HnEZ1A4Z-rK",
-      "legacyEventId": "rZ7HnEZ1A4Z-rK",
-      "name": "The Return of Damon Wayans",
-      "eventUrl": "https://www.ticketweb.com/event/the-return-of-damon-wayans-blue-note-hawaii-tickets/15021793",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/cf6/d6da794e-10c4-4702-a9f8-29142eb4ccf6_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171hg7",
-          "name": "Damon Wayans",
-          "url": "https://www.ticketmaster.com/damon-wayans-tickets/artist/806070"
-        }
-      ],
-      "searchText": "the return of damon wayans with opener pepper lamb94 7 kumu blue note comedy series presents the return of damon wayans with opener pepper lamb damon wayans is most fondly remembered for his three seasons as writer and co star on the emmy award winning series in living color there he created sketch characters like rdquo homey the clown rdquo handiman and outrageously gay film critic blaine from rdquo men on film his writing for the series earned him two personal emmy nominations wayans has enjoyed tremendous success in stand up after starting his career in 1982 touring the comedy club circuit he landed a role as a featured player on the famed nbc series saturday night live wayans went on to star in his own critically acclaimed hbo specials one night stand the last stand still standing and wayout ticket 70 95 club policies shows oct 1 3 at 7 pm oct 4 at 6 30pm doors 5 pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us damon wayans"
-    },
-    {
-      "id": "vvG1IZ_13LAInr",
-      "legacyEventId": "0A0064A49F168A9E",
-      "name": "\"The Hayley Williams Show\"",
-      "eventUrl": "https://www.ticketmaster.com/the-hayley-williams-show-chula-vista-california-10-03-2026/event/0A0064A49F168A9E",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/dc6/55f55324-9481-423a-846a-a803f46ecdc6_SOURCE",
-      "venue": {
-        "id": "KovZpa2WZe",
-        "name": "North Island Credit Union Amphitheatre",
-        "city": "Chula Vista",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.58830386,
-        "longitude": -117.00640802,
-        "street": "2050 Entertainment Circle",
-        "zipCode": "91911",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bV3f",
-          "name": "Hayley Williams",
-          "url": "https://www.ticketmaster.com/hayley-williams-tickets/artist/2733627"
-        },
-        {
-          "id": "K8vZ917_gDf",
-          "name": "Magdalena Bay",
-          "url": "https://www.ticketmaster.com/magdalena-bay-tickets/artist/2838603"
-        },
-        {
-          "id": "K8vZ917phtf",
-          "name": "Rico Nasty",
-          "url": "https://www.ticketmaster.com/rico-nasty-tickets/artist/2428477"
-        }
-      ],
-      "searchText": "the hayley williams show rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance hayley is continuing her partnership with nonprofits support feed and reverb to make her tour more sustainable and impactful for people and the planet north island credit union amphitheatre chula vista ca us hayley williams magdalena bay rico nasty"
-    },
-    {
-      "id": "vv1AvZkoYGkdoP-pv",
-      "legacyEventId": "01006470D1961581",
-      "name": "KATHY GRIFFIN: New Face, New Tour",
-      "eventUrl": "https://www.ticketmaster.com/kathy-griffin-new-face-new-tour-boston-massachusetts-10-03-2026/event/01006470D1961581",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-03T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/6be/19ef47ba-549a-4cc7-8100-0a52656e06be_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171DE7",
-          "name": "Kathy Griffin",
-          "url": "https://www.ticketmaster.com/kathy-griffin-tickets/artist/845308"
-        }
-      ],
-      "searchText": "kathy griffin new face new tour wilbur theatre parking is available at the link below the wilbur boston ma us kathy griffin"
-    },
-    {
-      "id": "vvG1VZ_1kVzu5t",
-      "legacyEventId": "0D0064A1B4E0D2E9",
-      "name": "Treaty Oak Revival: West Texas Degenerate Tour",
-      "eventUrl": "https://www.ticketmaster.com/treaty-oak-revival-west-texas-degenerate-tampa-florida-10-03-2026/event/0D0064A1B4E0D2E9",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-03T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/0b2/55400c57-3571-4053-b18e-7c92d51f00b2_SOURCE",
-      "venue": {
-        "id": "KovZpZAEkA7A",
-        "name": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds",
-        "city": "Tampa",
-        "state": "FL",
-        "country": "US",
-        "latitude": 27.993244,
-        "longitude": -82.36499,
-        "street": "4802 US Highway 301 North",
-        "zipCode": "33610",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Qyyf",
-          "name": "Treaty Oak Revival",
-          "url": "https://www.ticketmaster.com/treaty-oak-revival-tickets/artist/2951358"
-        },
-        {
-          "id": "K8vZ917OAXf",
-          "name": "80 ACRES",
-          "url": "https://www.ticketmaster.com/80-acres-tickets/artist/4419709"
-        },
-        {
-          "id": "K8vZ9174Uuf",
-          "name": "Belmont",
-          "url": "https://www.ticketmaster.com/belmont-tickets/artist/2345566"
-        }
-      ],
-      "searchText": "treaty oak revival west texas degenerate tour parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue midflorida credit union amphitheatre at the fl state fairgrounds tampa fl us treaty oak revival 80 acres belmont"
-    },
-    {
-      "id": "LvZ18QlHz8sDP4A-3Crea",
-      "legacyEventId": "LvZ18QlHz8sDP4A-3Crea",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-03T23:30:00Z",
-      "endDateTime": "2026-10-04T00:15:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "vvG1OZ_CLnShLs",
-      "legacyEventId": "080064E7EACDB7F1",
-      "name": "Mrs Doubtfire",
-      "eventUrl": "https://www.ticketmaster.com/mrs-doubtfire-detroit-michigan-10-03-2026/event/080064E7EACDB7F1",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-03T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2ec/3aac55f2-b395-4c8c-90be-a68e0edb22ec_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QMsV",
-          "name": "Mrs Doubtfire - The Musical",
-          "url": "https://www.ticketmaster.com/mrs-doubtfire-the-musical-tickets/artist/2949093"
-        }
-      ],
-      "searchText": "mrs doubtfire all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us mrs doubtfire the musical"
-    },
-    {
-      "id": "rZ7HnEZ1AfPMxd",
-      "legacyEventId": "rZ7HnEZ1AfPMxd",
-      "name": "Chat Pile - Who Loves The Sun Tour 2026 w/ Soul Glo & Virga",
-      "eventUrl": "https://www.ticketweb.com/event/chat-pile-who-music-box-tickets/14977883",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-04T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7fb/e63f4322-2754-4e99-9428-5ec88f9b17fb_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QyC0",
-          "name": "Chat Pile",
-          "url": "https://www.ticketmaster.com/chat-pile-tickets/artist/2952008"
-        },
-        {
-          "id": "K8vZ917fi_V",
-          "name": "Soul Glo",
-          "url": "https://www.ticketmaster.com/soul-glo-tickets/artist/2239508"
-        }
-      ],
-      "searchText": "chat pile who loves the sun tour 2026 w soul glo virga who loves the sun tour 2026there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 30 adv standing 30 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us chat pile soul glo"
-    },
-    {
-      "id": "rZ7HnEZ1AfJ7GN",
-      "legacyEventId": "rZ7HnEZ1AfJ7GN",
-      "name": "Justin Nozuka",
-      "eventUrl": "https://www.ticketweb.com/event/justin-nozuka-off-the-rails-music-venue-tickets/14984323",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": "2026-10-04T03:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/8f0/964a4a70-934b-49e0-aef0-96a30485f8f0_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ1739fP",
-        "name": "Off The Rails Music Venue",
-        "city": "Worcester",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.2666,
-        "longitude": -71.79923,
-        "street": "90 Commercial Street",
-        "zipCode": "01608",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917G6p0",
-          "name": "Justin Nozuka",
-          "url": "https://www.ticketmaster.com/justin-nozuka-tickets/artist/1167377"
-        }
-      ],
-      "searchText": "justin nozuka all agesgeneral admissiongeneral admission is standing room only reserved table seating get ready to enjoy a seat at one of our exclusive bar height tables tickets must be bought as a pair only 15 tables available tickets include general admissionprivate table for two access to off the rails food menu designated server to order food and drinks one 1 parking spot per table please present your reserved table ticket to the parking lot attendant on the day of the show for assistance with ticketing and ada accommodations please email our team at info offtherailsworcester com please be advised that reservations made on toast are not tickets to the music venue and do not offer views into the venue off the rails music venue worcester ma us justin nozuka"
-    },
-    {
-      "id": "17k8v0G655LMMmw",
-      "legacyEventId": "190064B2DFDF7BB2",
-      "name": "Spafford",
-      "eventUrl": "https://www.ticketmaster.com/spafford-tempe-arizona-10-03-2026/event/190064B2DFDF7BB2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/59c/261b469d-253e-47d4-8f92-735d7432759c_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9172kS7",
-          "name": "Spafford",
-          "url": "https://www.ticketmaster.com/spafford-tickets/artist/1656253"
-        }
-      ],
-      "searchText": "spafford this show is general admission no seats on the main floor standing room only balcony section is 21 balcony seat ticket must be purchased for seating no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used cash only and paid to the parking attendants night of the event marquee theatre tempe az us spafford"
-    },
-    {
-      "id": "vvG1VZ_ue9L0iF",
-      "legacyEventId": "0D0064D0977E4B08",
-      "name": "Jose Luis Rodriguez",
-      "eventUrl": "https://www.ticketmaster.com/jose-luis-rodriguez-pembroke-pines-florida-10-03-2026/event/0D0064D0977E4B08",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/924/e394a385-9cf7-4bb0-a6eb-ead88c4c4924_SOURCE",
-      "venue": {
-        "id": "KovZ917A2G0",
-        "name": "Charles F. Dodge City Center Pembroke Pines",
-        "city": "Pembroke Pines",
-        "state": "FL",
-        "country": "US",
-        "latitude": 26.006998,
-        "longitude": -80.281135,
-        "street": "601 City Center Blvd",
-        "zipCode": "33025",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171a_0",
-          "name": "Jose Luis Rodríguez",
-          "url": "https://www.ticketmaster.com/jose-luis-rodriguez-tickets/artist/771584"
-        }
-      ],
-      "searchText": "jose luis rodriguez jose luis rodriguez el puma llega a pembroke pines el 3 de octubre al charles f dodge city center con una noche inolvidable de grandes exitos romance y nostalgia en vivo visit charlesfdodgecitycenter com for more information the box office is open thursday through saturday 10am to 5pm at cfdcc 601 sw city center way pembroke pines fl ample free parking is available at the venue charles f dodge city center pembroke pines pembroke pines fl us jose luis rodriguez"
-    },
-    {
-      "id": "1A4ZkotGkd3el8R",
-      "legacyEventId": "15006469D20AB42F",
-      "name": "Margaret Cho: Choligarchy",
-      "eventUrl": "https://www.ticketmaster.com/margaret-cho-choligarchy-charles-town-west-virginia-10-03-2026/event/15006469D20AB42F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/881/853bc405-3922-4368-bed0-127532b30881_SOURCE",
-      "venue": {
-        "id": "KovZpZAJ6knA",
-        "name": "Hollywood Casino at Charles Town Races",
-        "city": "Charles Town",
-        "state": "WV",
-        "country": "US",
-        "latitude": 39.29716807,
-        "longitude": -77.85236187,
-        "street": "750 Hollywood Drive",
-        "zipCode": "25414",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171hg0",
-          "name": "Margaret Cho",
-          "url": "https://www.ticketmaster.com/margaret-cho-tickets/artist/784761"
-        }
-      ],
-      "searchText": "margaret cho choligarchy all shows are 21 and over with valid id no one under the age of 21 will be admitted no covid restrictions or protocols unless listed on artist or casino website all times and lineup are subject to change without notice no refunds or exchanges all sales are final no professional photography cell phone photos are allowed free parking please check https www hollywoodcasinocharlestown com entertainment for the most up to date information weapons of any kind are prohibited in the casino and in the event center hollywood casino at charles town races charles town wv us margaret cho"
-    },
-    {
-      "id": "LvZ18QIjbtVjtZwZh4hxp",
-      "legacyEventId": "LvZ18QIjbtVjtZwZh4hxp",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": "2026-10-04T02:00:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience an all inclusive halloween adventure packed with new attractions spooky surprises family activities and haunted fun all included with your forever forest halloween experience ticket no additional cost for listed attractions special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2025 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for s mores and family gathering barns with indoor activities and halloween photo opportunities food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session each session is designed as an approximately 2 hour experience please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday amp saturday 6 30 pm and 8 00 pm sunday 5 30 pm and 7 30 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas if you are looking for the scariest experience please book the later time slot 7 30 pm on sundays or 8 00 pm on fridays and saturdays guests may stay until closing time at 9 30 pm parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "vv1A7Zkf7Gketq6Uh",
-      "legacyEventId": "04006504A9747D9B",
-      "name": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "eventUrl": "https://www.ticketmaster.com/fuerza-regida-this-is-our-dream-tinley-park-illinois-10-03-2026/event/04006504A9747D9B",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a5b/d253e4da-483a-4720-b191-7c4be1ceca5b_SOURCE",
-      "venue": {
-        "id": "KovZpZAEktFA",
-        "name": "Credit Union 1 Amphitheatre",
-        "city": "Tinley Park",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.5426094,
-        "longitude": -87.7711753,
-        "street": "19100 S Ridgeland",
-        "zipCode": "60477",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179vO0",
-          "name": "Fuerza Regida",
-          "url": "https://www.ticketmaster.com/fuerza-regida-tickets/artist/2499958"
-        }
-      ],
-      "searchText": "fuerza regida this is our dream tour 2026 please note this event is rain or shine parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue credit union 1 amphitheatre tinley park il us fuerza regida"
-    },
-    {
-      "id": "LvZ18Qxte4ZG8gZZ0ttEm",
-      "legacyEventId": "LvZ18Qxte4ZG8gZZ0ttEm",
-      "name": "R&B/FUNK Old School Night of Legends!",
-      "eventUrl": "https://www.universe.com/events/r-b-funk-old-school-night-of-legends-tickets-0TRJ92?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T03:00:00Z",
-      "endDateTime": "2026-10-04T08:00:00Z",
-      "imageUrl": "https://images.universe.com/bf7eef66-65c9-4512-807e-af1ff73b0eef/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AVNB",
-        "name": "Orion International Academy",
-        "city": "Ontario",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.049045,
-        "longitude": -117.688236,
-        "street": "11255 Central Ave",
-        "zipCode": "91762",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Oc37",
-          "name": "Red Magnet Entertainment",
-          "url": "https://www.ticketmaster.com/red-magnet-entertainment-tickets/artist/4528194"
-        },
-        {
-          "id": "K8vZ917OMT7",
-          "name": "Lakeside",
-          "url": "https://www.ticketmaster.com/lakeside-tickets/artist/4540509"
-        },
-        {
-          "id": "K8vZ917OYh7",
-          "name": "The Manhattans",
-          "url": "https://www.ticketmaster.com/the-manhattans-tickets/artist/2042466"
-        }
-      ],
-      "searchText": "r b funk old school night of legends get ready for an unforgettable evening of timeless soul smooth harmonies and classic r amp b and funk hits at the r amp b funk old school night of legends experience a spectacular lineup featuring legendary artists who helped define the soundtrack of a generation the evening begins with the jimmy sterling experience a tribute to bobby womack celebrating the music and legacy of one of r amp b s most influential voices with powerful performances of his greatest hits next enjoy the iconic sounds of the legendary group lakeside with captain mark wood featuring the unmistakable hits such as fantastic voyage raid and many more closing the night are the incomparable the manhattans headlined by original lead vocalist gerald alston relive the magic of chart topping favorites including shining star kiss and say goodbye and other soulful classics that continue to captivate audiences worldwide hosted by actor comedian evan lionel whether you re a lifelong fan or discovering these legendary artists for the first time this concert promises an evening filled with nostalgia romance and the unforgettable music that defined an era don t miss this extraordinary celebration of classic r amp b funk one night three legendary performances and memories that will last a lifetime vip early entry tickets 5 30 pm entry happy hour 5 30pm 6 30pm no assigned seats first come first served exclusive cognac and tequila lounge general admission tickets 6 30 pm entry 2 drink minimum will apply at check in no assigned seats first come first served 20 meet and greet after concert parking 10 cash only no re entry policy 21 event orion international academy ontario ca us red magnet entertainment lakeside the manhattans"
-    },
-    {
-      "id": "vvG1fZ_1wmr_eH",
-      "legacyEventId": "050064ACAE7990BC",
-      "name": "Martina McBride",
-      "eventUrl": "https://www.ticketmaster.com/martina-mcbride-nashville-indiana-10-03-2026/event/050064ACAE7990BC",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/c1e/6f497df4-261b-4351-ba9e-34c0f3054c1e_SOURCE",
-      "venue": {
-        "id": "KovZ917AOr1",
-        "name": "Brown County Music Center",
-        "city": "Nashville",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.197639,
-        "longitude": -86.238487,
-        "street": "200 Maple Leaf Boulevard",
-        "zipCode": "47448",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91713vV",
-          "name": "Martina McBride",
-          "url": "https://www.ticketmaster.com/martina-mcbride-tickets/artist/755684"
-        }
-      ],
-      "searchText": "martina mcbride doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us martina mcbride"
-    },
-    {
-      "id": "vvG1zZ_urSVD9a",
-      "legacyEventId": "0E0064D7B3D3B5C9",
-      "name": "Sophie Hunter",
-      "eventUrl": "https://www.ticketmaster.com/sophie-hunter-atlanta-georgia-10-03-2026/event/0E0064D7B3D3B5C9",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-04T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/c87/076f8133-0e85-4add-a34a-a7b891795c87_SOURCE",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qSTf",
-          "name": "Sophie Hunter",
-          "url": "https://www.ticketmaster.com/sophie-hunter-tickets/artist/3451014"
-        }
-      ],
-      "searchText": "sophie hunter bowe inc reaction presents sophie hunter stereoscope the tour october 3 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us sophie hunter"
-    },
-    {
-      "id": "rZ7HnEZ1AfJ9AN",
-      "legacyEventId": "rZ7HnEZ1AfJ9AN",
-      "name": "ELIZABETH MOEN Returns to FITZGERALDS w/ Special Guest Ryan Joseph Anderson!",
-      "eventUrl": "https://www.ticketweb.com/event/elizabeth-moen-returns-to-fitzgeralds-fitzgeralds-nightclub-tickets/14997163",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-04T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/06/93_Edp.jpg?v=5",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "elizabeth moen returns to fitzgeralds w special guest ryan joseph anderson fitzgeralds nightclub presents elizabeth moen returns to fitzgeralds nightclub elizabeth moen is a chicago based songwriter whose voice pulls you in threading indie rock grit through the warmth of midwestern folk raised in small town iowa her songs pair confessional storytelling with sharp self awareness earning praise from american songwriter and no depression for their honesty humor and vocal power grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "vvG1bZ_CTIbLib",
-      "legacyEventId": "060064EFE861FB18",
-      "name": "The Struts",
-      "eventUrl": "https://www.ticketmaster.com/the-struts-kansas-city-missouri-10-03-2026/event/060064EFE861FB18",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-04T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/dc7/1c544bdd-bfd9-411e-b80c-29a24baa6dc7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZAJa77A",
-        "name": "Ameristar Casino and Hotel",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.153353,
-        "longitude": -94.483047,
-        "street": "3200 Ameristar Dr",
-        "zipCode": "64161",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91737L7",
-          "name": "The Struts",
-          "url": "https://www.ticketmaster.com/the-struts-tickets/artist/1951204"
-        }
-      ],
-      "searchText": "the struts ameristar kansas city star pavilion presents the struts live in concert saturday october 3 2026 door 7 30pm show 8 30pm ages 18 unless accompanied by an adult enjoy one of ameristar s restaurants before the show secure covered parking is always free at ameristar want to make a night of it book a hotel room at https ameristarkansascity boydgaming com or call 816 414 7000 no refunds or exchanges all sales are final ameristar casino and hotel kansas city mo us the struts"
-    },
-    {
-      "id": "vvG1YZ_u5C4D0z",
-      "legacyEventId": "0C0064D2CE57B938",
-      "name": "SHAWN JAMES \"FLEW TOO CLOSE TO THE SUN TOUR\"",
-      "eventUrl": "https://www.ticketmaster.com/shawn-james-flew-too-close-to-fort-worth-texas-10-03-2026/event/0C0064D2CE57B938",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "21:00",
-      "startDateTime": "2026-10-04T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ad3/34b34408-641e-4816-8801-8e116c53bad3_SOURCE",
-      "venue": {
-        "id": "KovZ917AEVr",
-        "name": "Tannahill's Music Hall & Lounge",
-        "city": "Fort Worth",
-        "state": "TX",
-        "country": "US",
-        "latitude": 32.7885,
-        "longitude": -97.34775,
-        "street": "122 E. Exchange Suite 200",
-        "zipCode": "76164",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179Haf",
-          "name": "Shawn James",
-          "url": "https://www.ticketmaster.com/shawn-james-tickets/artist/2449127"
-        },
-        {
-          "id": "K8vZ917QbE7",
-          "name": "Gravedancer",
-          "url": "https://www.ticketmaster.com/gravedancer-tickets/artist/2881963"
-        }
-      ],
-      "searchText": "shawn james flew too close to the sun tour doors open one hour prior to showtime venue box office opens one hour prior to door time closing hours vary per event bag policy bags up to 12 x6 x12 are allowed in the venue all bags will be searched prior to entry bags that are not clear will be subject to additional search mobile tickets your phone is your ticket download your tickets into your mobile wallet and transfer to friends via www livenation com or the live nation app ticket help https help livenation com covid 19 the venue follows local covid 19 guidelines which currently are not requiring proof of vaccination negative test for entry parking ride share service is encouraged valet parking is available near the entrance to tannahill s on exchange street for 20 paid lots within short walking distance venue faq page https www tannahills com connect faqs dining by chef tim love https www tannahills com food drink tannahill s music hall lounge fort worth tx us shawn james gravedancer"
-    },
-    {
-      "id": "vv1AAZkobGkdk7M6H",
-      "legacyEventId": "05006458C61371FC",
-      "name": "Brad Williams: The Tall Tales Tour",
-      "eventUrl": "https://www.ticketmaster.com/brad-williams-the-tall-tales-tour-northfield-ohio-10-03-2026/event/05006458C61371FC",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-03",
-      "localTime": "22:30",
-      "startDateTime": "2026-10-04T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/685/0c876ac5-1fa5-43a2-9fd5-08187f9b7685_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917uABV",
-          "name": "Brad Williams",
-          "url": "https://www.ticketmaster.com/brad-williams-tickets/artist/1113004"
-        }
-      ],
-      "searchText": "brad williams the tall tales tour this is a 21 over event all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor and dining areas before doors all seats are reserved no cameras permitted the box office opens at 1 00 pm on day of the show for more information call 1 330 908 7793 parking is free the closest entrance to theater is the south entrance northfield park racino center stage northfield oh us brad williams"
     },
     {
       "id": "rZ7HnEZ1AfGNZV",
@@ -3650,39 +2167,6 @@
       "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
     },
     {
-      "id": "LvZ18QIQn8g6FIorUA-py",
-      "legacyEventId": "LvZ18QIQn8g6FIorUA-py",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "17:30",
-      "startDateTime": "2026-10-04T21:30:00Z",
-      "endDateTime": "2026-10-04T23:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience an all inclusive halloween adventure packed with new attractions spooky surprises family activities and haunted fun all included with your forever forest halloween experience ticket no additional cost for listed attractions special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2025 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for s mores and family gathering barns with indoor activities and halloween photo opportunities food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session each session is designed as an approximately 2 hour experience please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday amp saturday 6 30 pm and 8 00 pm sunday 5 30 pm and 7 30 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas if you are looking for the scariest experience please book the later time slot 7 30 pm on sundays or 8 00 pm on fridays and saturdays guests may stay until closing time at 9 30 pm parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
       "id": "vvG1iZ_awwaUAd",
       "legacyEventId": "0B00649CB2276143",
       "name": "The Menzingers: Everything I Ever Saw North American Tour",
@@ -3908,39 +2392,6 @@
         }
       ],
       "searchText": "kanan gill not this again wilbur theatre parking is available at the link below the wilbur boston ma us kanan gill"
-    },
-    {
-      "id": "LvZ18QIjbi5pK48VrcfHE",
-      "legacyEventId": "LvZ18QIjbi5pK48VrcfHE",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T23:00:00Z",
-      "endDateTime": "2026-10-05T01:00:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience an all inclusive halloween adventure packed with new attractions spooky surprises family activities and haunted fun all included with your forever forest halloween experience ticket no additional cost for listed attractions special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2025 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for s mores and family gathering barns with indoor activities and halloween photo opportunities food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session each session is designed as an approximately 2 hour experience please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday amp saturday 6 30 pm and 8 00 pm sunday 5 30 pm and 7 30 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas if you are looking for the scariest experience please book the later time slot 7 30 pm on sundays or 8 00 pm on fridays and saturdays guests may stay until closing time at 9 30 pm parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
     },
     {
       "id": "17F8v0G65SCFSSj",
@@ -53981,49 +52432,6 @@
         }
       ],
       "searchText": "criminal presents an evening with phoebe judge the premise of the podcast criminal has always been to tell stories about people who ve done wrong been wronged or gotten caught somewhere in the middle in this all new intimate and darkly funny show host phoebe judge tells those stories about herself and the people she loves growing up in an eccentric unpredictable family in chicago judge began discovering family secrets judge shares how those secrets have shaped her life including the work she does as a journalist and host of a true crime podcast wilbur theatre parking is available at the link below the wilbur boston ma us criminal podcast"
-    },
-    {
-      "id": "17k8v0G651KYdJM",
-      "legacyEventId": "190064B293C039B7",
-      "name": "SiM - HOOMAN WORLD TOUR",
-      "eventUrl": "https://www.ticketmaster.com/sim-hooman-world-tour-tempe-arizona-11-19-2026/event/190064B293C039B7",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-19",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-20T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/755/1166b682-599c-4d3b-96cd-ad37840f1755_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Q067",
-          "name": "SiM",
-          "url": "https://www.ticketmaster.com/sim-tickets/artist/2903865"
-        },
-        {
-          "id": "K8vZ917_pG7",
-          "name": "Zero 9:36",
-          "url": "https://www.ticketmaster.com/zero-936-tickets/artist/2781529"
-        },
-        {
-          "id": "K8vZ917j3yV",
-          "name": "aurorawave",
-          "url": "https://www.ticketmaster.com/aurorawave-tickets/artist/3101055"
-        }
-      ],
-      "searchText": "sim hooman world tour balcony section is 21 only this show is general admission no refunds exchanges all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event marquee theatre tempe az us sim zero 9 36 aurorawave"
     },
     {
       "id": "vvG1zZ_uBNxMju",
@@ -129662,6 +128070,44 @@
         }
       ],
       "searchText": "donny osmond pre show vip experience general admission only an intimate vip experience featuring personal storytelling q a and a special musical moment there will be a meet and greet with donny with a professional photo you can take all the pictures and video you want from your seats post it on social media and have fun with it you will also receive a special vip commemorative laminated pass this preshow experience is located inside the donny preshow vip lounge across from walkons sports bistreaux it can also be accessed through level 2 of the harrah s las vegas self parking garage walkway or via the escalators next to fulton street food hall preshow vip experience start time 6 00pm you will not want to miss donny pre show vip lounge las vegas nv us donny osmond las vegas"
+    },
+    {
+      "id": "vv17OZ_KGkSEW9Wu",
+      "legacyEventId": "0800653CE7F57F4D",
+      "name": "WDZH Presents Fontaines D.C.",
+      "eventUrl": "https://www.ticketmaster.com/wdzh-presents-fontaines-dc-detroit-michigan-04-27-2027/event/0800653CE7F57F4D",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-27",
+      "localTime": "20:00",
+      "startDateTime": "2027-04-28T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/bca/2bbd924a-fead-4c53-b6d6-1ab4d097cbca_SOURCE",
+      "venue": {
+        "id": "KovZpZA6kdtA",
+        "name": "Fox Theatre Detroit",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.338548,
+        "longitude": -83.05207,
+        "street": "2211 Woodward Ave",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9179LP7",
+          "name": "Fontaines D.C.",
+          "url": "https://www.ticketmaster.com/fontaines-dc-tickets/artist/2557986"
+        },
+        {
+          "id": "K8vZ917qNj0",
+          "name": "Westside Cowboy",
+          "url": "https://www.ticketmaster.com/westside-cowboy-tickets/artist/3379484"
+        }
+      ],
+      "searchText": "wdzh presents fontaines d c all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us fontaines d c westside cowboy"
     },
     {
       "id": "1AyZkfKGkelhmvm",
