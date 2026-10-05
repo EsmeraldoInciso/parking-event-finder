@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-04T09:13:15.565Z",
+  "generatedAt": "2026-10-05T09:54:13.929Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-04T08:19:47Z",
-    "numberOfEvents": 106412,
-    "compressedSizeBytes": 83511548,
-    "checksum": "fc06c79aca5dec0069e8573848669b6b"
+    "lastUpdated": "2026-10-05T09:29:19Z",
+    "numberOfEvents": 105462,
+    "compressedSizeBytes": 82717347,
+    "checksum": "cbf6b480e317c538d318455694769c6d"
   },
   "summary": {
-    "parkingEvents": 4212
+    "parkingEvents": 4185
   },
   "diagnostics": {
     "terms": {
-      "olivia": 108,
-      "rodrigo": 92,
+      "olivia": 106,
+      "rodrigo": 90,
       "metallica": 76,
-      "intuit dome": 116,
-      "sphere": 3031,
-      "parking": 7954
+      "intuit dome": 115,
+      "sphere": 3022,
+      "parking": 7880
     },
     "samples": {
       "olivia": [
@@ -1695,1062 +1695,6 @@
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
     },
     {
-      "id": "vv170Z_FGkUx54bG",
-      "legacyEventId": "0900648DA22D560C",
-      "name": "Neverender Festival - 2 Day Pass",
-      "eventUrl": "https://www.ticketmaster.com/neverender-festival-2-day-pass-santa-ana-california-10-03-2026/event/0900648DA22D560C",
-      "resaleEventUrl": null,
-      "status": "offsale",
-      "localDate": "2026-10-03",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a59/7402034d-479c-447a-8d0a-9ac40942da59_SOURCE",
-      "venue": {
-        "id": "KovZ917AJIb",
-        "name": "Observatory Festival Grounds",
-        "city": "Santa Ana",
-        "state": "CA",
-        "country": "US",
-        "latitude": 33.70064,
-        "longitude": -117.91775,
-        "street": "3503 South Harbor Boulevard",
-        "zipCode": "92704",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175Kbf",
-          "name": "Coheed and Cambria",
-          "url": "https://www.ticketmaster.com/coheed-and-cambria-tickets/artist/852827"
-        },
-        {
-          "id": "K8vZ9175gmf",
-          "name": "Circa Survive",
-          "url": "https://www.ticketmaster.com/circa-survive-tickets/artist/978509"
-        },
-        {
-          "id": "K8vZ9171_y7",
-          "name": "Sunny Day Real Estate",
-          "url": "https://www.ticketmaster.com/sunny-day-real-estate-tickets/artist/766668"
-        },
-        {
-          "id": "K8vZ917ou80",
-          "name": "Turnover",
-          "url": "https://www.ticketmaster.com/turnover-tickets/artist/1867411"
-        },
-        {
-          "id": "K8vZ917oNSV",
-          "name": "PUP",
-          "url": "https://www.ticketmaster.com/pup-tickets/artist/709645"
-        },
-        {
-          "id": "K8vZ9175exf",
-          "name": "Thursday",
-          "url": "https://www.ticketmaster.com/thursday-tickets/artist/710435"
-        },
-        {
-          "id": "K8vZ917GwRf",
-          "name": "La Dispute",
-          "url": "https://www.ticketmaster.com/la-dispute-tickets/artist/1480309"
-        },
-        {
-          "id": "K8vZ917bvP0",
-          "name": "Destroy Boys",
-          "url": "https://www.ticketmaster.com/destroy-boys-tickets/artist/2627312"
-        },
-        {
-          "id": "K8vZ91783f7",
-          "name": "Hail the Sun",
-          "url": "https://www.ticketmaster.com/hail-the-sun-tickets/artist/1777787"
-        },
-        {
-          "id": "K8vZ917hx37",
-          "name": "The Prize Fighter Inferno",
-          "url": "https://www.ticketmaster.com/the-prize-fighter-inferno-tickets/artist/3038964"
-        },
-        {
-          "id": "K8vZ9174E07",
-          "name": "Covet",
-          "url": "https://www.ticketmaster.com/covet-tickets/artist/2311230"
-        },
-        {
-          "id": "K8vZ917QIhV",
-          "name": "Rocket",
-          "url": "https://www.ticketmaster.com/rocket-tickets/artist/2913133"
-        },
-        {
-          "id": "K8vZ9179jVV",
-          "name": "Narrow Head",
-          "url": "https://www.ticketmaster.com/narrow-head-tickets/artist/2548892"
-        },
-        {
-          "id": "K8vZ917KFp7",
-          "name": "Joey Eppard",
-          "url": "https://www.ticketmaster.com/joey-eppard-tickets/artist/2080565"
-        },
-        {
-          "id": "K8vZ917LhVf",
-          "name": "Held.",
-          "url": "https://www.ticketmaster.com/held-tickets/artist/4268319"
-        },
-        {
-          "id": "K8vZ917hC6f",
-          "name": "Willowake",
-          "url": "https://www.ticketmaster.com/willowake-tickets/artist/2988165"
-        },
-        {
-          "id": "K8vZ917p890",
-          "name": "Slow Mass",
-          "url": "https://www.ticketmaster.com/slow-mass-tickets/artist/2405206"
-        },
-        {
-          "id": "K8vZ9171jMV",
-          "name": "Elliott",
-          "url": "https://www.ticketmaster.com/elliott-tickets/artist/724553"
-        }
-      ],
-      "searchText": "neverender festival 2 day pass this is an outdoor event this event will be held at the observatory festival grounds in the observatory parking lot 3503 s harbor blvd october 3rd 2026 doors 2 00pm show 3 00pm october 4th 2026 doors 1 00pm show 2 00pm all ages 2 day passes valid for entry for both days of the festival lineup coheed and cambria circa survive sunny day real estate turnover pup thursday la dispute destroy boys hail the sun the prize fighter inferno covet rocket narrow head joey eppard held willowake slow mass observatory festival grounds santa ana ca us coheed and cambria circa survive sunny day real estate turnover pup thursday la dispute destroy boys hail the sun the prize fighter inferno covet rocket narrow head joey eppard held willowake slow mass elliott"
-    },
-    {
-      "id": "rZ7HnEZ1AfGNZV",
-      "legacyEventId": "rZ7HnEZ1AfGNZV",
-      "name": "BEATLES BRUNCH in The CLUB ft. PHIL ANGOTTI & FRIENDS",
-      "eventUrl": "https://www.ticketweb.com/event/beatles-brunch-in-the-club-fitzgeralds-nightclub-tickets/14323034",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-04T17:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/03/95/34_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "beatles brunch in the club ft phil angotti friends fitzgeralds presents beatles brunch ft phil angotti friends 15 seat reserved tables brunch menu by babygold phil angotti is a multi instrumentalist singer and sensitive tough guy songwriter from chicago s southside he rocks your socks off with crazy guitar riffs makes you cry expressing touching lyrics and constantly surprises you with the depth of his musical knowledge known in chicago as rdquo the beatles guy phil consistently draws diverse audiences to beatle shows first when playing with the beatle brothers now with the phil angotti band great moments in vinyl the what4 and as a solo performer phil plays the beatles catalog by heart and from the heart the years of practice listening and learning are evident especially since he is great at taking requests the kinks the zombies the bee gees nick drake and buddy holly all hold special places in his musical mind too phil is the current lead singer and guitar player for material issue a chicago power pop band who made it big in the early 90 s they had videos on mtv when that was cool now known as material reissue opening for the smithereens is one of his favorite moments on stage in fact other great moments in phil include opening for marshall crenshaw richard furay buffalo springfield and eddie money plus the beatles album shows the ahem experience of this guy is key his music came out first on vinyl then cassette 8 track cd s then back to vinyl through all 14 solo albums phil s melody s shine blending cool pop grooves with sweet harmonies he s proven a commitment to his craft and become one of chicago s most beloved artists parking there is street parking within a few blocks along roosevelt rd fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "vvG10Z_GNE_qyl",
-      "legacyEventId": "090064C8E765DE6B",
-      "name": "Neverender Festival - Single Day 10/4",
-      "eventUrl": "https://www.ticketmaster.com/neverender-festival-single-day-104-santa-ana-california-10-04-2026/event/090064C8E765DE6B",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "13:00",
-      "startDateTime": "2026-10-04T20:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/04a/35ee6845-d3ea-4236-a591-ec5540ea004a_SOURCE",
-      "venue": {
-        "id": "KovZ917AJIb",
-        "name": "Observatory Festival Grounds",
-        "city": "Santa Ana",
-        "state": "CA",
-        "country": "US",
-        "latitude": 33.70064,
-        "longitude": -117.91775,
-        "street": "3503 South Harbor Boulevard",
-        "zipCode": "92704",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175gmf",
-          "name": "Circa Survive",
-          "url": "https://www.ticketmaster.com/circa-survive-tickets/artist/978509"
-        },
-        {
-          "id": "K8vZ917oNSV",
-          "name": "PUP",
-          "url": "https://www.ticketmaster.com/pup-tickets/artist/709645"
-        },
-        {
-          "id": "K8vZ9175exf",
-          "name": "Thursday",
-          "url": "https://www.ticketmaster.com/thursday-tickets/artist/710435"
-        },
-        {
-          "id": "K8vZ917GwRf",
-          "name": "La Dispute",
-          "url": "https://www.ticketmaster.com/la-dispute-tickets/artist/1480309"
-        },
-        {
-          "id": "K8vZ917hx37",
-          "name": "The Prize Fighter Inferno",
-          "url": "https://www.ticketmaster.com/the-prize-fighter-inferno-tickets/artist/3038964"
-        },
-        {
-          "id": "K8vZ9174E07",
-          "name": "Covet",
-          "url": "https://www.ticketmaster.com/covet-tickets/artist/2311230"
-        },
-        {
-          "id": "K8vZ917r9a7",
-          "name": "Clarion",
-          "url": "https://www.ticketmaster.com/clarion-tickets/artist/3786699"
-        },
-        {
-          "id": "K8vZ9171jMV",
-          "name": "Elliott",
-          "url": "https://www.ticketmaster.com/elliott-tickets/artist/724553"
-        },
-        {
-          "id": "K8vZ917LhVf",
-          "name": "Held.",
-          "url": "https://www.ticketmaster.com/held-tickets/artist/4268319"
-        },
-        {
-          "id": "K8vZ917p890",
-          "name": "Slow Mass",
-          "url": "https://www.ticketmaster.com/slow-mass-tickets/artist/2405206"
-        }
-      ],
-      "searchText": "neverender festival single day 10 4 this is an outdoor event single day tickets for sunday 10 4 only for 2 day passes or saturday single day tickets please visit the observatory website this event will be held at the observatory festival grounds in the observatory parking lot 3503 s harbor blvd sunday lineup circa survive pup thursday la dispute the prize fighter inferno covet clarion elliott held slow mass doors 1 00pm show 2 00pm all times and supporting acts are subject to change observatory festival grounds santa ana ca us circa survive pup thursday la dispute the prize fighter inferno covet clarion elliott held slow mass"
-    },
-    {
-      "id": "LvZ18QlHzfObxQCASIY-l",
-      "legacyEventId": "LvZ18QlHzfObxQCASIY-l",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "14:00",
-      "startDateTime": "2026-10-04T18:00:00Z",
-      "endDateTime": "2026-10-04T18:20:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "G5vzZ_5C_mzvm",
-      "legacyEventId": "1E0064B399BB806E",
-      "name": "Take Me Home: The Music Of John Denver Starring Jim Curry",
-      "eventUrl": "https://www.ticketmaster.com/take-me-home-the-music-of-boise-idaho-10-04-2026/event/1E0064B399BB806E",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "14:00",
-      "startDateTime": "2026-10-04T20:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/7d3/b8476257-b28b-4bd0-95c1-d654c96fa7d3_SOURCE",
-      "venue": {
-        "id": "KovZpZAE7IFA",
-        "name": "Morrison Center for the Performing Arts",
-        "city": "Boise",
-        "state": "ID",
-        "country": "US",
-        "latitude": 43.606728,
-        "longitude": -116.207386,
-        "street": "2201 W Friendship Ln",
-        "zipCode": "83725",
-        "timezone": "America/Denver"
-      },
-      "attractions": [
-        {
-          "id": "K8vZpZAe6Jlk",
-          "name": "Jim Curry",
-          "url": "https://www.ticketmaster.com/jim-curry-tickets/artist/4467919"
-        }
-      ],
-      "searchText": "take me home the music of john denver starring jim curry all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us jim curry"
-    },
-    {
-      "id": "LvZ18QlHzoCm1vsFts8YI",
-      "legacyEventId": "LvZ18QlHzoCm1vsFts8YI",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "14:00",
-      "startDateTime": "2026-10-04T18:00:00Z",
-      "endDateTime": "2026-10-04T18:45:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzfObxQCASIY-i",
-      "legacyEventId": "LvZ18QlHzfObxQCASIY-i",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "15:00",
-      "startDateTime": "2026-10-04T19:00:00Z",
-      "endDateTime": "2026-10-04T19:20:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzoCm1vsFts8Yt",
-      "legacyEventId": "LvZ18QlHzoCm1vsFts8Yt",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "15:00",
-      "startDateTime": "2026-10-04T19:00:00Z",
-      "endDateTime": "2026-10-04T19:45:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "rZ7HnEZ1AfGMe7",
-      "legacyEventId": "rZ7HnEZ1AfGMe7",
-      "name": "CURTIS SALGADO ALBUM RELEASE SHOW @ FITZGERALDS!",
-      "eventUrl": "https://www.ticketweb.com/event/curtis-salgado-album-release-show-fitzgeralds-nightclub-tickets/14337084",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "16:00",
-      "startDateTime": "2026-10-04T21:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/05/25/24_Edp.jpg?v=6",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "curtis salgado album release show fitzgeralds fitzgeralds nightclub presents curtis salgado legacy rewind live in 25 album release show sunday matinee 25 general admission seated 30 seat reserved tables rdquo glorious and memorable salgado s voice is center stage just as it should be highly recommended blues rhythm uk rdquo salgado s vocals are soulful beauty fresh unexpected authentic percolating perfectly executed simply delicious living blues rdquo salgado inspires chills upbeat and original poignant and wise with a great sense of humor blues music magazine curtis salgado walks onstage tells a room full of strangers he s about to play some blues some rhythm and blues some funk and soul rdquo are you with us music lovers and within three songs the place belongs to him not because of volume because of a voice that can whisper a ballad into absolute silence and then blow the walls out on a deep pocket funk groove thirty seconds later ninety minutes in the audience feels like they went to church that voice has been the throughline for over five decades salgado is a singer songwriter whose work crosses funk soul gospel r b and blues without asking permission from any of them he calls his sound rdquo swinging rhythm and blues funk soul serious pocket billboard calls it rdquo hard nosed blues beautifully nuanced r b phat and funky npr just calls him rdquo an icon grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1AfJ_vK",
-      "legacyEventId": "rZ7HnEZ1AfJ_vK",
-      "name": "Family Fun On the PATIO! MR. DAVE PLAYS DEAD: The Music of the Grateful Dead",
-      "eventUrl": "https://www.ticketweb.com/event/family-fun-on-the-patio-fitzgeralds-patio-tickets/14999053",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "16:00",
-      "startDateTime": "2026-10-04T21:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/27/03_Edp.jpg?v=5",
-      "venue": {
-        "id": "rZ7HnEZ17f7ZP",
-        "name": "FITZGERALDS PATIO",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "family fun on the patio mr dave plays dead the music of the grateful dead live on fitzgeralds patio mr dave plays dead the music of the grateful dead 15 general admission infants 11mo under free this 75 minute psychedelic adventure features the music of the grateful dead for kids join mr dave and a full band featuring janis wallin jordan wilkow mikey schroeder and charley bredrup as they take you on a colorful trip through soundscapes of classic dead tunes and groovy vibes grab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds patio berwyn il us"
-    },
-    {
-      "id": "LvZ18QlHzfObxQCASIY-c",
-      "legacyEventId": "LvZ18QlHzfObxQCASIY-c",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "16:00",
-      "startDateTime": "2026-10-04T20:00:00Z",
-      "endDateTime": "2026-10-04T20:20:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "LvZ18QlHzoCm1vsFts8Yn",
-      "legacyEventId": "LvZ18QlHzoCm1vsFts8Yn",
-      "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "eventUrl": "https://www.universe.com/events/holiday-portraits-capture-the-magic-at-selfie-paradise-museum-tickets-6HVT5N?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "16:00",
-      "startDateTime": "2026-10-04T20:00:00Z",
-      "endDateTime": "2026-10-04T20:45:00Z",
-      "imageUrl": "https://images.universe.com/39c723c9-d5bb-4a06-afad-1fda9ebce4f3/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AYJe",
-        "name": "Selfie Paradise Museum",
-        "city": "Douglasville",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.728206,
-        "longitude": -84.743421,
-        "street": "6580 Douglas Blvd Suite 1000",
-        "zipCode": "30135",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "holiday portraits capture the magic at selfie paradise museum professional holiday photography at your finger tips step into our professional photography studio for an unforgettable holiday photo shoot located inside the mall with free parking this is the perfect opportunity to create last minute memories in a festive setting enjoy unbeatable customer service as our attentive staff helps you navigate multiple themed sets including over eight beautifully decorated christmas trees and traditional holiday backdrops our grinch photos are super fun this event is ideal for couples best friends families and singles looking to capture special moments please note that this experience is designed for scheduled photo shoots only additional guests are not permitted you ll receive your photos and edits on the same day so you can share your joyous moments with family or your social media followers before you even leave plus while you re in the mall why not pick up some cozy pajamas or outfits to enhance your photo experience don t miss out on this chance to create lasting memories in a festive atmosphere selfie paradise museum douglasville ga us"
-    },
-    {
-      "id": "vvG1iZ_awwaUAd",
-      "legacyEventId": "0B00649CB2276143",
-      "name": "The Menzingers: Everything I Ever Saw North American Tour",
-      "eventUrl": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-san-diego-california-10-04-2026/event/0B00649CB2276143",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-05T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/d22/4d7dc9f2-8fe5-4c7a-ac72-1dea31847d22_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GmQ7",
-          "name": "The Menzingers",
-          "url": "https://www.ticketmaster.com/the-menzingers-tickets/artist/1243377"
-        },
-        {
-          "id": "K8vZ9171hyf",
-          "name": "Hot Water Music",
-          "url": "https://www.ticketmaster.com/hot-water-music-tickets/artist/779735"
-        },
-        {
-          "id": "K8vZ917KsnV",
-          "name": "Weakened Friends",
-          "url": "https://www.ticketmaster.com/weakened-friends-tickets/artist/2155462"
-        }
-      ],
-      "searchText": "the menzingers everything i ever saw north american tour doors open 6pm show starts 7pm all ages welcome all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us the menzingers hot water music weakened friends"
-    },
-    {
-      "id": "vvG1IZ_6mMtFE4",
-      "legacyEventId": "0A00647BB7A489D5",
-      "name": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
-      "eventUrl": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-chula-vista-california-10-04-2026/event/0A00647BB7A489D5",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-05T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ea8/fe1025a1-d118-4c3f-b53a-29810fd0bea8_SOURCE",
-      "venue": {
-        "id": "KovZpa2WZe",
-        "name": "North Island Credit Union Amphitheatre",
-        "city": "Chula Vista",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.58830386,
-        "longitude": -117.00640802,
-        "street": "2050 Entertainment Circle",
-        "zipCode": "91911",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917f2N7",
-          "name": "$UICIDEBOY$",
-          "url": "https://www.ticketmaster.com/uicideboy-tickets/artist/2194218"
-        },
-        {
-          "id": "K8vZ917pW90",
-          "name": "Shoreline Mafia",
-          "url": "https://www.ticketmaster.com/shoreline-mafia-tickets/artist/2422656"
-        },
-        {
-          "id": "K8vZ917p7K7",
-          "name": "Shakewell",
-          "url": "https://www.ticketmaster.com/shakewell-tickets/artist/2382468"
-        },
-        {
-          "id": "K8vZ9171bgV",
-          "name": "Drain",
-          "url": "https://www.ticketmaster.com/drain-tickets/artist/4673"
-        },
-        {
-          "id": "K8vZ9173EzV",
-          "name": "Black Kray",
-          "url": "https://www.ticketmaster.com/black-kray-tickets/artist/2011313"
-        },
-        {
-          "id": "K8vZ917q8L7",
-          "name": "$lim Gucci",
-          "url": "https://www.ticketmaster.com/lim-gucci-tickets/artist/3306559"
-        }
-      ],
-      "searchText": "uicideboy present grey day tour 2026 w shoreline mafia more rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance this year for grey day tour 2026 we uicideboy have partnered with plus1 for something very near and dear to us mental health 1 per ticket will be contributed by live nation to our plus1 mental health fund to help those who need support most we are very excited to do this and this is only the beginning of our plans to give back to those that have given us so much www plus1 org north island credit union amphitheatre chula vista ca us uicideboy shoreline mafia shakewell drain black kray lim gucci"
-    },
-    {
-      "id": "rZ7HnEZ1A4Z-qS",
-      "legacyEventId": "rZ7HnEZ1A4Z-qS",
-      "name": "The Return of Damon Wayans",
-      "eventUrl": "https://www.ticketweb.com/event/the-return-of-damon-wayans-blue-note-hawaii-tickets/15021773",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-05T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/cf6/d6da794e-10c4-4702-a9f8-29142eb4ccf6_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171hg7",
-          "name": "Damon Wayans",
-          "url": "https://www.ticketmaster.com/damon-wayans-tickets/artist/806070"
-        }
-      ],
-      "searchText": "the return of damon wayans with opener pepper lamb94 7 kumu blue note comedy series presents the return of damon wayans with opener pepper lamb damon wayans is most fondly remembered for his three seasons as writer and co star on the emmy award winning series in living color there he created sketch characters like rdquo homey the clown rdquo handiman and outrageously gay film critic blaine from rdquo men on film his writing for the series earned him two personal emmy nominations wayans has enjoyed tremendous success in stand up after starting his career in 1982 touring the comedy club circuit he landed a role as a featured player on the famed nbc series saturday night live wayans went on to star in his own critically acclaimed hbo specials one night stand the last stand still standing and wayout ticket 70 95 club policies shows oct 1 3 at 7 pm oct 4 at 6 30pm doors 5 pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us damon wayans"
-    },
-    {
-      "id": "rZ7HnEZ1AfG-Of",
-      "legacyEventId": "rZ7HnEZ1AfG-Of",
-      "name": "Big Band & BBQ: CHICAGO GRANDSTAND",
-      "eventUrl": "https://www.ticketweb.com/event/big-band-bbq-chicago-fitzgeralds-nightclub-tickets/14321814",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-05T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/03/81/64_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "big band bbq chicago grandstand fitzgeralds presents grandstand big band free click book now to make a reservation grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "17A8v0G61Mm1qa2",
-      "legacyEventId": "150064ADEE29D24F",
-      "name": "Rahat Fateh Ali Khan",
-      "eventUrl": "https://www.ticketmaster.com/rahat-fateh-ali-khan-national-harbor-maryland-10-04-2026/event/150064ADEE29D24F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7c1/4ece14b0-06d8-4b5c-867b-1e954f0a77c1_SOURCE",
-      "venue": {
-        "id": "KovZ917A5LV",
-        "name": "The Theater at MGM National Harbor",
-        "city": "National Harbor",
-        "state": "MD",
-        "country": "US",
-        "latitude": 38.791707,
-        "longitude": -77.003002,
-        "street": "101 MGM National Ave",
-        "zipCode": "20745",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9178uNf",
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://www.ticketmaster.com/rahat-fateh-ali-khan-tickets/artist/1273790"
-        }
-      ],
-      "searchText": "rahat fateh ali khan welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us rahat fateh ali khan"
-    },
-    {
-      "id": "vv1AvZk8gGkdPcYMm",
-      "legacyEventId": "01006435E5B70DEE",
-      "name": "Kanan Gill: Not This Again ",
-      "eventUrl": "https://www.ticketmaster.com/kanan-gill-not-this-again-boston-massachusetts-10-04-2026/event/01006435E5B70DEE",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-04T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/608/a6f972d1-ae17-4195-8deb-ae9dcf613608_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179Bgf",
-          "name": "Kanan Gill",
-          "url": "https://www.ticketmaster.com/kanan-gill-tickets/artist/2609193"
-        }
-      ],
-      "searchText": "kanan gill not this again wilbur theatre parking is available at the link below the wilbur boston ma us kanan gill"
-    },
-    {
-      "id": "17F8v0G65SCFSSj",
-      "legacyEventId": "210064BCCE233CDC",
-      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-kansas-city-missouri-10-04-2026/event/210064BCCE233CDC",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-05T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/433/021fc7b3-815d-4f88-9fce-83b31a96d433_SOURCE",
-      "venue": {
-        "id": "KovZ917ASlK",
-        "name": "Morton Amphitheater",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.16288,
-        "longitude": -94.6368,
-        "street": "6150 NW Music Blvd",
-        "zipCode": "64150",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917KBFf",
-          "name": "Bryson Tiller",
-          "url": "https://www.ticketmaster.com/bryson-tiller-tickets/artist/2171167"
-        },
-        {
-          "id": "K8vZ917fb2V",
-          "name": "Majid Jordan",
-          "url": "https://www.ticketmaster.com/majid-jordan-tickets/artist/2213649"
-        },
-        {
-          "id": "K8vZ917ozIV",
-          "name": "Ty Dolla $ign",
-          "url": "https://www.ticketmaster.com/ty-dolla-ign-tickets/artist/1932449"
-        },
-        {
-          "id": "K8vZ917fofV",
-          "name": "Austin Millz",
-          "url": "https://www.ticketmaster.com/austin-millz-tickets/artist/2201141"
-        }
-      ],
-      "searchText": "bryson tiller presents the neo trapsoul tour parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue morton amphitheater kansas city mo us bryson tiller majid jordan ty dolla ign austin millz"
-    },
-    {
-      "id": "vvG1OZ_CJX2UxM",
-      "legacyEventId": "080064E9BE3F68B7",
-      "name": "Mark Farner's American Band",
-      "eventUrl": "https://www.ticketmaster.com/mark-farners-american-band-detroit-michigan-10-04-2026/event/080064E9BE3F68B7",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-04T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5e4/60acf949-f3fb-4024-ba6f-cac0d960e5e4_SOURCE",
-      "venue": {
-        "id": "KovZpZAFAE1A",
-        "name": "Sound Board at MotorCity Casino Hotel",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.339324,
-        "longitude": -83.067158,
-        "street": "2901 Grand River",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171xq0",
-          "name": "Mark Farner",
-          "url": "https://www.ticketmaster.com/mark-farner-tickets/artist/744878"
-        }
-      ],
-      "searchText": "mark farner s american band this is an age restricted event 21 with valid photo id doors open 1 hour before show time guests can enjoy the casino and dining area before doors all seats are reserved all bags are subject to inspection by our security team upon entry all times and lineup are subject to change without notice accessible seating please use the filter seats feature to see wheelchair accessible seats and companion availability please click show accessible seats we are a no smoking or vaping venue smoking area available free and convenient self parking is available sound board at motorcity casino hotel detroit mi us mark farner"
-    },
-    {
-      "id": "vv17fZ_aGkUS8R6v",
-      "legacyEventId": "0500649DB342F1C1",
-      "name": "Robin Trower",
-      "eventUrl": "https://www.ticketmaster.com/robin-trower-northfield-ohio-10-04-2026/event/0500649DB342F1C1",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-04T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a66/3dc47e4b-5b49-4cd6-8d8e-530eaf46aa66_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917131V",
-          "name": "Robin Trower",
-          "url": "https://www.ticketmaster.com/robin-trower-tickets/artist/736349"
-        },
-        {
-          "id": "K8vZ917C7O7",
-          "name": "Strange Vine",
-          "url": "https://www.ticketmaster.com/strange-vine-tickets/artist/1559390"
-        }
-      ],
-      "searchText": "robin trower this is a 21 over all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor dining areas and live harness racing on scheduled nights all seats are reserved no cameras permitted strange vine will also perform support acts subject to change without notice the box office opens at 1 00pm on days of shows for more information call 330 908 7793 there is ample free parking available the closest entrance to center stage is the south entrance northfield park racino center stage northfield oh us robin trower strange vine"
-    },
-    {
-      "id": "vvG1zZ_6XBEcMO",
-      "legacyEventId": "0E00647FBA9EDDE0",
-      "name": "Bleach",
-      "eventUrl": "https://www.ticketmaster.com/bleach-atlanta-georgia-10-04-2026/event/0E00647FBA9EDDE0",
-      "resaleEventUrl": null,
-      "status": "rescheduled",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/715/762cbbcd-ae66-4a74-9fc4-c90f629eb715_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bmKf",
-          "name": "Bleach",
-          "url": "https://www.ticketmaster.com/bleach-tickets/artist/752719"
-        },
-        {
-          "id": "K8vZ917GRw7",
-          "name": "Rookie of the Year",
-          "url": "https://www.ticketmaster.com/rookie-of-the-year-tickets/artist/981795"
-        },
-        {
-          "id": "K8vZ917j9Kf",
-          "name": "Keep Warm",
-          "url": "https://www.ticketmaster.com/keep-warm-tickets/artist/3110391"
-        }
-      ],
-      "searchText": "bleach rival presents bleach w rookie of the year keep warm 30th year anniversary oct 4 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us bleach rookie of the year keep warm"
-    },
-    {
-      "id": "17k8v0G6ulFbnfL",
-      "legacyEventId": "190064DAC862A51F",
-      "name": "Candlebox - Can't Quit You Tour, Fall 2026",
-      "eventUrl": "https://www.ticketmaster.com/candlebox-cant-quit-you-tour-fall-tempe-arizona-10-04-2026/event/190064DAC862A51F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/496/f1676b3a-6bd2-4176-b124-baaad3c7c496_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171fZ7",
-          "name": "Candlebox",
-          "url": "https://www.ticketmaster.com/candlebox-tickets/artist/760552"
-        },
-        {
-          "id": "K8vZ9171Kff",
-          "name": "Sponge",
-          "url": "https://www.ticketmaster.com/sponge-tickets/artist/773248"
-        }
-      ],
-      "searchText": "candlebox can t quit you tour fall 2026 this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used cash only and paid to the parking attendants night of the event marquee theatre tempe az us candlebox sponge"
-    },
-    {
-      "id": "vvG1zZ_a9vI3Lj",
-      "legacyEventId": "0E006495C1A127DC",
-      "name": "Gable Price And Friends",
-      "eventUrl": "https://www.ticketmaster.com/gable-price-and-friends-atlanta-georgia-10-04-2026/event/0E006495C1A127DC",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/7b3/c63e6f63-f003-45ff-bd86-4da6fc0217b3_SOURCE",
-      "venue": {
-        "id": "KovZpZA1tn1A",
-        "name": "The Loft",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St.",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QSf7",
-          "name": "Gable Price And Friends",
-          "url": "https://www.ticketmaster.com/gable-price-and-friends-tickets/artist/2941834"
-        },
-        {
-          "id": "K8vZ917h9Gf",
-          "name": "Stephen Stanley",
-          "url": "https://www.ticketmaster.com/stephen-stanley-tickets/artist/3011518"
-        }
-      ],
-      "searchText": "gable price and friends rival masquerade presents gable price and friends october 4 2026 loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us gable price and friends stephen stanley"
-    },
-    {
-      "id": "vvG1bZ_GCLzIdq",
-      "legacyEventId": "060064C39FE280DD",
-      "name": "Malcolm Todd: Do That Again Tour",
-      "eventUrl": "https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-maryland-heights-missouri-10-04-2026/event/060064C39FE280DD",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/237/2144a2e6-e59d-4ed1-8ae7-ea630b1f4237_SOURCE",
-      "venue": {
-        "id": "KovZ917AxsO",
-        "name": "Saint Louis Music Park",
-        "city": "Maryland Heights",
-        "state": "MO",
-        "country": "US",
-        "latitude": 38.749769,
-        "longitude": -90.47877,
-        "street": "750 Casino Center Dr",
-        "zipCode": "63043",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917jb-V",
-          "name": "Malcolm Todd",
-          "url": "https://www.ticketmaster.com/malcolm-todd-tickets/artist/3112165"
-        },
-        {
-          "id": "K8vZ917r4R0",
-          "name": "54 Ultra",
-          "url": "https://www.ticketmaster.com/54-ultra-tickets/artist/3769314"
-        }
-      ],
-      "searchText": "malcolm todd do that again tour this venue has a clear bag policy and is cashless for concessions and merchandise parking is 20 per vehicle paid on upon arrival to request an interpreter for this show please email slmpquestions oakviewgroup com requests must be placed at least 3 weeks 21 days before the show date saint louis music park maryland heights mo us malcolm todd 54 ultra"
-    },
-    {
-      "id": "vv1AFZkfeGkeiugLT",
-      "legacyEventId": "08006502AC3757FF",
-      "name": "Fall Frenzy",
-      "eventUrl": "https://www.ticketmaster.com/fall-frenzy-detroit-michigan-10-04-2026/event/08006502AC3757FF",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ffd/d3783bd3-fdfc-4761-aef3-619d0f2e2ffd_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917jQGV",
-          "name": "Yung Miami",
-          "url": "https://www.ticketmaster.com/yung-miami-tickets/artist/3115570"
-        },
-        {
-          "id": "K8vZ917jfUf",
-          "name": "BossMan Dlow",
-          "url": "https://www.ticketmaster.com/bossman-dlow-tickets/artist/3103234"
-        },
-        {
-          "id": "K8vZ9179BhV",
-          "name": "DaBaby",
-          "url": "https://www.ticketmaster.com/dababy-tickets/artist/2595444"
-        },
-        {
-          "id": "K8vZ917q0if",
-          "name": "Rio Da Yung Og",
-          "url": "https://www.ticketmaster.com/rio-da-yung-og-tickets/artist/3404189"
-        }
-      ],
-      "searchText": "fall frenzy all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us yung miami bossman dlow dababy rio da yung og"
-    },
-    {
-      "id": "vv1k8Z_8qMG7VNmy",
-      "legacyEventId": "0400650777D23BB9",
-      "name": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "eventUrl": "https://www.ticketmaster.com/fuerza-regida-this-is-our-dream-tinley-park-illinois-10-04-2026/event/0400650777D23BB9",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-04",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-05T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a5b/d253e4da-483a-4720-b191-7c4be1ceca5b_SOURCE",
-      "venue": {
-        "id": "KovZpZAEktFA",
-        "name": "Credit Union 1 Amphitheatre",
-        "city": "Tinley Park",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.5426094,
-        "longitude": -87.7711753,
-        "street": "19100 S Ridgeland",
-        "zipCode": "60477",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179vO0",
-          "name": "Fuerza Regida",
-          "url": "https://www.ticketmaster.com/fuerza-regida-tickets/artist/2499958"
-        }
-      ],
-      "searchText": "fuerza regida this is our dream tour 2026 please note this event is rain or shine parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue credit union 1 amphitheatre tinley park il us fuerza regida"
-    },
-    {
       "id": "LvZ18QlHzfb43T2F_MIA8",
       "legacyEventId": "LvZ18QlHzfb43T2F_MIA8",
       "name": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
@@ -3139,7 +2083,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-10-06T05:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/77/64_Edp.jpg?v=9",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/01/77/64_Edp.jpg?v=10",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -3792,7 +2736,7 @@
       "localTime": "18:30",
       "startDateTime": "2026-10-07T04:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/55/15/63_Edp.jpg?v=9",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/55/15/63_Edp.jpg?v=10",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -3806,7 +2750,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "johnny pemberton blue note comedy seriesjohnny pembertonjohnny pemberton is an actor and stand up comedian starring in the new movie mermaid in theaters now widely known for playing the character bo on nbcs superstore johnny has appeared in the films 21 jump street 22 jump street neighbors 2 the watch ant man action point this is 40 and armando ianuccis oscar nominated film in the loop on the tv side johnny portrays thaddeus in the hit show fallout on amazon prime he also played max in fxs youre the worst the title character on the fox series son of zorn johnny is also a voice artist featured on the animated shows pickle and peanut bobs burgers adventure time middlemost post and most recently netflixs the midnight gospel where he was also a contributing writer johnny also hosts the podcast live to tape with johnny pemberton formerly known as twisting the wind tickets 20 30 club policiesshow 6 30pmdoors 5pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "johnny pemberton blue note comedy series johnny pemberton johnny pemberton is an actor and stand up comedian starring in the new movie mermaid in theaters now widely known for playing the character bo on nbc s superstore johnny has appeared in the films rdquo 21 jump street rdquo 22 jump street rdquo neighbors 2 rdquo the watch rdquo ant man rdquo action point rdquo this is 40 and armando ianucci s oscar nominated film in the loop on the tv side johnny portrays thaddeus in the hit show fallout on amazon prime he also played max in fx s you re the worst the title character on the fox series son of zorn johnny is also a voice artist featured on the animated shows pickle and peanut bob s burgers adventure time rdquo middlemost post and most recently netflix s the midnight gospel where he was also a contributing writer johnny also hosts the podcast rdquo live to tape with johnny pemberton formerly known as rdquo twisting the wind tickets 20 30 club policies show 6 30pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "LvZ18QlHzfb43T2F_MIAi",
@@ -4946,7 +3890,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-10-08T05:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/63/11/73_Edp.jpg?v=9",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/63/11/73_Edp.jpg?v=11",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -5671,7 +4615,7 @@
       "localTime": "18:30",
       "startDateTime": "2026-10-09T04:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -5685,7 +4629,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "hiromi the trio project hiromiover more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process shes earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored dazzling tickets 35 45 club policiesshow 6 30pm 9pmdoors 5pm 8 30pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "hiromi the trio project hiromi over more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process she s earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored rdquo dazzling tickets 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "LvZ18QlHzfb43T2F_MIk1",
@@ -6517,7 +5461,7 @@
       "localTime": "21:00",
       "startDateTime": "2026-10-09T07:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -6531,7 +5475,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "hiromi the trio project hiromiover more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process shes earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored dazzling tickets 35 45 club policiesshow 6 30pm 9pmdoors 5pm 8 30pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "hiromi the trio project hiromi over more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process she s earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored rdquo dazzling tickets 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "LvZ18QlHzfb43T2F_MIkG",
@@ -7314,7 +6258,7 @@
       "localTime": "18:30",
       "startDateTime": "2026-10-10T04:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -7328,7 +6272,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "hiromi the trio project hiromiover more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process shes earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored dazzling tickets 35 45 club policiesshow 6 30pm 9pmdoors 5pm 8 30pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "hiromi the trio project hiromi over more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process she s earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored rdquo dazzling tickets 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "1kAYv0PdGAuxHXK",
@@ -9268,7 +8212,7 @@
       "localTime": "18:30",
       "startDateTime": "2026-10-11T04:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -9282,7 +8226,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "hiromi the trio project hiromiover more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process shes earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored dazzling tickets 35 45 club policiesshow 6 30pm 9pmdoors 5pm 8 30pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "hiromi the trio project hiromi over more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process she s earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored rdquo dazzling tickets 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "LvZ18QIjbtVjtZwZh4hx9",
@@ -10358,7 +9302,7 @@
       "localTime": "21:00",
       "startDateTime": "2026-10-11T07:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/47/01/13_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -10372,7 +9316,7 @@
         "timezone": "Pacific/Honolulu"
       },
       "attractions": [],
-      "searchText": "hiromi the trio project hiromiover more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process shes earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored dazzling tickets 35 45 club policiesshow 6 30pm 9pmdoors 5pm 8 30pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+      "searchText": "hiromi the trio project hiromi over more than 20 years as a recording artist the jazz piano phenomenon hiromi has shifted seamlessly from one spellbinding project to the next in the process she s earned a reputation as one of the most explosive live performers in jazz history and a global ambassador for the art form her many triumphs include an npr tiny desk concert that has racked up 2 million views the opportunity to represent her native japan with a performance at the 2021 summer olympics in tokyo 2024 winner for best music score for the animated feature film blue giant award of the japanese academy and a grammy award for a collaboration with fusion hero stanley clarke her artistry is to borrow a descriptor the new yorker favored rdquo dazzling tickets 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
     },
     {
       "id": "vvG1YZ_CzsMC9p",
@@ -11003,7 +9947,7 @@
           "url": "https://www.ticketmaster.com/augustana-tickets/artist/1001153"
         }
       ],
-      "searchText": "augustana an intimate solo performance of the album in fullaugustanaall the stars and boulevards 20th anniversary an intimate solo performance of the album in fulltwenty years ago augustanas debut album all the stars and boulevards captured hearts everywhere with the breakthrough hit boston and fan favorites like sunday best and stars and boulevards now to celebrate this milestone anniversary vocalist and songwriter dan layus is taking the stage for an intimate solo performanceplaying the entire album from start to finish experience the songs that started it all in their most personal form yet tickets 30 40 club policiesshow 7pmdoors 5pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us augustana"
+      "searchText": "augustana an intimate solo performance of the album in fullaugustana all the stars and boulevards 20th anniversary an intimate solo performance of the album in full twenty years ago augustana s debut album all the stars and boulevards captured hearts everywhere with the breakthrough hit boston and fan favorites like sunday best and stars and boulevards now to celebrate this milestone anniversary vocalist and songwriter dan layus is taking the stage for an intimate solo performance playing the entire album from start to finish experience the songs that started it all in their most personal form yet tickets 30 40 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us augustana"
     },
     {
       "id": "17FOv0G62BcL7EP",
@@ -11811,7 +10755,7 @@
           "url": "https://www.ticketmaster.com/augustana-tickets/artist/1001153"
         }
       ],
-      "searchText": "augustana an intimate solo performance of the album in fullaugustanaall the stars and boulevards 20th anniversary an intimate solo performance of the album in fulltwenty years ago augustanas debut album all the stars and boulevards captured hearts everywhere with the breakthrough hit boston and fan favorites like sunday best and stars and boulevards now to celebrate this milestone anniversary vocalist and songwriter dan layus is taking the stage for an intimate solo performanceplaying the entire album from start to finish experience the songs that started it all in their most personal form yet tickets 30 40 club policiesshow 7pmdoors 5pmseating is first come first served per section 20 minimum per personfull bar dinner menu availableno refunds or exchanges please ensure you purchase tickets for the correct date and time mahalo when all available bar seats are occupied the remaining bar area is sro table seating is all ages bar area is 21 group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources blue note hawaii honolulu hi us augustana"
+      "searchText": "augustana an intimate solo performance of the album in fullaugustana all the stars and boulevards 20th anniversary an intimate solo performance of the album in full twenty years ago augustana s debut album all the stars and boulevards captured hearts everywhere with the breakthrough hit boston and fan favorites like sunday best and stars and boulevards now to celebrate this milestone anniversary vocalist and songwriter dan layus is taking the stage for an intimate solo performance playing the entire album from start to finish experience the songs that started it all in their most personal form yet tickets 30 40 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges please ensure you purchase tickets for the correct date and time mahalo when all available bar seats are occupied the remaining bar area is sro table seating is all ages bar area is 21 group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources blue note hawaii honolulu hi us augustana"
     },
     {
       "id": "LvZ18QlHzfb43T2F_MIkt",
@@ -18455,33 +17399,6 @@
         }
       ],
       "searchText": "after rival presents after fall asleep in the sun tour october 17 2026 the loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us after silverdeer"
-    },
-    {
-      "id": "rZ7HnEZ1AfGPbf",
-      "legacyEventId": "rZ7HnEZ1AfGPbf",
-      "name": "Dan Kelly With Brett Wilson",
-      "eventUrl": "https://www.ticketweb.com/event/dan-kelly-with-brett-wilson-off-the-rails-music-venue-tickets/14325614",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-17",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-18T00:00:00Z",
-      "endDateTime": "2026-10-18T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/21/54_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ1739fP",
-        "name": "Off The Rails Music Venue",
-        "city": "Worcester",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.2666,
-        "longitude": -71.79923,
-        "street": "90 Commercial Street",
-        "zipCode": "01608",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "dan kelly with brett wilson all agesgeneral admission general admission is standing room only reserved table seating upgrade your experience with one of our exclusive bar height tables for two availability is limited to 15 tables per show and reserved table tickets must be purchased as a pair reserved table tickets include two 2 general admission tickets a private bar height table for two full access to the off the rails food menu dedicated table service for food and beverage orders one 1 complimentary parking space per table please present your reserved table ticket to the parking attendant upon arrival for ticketing questions or ada accommodations please contact us at info offtherailsworcester com important information please note restaurant reservations made through toast are not valid event tickets and do not include admission to the music venue restaurant seating does not provide views of the stage or access to ticketed performances if you plan to attend a ticketed event you must purchase an event ticket separately regardless of any restaurant reservation made through toast reserved table tickets purchased through our ticketing platform are the only table reservations that include admission to the performance and seating inside the music venue off the rails music venue worcester ma us"
     },
     {
       "id": "vvG17Z_uCLzmJP",
@@ -121476,6 +120393,39 @@
         }
       ],
       "searchText": "rupaul s drag race werq the world 2027 tour must be ages 18 to attend hard rock live orlando is located at universal orlando s citywalk additional parking fees apply venue doors 7pm show start 8pm for all hard rock shows with a ga floor or ga perimeter there is a designated wheelchair area on the raised perimeter of the main floor guests may arrive at door time and hard rock will escort them to this area and provide a companion seat no backpacks extended lens cameras video cameras ipads allowed inside of venue hard rock live orlando orlando fl us rupaul s drag race werq the world tour rupaul s drag race"
+    },
+    {
+      "id": "vv17fZ_KGkMJgTn1",
+      "legacyEventId": "0500653DE6D7FA8A",
+      "name": "Tyler Farr",
+      "eventUrl": "https://www.ticketmaster.com/tyler-farr-indianapolis-indiana-02-20-2027/event/0500653DE6D7FA8A",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-20",
+      "localTime": "20:45",
+      "startDateTime": "2027-02-21T01:45:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/a49/5856a67d-bfe8-4bda-b6f0-ff45982d6a49_SOURCE",
+      "venue": {
+        "id": "KovZpZAF7AnA",
+        "name": "8 Seconds Saloon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.768343,
+        "longitude": -86.249381,
+        "street": "111 N Lynhurst Dr",
+        "zipCode": "46224",
+        "timezone": "America/Indiana/Indianapolis"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917CPHf",
+          "name": "Tyler Farr",
+          "url": "https://www.ticketmaster.com/tyler-farr-tickets/artist/1605201"
+        }
+      ],
+      "searchText": "tyler farr must be 21 to enter doors 6pm opener 8 45pm headliner 10 30pm free parking no backpacks or large purses bags no male tank tops or sleevless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us tyler farr"
     },
     {
       "id": "1A9ZkffGkdZ5LO4",
