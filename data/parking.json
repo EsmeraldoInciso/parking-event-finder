@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-14T08:17:58.476Z",
+  "generatedAt": "2026-10-15T07:55:33.174Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-14T07:28:09Z",
-    "numberOfEvents": 106869,
-    "compressedSizeBytes": 83619068,
-    "checksum": "e7ded1c5ee7362a24744f50c960bcbf7"
+    "lastUpdated": "2026-10-15T07:24:11Z",
+    "numberOfEvents": 107912,
+    "compressedSizeBytes": 84248203,
+    "checksum": "f15b64577810a3cff422a25b0c3beb12"
   },
   "summary": {
-    "parkingEvents": 2546
+    "parkingEvents": 2535
   },
   "diagnostics": {
     "terms": {
-      "olivia": 96,
+      "olivia": 94,
       "rodrigo": 79,
-      "metallica": 73,
-      "intuit dome": 110,
-      "sphere": 1276,
-      "parking": 6245
+      "metallica": 72,
+      "intuit dome": 109,
+      "sphere": 1272,
+      "parking": 6251
     },
     "samples": {
       "olivia": [
@@ -901,16 +901,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "16vjZbUffG7cHRI",
-          "name": "The Wizard of Oz at Sphere",
-          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-10-14-2026/event/1700636514B7CBE8",
-          "venue": "Sphere",
-          "city": "Las Vegas",
-          "state": "NV",
-          "matchedTerm": "sphere",
-          "matchedAsParking": false
-        },
-        {
           "id": "1avjZ_d7_38ZdGF1",
           "name": "The Wizard of Oz at Sphere",
           "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-11-26-2026/event/1700643119490B79",
@@ -1027,6 +1017,16 @@
           "venue": "ASU Kerr",
           "city": "Scottsdale",
           "state": "AZ",
+          "matchedTerm": "sphere",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1A9ZkffGkecCG0E",
+          "name": "The Wizard of Oz at Sphere",
+          "eventUrl": "https://www.ticketmaster.com/the-wizard-of-oz-at-sphere-las-vegas-nevada-02-04-2027/event/17006514AD38C927",
+          "venue": "Sphere",
+          "city": "Las Vegas",
+          "state": "NV",
           "matchedTerm": "sphere",
           "matchedAsParking": false
         }
@@ -1693,671 +1693,6 @@
         }
       ],
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
-    },
-    {
-      "id": "G5vzZ_k1i5bmm",
-      "legacyEventId": "1E006462AC2D8BAE",
-      "name": "Bluey's Big Play",
-      "eventUrl": "https://www.ticketmaster.com/blueys-big-play-boise-idaho-10-14-2026/event/1E006462AC2D8BAE",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/4d4/d963b745-c842-4a74-8678-58e1508774d4_SOURCE",
-      "venue": {
-        "id": "KovZpZAE7IFA",
-        "name": "Morrison Center for the Performing Arts",
-        "city": "Boise",
-        "state": "ID",
-        "country": "US",
-        "latitude": 43.606728,
-        "longitude": -116.207386,
-        "street": "2201 W Friendship Ln",
-        "zipCode": "83725",
-        "timezone": "America/Denver"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bs90",
-          "name": "Bluey's Big Play",
-          "url": "https://www.ticketmaster.com/blueys-big-play-tickets/artist/2726558"
-        }
-      ],
-      "searchText": "bluey s big play all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us bluey s big play"
-    },
-    {
-      "id": "1AvjZ_3Gknj8aEJ",
-      "legacyEventId": "1700652A9C4099E6",
-      "name": "Pink Ribbon Bowl",
-      "eventUrl": "https://www.ticketmaster.com/pink-ribbon-bowl-reno-nevada-10-14-2026/event/1700652A9C4099E6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-15T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/25d/84e097ab-4aed-4afb-b446-76a5cfe4025d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZ917AcFZ",
-        "name": "National Bowling Stadium",
-        "city": "Reno",
-        "state": "NV",
-        "country": "US",
-        "latitude": 39.52994,
-        "longitude": -119.81321,
-        "street": "300 University Way",
-        "zipCode": "89501",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "pink ribbon bowl each general admission ticket is 50 price reflected at checkout with 1 ticket lane fees and will admit up to 5 people per lane on one ticket shoe rental and bowling balls are included in the price and there is free parking in the nbs lot entrance on 4th street if you would like 1 bowling lane please adjust your cart to purchase if you need more than 4 lanes please contact the ticket office at 775 335 8840 m f 10am 6pm national bowling stadium reno nv us"
-    },
-    {
-      "id": "rZ7HnEZ1Afe8jf",
-      "legacyEventId": "rZ7HnEZ1Afe8jf",
-      "name": "Jake Shimabukuro Solo",
-      "eventUrl": "https://www.ticketweb.com/event/jake-shimabukuro-solo-blue-note-hawaii-tickets/14090714",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-15T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/796/66db7215-d93a-445f-a780-c3ec70626796_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GJYf",
-          "name": "Jake Shimabukuro",
-          "url": "https://www.ticketmaster.com/jake-shimabukuro-tickets/artist/977545"
-        }
-      ],
-      "searchText": "jake shimabukuro solo jake shimabukuro jake shimabukuro is a world renowned ukulele virtuoso whose groundbreaking artistry has redefined the instrument for the 21st century hailed as the rdquo jimi hendrix of the ukulele shimabukuro has captivated audiences across the globe with his masterful technique innovative spirit and deeply expressive performances that seamlessly blend elements of jazz rock classical blues folk and traditional hawaiian music born and raised in honolulu hawai i jake began playing the ukulele at age four quickly developing a unique style that pushed the instrument far beyond its traditional boundaries he first gained international recognition after his jaw dropping rendition of george harrison s rdquo while my guitar gently weeps went viral introducing millions to the ukulele s untapped potential over the course of his career shimabukuro has released numerous acclaimed albums collaborated with an array of legendary artists including bette midler yo yo ma jimmy buffett ziggy marley and mick fleetwood and performed everywhere from the sydney opera house to the hollywood bowl and the kennedy center his most recent projects showcase both his dazzling technical command and his growing focus on emotional storytelling through music beyond the stage jake is a passionate advocate for music education and community outreach frequently performing at schools and benefit concerts to inspire the next generation of musicians whether playing an intimate solo show or headlining with a full band shimabukuro continues to prove that the ukulele is an instrument of infinite possibilities one that speaks a universal language of joy connection and hope tickets 40 50 club policies show 6pm 8 30pm doors 5pm 8pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us jake shimabukuro"
-    },
-    {
-      "id": "vv1AAZkoKGkeP51sc",
-      "legacyEventId": "05006453A52CAC6D",
-      "name": "CeCe Winans - COME WORSHIP! Tour",
-      "eventUrl": "https://www.ticketmaster.com/cece-winans-come-worship-tour-fishers-indiana-10-14-2026/event/05006453A52CAC6D",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-14T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/327/8fad4fb6-48d4-432c-9e9b-59a2ea470327_SOURCE",
-      "venue": {
-        "id": "KovZ917AmVB",
-        "name": "Fishers Event Center",
-        "city": "Fishers",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.9474345,
-        "longitude": -86.0061368,
-        "street": "11000 Stockdale Street",
-        "zipCode": "46037",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91714R0",
-          "name": "CeCe Winans",
-          "url": "https://www.ticketmaster.com/cece-winans-tickets/artist/777488"
-        },
-        {
-          "id": "K8vZ917qrYf",
-          "name": "Charity Gayle",
-          "url": "https://www.ticketmaster.com/charity-gayle-tickets/artist/3345499"
-        },
-        {
-          "id": "K8vZ917_dqf",
-          "name": "Terrian",
-          "url": "https://www.ticketmaster.com/terrian-tickets/artist/2766225"
-        },
-        {
-          "id": "K8vZ917Lpx0",
-          "name": "Red Worship",
-          "url": "https://www.ticketmaster.com/red-worship-tickets/artist/4234764"
-        }
-      ],
-      "searchText": "cece winans come worship tour the come worship tour is an invitation from cece winans to bring together audiences of every generation ethnicity and denomination while worshipping jesus as a unified congregation winans is excited to bring along some of the biggest worship leaders for an evening designed to be unlike anything audiences have experienced before joined by special guest charity gayle whose anthems including thank you jesus for the blood and i speak jesus have become modern worship staples the tour creates a sacred space marked by faith expectancy and unity rounding out the night will be red worship and terrian two of the newest and most powerful voices in worship music doors at 5 30pm purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed all tickets are mobile see fisherseventcenter com for additional venue guidelines fishers event center fishers in us cece winans charity gayle terrian red worship"
-    },
-    {
-      "id": "rZ7HnEZ1AfuFaV",
-      "legacyEventId": "rZ7HnEZ1AfuFaV",
-      "name": "Jazz in the SIDEBAR w/ THE ANDY BROWN TRIO!",
-      "eventUrl": "https://www.ticketweb.com/event/jazz-in-the-sidebar-w-fitzgeralds-sidebar-tickets/14348274",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/37/14_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "jazz in the sidebar w the andy brown trio fitzgeralds sidebar presents the andy brown trio w greg fishman on tenor saxophone and jake vinsel on bass andy brown is a musician based in chicago who specializes in what he calls rdquo old school jazz guitar howard reich in the chicago tribune called him one of chicago s most appealing jazz guitarists uncounted chicago jazz artists have collaborated with brown on club dates and recording sessions and they know better than anyone the depth of his work and unpretentiousness of his manner for all his easy going virtuosity he places the emphasis on musical phrase rather than pyrotechnics andy has made many festival appearances around the world including performances in brazil europe and canada his latest cd is the critically acclaimed 2023 album good atmosphere in this trio setting he ll be joined by two chicago jazz veterans on bass and drums free show click rdquo book now to rsvp for guaranteed entry grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1A4Zp0N",
-      "legacyEventId": "rZ7HnEZ1A4Zp0N",
-      "name": "Boots at the Brewery | Line Dancing",
-      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/15016923",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-14T23:00:00Z",
-      "endDateTime": "2026-10-15T02:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/61/69/73_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17f0uP",
-        "name": "Middle Ages Music Hall",
-        "city": "Syracuse",
-        "state": "NY",
-        "country": "US",
-        "latitude": 43.051315720388,
-        "longitude": -76.16164963558,
-        "street": "120 Wilkinson Street",
-        "zipCode": "13204",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
-    },
-    {
-      "id": "vvG1zZ_uQIL9VV",
-      "legacyEventId": "0E0064D6A87D7D34",
-      "name": "Milo Rossi: Offline and In Person",
-      "eventUrl": "https://www.ticketmaster.com/milo-rossi-offline-and-in-person-atlanta-georgia-10-14-2026/event/0E0064D6A87D7D34",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-14T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "milo rossi offline and in person milo rossi offline and in person october 14 2026 center stage theater reserved seating all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us"
-    },
-    {
-      "id": "vvG1IZbM2SLa8E",
-      "legacyEventId": "0A006373F37C9427",
-      "name": "Los Angeles Football Club vs. Austin FC",
-      "eventUrl": "https://www.ticketmaster.com/los-angeles-football-club-vs-austin-los-angeles-california-10-14-2026/event/0A006373F37C9427",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-15T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7fc/9b98825d-88b7-4a8e-8d6c-799c83ae77fc_SOURCE",
-      "venue": {
-        "id": "KovZ917A3c0",
-        "name": "BMO Stadium",
-        "city": "Los Angeles",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.012879,
-        "longitude": -118.284926,
-        "street": "3939 S. Figueroa St",
-        "zipCode": "90037",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917p0D0",
-          "name": "Los Angeles Football Club",
-          "url": "https://www.ticketmaster.com/los-angeles-football-club-tickets/artist/2451856"
-        },
-        {
-          "id": "K8vZ917_FcV",
-          "name": "Austin FC",
-          "url": "https://www.ticketmaster.com/austin-fc-tickets/artist/2772483"
-        }
-      ],
-      "searchText": "los angeles football club vs austin fc bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https www lafc com stadium clear bag policy for parking information please visit https www lafc com stadium parking bmo stadium los angeles ca us los angeles football club austin fc"
-    },
-    {
-      "id": "rZ7HnEZ1AfFUQ7",
-      "legacyEventId": "rZ7HnEZ1AfFUQ7",
-      "name": "Alien Ant Farm w/ Scarhaven",
-      "eventUrl": "https://www.ticketweb.com/event/alien-ant-farm-w-scarhaven-the-hall-tickets/14236684",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-15T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/3ee/838163ec-b838-4e9b-8d89-a24a2ec303ee_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17feC4",
-        "name": "The Hall",
-        "city": "Little Rock",
-        "state": "AR",
-        "country": "US",
-        "latitude": 34.74113784062877,
-        "longitude": -92.27955864518148,
-        "street": "721 West 9th Street",
-        "zipCode": "72201",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171hOf",
-          "name": "Alien Ant Farm",
-          "url": "https://www.ticketmaster.com/alien-ant-farm-tickets/artist/806857"
-        }
-      ],
-      "searchText": "alien ant farm w scarhaven ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hall is open every friday from 10am 4pm address 721 w 9th st little rock ar 72201 please note the hall is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience the hall little rock ar us alien ant farm"
-    },
-    {
-      "id": "vvG17Z_2MD9WeU",
-      "legacyEventId": "010064FDFB5FD0B6",
-      "name": "Erin French: Seize the Supper",
-      "eventUrl": "https://www.ticketmaster.com/erin-french-seize-the-supper-boston-massachusetts-10-14-2026/event/010064FDFB5FD0B6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-14T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/bf8/48be81f5-df39-451e-abbc-2936163b6bf8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "erin french seize the supper every ticket comes with a copy of erin french s new book the lost kitchen volume 3 seize the supper books will be distributed at the event wilbur theatre parking is available at the link below the wilbur boston ma us"
-    },
-    {
-      "id": "17AYv0G6GQo1ygO",
-      "legacyEventId": "170064C6912B9D60",
-      "name": "Pouya",
-      "eventUrl": "https://www.ticketmaster.com/pouya-las-vegas-nevada-10-14-2026/event/170064C6912B9D60",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-15T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/9fd/12d38709-d7b1-4f7b-9a55-a583f16c99fd_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917u_4V",
-          "name": "Pouya",
-          "url": "https://www.ticketmaster.com/pouya-tickets/artist/1509178"
-        }
-      ],
-      "searchText": "pouya door time 7 30pm show time 8 30pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support tba all support acts are subject to change without notice parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us pouya"
-    },
-    {
-      "id": "1A-ZkC8GkdGDvzq",
-      "legacyEventId": "21006390CCEC1E1D",
-      "name": "Chris Stapleton's All-American Road Show",
-      "eventUrl": "https://www.ticketmaster.com/chris-stapletons-allamerican-road-show-kansas-city-missouri-10-14-2026/event/21006390CCEC1E1D",
-      "resaleEventUrl": null,
-      "status": "rescheduled",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-15T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/c20/b21506f9-d0c6-403c-94ed-03d4a5d93c20_SOURCE",
-      "venue": {
-        "id": "KovZ917ASlK",
-        "name": "Morton Amphitheater",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.16288,
-        "longitude": -94.6368,
-        "street": "6150 NW Music Blvd",
-        "zipCode": "64150",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9178Sb7",
-          "name": "Chris Stapleton",
-          "url": "https://www.ticketmaster.com/chris-stapleton-tickets/artist/1828177"
-        },
-        {
-          "id": "K8vZ917_gff",
-          "name": "Carter Faith",
-          "url": "https://www.ticketmaster.com/carter-faith-tickets/artist/2839584"
-        }
-      ],
-      "searchText": "chris stapleton s all american road show parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue morton amphitheater kansas city mo us chris stapleton carter faith"
-    },
-    {
-      "id": "G5vYZ_uJYaRvU",
-      "legacyEventId": "1C0064D9B026F076",
-      "name": "Water for Elephants (Touring)",
-      "eventUrl": "https://www.ticketmaster.com/water-for-elephants-touring-sacramento-california-10-14-2026/event/1C0064D9B026F076",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-15T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/65f/eb67f402-ccb1-4382-a7a4-0db73bcb365f_SOURCE",
-      "venue": {
-        "id": "KovZ917AJup",
-        "name": "SAFE Credit Union Performing Arts Center",
-        "city": "Sacramento",
-        "state": "CA",
-        "country": "US",
-        "latitude": 38.57741,
-        "longitude": -121.48936,
-        "street": "1301 L St.",
-        "zipCode": "95814",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917rkbV",
-          "name": "Water for Elephants (Touring)",
-          "url": "https://www.ticketmaster.com/water-for-elephants-touring-tickets/artist/3627249"
-        }
-      ],
-      "searchText": "water for elephants touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us water for elephants touring"
-    },
-    {
-      "id": "17k8v0G6CnTpMHG",
-      "legacyEventId": "190064EABF5B7F0C",
-      "name": "Xavier Wulf",
-      "eventUrl": "https://www.ticketmaster.com/xavier-wulf-tempe-arizona-10-14-2026/event/190064EABF5B7F0C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-15T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/8d5/57273730-f629-4aed-994a-ca6a6b8a68d5_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917KyLf",
-          "name": "Xavier Wulf",
-          "url": "https://www.ticketmaster.com/xavier-wulf-tickets/artist/2166592"
-        }
-      ],
-      "searchText": "xavier wulf this event is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event marquee theatre tempe az us xavier wulf"
-    },
-    {
-      "id": "rZ7HnEZ1Af-tjd",
-      "legacyEventId": "rZ7HnEZ1Af-tjd",
-      "name": "Toadies: The Charmer Tour",
-      "eventUrl": "https://www.ticketweb.com/event/toadies-the-charmer-tour-five-tickets/14869703",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/741/baee6151-021c-4463-a432-a78849c32741_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17_tPS",
-        "name": "FIVE",
-        "city": "Jacksonville",
-        "state": "FL",
-        "country": "US",
-        "latitude": 30.314939,
-        "longitude": -81.681258,
-        "street": "1028 Park Street",
-        "zipCode": "32204",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171K47",
-          "name": "Toadies",
-          "url": "https://www.ticketmaster.com/toadies-tickets/artist/764256"
-        },
-        {
-          "id": "K8vZ91719L0",
-          "name": "Local H",
-          "url": "https://www.ticketmaster.com/local-h-tickets/artist/773105"
-        }
-      ],
-      "searchText": "toadies the charmer tour all tickets are general admission standing room only limited seating will be available for mezzanine and projector room suite ticket holders on a first come first served basis the mezzanine and projector room suite are 21 only ticket prices include all fees and taxes tickets purchased in person have reduced fees tickets can be purchased at the five box office every friday 10am 4pm or at tiger records every day from 10am 8pm five box office 1028 park st jacksonville fl 32204tiger records 875 stockton street jacksonville fl 32204 please note five is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter presale tickets are available online only five jacksonville fl us toadies local h"
-    },
-    {
-      "id": "rZ7HnEZ1Af0a1d",
-      "legacyEventId": "rZ7HnEZ1Af0a1d",
-      "name": "Cannons: The Everything Glows Tour",
-      "eventUrl": "https://www.ticketweb.com/event/cannons-the-everything-glows-tour-the-signal-concert-tickets/14909283",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/fc6/3bb1b959-d48a-4ad1-b917-20a58b9a7fc6_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17f0qg",
-        "name": "The Signal - Concert Hall",
-        "city": "Chattanooga",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.03857819061,
-        "longitude": -85.3060519754,
-        "street": "21 Choo Choo Avenue",
-        "zipCode": "37402",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917C2p7",
-          "name": "Cannons",
-          "url": "https://www.ticketmaster.com/cannons-tickets/artist/1574861"
-        },
-        {
-          "id": "K8vZ917_cXf",
-          "name": "Caroline Kingsbury",
-          "url": "https://www.ticketmaster.com/caroline-kingsbury-tickets/artist/2828020"
-        }
-      ],
-      "searchText": "cannons the everything glows tour ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the signal is open every friday from 10am 4pm address 21 choo choo ave chattanooga tn 37402 the mezzanine is 21 only click here for full map image vip 1 cheers with cannons includes one 1 ga floor ticket step into cannons pre show world featuring visual elements inspired by the band join cannons for an exclusive pre show rdquo cheers with cannons to start the night signature pre show drink take home cup one 1 signed merchandise item early entry into the venue commemorative vip laminate lanyard priority merchandise shopping on site vip host limited availability vip 2 priority entry package includes one 1 ga floor ticket early entry into the venue one 1 exclusive merchandise item priority merchandise shopping commemorative vip laminate lanyard on site vip host please thank you s terms and conditions are available here please note the signal is a cashless venue only credit or debit cards are accepted at the bars box office or guest services please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter the signal concert hall chattanooga tn us cannons caroline kingsbury"
-    },
-    {
-      "id": "vvG1zZ_23TrBPO",
-      "legacyEventId": "0E0064F4BF7BA960",
-      "name": "Blessing Offor",
-      "eventUrl": "https://www.ticketmaster.com/blessing-offor-atlanta-georgia-10-14-2026/event/0E0064F4BF7BA960",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/cd3/3d47f6fa-68d3-42ea-87dd-d66c06589cd3_SOURCE",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9173_c0",
-          "name": "Blessing Offor",
-          "url": "https://www.ticketmaster.com/blessing-offor-tickets/artist/1987157"
-        }
-      ],
-      "searchText": "blessing offor rival presents blessing offor heart so real tour pt 2 october 14 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us blessing offor"
-    },
-    {
-      "id": "17A8v0G6C64_z7Y",
-      "legacyEventId": "150064E1D5678130",
-      "name": "SIN BANDERA - ESCENAS US TOUR",
-      "eventUrl": "https://www.ticketmaster.com/sin-bandera-escenas-us-tour-national-harbor-maryland-10-14-2026/event/150064E1D5678130",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-15T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5c8/ed415c48-2ee7-4110-8bad-70d2770d35c8_SOURCE",
-      "venue": {
-        "id": "KovZ917A5LV",
-        "name": "The Theater at MGM National Harbor",
-        "city": "National Harbor",
-        "state": "MD",
-        "country": "US",
-        "latitude": 38.791707,
-        "longitude": -77.003002,
-        "street": "101 MGM National Ave",
-        "zipCode": "20745",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175Ml7",
-          "name": "Sin Bandera",
-          "url": "https://www.ticketmaster.com/sin-bandera-tickets/artist/849520"
-        }
-      ],
-      "searchText": "sin bandera escenas us tour welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us sin bandera"
-    },
-    {
-      "id": "rZ7HnEZ1AfFkQ7",
-      "legacyEventId": "rZ7HnEZ1AfFkQ7",
-      "name": "Chelsea Wolfe: THE DARK World Tour",
-      "eventUrl": "https://www.ticketweb.com/event/chelsea-wolfe-the-dark-world-marathon-music-works-tickets/14206684",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-15T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/95f/ccb32a59-e841-4ad2-a6e1-337bd35fa95f_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178dk4",
-        "name": "Marathon Music Works",
-        "city": "Nashville",
-        "state": "TN",
-        "country": "US",
-        "latitude": 36.164081,
-        "longitude": -86.796961,
-        "street": "1402 Clinton St",
-        "zipCode": "37203",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917ugK7",
-          "name": "Chelsea Wolfe",
-          "url": "https://www.ticketmaster.com/chelsea-wolfe-tickets/artist/1540638"
-        }
-      ],
-      "searchText": "chelsea wolfe the dark world tour this is a general admission seated standing event seats in seated sections are all first come first serve within your purchased section ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at marathon music works is open every friday from 10am 4pm address 1402 clinton st nashville tn 37203 vip 1 intention incantation experience one front row ticket participate in a small group ritual intention setting circle led by chelsea fans are encouraged to bring a small piece of paper with something they want to let go of written on it these items will be kept with chelsea until the tour concludes where she will perform a ritual burning of them on video one photo with chelsea on your personal device one curated charm bag with items chosen by chelsea wolfe autographed album post card pre signed by chelsea wolfe one commemorative incantation laminate on site perks such as priority check in dedicated support staff and a priority lane into the venue before public doors where available vip 2 manifestation realization package one gold circle ticket fans are encouraged to bring a small piece of paper with something they want to manifest or let go of written on it these items will be kept with chelsea until the tour concludes where she will perform a ritual burning of them on video one curated charm bag with items chosen by chelsea wolfe one commemorative incantation laminate on site perks such as priority check in dedicated support staff and a priority lane into the venue before public doors where available if you already have a ticket to the show you can purchase ticketless vip upgrades here does not include a ticket you must have a ticket to the show to participate in vip please note marathon music works is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience marathon music works nashville tn us chelsea wolfe"
-    },
-    {
-      "id": "rZ7HnEZ1Afe8j0",
-      "legacyEventId": "rZ7HnEZ1Afe8j0",
-      "name": "Jake Shimabukuro Solo",
-      "eventUrl": "https://www.ticketweb.com/event/jake-shimabukuro-solo-blue-note-hawaii-tickets/14090724",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-14",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-15T06:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/796/66db7215-d93a-445f-a780-c3ec70626796_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GJYf",
-          "name": "Jake Shimabukuro",
-          "url": "https://www.ticketmaster.com/jake-shimabukuro-tickets/artist/977545"
-        }
-      ],
-      "searchText": "jake shimabukuro solo jake shimabukuro jake shimabukuro is a world renowned ukulele virtuoso whose groundbreaking artistry has redefined the instrument for the 21st century hailed as the rdquo jimi hendrix of the ukulele shimabukuro has captivated audiences across the globe with his masterful technique innovative spirit and deeply expressive performances that seamlessly blend elements of jazz rock classical blues folk and traditional hawaiian music born and raised in honolulu hawai i jake began playing the ukulele at age four quickly developing a unique style that pushed the instrument far beyond its traditional boundaries he first gained international recognition after his jaw dropping rendition of george harrison s rdquo while my guitar gently weeps went viral introducing millions to the ukulele s untapped potential over the course of his career shimabukuro has released numerous acclaimed albums collaborated with an array of legendary artists including bette midler yo yo ma jimmy buffett ziggy marley and mick fleetwood and performed everywhere from the sydney opera house to the hollywood bowl and the kennedy center his most recent projects showcase both his dazzling technical command and his growing focus on emotional storytelling through music beyond the stage jake is a passionate advocate for music education and community outreach frequently performing at schools and benefit concerts to inspire the next generation of musicians whether playing an intimate solo show or headlining with a full band shimabukuro continues to prove that the ukulele is an instrument of infinite possibilities one that speaks a universal language of joy connection and hope tickets 40 50 club policies show 6pm 8 30pm doors 5pm 8pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us jake shimabukuro"
     },
     {
       "id": "G5vYZ_uJY1LvH",
@@ -3755,8 +3090,8 @@
     {
       "id": "vvG1iZ_f90Bqe3",
       "legacyEventId": "0B006545E4E9D092",
-      "name": " Frank Carter & Sex Pistols",
-      "eventUrl": "https://www.ticketmaster.com/frank-carter-sex-pistols-san-diego-california-10-16-2026/event/0B006545E4E9D092",
+      "name": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
+      "eventUrl": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-san-diego-california-10-16-2026/event/0B006545E4E9D092",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2026-10-16",
@@ -3788,7 +3123,7 @@
           "url": "https://www.ticketmaster.com/militarie-gun-tickets/artist/2841939"
         }
       ],
-      "searchText": "frank carter sex pistols doors open 7 30pm show starts 8 30pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us sex pistols frank carter militarie gun"
+      "searchText": "sex pistols steve jones paul cook glen matlock feat frank carter doors open 7 30pm show starts 8 30pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us sex pistols frank carter militarie gun"
     },
     {
       "id": "LvZ18QilOj9poXqR1Gqw4",
@@ -3882,7 +3217,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-10-17T03:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/35/23/83_Edp.jpg?v=13",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/35/23/83_Edp.jpg?v=14",
       "venue": {
         "id": "rZ7HnEZ178V74",
         "name": "SOMA - Mainstage",
@@ -4156,7 +3491,7 @@
       "name": "KPop After Dark",
       "eventUrl": "https://www.ticketmaster.com/kpop-after-dark-atlanta-georgia-10-16-2026/event/0E00646DA76583E2",
       "resaleEventUrl": null,
-      "status": "rescheduled",
+      "status": "cancelled",
       "localDate": "2026-10-16",
       "localTime": "21:00",
       "startDateTime": "2026-10-17T01:00:00Z",
@@ -4334,33 +3669,6 @@
       },
       "attractions": [],
       "searchText": "funk brunch in the club w greg jacks brother help fitzgeralds presents greg jacks brother help seen here inspired by piano greats like dr john professor longhair and allen toussaint greg jacks brother help bring the sights and sounds of new orleans rhythm blues to chicago free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over enjoy brunch from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "G5viZ_oCu-kuB",
-      "legacyEventId": "1B0065138D84637A",
-      "name": "UT Football Park & Ride (UT vs Alabama)",
-      "eventUrl": "https://www.ticketmaster.com/ut-football-park-ride-ut-vs-knoxville-tennessee-10-17-2026/event/1B0065138D84637A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-17",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-17T16:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/200/04b9ed0c-dfef-41d8-ac02-70f2e6724200_SOURCE",
-      "venue": {
-        "id": "KovZpZA1JnFA",
-        "name": "Knoxville Civic Coliseum",
-        "city": "Knoxville",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.965101,
-        "longitude": -83.911513,
-        "street": "500 Howard Baker Jr. Drive",
-        "zipCode": "37915",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "ut football park ride ut vs alabama park ride is provides vehicle parking along with shuttle service to and from the kcac garages to neyland stadium shuttle start approximately 3 hours before kick off until kick off return service will begin at the end of the 3 quarter parking garages open approximately 4 hours before kick off parking and ride is per vehicle and includes everyone in the vehicle for the shuttle no refund or exchange knoxville civic coliseum knoxville tn us"
     },
     {
       "id": "G5vYZ_uJY5Te4",
@@ -4552,7 +3860,7 @@
           "url": "https://www.ticketmaster.com/tumua-tickets/artist/2911369"
         }
       ],
-      "searchText": "tumua das how tour doors 6pm show 7pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us tumua"
+      "searchText": "tumua das how tour doors 6pm show 7pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly bags larger than 12 x 6 x 12 inches backpacks will not be allowed purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase stay for our post show fiesta in our plaza at the end of the show with 5 tj dogs music drink food specials the magnolia el cajon ca us tumua"
     },
     {
       "id": "rZ7HnEZ1AfuI40",
@@ -5382,7 +4690,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-10-18T00:00:00Z",
       "endDateTime": "2026-10-18T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/63/91/43_Edp.jpg?v=14",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/63/91/43_Edp.jpg?v=15",
       "venue": {
         "id": "rZ7HnEZ17r9uV",
         "name": "Off The Rails Boston",
@@ -5844,10 +5152,10 @@
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2026-10-18",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-18T17:00:00Z",
+      "localTime": "12:30",
+      "startDateTime": "2026-10-18T17:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/52/44_Edp.jpg?v=4",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/04/52/44_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -6378,7 +5686,7 @@
           "url": "https://www.ticketmaster.com/militarie-gun-tickets/artist/2841939"
         }
       ],
-      "searchText": "sex pistols steve jones paul cook glen matlock feat frank carter all ages doors 7 30 pm show 8 30 pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed hollywood palladium hollywood ca us frank carter and paul cook steve jones glen matlock of the sex pistols sex pistols frank carter sex pistols militarie gun"
+      "searchText": "sex pistols steve jones paul cook glen matlock feat frank carter all ages welcome doors 7 30 pm show 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 6pm hollywood palladium hollywood ca us frank carter and paul cook steve jones glen matlock of the sex pistols sex pistols frank carter sex pistols militarie gun"
     },
     {
       "id": "rZ7HnEZ1Afx7Fd",
@@ -8055,7 +7363,7 @@
       "localTime": "21:00",
       "startDateTime": "2026-10-23T02:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/03/90/04_Edp.jpg?v=5",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/03/90/04_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -9483,7 +8791,7 @@
       "localTime": "12:00",
       "startDateTime": "2026-10-24T19:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/57/83_Edp.jpg?v=41",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/57/83_Edp.jpg?v=42",
       "venue": {
         "id": "rZ7HnEZ17Ayu0",
         "name": "Hollywood Forever",
@@ -9497,7 +8805,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "dia de los muertos 27th annual dia de los muertos at hollywood forever all under one sky bajo un mismo cielo saturday october 24th 2026 noon midnight featuring dannylux trish toledo tropa magica los shadows dj que madre dj joaqu n dj dro barlo there are 3 windows of admission 12pm 4pm 4pm 7pm 7pm 11pm you may stay past your window of admisssion event website ladayofthedead com altars exhibition ceremonial procession musical performances on the muerte y tradicion stage childrens plaza cathedral art exhibition aztecs folklorico arts crafts vendors culinary vendors awards altars winner 5 000 2nd 3500 3rd 2500 costumes winner 1000 runner up 500 vip tickets the vip ticket gives you access to the vip oasis in the middle of the event which includes premium food and beverage vendors for purchase lounge seating private elevated main stage viewing area cell phone charging free wifi and premium face painting vendors for purchase free beverage tastings on 1st come 1st served basis visit ladayofthedead com for full schedule of events lineup and schedule subject to change at any time no refunds no exchanges 5 and up require tickets parking parking in structures on lemon grove and van ness and additional locations more details emailed to ticket purchasers prior to event date about the theme this past year has reminded us how deeply our lives are woven together across the world families have endured separation communities have mourned and many have searched for peace comfort and healing in times of sorrow we are reminded that suffering knows no borders and neither should compassion yet even in difficult times there are moments that draw us closer through music art tradition celebration and remembrance people gather across cultures and continents to share joy offer comfort and dream together in those moments the distance between us seems to disappear revealing the bonds that have always connected us the same sun rises over each of us the same moon watches over those we love the same stars that guided our ancestors continue to shine above us today wherever we may stand upon this earth we are all bajo un mismo cielo under one sky dia de los muertos reminds us that love knows no borders memory belongs to us all grief belongs to us all hope belongs to us all when we gather to honor our ancestors we are reminded that every life leaves behind a story and every story is worthy of being remembered hollywood forever los angeles ca us"
+      "searchText": "dia de los muertos 27th annual dia de los muertos at hollywood forever all under one sky bajo un mismo cielo saturday october 24th 2026 noon midnight featuring dannylux trish toledo tropa magica los shadows dj que madre dj joaqu n dj dro barlo there are 3 windows of admission 12pm 4pm 4pm 7pm 7pm 11pm you may stay past your window of admisssion event website ladayofthedead com altars exhibition ceremonial procession musical performances on the muerte y tradicion stage childrens plaza cathedral art exhibition aztecs folklorico arts crafts vendors culinary vendors awards altars winner 5 000 2nd 3500 3rd 2500 costumes winner 1000 runner up 500 vip tickets the vip ticket gives you access to the vip oasis in the middle of the event which includes premium food and beverage vendors for purchase lounge seating private main stage viewing area cell phone charging free wifi and premium face painting vendors for purchase free beverage tastings on 1st come 1st served basis visit ladayofthedead com for full schedule of events lineup and schedule subject to change at any time no refunds no exchanges 5 and up require tickets parking parking in structures on lemon grove and van ness and additional locations more details emailed to ticket purchasers prior to event date about the theme this past year has reminded us how deeply our lives are woven together across the world families have endured separation communities have mourned and many have searched for peace comfort and healing in times of sorrow we are reminded that suffering knows no borders and neither should compassion yet even in difficult times there are moments that draw us closer through music art tradition celebration and remembrance people gather across cultures and continents to share joy offer comfort and dream together in those moments the distance between us seems to disappear revealing the bonds that have always connected us the same sun rises over each of us the same moon watches over those we love the same stars that guided our ancestors continue to shine above us today wherever we may stand upon this earth we are all bajo un mismo cielo under one sky dia de los muertos reminds us that love knows no borders memory belongs to us all grief belongs to us all hope belongs to us all when we gather to honor our ancestors we are reminded that every life leaves behind a story and every story is worthy of being remembered hollywood forever los angeles ca us"
     },
     {
       "id": "G5vzZ_ANvt5lw",
@@ -10868,6 +10176,39 @@
       "searchText": "halloween spooktacular hot air balloon festival join us on sunday october 24th from 5 00 pm 8 30 pm for the valley s favorite halloween celebration bring the whole family for an unforgettable evening filled with fun in a safe festive atmosphere experience over 15 spectacular hot air balloons on display while trick or treaters collect candy from more than 2 000 pounds of sweet treats enjoy delicious food and beverages shop the vendor market and explore our free kids zone featuring 30 inflatable slides games and attractions the excitement continues with live magic show tethered hot air balloon rides free parking balloon rides available for an additional charge no costume contest or spook trail on sunday please note hot air balloons may begin deflating before the event officially ends due to weather and operational requirements no refunds will be issued for guests arriving after balloons have been deflated so we strongly encourage arriving early for the full experience ticket prices will increase as the event date approaches so purchase today for the best value children 2 and under are free day of event tickets will only be available online using a credit or debit card there will be no on site box office this event is rain or shine https azspooktacular com salt river fields at talking stick scottsdale az us"
     },
     {
+      "id": "LvZ18QlQ895y1fN87Cgc4",
+      "legacyEventId": "LvZ18QlQ895y1fN87Cgc4",
+      "name": "Yellow Cup Weekend- Yelloween-BOSTON",
+      "eventUrl": "https://www.universe.com/events/yellow-cup-weekend-yelloween-boston-tickets-4YNPZL?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-10-25",
+      "localTime": "17:00",
+      "startDateTime": "2026-10-25T21:00:00Z",
+      "endDateTime": "2026-10-26T02:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3cf/353b6593-6e7a-4180-a9f6-641c0b3c03cf_SOURCE",
+      "venue": {
+        "id": "KovZpZAFknIA",
+        "name": "Royale Boston",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "latitude": 42.3497559,
+        "longitude": -71.0653165,
+        "street": "279 Tremont St",
+        "zipCode": "02116",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917Qn9V",
+          "name": "Yellow Cup Weekend",
+          "url": "https://www.ticketmaster.com/yellow-cup-weekend-tickets/artist/2918536"
+        }
+      ],
+      "searchText": "yellow cup weekend yelloween boston yelloween is back a halloween costume party this year we will be taking over royale boston for an unforgetable night of dj s yellow cups costumes and vibes indoor event 21 only the dress code is a costume think halloween mask are allowed security will ask to view your face for id purposes toy weapons are not allowed no toy gun or sword props doors close at 8 00pm cash bar credit cards amp cash marijuana and vaping are not allowed click here for airport parking and hotel detalis vip table service avaialable click for more details tickets are non refundable no door tickets are available typical etiquette for house parties is to write your name on a cup so everyone knows it s yours we took it up a notch and decided to ditch just a sharpie and added decorating your cup when guests arrive they can choose from stickers and markers to personalize their cup and sign other cups as well what s in your cup is in your cup the musical experience includes 6 genres that represent the cultural diversity of our guests as we love to say bring a friend catch a vibe afrobeats hip hop r amp b dembow soca and dancehall yellowcupweekend this is a 21 event with valid form of identification for us citizens a valid dmv issued photo id or usa passport is required for international guests a valid passport is required all items brought onto the property are subject to inspection lighters cigarettes amp vapes are prohibited in the venue there is no smoking or vaping allowed at the venue per the city of boston ordinances all bags larger than 10 in x 9 in backpacks professional cameras i e detachable lenses video equipment luggage amp like articles are strictly prohibited any medication must be accompanied with proof of prescription by attending yellow cup weekend photography audio and video recording may occur by entering the event premises you consent to interview s photography audio recording video recording and its their release publication exhibition or reproduction to be used for news web casts promotional purposes advertising inclusion on websites social media or any other purpose by yellow cup weekend and its affiliates and representatives images photos and or videos may be used to promote similar yellow cup weekend events in the future highlight the event and exhibit the capabilities of yellow cup weekend you release yellow cup weekend and its officers faq i m not attending anymore can i change the name on my ticket names on the ticket do not need to match the guest you can give your ticket to whomever you choose as long as they are 21 is the event still going on if it rains yes can i bring my professional camera outside professional photography is not allowed you may take photos with your mobile device employees and each and all persons involved from any liability connected with the taking recording digitizing or publication and use of interviews photographs computer images video and or sound recordings royale boston boston ma us yellow cup weekend"
+    },
+    {
       "id": "LvZ18QIQn8g6FIorUA-pT",
       "legacyEventId": "LvZ18QIQn8g6FIorUA-pT",
       "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
@@ -12030,6 +11371,33 @@
       "searchText": "the carpenters songbook a live celebration to become a member of the broward center including the parker and receive access to great seats and presales visit browardcenter org entourage today visit parkerplayhouse com visit before you go to the show for info on parking dining concessions and premium experiences the haller club and the place to be everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales wells hall at the parker ft lauderdale fl us the carpenters songbook a live celebration"
     },
     {
+      "id": "G5vYZ_fMlfyGq",
+      "legacyEventId": "1C00654DEB53931D",
+      "name": "Sacramento Speakers Series Presents Liz Cheney",
+      "eventUrl": "https://www.ticketmaster.com/sacramento-speakers-series-presents-liz-cheney-sacramento-california-10-28-2026/event/1C00654DEB53931D",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-10-28",
+      "localTime": "19:30",
+      "startDateTime": "2026-10-29T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/c73/c57dfe9d-70c0-4984-8d6c-d71ba1d8dc73_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [],
+      "searchText": "sacramento speakers series presents liz cheney for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us"
+    },
+    {
       "id": "vvG1zZ_akrNaWr",
       "legacyEventId": "0E0064919E8C9F5E",
       "name": "Low Cut Connie",
@@ -12650,7 +12018,7 @@
       "localTime": "20:30",
       "startDateTime": "2026-10-30T01:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/05/72/94_Edp.jpg?v=5",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/05/72/94_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -13582,7 +12950,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-10-31T00:00:00Z",
       "endDateTime": "2026-10-31T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/12/96/76/84_Edp.jpg?v=9",
+      "imageUrl": "https://i.ticketweb.com/i/00/12/96/76/84_Edp.jpg?v=10",
       "venue": {
         "id": "rZ7HnEZ17r9uV",
         "name": "Off The Rails Boston",
@@ -14206,6 +13574,39 @@
         }
       ],
       "searchText": "moenia maria jose us tour 2026 doors 7pm show 8pm times and support acts are subject to change all ages welcome bags larger than 12 x 6 x 12 inches backpacks will not be allowed tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase stay for our post show fiesta in our plaza at the end of the show with 5 tj dogs live mariachi drink specials the magnolia el cajon ca us moenia maria jose"
+    },
+    {
+      "id": "rZ7HnEZ1AfuMQ7",
+      "legacyEventId": "rZ7HnEZ1AfuMQ7",
+      "name": "Lazarus - Halloween Show",
+      "eventUrl": "https://www.ticketweb.com/event/lazarus-halloween-show-off-the-rails-boston-tickets/14377684",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-10-31",
+      "localTime": "19:30",
+      "startDateTime": "2026-10-31T23:30:00Z",
+      "endDateTime": "2026-11-01T03:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/08a/56edfd15-464b-45fa-b356-e2702c84608a_SOURCE",
+      "venue": {
+        "id": "rZ7HnEZ17r9uV",
+        "name": "Off The Rails Boston",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "latitude": 42.3577549,
+        "longitude": -71.0591691,
+        "street": "25 School Street",
+        "zipCode": "02108",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917u0J0",
+          "name": "Lazarus",
+          "url": "https://www.ticketmaster.com/lazarus-tickets/artist/1522046"
+        }
+      ],
+      "searchText": "lazarus halloween show general admission general admission is standing room only for ticketing questions or ada accommodations please contact us at info otrboston com please note restaurant reservations made are not valid event tickets and do not include admission to the show if you plan to attend a ticketed event you must purchase an event ticket separately know before you go off the rails boston doors 6 30 pm show 7 30 pm address 25 school st boston dining before the show the last dinner reservations are at 5 pm have your ticket ready at check in and collect a wristband from security before entering a valid id is required to purchase alcohol regardless of age cash and cards are accepted large bags and backpacks are not permitted coat check is not available closest parking pi alley garage 275 washington st taking the t exit at state or downtown crossing off the rails boston boston ma us lazarus"
     },
     {
       "id": "rZ7HnEZ1A4Z7bN",
@@ -17539,33 +16940,6 @@
       "searchText": "kissimmee home holiday market saturday get ready for a weekend filled with holiday shopping home inspiration unique gifts seasonal decor specialty vendors and so much more all under one roof whether you are looking to get a jump start on your holiday shopping find something special for your home or simply enjoy a festive weekend out with family and friends this is an event you will not want to miss event time saturday 10 00am 6 00pm children 16 and under are free parking day of show is 15 00 events center at osceola heritage park kissimmee fl us kissimmee home holiday market"
     },
     {
-      "id": "G5viZ_oCuxpCe",
-      "legacyEventId": "1B0065138D896382",
-      "name": "UT Football Park & Ride (UT vs Kentucky)",
-      "eventUrl": "https://www.ticketmaster.com/ut-football-park-ride-ut-vs-knoxville-tennessee-11-07-2026/event/1B0065138D896382",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-07",
-      "localTime": "12:00",
-      "startDateTime": "2026-11-07T17:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/bdb/7299a1d7-345a-470a-82e5-89d3a6b93bdb_SOURCE",
-      "venue": {
-        "id": "KovZpZA1JnFA",
-        "name": "Knoxville Civic Coliseum",
-        "city": "Knoxville",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.965101,
-        "longitude": -83.911513,
-        "street": "500 Howard Baker Jr. Drive",
-        "zipCode": "37915",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "ut football park ride ut vs kentucky park ride is provides vehicle parking along with shuttle service to and from the kcac garages to neyland stadium shuttle start approximately 3 hours before kick off until kick off return service will begin at the end of the 3 quarter parking garages open approximately 4 hours before kick off parking and ride is per vehicle and includes everyone in the vehicle for the shuttle no refund or exchange knoxville civic coliseum knoxville tn us"
-    },
-    {
       "id": "vvG1VZbsQshS8N",
       "legacyEventId": "0D006316B16F3423",
       "name": "NASCAR O'Reilly Auto Parts Series Championship",
@@ -18084,7 +17458,7 @@
       "name": "Blade Runner Live",
       "eventUrl": "https://www.ticketmaster.com/blade-runner-live-northfield-ohio-11-07-2026/event/050064A1DF2F9A0E",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "cancelled",
       "localDate": "2026-11-07",
       "localTime": "20:00",
       "startDateTime": "2026-11-08T01:00:00Z",
@@ -18280,6 +17654,33 @@
         }
       ],
       "searchText": "kashmir featuring jean violet the spirit of led zeppelin live kashmir featuring jean violet is more than just a tribute band it is an immersive experience that brings the iconic music of led zeppelin to life founded by vocalist jean violet in 2000 the band has evolved from performing on the streets of new york city to becoming one of the premier led zeppelin tribute acts captivating audiences both nationally and internationally when you attend a kashmir concert you are not just listening to music you are experiencing the mythos and magic of led zeppelin the band performs both the legendary hits and deep cuts that have resonated with fans for decades the show is a visual and auditory feast offering the dynamic stage presence and musical prowess that one would expect from a true led zeppelin performance website https ledzeppelintribute com video https vimeo com 1041970633 fl pl fe sh doors 7pm show 8pm 18 box office opens 5 30pm day of show free parking located behind the theatre all tickets include access to main level dance floor second floor balcony seating 24 advance 30 day of show includes access to the main level dance floor second floor balcony seating seating is unassigned ada seating 24 advance 30 day of show includes access to the main level dance floor special seating for guests with disabilities seating is unassigned main floor single seating 31 advance 37 day of show includes access to the main level dance floor a main floor table seat seating is unassigned main floor table seats 8 max 250 includes admission for 8 access to the main level dance floor an assigned reserved table on the main floor opera box seats 4 max 225 includes admission for 4 vip seating cocktail service note 1 ticket provided per main floor table or opera box incomplete parties can be seated please have ticket holders name available check in is located inside the main lobby tables will be assigned by the theatre to purchase more than 3 main floor tables or an ada main floor table please call the theatre to reserve 586 630 0120 sky box 1 250 includes seating and admission for 30 commemorative lanyard for each guest private bar and bartender appetizers available call for selections and pricing located on the third floor of the theatre to book please call 586 630 0120 or email info theemeraldtheatre com emerald theatre mount clemens mi us kashmir"
+    },
+    {
+      "id": "rZ7HnEZ1AfCe40",
+      "legacyEventId": "rZ7HnEZ1AfCe40",
+      "name": "Louie Bello",
+      "eventUrl": "https://www.ticketweb.com/event/louie-bello-off-the-rails-boston-tickets/14382564",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-07",
+      "localTime": "20:00",
+      "startDateTime": "2026-11-08T01:00:00Z",
+      "endDateTime": "2026-11-08T04:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/78/34_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17r9uV",
+        "name": "Off The Rails Boston",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "latitude": 42.3577549,
+        "longitude": -71.0591691,
+        "street": "25 School Street",
+        "zipCode": "02108",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "louie bello general admission general admission is standing room only for ticketing questions or ada accommodations please contact us at info otrboston com please note restaurant reservations made are not valid event tickets and do not include admission to the show if you plan to attend a ticketed event you must purchase an event ticket separately know before you go off the rails boston doors 7 pm show 8 pm address 25 school st boston dining before the show the last dinner reservations are at 5 pm have your ticket ready at check in and collect a wristband from security before entering a valid id is required to purchase alcohol regardless of age cash and cards are accepted large bags and backpacks are not permitted coat check is not available closest parking pi alley garage 275 washington st taking the t exit at state or downtown crossing off the rails boston boston ma us"
     },
     {
       "id": "rZ7HnEZ1AfeKu0",
@@ -19378,6 +18779,33 @@
         }
       ],
       "searchText": "thomas dolby iconic 80 s recollections tour 2026 w dj vaughn avakian iconic 80 s recollections tour 2026there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 45 adv standing 45 day of standing note tickets available at box office convenience service charges apply for online purchases thomas dolby meet greet package 145 available online only includes one 1 general admission ticket vip early entry into the venue exclusive meet greet with thomas dolby personal photograph with thomas dolby autographed piece of music composed by thomas dolby specially designed record bag official meet greet laminate priority merchandise shopping limited availability table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us thomas dolby"
+    },
+    {
+      "id": "1A9Zk4FGkdpS0oa",
+      "legacyEventId": "17006548D6CE4449",
+      "name": "Veterans Bowl",
+      "eventUrl": "https://www.ticketmaster.com/veterans-bowl-reno-nevada-11-10-2026/event/17006548D6CE4449",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-10",
+      "localTime": "18:00",
+      "startDateTime": "2026-11-11T02:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/f79/7eb00ba3-28d7-4226-98a3-1640af50ff79_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZ917AcFZ",
+        "name": "National Bowling Stadium",
+        "city": "Reno",
+        "state": "NV",
+        "country": "US",
+        "latitude": 39.52994,
+        "longitude": -119.81321,
+        "street": "300 University Way",
+        "zipCode": "89501",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [],
+      "searchText": "veterans bowl each general admission ticket is 50 price reflected at checkout with 1 ticket lane fees and will admit up to 5 people per lane on one ticket shoe rental and bowling balls are included in the price and there is free parking in the nbs lot entrance on 4th street if you would like 1 bowling lane please adjust your cart to purchase if you need more than 4 lanes please contact the ticket office at 775 335 8840 m f 10am 6pm national bowling stadium reno nv us"
     },
     {
       "id": "17FOv0G6G3w_f1c",
@@ -26678,7 +26106,7 @@
       "localTime": "10:15",
       "startDateTime": "2026-11-21T16:15:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/74/84_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/08/74/84_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -26692,7 +26120,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "family fun in the club w mr dave music family friendly at fitzgeralds mr dave music 1 ticket per family 25 imbued with themes of love learning positivity and activity mr dave revs up the fun o meter during his classes and live shows known for creating unbeatable beats melodic elements and poetic rhymes he ll inspire movement from the youngest to the oldest members of the family mr dave s original songs include messages around diversity safety and acceptance plus his catchy tunes mean you and your littles will listen to them over and over again parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
+      "searchText": "family fun in the club w mr dave music family friendly at fitzgeralds mr dave music 10 general admission 1 ticket required per person infants under one year free imbued with themes of love learning positivity and activity mr dave revs up the fun o meter during his classes and live shows known for creating unbeatable beats melodic elements and poetic rhymes he ll inspire movement from the youngest to the oldest members of the family mr dave s original songs include messages around diversity safety and acceptance plus his catchy tunes mean you and your littles will listen to them over and over again parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "rZ7HnEZ1AfuSq0",
@@ -26753,33 +26181,6 @@
         }
       ],
       "searchText": "fort lauderdale children s ballet theatre cinderella to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us fort lauderdale children s ballet theatre"
-    },
-    {
-      "id": "G5viZ_oCuNJC_",
-      "legacyEventId": "1B0065138D8E6399",
-      "name": "UT Football Park & Ride (UT vs LSU)",
-      "eventUrl": "https://www.ticketmaster.com/ut-football-park-ride-ut-vs-knoxville-tennessee-11-21-2026/event/1B0065138D8E6399",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-21",
-      "localTime": "12:00",
-      "startDateTime": "2026-11-21T17:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/27e/84f3eff6-ba25-4bb4-aae6-de1621b2f27e_SOURCE",
-      "venue": {
-        "id": "KovZpZA1JnFA",
-        "name": "Knoxville Civic Coliseum",
-        "city": "Knoxville",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.965101,
-        "longitude": -83.911513,
-        "street": "500 Howard Baker Jr. Drive",
-        "zipCode": "37915",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "ut football park ride ut vs lsu park ride is provides vehicle parking along with shuttle service to and from the kcac garages to neyland stadium shuttle start approximately 3 hours before kick off until kick off return service will begin at the end of the 3 quarter parking garages open approximately 4 hours before kick off parking and ride is per vehicle and includes everyone in the vehicle for the shuttle no refund or exchange knoxville civic coliseum knoxville tn us"
     },
     {
       "id": "vv1AAZkoeGkdsvG2Q",
@@ -33394,7 +32795,7 @@
       "name": "Guaco",
       "eventUrl": "https://www.ticketmaster.com/guaco-orlando-florida-11-29-2026/event/220064A1D11AC4B6",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "cancelled",
       "localDate": "2026-11-29",
       "localTime": "20:00",
       "startDateTime": "2026-11-30T01:00:00Z",
@@ -33547,7 +32948,7 @@
       "name": "AMG Presents: BIGBABYGUCCI - Before The Paint Dries Tour",
       "eventUrl": "https://www.ticketmaster.com/amg-presents-bigbabygucci-before-the-paint-atlanta-georgia-11-29-2026/event/0E00654CD31CECAB",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-11-29",
       "localTime": "20:00",
       "startDateTime": "2026-11-30T01:00:00Z",
@@ -34479,6 +33880,33 @@
         }
       ],
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "rZ7HnEZ1AfCv7f",
+      "legacyEventId": "rZ7HnEZ1AfCv7f",
+      "name": "Avello",
+      "eventUrl": "https://www.ticketweb.com/event/avello-music-box-tickets/14381114",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-02",
+      "localTime": "20:15",
+      "startDateTime": "2026-12-03T04:15:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/70/94_Edp.jpg?v=7",
+      "venue": {
+        "id": "rZ7HnEZ178O8g",
+        "name": "Music Box",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.71938,
+        "longitude": -117.16813,
+        "street": "1337 India Street",
+        "zipCode": "92101",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [],
+      "searchText": "avello for years monster energy up up festival has brought 18 electronic music events to san diego building a dedicated dance music community and producing sold out shows across the city now up up brings avello to music box for another unforgettable night of bass music and high energy sets there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 37 adv standing 42 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8jZ",
@@ -44616,7 +44044,7 @@
           "url": "https://www.ticketmaster.com/earlybirds-club-tickets/artist/3512744"
         }
       ],
-      "searchText": "earlybirds club rival presents earlybrids club december 12 2026 loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us earlybirds club"
+      "searchText": "earlybirds club rival presents earlybirds club december 12 2026 loft general admission 21 only the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us earlybirds club"
     },
     {
       "id": "rZ7HnEZ1AfuSP7",
@@ -54383,6 +53811,33 @@
         }
       ],
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "rZ7HnEZ1AfCvZ7",
+      "legacyEventId": "rZ7HnEZ1AfCvZ7",
+      "name": "Motown Holiday Dance Party ft. GERALD McCLENDON!",
+      "eventUrl": "https://www.ticketweb.com/event/motown-holiday-dance-party-ft-fitzgeralds-nightclub-tickets/14381004",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-22",
+      "localTime": "20:00",
+      "startDateTime": "2026-12-23T02:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/69/54_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17f7Z4",
+        "name": "FITZGERALDS NIGHTCLUB",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "motown holiday dance party ft gerald mcclendon fitzgeralds nightclub presents motown holiday dance party ft gerald mcclendon 20 general admission reserved tables available gerald known in chicago as the rdquo soulkeeper one of the most reminiscent and versatile soul r b singer songwriter performer in the recording industry gerald mcclendon has graced the stage to sellout crowds to practically all the major entertainment venues throughout the midwest area in addition his unique performance has allowed him to captivate audiences internationally in locations such as asia and sidney australia if you love r b soul music you ll truly fall in love with gerald mcclendon and his extraordinary style of performing r b standards such as classic soul music and sounds of motown stax and atlantic records he draws from the everlasting era of artist such as ottis redding the temptations smokey robinson marvin gaye the chi lites stevie wonder and even songs of the frank sinatra jazz era gerald mcclendon s love for music screams out loud with his passion and love of entertaining his audiences grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8O9",
@@ -70278,6 +69733,39 @@
       "searchText": "eric d alessandro to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us eric d alessandro"
     },
     {
+      "id": "vv1ke8vP3oGAuovew",
+      "legacyEventId": "090065491D4410B2",
+      "name": "Laszewo",
+      "eventUrl": "https://www.ticketmaster.com/laszewo-hollywood-california-01-30-2027/event/090065491D4410B2",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-30",
+      "localTime": "20:00",
+      "startDateTime": "2027-01-31T04:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/826/bbc04f1e-b7b8-42f6-bba5-56b6c2e4f826_SOURCE",
+      "venue": {
+        "id": "KovZpZAEAlaA",
+        "name": "Hollywood Palladium",
+        "city": "Hollywood",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.09850537,
+        "longitude": -118.32421313,
+        "street": "6215 Sunset Blvd",
+        "zipCode": "90028",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917_YS7",
+          "name": "Laszewo",
+          "url": "https://www.ticketmaster.com/laszewo-tickets/artist/2834048"
+        }
+      ],
+      "searchText": "laszewo ga 18 welcome w valid id vip 21 welcome w valid id doors 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 6 30pm hollywood palladium hollywood ca us laszewo"
+    },
+    {
       "id": "vvG1VZ_Kef5UpZ",
       "legacyEventId": "0D006530942F6580",
       "name": "Andy Gross: Are You Kidding Me?",
@@ -73962,7 +73450,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-02-21T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/55/74_Edp.jpg?v=6",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/08/55/74_Edp.jpg?v=7",
       "venue": {
         "id": "rZ7HnEZa5yw",
         "name": "The Masonic Lodge at Hollywood Forever",
@@ -76223,7 +75711,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-03-06T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/18/64_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/04/18/64_Edp.jpg?v=9",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -76486,7 +75974,7 @@
       "localTime": "19:00",
       "startDateTime": "2027-03-07T00:00:00Z",
       "endDateTime": "2027-03-07T04:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/09/33/54_Edp.jpg?v=5",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/33/54_Edp.jpg?v=7",
       "venue": {
         "id": "rZ7HnEZ17f64g",
         "name": "Ferg's Pavilion",
@@ -76500,7 +75988,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "jump america s van halen experience hits vs deep cuts tour ferg s pavilion presents jump america s van halen experience saturday march 6 2027 ticket options for this show all general admission ga open floor standing courtyard allows for access to the show and standing room sections with views to the stage and limited tables and seating areas in back of the venue ferg s pavilion 1320 central avenue st petersburg fl 33705 directly across from tropicana field all ages welcome rain of shine no pets please during concert nights it s for their safety too loud crowds etc don t miss your chance to see jump america s van halen experience live in downtown st petersburg florida about the venue located in the heart of downtown st petersburg ferg s pavilion is part of the iconic ferg s world famous sports bar and entertainment complex a 70 000 square foot destination known for live events dining and nightlife since 1992 ferg s entertainment complex offers scalable concert capacity from intimate shows of 500 up to 5 000 attendees for block parties and music festivals access to 8 000 parking spaces across the street from the main stage at tropicana field at 1st avenue s and 13th street s and 500 space parking garage across from ferg s sports bar at central avenue and 13th street n multiple ga and vip standing and seated viewing areas full service food and beverage options floridas largest sports bar and restaraunt open daily at 11am many indoor outdoor event spaces plus a dog park ferg s pavilion has quickly emerged as one of florida s most unique live music destinations combining large scale concert capability with the energy of a full entertainment complex all upcoming shows at ferg s pavilion visit fergspavilion com tickets ticketweb com key word ferg s concert questions sponsors corporate private parties ada access call 727 643 1572 email info fergspavilion com ferg s pavilion st petersburg fl us"
+      "searchText": "jump america s van halen experience hits vs deep cuts tour ferg s pavilion presents jump america s van halen experience hits vs deep cuts tour jump america s van halen experience wants to know your favorite deep cuts for their 2027 hits vs deep cuts tour submit your favorite b side tracks to this link below from the dlr era of van halen and stand a chance to win a signed tour poster setlist link https set fan tjgy1n9jmquamqqeb0rd saturday march 6 2027 ticket options for this show all general admission ga open floor standing courtyard allows for access to the show and standing room sections with views to the stage and limited tables and seating areas in back of the venue ferg s pavilion 1320 central avenue st petersburg fl 33705 directly across from tropicana field all ages welcome rain of shine no pets please during concert nights it s for their safety too loud crowds etc don t miss your chance to see jump america s van halen experience live in downtown st petersburg florida about the venue located in the heart of downtown st petersburg ferg s pavilion is part of the iconic ferg s world famous sports bar and entertainment complex a 70 000 square foot destination known for live events dining and nightlife since 1992 ferg s entertainment complex offers scalable concert capacity from intimate shows of 500 up to 5 000 attendees for block parties and music festivals access to 8 000 parking spaces across the street from the main stage at tropicana field at 1st avenue s and 13th street s and 500 space parking garage across from ferg s sports bar at central avenue and 13th street n multiple ga and vip standing and seated viewing areas full service food and beverage options floridas largest sports bar and restaraunt open daily at 11am many indoor outdoor event spaces plus a dog park ferg s pavilion has quickly emerged as one of florida s most unique live music destinations combining large scale concert capability with the energy of a full entertainment complex all upcoming shows at ferg s pavilion visit fergspavilion com tickets ticketweb com key word ferg s concert questions sponsors corporate private parties ada access call 727 643 1572 email info fergspavilion com ferg s pavilion st petersburg fl us"
     },
     {
       "id": "vv1AvZkfNGkeXQz1p",
@@ -77951,7 +77439,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-03-17T03:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/23/34_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/08/23/34_Edp.jpg?v=9",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -77965,7 +77453,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "saxsquatch the conspiracy theory tour the conspiracy theory tourartist presale 10 14 2026 10 00am pst public on sale 10 16 2026 10 00am pst there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 27 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us"
+      "searchText": "saxsquatch the conspiracy theory tour the conspiracy theory tourartist presale 10 14 2026 10 00am pst public on sale 10 16 2026 10 00am pst there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 27 day of standing note tickets available at box office convenience service charges apply for online purchases theme alien tin foil hat table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us"
     },
     {
       "id": "vvG1iZ_8mpBKQ7",
@@ -78333,6 +77821,60 @@
       "searchText": "niall horan dinner party live on tour all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited little caesars arena detroit mi us niall horan cameron whitcomb"
     },
     {
+      "id": "rZ7HnEZ1AfCvfV",
+      "legacyEventId": "rZ7HnEZ1AfCvfV",
+      "name": "LOCKWOODFEST 2027 - SPECIAL 2-DAY PASS",
+      "eventUrl": "https://www.ticketweb.com/event/lockwoodfest-2027-special-treelawn-music-hall-tickets/14381534",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-20",
+      "localTime": "13:30",
+      "startDateTime": "2027-03-20T17:30:00Z",
+      "endDateTime": "2027-03-22T01:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/74/84_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17fP_A",
+        "name": "Treelawn Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US",
+        "latitude": 41.5706596,
+        "longitude": -81.5733357,
+        "street": "15335 Waterloo Rd",
+        "zipCode": "44110",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "lockwoodfest 2027 special 2 day pass come experience rdquo cool on cool two unforgettable days of smooth rhythm blues in cleveland s waterloo arts district lockwoodfest 2027 march 20 21 2027 the treelawn 15335 waterloo rd cleveland oh 44110 216 677 8733 thetreelawn com https thetreelawn com waterloo arts district cleveland ohio tickets general admission 7 bands or more 30 advance purchased each day 55 advanced purchased for both days 35 day of show each day table seating 50 each day advance purchase only corporate sponsorships available for sponsorship information contact roy lockwood williams steve blu cindy barber mailto lockwoodfest gmail com plenty of parking available important festival information all acts are subjected to change without notice all artists are performing at the pleasure of the lockwood legacy group with steve blu show produced by steve blu roy lockwood williams teresa lockwood williams treelawn music hall cleveland oh us"
+    },
+    {
+      "id": "rZ7HnEZ1AfCvof",
+      "legacyEventId": "rZ7HnEZ1AfCvof",
+      "name": "LOCKWOODFEST 2027 - DAY ONE",
+      "eventUrl": "https://www.ticketweb.com/event/lockwoodfest-2027-day-treelawn-music-hall-tickets/14381454",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-20",
+      "localTime": "13:30",
+      "startDateTime": "2027-03-20T17:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/73/84_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17fP_A",
+        "name": "Treelawn Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US",
+        "latitude": 41.5706596,
+        "longitude": -81.5733357,
+        "street": "15335 Waterloo Rd",
+        "zipCode": "44110",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "lockwoodfest 2027 day one come experience rdquo cool on cool two unforgettable days of smooth rhythm blues in cleveland s waterloo arts district lockwoodfest 2027 march 20 21 2027 the treelawn 15335 waterloo rd cleveland oh 44110 https www google com maps search 15335 waterloo rd cleveland oh 44110 entry gmail source g 216 677 8733 thetreelawn com https thetreelawn com waterloo arts district cleveland ohio cool on cool 2 days of smooth rhythm blues day one saturday march 20 doors open 1 00 pm music begins 1 30 pm 1 30 pm opening remarks roy lockwood williams steve blu 1 35 pm kyle thompson from columbus ohio delta acoustic 2 00 pm professor bob frank founder of the cleveland blues society and lockwood legacy group honoree a special salute to mr robert lockwood jr 2 20 3 00 pm colin dussault blues project full band featuring horns violin a special performance featuring his classic hits i m a blues man blues with robert lockwood jr chicken wing girl 3 25 4 15 pm taylor lamborn friends the next generation of the blues americana blues at its finest follow her roots of american music program 4 45 5 25 pm gene schwartz the g force band featuring charlie christopherson tyler petko powerhouse blues rock with songs of glenn schwartz and jimi hendrix 6 00 7 10 pm eliza neals the detroit diva highly recommended by buddy guy and mick jagger performing with her full band please check her out on all platforms of social media eliza neals is a force of power and tenderness all in one performance a very special artist 8 00 9 30 pm austin walkin cane the cold city horns headlining the evening celebrate hall of fame member austin walkin cane s birthday with a full band experience unlike anything you ve seen from austin before featuring a special acoustic set with hall of fame member dave morrison on harmonica austin will perform fan favorites along with tracks from his new project with the cold city horns and look for a few very special guests to join austin for his birthday celebration tickets general admission 7 bands or more 30 advance purchased each day 55 advanced purchased for both days 35 day of show each day table seating 50 each day advance purchase only corporate sponsorships available for sponsorship information contact roy lockwood williams steve blu cindy barber mailto lockwoodfest gmail com plenty of parking available important festival information all acts are subjected to change without notice all artists are performing at the pleasure of the lockwood legacy group with steve blu show produced by steve blu roy lockwood williams teresa lockwood williams treelawn music hall cleveland oh us"
+    },
+    {
       "id": "vv177Z_FGkX5aEPG",
       "legacyEventId": "0100648F8B26794C",
       "name": "Jarlath Regan - Craic Pot",
@@ -78513,6 +78055,39 @@
       "searchText": "niall horan dinner party live on tour pre purchase parking nationwide arena columbus oh us niall horan cameron whitcomb"
     },
     {
+      "id": "vvG1zZ_fQfhbjB",
+      "legacyEventId": "0E006546946D873A",
+      "name": "Winona Fighter",
+      "eventUrl": "https://www.ticketmaster.com/winona-fighter-atlanta-georgia-03-20-2027/event/0E006546946D873A",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-20",
+      "localTime": "20:00",
+      "startDateTime": "2027-03-21T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/451/344fb09f-a2f8-4c6c-89b6-a5ef9c213451_SOURCE",
+      "venue": {
+        "id": "KovZpZA1tn1A",
+        "name": "The Loft",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US",
+        "latitude": 33.7918926,
+        "longitude": -84.3877907,
+        "street": "1374 West Peachtree St.",
+        "zipCode": "30309",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QNwf",
+          "name": "Winona Fighter",
+          "url": "https://www.ticketmaster.com/winona-fighter-tickets/artist/2902688"
+        }
+      ],
+      "searchText": "winona fighter rival masquerade presents winona fighter march 20 2027 loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us winona fighter"
+    },
+    {
       "id": "1AeFZ_3GkR16PFe",
       "legacyEventId": "2200652BCA1E5202",
       "name": "Death Cab for Cutie - I Built You A Tower Tour",
@@ -78582,6 +78157,33 @@
         }
       ],
       "searchText": "struggle jennings all agesgeneral admission general admission is standing room only reserved table seating upgrade your experience with one of our exclusive bar height tables for two availability is limited to 15 tables per show and reserved table tickets must be purchased as a pair reserved table tickets include two 2 general admission tickets a private bar height table for two full access to the off the rails food menu dedicated table service for food and beverage orders one 1 complimentary parking space per table please present your reserved table ticket to the parking attendant upon arrival for ticketing questions or ada accommodations please contact us at info offtherailsworcester com important information please note restaurant reservations made through toast are not valid event tickets and do not include admission to the music venue restaurant seating does not provide views of the stage or access to ticketed performances if you plan to attend a ticketed event you must purchase an event ticket separately regardless of any restaurant reservation made through toast reserved table tickets purchased through our ticketing platform are the only table reservations that include admission to the performance and seating inside the music venue off the rails music venue worcester ma us struggle jennings"
+    },
+    {
+      "id": "rZ7HnEZ1AfCvf0",
+      "legacyEventId": "rZ7HnEZ1AfCvf0",
+      "name": "LOCKWOODFEST 2027 - DAY TWO",
+      "eventUrl": "https://www.ticketweb.com/event/lockwoodfest-2027-day-treelawn-music-hall-tickets/14381524",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-21",
+      "localTime": "14:00",
+      "startDateTime": "2027-03-21T18:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/74/74_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17fP_A",
+        "name": "Treelawn Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US",
+        "latitude": 41.5706596,
+        "longitude": -81.5733357,
+        "street": "15335 Waterloo Rd",
+        "zipCode": "44110",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "lockwoodfest 2027 day two come experience rdquo cool on cool two unforgettable days of smooth rhythm blues in cleveland s waterloo arts district lockwoodfest 2027 march 20 21 2027 the treelawn 15335 waterloo rd cleveland oh 44110 216 677 8733 thetreelawn com https thetreelawn com waterloo arts district cleveland ohio cool on cool 2 days of smooth rhythm blues day two sunday march 21 cool on cool lockwood music festival award ceremony 1 30 pm doors open 2 00 pm opening remarks roy lockwood williams steve blu 2 05 pm dc carnes with his full band featuring tracks from his latest project 3 00 pm lockwood legacy youth movement featuring stakhouse this young outfit features 16 and 17 year old artists with guitar wizard max stak on lead guitar on lead vocals ms riley perry on sticks eli on bass funk master danny mcfadden let s support the next generation of artists 4 00 pm bluesmaster michael j calhoun mr travis haddix professor bob frank the lockwood legacy band bob frank and the lockwood legacy band performing classic blues and original music 5 00 pm robert lockwood jr legacy award ceremony master of ceremonies mr ace moler featuring fox 8 cleveland s own mr todd meany this year s award honorees charlie christopherson cleveland ohio charlie christopherson is a master who strives for perfection in every note wallace coleman morristown tennessee mr lockwood s longtime harmonica player and lifelong friend featured on the cover of living blues magazine april 2026 johnny rawls hattiesburg mississippi major blues soul award recipient 2010 2014 2015 2019 2026 living blues magazine award multiple blues critics awards west coast blues hall of fame robert lockwood appreciation awards cindy barber cleveland rocks past present and future bill koteles president cleveland blues society leonard dicosimo president of the cleveland federations local 4 6 00 7 30 pm johnny rawls with the austin walkin cane band 7 30 pm festival transition 7 45 pm band after party front bar featuring a solo artist tba 9 00 pm festival closes tickets general admission 7 bands or more 30 advance purchased each day 55 advanced purchased for both days 35 day of show each day table seating 50 each day advance purchase only corporate sponsorships available for sponsorship information contact roy lockwood williams steve blu cindy barber mailto lockwoodfest gmail com plenty of parking available important festival information all acts are subjected to change without notice all artists are performing at the pleasure of the lockwood legacy group with steve blu show produced by steve blu roy lockwood williams teresa lockwood williams treelawn music hall cleveland oh us"
     },
     {
       "id": "1AyZkfKGkenTmZO",
