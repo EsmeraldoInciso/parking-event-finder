@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-24T07:49:11.549Z",
+  "generatedAt": "2026-10-25T08:00:46.802Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-24T07:33:53Z",
-    "numberOfEvents": 111018,
-    "compressedSizeBytes": 85430328,
-    "checksum": "9fd90acb7b72f5f8b6f560d096bab866"
+    "lastUpdated": "2026-10-25T07:39:57Z",
+    "numberOfEvents": 109517,
+    "compressedSizeBytes": 84081329,
+    "checksum": "0c59c1f9b91c541985826f1073fec02b"
   },
   "summary": {
-    "parkingEvents": 2512
+    "parkingEvents": 2473
   },
   "diagnostics": {
     "terms": {
-      "olivia": 89,
-      "rodrigo": 70,
-      "metallica": 70,
-      "intuit dome": 103,
-      "sphere": 1231,
-      "parking": 6120
+      "olivia": 86,
+      "rodrigo": 68,
+      "metallica": 66,
+      "intuit dome": 102,
+      "sphere": 1219,
+      "parking": 6016
     },
     "samples": {
       "olivia": [
@@ -78,16 +78,6 @@
           "eventUrl": "https://www.ticketweb.com/event/stan-society-presents-olivia-rodrigo-the-mill-mine-tickets/14300314",
           "venue": "The Mill & Mine",
           "city": "Knoxville",
-          "state": "TN",
-          "matchedTerm": "olivia",
-          "matchedAsParking": false
-        },
-        {
-          "id": "rZ7HnEZ1AfGoZ0",
-          "name": "In The Round with Olivia Rudeen, Zoe Cummins, Sam Hatmaker & Tiffany Goss",
-          "eventUrl": "https://www.ticketweb.com/event/in-the-round-with-olivia-the-bluebird-cafe-tickets/14311024",
-          "venue": "The Bluebird Cafe",
-          "city": "Nashville",
           "state": "TN",
           "matchedTerm": "olivia",
           "matchedAsParking": false
@@ -219,6 +209,16 @@
           "venue": "T-Mobile Arena",
           "city": "Las Vegas",
           "state": "NV",
+          "matchedTerm": "olivia",
+          "matchedAsParking": false
+        },
+        {
+          "id": "1AdZZ_aGkVw1WPg",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-27-2027/event/3000649D322BD975",
+          "venue": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
           "matchedTerm": "olivia",
           "matchedAsParking": false
         }
@@ -597,16 +597,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "vvG17Z_13GNy_V",
-          "name": "The Four Horsemen - A Celebration of Metallica",
-          "eventUrl": "https://www.ticketmaster.com/the-four-horsemen-a-celebration-of-leesburg-virginia-10-24-2026/event/010064A48C8F9674",
-          "venue": "Tally Ho Theater",
-          "city": "Leesburg",
-          "state": "VA",
-          "matchedTerm": "metallica",
-          "matchedAsParking": false
-        },
-        {
           "id": "k7vGF_GoXnJjO",
           "name": "The Rock Orchestra By Candlelight",
           "eventUrl": "https://www.ticketmaster.com/the-rock-orchestra-by-candlelight-newark-new-jersey-12-12-2026/event/000064C47EAA6720",
@@ -623,6 +613,16 @@
           "venue": "The Pageant",
           "city": "Saint Louis",
           "state": "MO",
+          "matchedTerm": "metallica",
+          "matchedAsParking": false
+        },
+        {
+          "id": "G5vYZ_f1fuqYJ",
+          "name": "Sean Healy Presents Kamasi Washington",
+          "eventUrl": "https://www.ticketmaster.com/sean-healy-presents-kamasi-washington-sacramento-california-12-06-2026/event/1C0065429435DC26",
+          "venue": "Crest Theater",
+          "city": "Sacramento",
+          "state": "CA",
           "matchedTerm": "metallica",
           "matchedAsParking": false
         }
@@ -1720,1352 +1720,6 @@
         }
       ],
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
-    },
-    {
-      "id": "vvG1iZ_C6zJktE",
-      "legacyEventId": "0B0064E1F8986A67",
-      "name": "Formula Drift RD8 Saturday Main Event 2Day Ticket ",
-      "eventUrl": "https://www.ticketmaster.com/formula-drift-rd8-saturday-main-event-long-beach-california-10-24-2026/event/0B0064E1F8986A67",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "11:00",
-      "startDateTime": "2026-10-24T18:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/92c/02224804-0d1e-4506-9947-c48fefef092c_SOURCE",
-      "venue": {
-        "id": "KovZpZAJdIJA",
-        "name": "Long Beach Arena-Long Beach Convention and Entertainment Center",
-        "city": "Long Beach",
-        "state": "CA",
-        "country": "US",
-        "latitude": 33.764882,
-        "longitude": -118.189191,
-        "street": "300 E. Ocean Blvd.",
-        "zipCode": "90802",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917CAK7",
-          "name": "Formula Drift",
-          "url": "https://www.ticketmaster.com/formula-drift-tickets/artist/915308"
-        }
-      ],
-      "searchText": "formula drift rd8 saturday main event 2day ticket formula drift is recognized as north america s professional drifting championship series as the first official series in north america formula drift has taken competitive motorsports to the extreme attracting fans and car enthusiasts from all walks of life and establishes itself as the worldwide leader for the sport this high skilled high powered motor sport where drivers intentionally maneuver their cars into well executed controlled sideways slides at high speeds through a marked course has professional drivers teams competing in championship competitions judged on execution and style rather than who finishes the course in the fastest time drifting is a guaranteed crowd pleaser buy your tickets now formula drift shoreline showdown round 8 children age 3yrs and under are free lap sitting only parking 35 per day turns within the stadium may be adjusted to accommodate new layout please see www formulad com for all updates long beach arena long beach convention and entertainment center long beach ca us formula drift"
-    },
-    {
-      "id": "rZ7HnEZ1AfuIOf",
-      "legacyEventId": "rZ7HnEZ1AfuIOf",
-      "name": "Bluegrass Brunch on the PATIO  with The BOX BAND!",
-      "eventUrl": "https://www.ticketweb.com/event/bluegrass-brunch-on-the-patio-fitzgeralds-nightclub-tickets/14368814",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-24T17:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/20/94_Edp.jpg?v=5",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "bluegrass brunch on the patio with the box band bluegrass brunch on the patio stage featuring the box band seen here free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over some bands play shows some bands make memories with hundreds of performances spanning the last 8 years the box band is well experienced in making memories for audiences young and old the quartet drums fiddle guitar mandolin plays a unique blend of bluegrass folk blues that always leaves audiences wanting more the band prides itself on not only delivering a high quality musical experience but also an engaging one that makes everyone in attendance feel like they are part of the show enjoy brunch from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1A4Ze7d",
-      "legacyEventId": "rZ7HnEZ1A4Ze7d",
-      "name": "Dia de los Muertos",
-      "eventUrl": "https://www.ticketweb.com/event/dia-de-los-muertos-hollywood-forever-tickets/15002103",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "12:00",
-      "startDateTime": "2026-10-24T19:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/57/83_Edp.jpg?v=65",
-      "venue": {
-        "id": "rZ7HnEZ17Ayu0",
-        "name": "Hollywood Forever",
-        "city": "Los Angeles",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.08971931,
-        "longitude": -118.31910591,
-        "street": "6000 Santa Monica Boulevard",
-        "zipCode": "90038",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "dia de los muertos 27th annual dia de los muertos at hollywood forever all under one sky bajo un mismo cielo saturday october 24th 2026 noon midnight full event schedule here featuring dannylux trish toledo tropa magica los shadows dj que madre dj joaqu n dj dro barlo there are 3 windows of admission 12pm 4pm 4pm 7pm 7pm 11pm you may stay past your window of admisssion event website ladayofthedead com altars exhibition ceremonial procession musical performances on the muerte y tradicion stage childrens plaza el cine el teatro plaza cathedral art exhibition aztecs folklorico arts crafts vendors culinary vendors awards altars winner 5 000 2nd 3500 3rd 2500 costumes winner 1000 runner up 500 vip tickets the vip ticket gives you access to the vip oasis in the middle of the event which includes premium food and beverage vendors for purchase lounge seating private main stage viewing area cell phone charging free wifi and premium face painting vendors for purchase free beverage tastings on 1st come 1st served basis visit ladayofthedead com for full schedule of events lineup and schedule subject to change at any time no refunds no exchanges 5 and up require tickets parking parking in structures on van ness ave and gower st and additional locations more details emailed to ticket purchasers prior to event date about the theme this past year has reminded us how deeply our lives are woven together across the world families have endured separation communities have mourned and many have searched for peace comfort and healing in times of sorrow we are reminded that suffering knows no borders and neither should compassion yet even in difficult times there are moments that draw us closer through music art tradition celebration and remembrance people gather across cultures and continents to share joy offer comfort and dream together in those moments the distance between us seems to disappear revealing the bonds that have always connected us the same sun rises over each of us the same moon watches over those we love the same stars that guided our ancestors continue to shine above us today wherever we may stand upon this earth we are all bajo un mismo cielo under one sky dia de los muertos reminds us that love knows no borders memory belongs to us all grief belongs to us all hope belongs to us all when we gather to honor our ancestors we are reminded that every life leaves behind a story and every story is worthy of being remembered hollywood forever los angeles ca us"
-    },
-    {
-      "id": "G5vzZ_ANvt5lw",
-      "legacyEventId": "1E006458C1A4BAF2",
-      "name": "Broadway In Boise Presents & JULIET",
-      "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-juliet-boise-idaho-10-24-2026/event/1E006458C1A4BAF2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "13:00",
-      "startDateTime": "2026-10-24T19:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2d1/12d88370-dc1e-48db-9aa0-6ec7596022d1_SOURCE",
-      "venue": {
-        "id": "KovZpZAE7IFA",
-        "name": "Morrison Center for the Performing Arts",
-        "city": "Boise",
-        "state": "ID",
-        "country": "US",
-        "latitude": 43.606728,
-        "longitude": -116.207386,
-        "street": "2201 W Friendship Ln",
-        "zipCode": "83725",
-        "timezone": "America/Denver"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917jm1f",
-          "name": "& Juliet (Touring)",
-          "url": "https://www.ticketmaster.com/juliet-touring-tickets/artist/3152190"
-        }
-      ],
-      "searchText": "broadway in boise presents juliet all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us juliet touring"
-    },
-    {
-      "id": "vvG1fZ_2h9QXRW",
-      "legacyEventId": "050064F6D76BEBFD",
-      "name": "Ohio State Buckeyes Women's Hockey vs. Colgate University Women's Hockey",
-      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-hockey-vs-columbus-ohio-10-24-2026/event/050064F6D76BEBFD",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "15:00",
-      "startDateTime": "2026-10-24T19:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a25/2519403b-69cd-4347-917b-0ce86b3f2a25_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAAtA",
-        "name": "Ohio State University Ice Rink",
-        "city": "Columbus",
-        "state": "OH",
-        "country": "US",
-        "latitude": 40.0041967,
-        "longitude": -83.0191684,
-        "street": "390 Woody Hayes Dr.",
-        "zipCode": "43210",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917G2z7",
-          "name": "Ohio State Buckeyes Women's Hockey",
-          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-hockey-tickets/artist/1312413"
-        },
-        {
-          "id": "K8vZ917-6y0",
-          "name": "Colgate University Women's Hockey",
-          "url": "https://www.ticketmaster.com/colgate-university-womens-hockey-tickets/artist/4584654"
-        }
-      ],
-      "searchText": "ohio state buckeyes women s hockey vs colgate university women s hockey tickets are general admission only children under the age of 2 are free ohio state students are granted free admission by presenting their buck id at the osu ice rink on gameday please keep in mind there are a limited amount of tickets available per game doors to the osu ice rink open 1 hour prior to puck drop group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 parking is free in lots north of st john arena ohio state university ice rink columbus oh us ohio state buckeyes women s hockey colgate university women s hockey"
-    },
-    {
-      "id": "rZ7HnEZ1AfPpjN",
-      "legacyEventId": "rZ7HnEZ1AfPpjN",
-      "name": "Halloween Spooktacular Hot Air Balloon Festival",
-      "eventUrl": "https://www.ticketweb.com/event/halloween-spooktacular-hot-air-balloon-salt-river-fields-at-talking-tickets/14956723",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "17:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": "2026-10-25T04:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/56/30/23_Edp.jpg?v=16",
-      "venue": {
-        "id": "rZ7HnEZ17Fx84",
-        "name": "Salt River Fields at Talking Stick",
-        "city": "Scottsdale",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.631814,
-        "longitude": -111.8897881,
-        "street": "7555 N. Pima Rd.",
-        "zipCode": "85258",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [],
-      "searchText": "halloween spooktacular hot air balloon festival join us on saturday october 24th from 5 00 pm 9 00 pm for the valley s favorite halloween celebration bring the whole family for an unforgettable evening filled with fun in a safe festive atmosphere experience over 20 spectacular hot air balloons on display while trick or treaters collect candy from more than 4 000 pounds of sweet treats enjoy delicious food and beverages shop the vendor market and explore our free kids zone featuring 30 inflatable slides games and attractions the excitement continues with costume contest spook trail presented by saguaro high school live magic show tethered hot air balloon rides free parking friday and saturday only balloon rides available for an additional charge please note hot air balloons may begin deflating before the event officially ends due to weather and operational requirements no refunds will be issued for guests arriving after balloons have been deflated so we strongly encourage arriving early for the full experience ticket prices will increase as the event date approaches so purchase today for the best value children 2 and under are free day of event tickets will only be available online using a credit or debit card there will be no on site box office this event is rain or shine https azspooktacular com salt river fields at talking stick scottsdale az us"
-    },
-    {
-      "id": "vvG1IZ_eUSezFp",
-      "legacyEventId": "0A00642DB30B8216",
-      "name": "Angel City FC vs. Bay FC",
-      "eventUrl": "https://www.ticketmaster.com/angel-city-fc-vs-bay-fc-los-angeles-california-10-24-2026/event/0A00642DB30B8216",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "17:45",
-      "startDateTime": "2026-10-25T00:45:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/02c/68e12c1f-c3b1-4162-8c89-199cbe72202c_SOURCE",
-      "venue": {
-        "id": "KovZ917A3c0",
-        "name": "BMO Stadium",
-        "city": "Los Angeles",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.012879,
-        "longitude": -118.284926,
-        "street": "3939 S. Figueroa St",
-        "zipCode": "90037",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917_Fd7",
-          "name": "Angel City FC",
-          "url": "https://www.ticketmaster.com/angel-city-fc-tickets/artist/2772057"
-        },
-        {
-          "id": "K8vZ917jKCf",
-          "name": "Bay FC",
-          "url": "https://www.ticketmaster.com/bay-fc-tickets/artist/3098530"
-        }
-      ],
-      "searchText": "angel city fc vs bay fc bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us angel city fc bay fc"
-    },
-    {
-      "id": "17AYv0G62feMVoU",
-      "legacyEventId": "170064F502DF4476",
-      "name": "Honey Revenge x Dead Poet Society",
-      "eventUrl": "https://www.ticketmaster.com/honey-revenge-x-dead-poet-society-las-vegas-nevada-10-24-2026/event/170064F502DF4476",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-25T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/4cc/2edffc3d-032c-4191-8711-b8d2037db4cc_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QBeV",
-          "name": "Honey Revenge",
-          "url": "https://www.ticketmaster.com/honey-revenge-tickets/artist/2952536"
-        },
-        {
-          "id": "K8vZ917ozn0",
-          "name": "Dead Poet Society",
-          "url": "https://www.ticketmaster.com/dead-poet-society-tickets/artist/1932568"
-        }
-      ],
-      "searchText": "honey revenge x dead poet society door time 6pm show time 7 pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support dead poet society all support acts are subject to change without notice parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us honey revenge dead poet society"
-    },
-    {
-      "id": "vvG1iZ_6XVb4ba",
-      "legacyEventId": "0B00647FB4615609",
-      "name": "Marc Maron: Yammering into the Void Tour",
-      "eventUrl": "https://www.ticketmaster.com/marc-maron-yammering-into-the-void-el-cajon-california-10-24-2026/event/0B00647FB4615609",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-25T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/cca/607c1f15-aa88-44d4-aacd-7fafafb89cca_SOURCE",
-      "venue": {
-        "id": "KovZ917AOww",
-        "name": "The Magnolia",
-        "city": "El Cajon",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.795625,
-        "longitude": -116.95955,
-        "street": "210 E Main Street",
-        "zipCode": "92020",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GmN0",
-          "name": "Marc Maron",
-          "url": "https://www.ticketmaster.com/marc-maron-tickets/artist/831852"
-        }
-      ],
-      "searchText": "marc maron yammering into the void tour doors 6pm show 7pm all ages welcome join us for our plaza pre party at 5 30 with happy hour in our plaza featuring food and drink specials plus access to our taco stand with freshly made tacos nachos elote corn specialty cocktails and more available for purchase purchase your premier parking in advance to save 10 in advance and 20 day of show stay for our post show fiesta in our plaza at the end of the show with 5 tj dogs live music drink specials times and support acts are subject to change bags larger than 12 x 6 x 12 inches backpacks will not be allowed the magnolia el cajon ca us marc maron"
-    },
-    {
-      "id": "LvZ18QEeUh2VRS8rNKUpd",
-      "legacyEventId": "LvZ18QEeUh2VRS8rNKUpd",
-      "name": "2026 Rock 2 Freedom® Benefit Concert",
-      "eventUrl": "https://www.universe.com/events/2026-rock-2-freedom-benefit-concert-tickets-PDGMZ2?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-25T01:30:00Z",
-      "endDateTime": "2026-10-25T06:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/52a/9934959c-7867-4fd6-b978-a1988049f52a_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAl6A",
-        "name": "The Wiltern",
-        "city": "Los Angeles",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.06141494,
-        "longitude": -118.30879207,
-        "street": "3790 Wilshire Blvd.",
-        "zipCode": "90010",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91713uV",
-          "name": "The Offspring",
-          "url": "https://www.ticketmaster.com/the-offspring-tickets/artist/753206"
-        }
-      ],
-      "searchText": "2026 rock 2 freedom benefit concert join the fight for freedom slave 2 nothing is proud to announce its sixth annual rock 2 freedom benefit concert will take place on saturday october 24 2026 join us at the wiltern as we celebrate our 10th anniversary visit our official event website to learn more about the concert details faqs and more the lineup the offspring 48 special schedule of events 5 00 7 00 p m vip only in n out burger cookout trucks open 6 00 p m vip early priority entry 6 15 p m ga pit early entry 6 30 p m main doors open 7 00 p m 48 special intermission the offspring 11 00 p m event concludes overview of ticket options ga mezzanine 75 sold out ga mezzanine tickets are seated on the balcony located on the second floor accessible only by stairs no elevators seats are first come first sit but remain unreserved through the event duration 1 raffle ticket for a chance to win service from an in n out burger cookout truck must be present to win access to exclusive benefit auction featuring unique rock memorabilia custom collectibles in n out fan exclusives fun travel and entertainment experiences and more mocktails concessions and official merchandise for purchase ga floor 100 sold out ga floor tickets are unreserved standing room only 1 raffle ticket for a chance to win service from an in n out burger cookout truck must be present to win access to exclusive benefit auction featuring unique rock memorabilia custom collectibles in n out fan exclusives fun travel and entertainment experiences and more mocktails concessions and official merchandise for purchase ga floor ada 100 sold out ga floor ada tickets are in a reserved section for those requiring accessible accommodations ga floor ada tickets are first come first served 1 raffle ticket for a chance to win service from an in n out burger cookout truck must be present to win access to exclusive benefit auction featuring unique rock memorabilia custom collectibles in n out fan exclusives fun travel and entertainment experiences and more mocktails concessions and official merchandise for purchase ga pit 225 sold out ga pit tickets are unreserved standing room only early concert entry 1 raffle ticket for a chance to win service from an in n out burger cookout truck must be present to win access to exclusive benefit auction featuring unique rock memorabilia custom collectibles in n out fan exclusives fun travel and entertainment experiences and more mocktails concessions and official merchandise for purchase vip loge seats 500 vip loge tickets are reserved seating on the balcony located on the second floor accessible only by stairs no elevators early priority concert entry 1 double double made fresh from one of our cookout trucks from 5 00 p m 7 00 p m 1 raffle ticket for a chance to win service from an in n out burger cookout truck must be present to win vip line access to complimentary mocktails and concessions throughout the venue vip line access to official merchandise for purchase 1 exclusive band t shirt and poster vip floor table seats 2 000 sold out 2 vip floor tickets with reserved table seating located on the main floor early priority concert entry vip parking pass for 1 vehicle 1 double double per ticketholder made fresh from one of our cookout trucks from 5 00 p m 7 00 p m 1 raffle ticket per ticketholder for a chance to win service from an in n out burger cookout truck must be present to win vip line access to complimentary mocktails and concessions throughout the venue vip line access to official merchandise for purchase 2 exclusive band t shirts and posters vip floor couch seats 3 000 sold out 2 vip floor tickets with reserved couch seating located on the main floor early priority concert entry vip parking pass for 1 vehicle 1 double double per ticketholder made fresh from one of our cookout trucks from 5 00 p m 7 00 p m 1 raffle ticket per ticketholder for a chance to win service from an in n out burger cookout truck must be present to win vip line access to complimentary mocktails and concessions throughout the venue vip line access to official merchandise for purchase 2 exclusive band t shirts and posters non attending supporter 1 000 1 exclusive band t shirt and poster the non attending supporter does not include an event ticket for concert entry your impact in n out burger covers all costs associated with slave 2 nothing ensuring that 100 of every dollar raised goes to organizations dedicated to fighting substance abuse and human trafficking throughout the communities where we do business the wiltern los angeles ca us the offspring"
-    },
-    {
-      "id": "rZ7HnEZ1AfOKbN",
-      "legacyEventId": "rZ7HnEZ1AfOKbN",
-      "name": "Trapt",
-      "eventUrl": "https://www.ticketweb.com/event/trapt-the-token-lounge-tickets/14813623",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-24T22:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/c1e/012ba869-10ff-4204-ade7-62d18fc27c1e_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17FgfV",
-        "name": "The Token Lounge",
-        "city": "Westland",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.355071,
-        "longitude": -83.327698,
-        "street": "28949 JOY ROAD",
-        "zipCode": "48185",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175Ka7",
-          "name": "Trapt",
-          "url": "https://www.ticketmaster.com/trapt-tickets/artist/850819"
-        }
-      ],
-      "searchText": "trapt 9 30pm 10 40pm trapt 8 45pm 9 15pm sygnal to noise 8 00pm 8 30pm detroit trouble 7 15pm 7 45pm stonelore 6 30pm 7 00pm renegade train doors open at pm 18 w proper id all ages w parent free lite parking outdoor smoking patio no re entry no backpacks no outside beverages the token lounge westland mi us trapt"
-    },
-    {
-      "id": "rZ7HnEZ1A4vKfd",
-      "legacyEventId": "rZ7HnEZ1A4vKfd",
-      "name": "\"Hocus Pocus\" at FITZGERALDS Fright Nights!",
-      "eventUrl": "https://www.ticketweb.com/event/hocus-pocus-at-fitzgeralds-fright-fitzgeralds-patio-tickets/15053503",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-24T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/65/05/33_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7ZP",
-        "name": "FITZGERALDS PATIO",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "hocus pocus at fitzgeralds fright nights join us for an evening on the patio where you ll be treated to a spooky movie coco we will be serving the full babygold bbq menu as well as have our campfire rings set up with some special campire kits that you can purchase think smores this year we will also be introducing a popcorn station and cotton candy makre a reservation now to reserve your spot please contact events fitzgeraldsnightclub com for parties of 15 or more see ya there grab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds patio berwyn il us"
-    },
-    {
-      "id": "LvZ18QIjbtVjtZwZh4hxh",
-      "legacyEventId": "LvZ18QIjbtVjtZwZh4hxh",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-24T22:30:00Z",
-      "endDateTime": "2026-10-25T00:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "G5vYZ_AjvOiV1",
-      "legacyEventId": "1C0064570182CD0A",
-      "name": "Boney James and Lalah Hathaway",
-      "eventUrl": "https://www.ticketmaster.com/boney-james-and-lalah-hathaway-napa-california-10-24-2026/event/1C0064570182CD0A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-25T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/795/20f4ae6c-ac35-455f-b5a4-8a4b42621795_SOURCE",
-      "venue": {
-        "id": "KovZ917AmJ7",
-        "name": "Blue Note Napa Summer Sessions",
-        "city": "Napa",
-        "state": "CA",
-        "country": "US",
-        "latitude": 38.25399,
-        "longitude": -122.27296,
-        "street": "Meritage Resort, 850 Bordeaux Way",
-        "zipCode": "94558",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171K40",
-          "name": "Boney James",
-          "url": "https://www.ticketmaster.com/boney-james-tickets/artist/762195"
-        },
-        {
-          "id": "K8vZ91750Q7",
-          "name": "Lalah Hathaway",
-          "url": "https://www.ticketmaster.com/lalah-hathaway-tickets/artist/898482"
-        }
-      ],
-      "searchText": "boney james and lalah hathaway outside rain or shine blue note napa summer sessions is located at the meritage resort and spa 850 bordeaux way napa 94558 sapphire club is reserved seating w bistro table and 2 chairs sold in units of 2 only price is per seat not table access to club lounge cash bar and a c seating map may vary on day of show the gold silver sections have reserved seating bronze lawn section is standing room only no chairs all prices are per person and each patron requires a ticket for entry ages 8 only no infants food drinks are available for purchase all tickets are pre purchased and will be in your ticketmaster account to be scanned for entry bathrooms are available no corkage or outside food drink no professional cameras no smoking and service animals only visit our website for our bag policy and more faqs parking is limited advance guaranteed parking is 23 50 day of show parking is not guaranteed to be available for purchase all sales are final blue note napa summer sessions napa ca us boney james lalah hathaway"
-    },
-    {
-      "id": "vvG1fZ_GmiVnUZ",
-      "legacyEventId": "050064CBACD2AD80",
-      "name": "Ohio State Buckeyes Women's Volleyball vs. Oregon Ducks Volleyball",
-      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-volleyball-vs-columbus-ohio-10-24-2026/event/050064CBACD2AD80",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-24T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/dd8/7e52ee2b-9185-4cb9-8f76-1da68ed84dd8_SOURCE",
-      "venue": {
-        "id": "KovZ917A-LH",
-        "name": "Covelli Center Columbus",
-        "city": "Columbus",
-        "state": "OH",
-        "country": "US",
-        "latitude": 40.014115,
-        "longitude": -83.02774,
-        "street": "2640 Fred Taylor Dr.",
-        "zipCode": "43210",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917G8cf",
-          "name": "Ohio State Buckeyes Women's Volleyball",
-          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-volleyball-tickets/artist/1356116"
-        },
-        {
-          "id": "K8vZ9178AO0",
-          "name": "Oregon Ducks Volleyball",
-          "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-tickets/artist/1758827"
-        }
-      ],
-      "searchText": "ohio state buckeyes women s volleyball vs oregon ducks volleyball tickets are reserved seating children under the age of 2 are free ohio state students are granted free admission by presenting their buck id at the jennings entrance of the covelli center doors to the covelli center open 60 minutes prior to 1st serve group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 option 2 parking is free in lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s volleyball oregon ducks volleyball"
-    },
-    {
-      "id": "1A9ZkffGkeTyL97",
-      "legacyEventId": "17006514BFE5F5C4",
-      "name": "Tahoe Knight Monsters vs. New Mexico Goatheads",
-      "eventUrl": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-new-mexico-stateline-nevada-10-24-2026/event/17006514BFE5F5C4",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-25T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/089/fb977431-eb71-4cf6-8fe9-754cd4d94089_SOURCE",
-      "venue": {
-        "id": "KovZ917Ai8b",
-        "name": "Tahoe Blue Event Center",
-        "city": "Stateline",
-        "state": "NV",
-        "country": "US",
-        "latitude": 38.9631,
-        "longitude": -119.94034,
-        "street": "75 US Highway 50",
-        "zipCode": "89449",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qdr0",
-          "name": "Tahoe Knight Monsters",
-          "url": "https://www.ticketmaster.com/tahoe-knight-monsters-tickets/artist/3181624"
-        },
-        {
-          "id": "K8vZ917-f10",
-          "name": "New Mexico Goatheads",
-          "url": "https://www.ticketmaster.com/new-mexico-goatheads-tickets/artist/4613617"
-        }
-      ],
-      "searchText": "tahoe knight monsters vs new mexico goatheads for more information on knight monsters games including the clear bag policy parking information and more please visit https knightmonstershockey com faq tahoe blue event center stateline nv us tahoe knight monsters new mexico goatheads"
-    },
-    {
-      "id": "rZ7HnEZ1Af1ff7",
-      "legacyEventId": "rZ7HnEZ1Af1ff7",
-      "name": "Rick Springfield",
-      "eventUrl": "https://www.ticketweb.com/event/rick-springfield-blue-note-hawaii-tickets/14294504",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-25T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a89/a55cf44c-8950-4115-9000-80f53bbe1a89_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91718KV",
-          "name": "Rick Springfield",
-          "url": "https://www.ticketmaster.com/rick-springfield-tickets/artist/736178"
-        }
-      ],
-      "searchText": "rick springfield stripped down92 3 kssk presents rick springfield stripped down over the past four decades rick springfield has worn many hats as an entertainer and performer the creator of some of the finest power pop of the 80s a grammy winning singer songwriter and musician who has sold 25 million albums and scored 17 u s top 40 hits including rdquo jessie s girl rdquo don t talk to strangers rdquo an affair of the heart i ve done everything for you rdquo love somebody and rdquo human touch he s an accomplished actor who has starred opposite meryl streep in the feature film rdquo ricki and the flash gave a chameleonic performance as the creepy dr irving pitlor in hbo s prestige drama rdquo true detective earned great reviews for his portrayal of lucifer on the cw hit rdquo supernatural and most recently played the insane pastor charles on fx s worldwide hit series rdquo american horror story vip seating merch package info sold out mahalo includes vip seating exclusive t shirt exclusive merchandise pack you will receive an email from onelive with further details regarding your package fulfillment and requesting your t shirt size merchandise is shipped to you the week of the show and may arrive shortly before or after your show date merchandise subject to change for questions related to your premium ticket merch package email vip onelive com or call 877 717 5816 tickets 99 249 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us rick springfield"
-    },
-    {
-      "id": "1A_Zk38GkeRLIx4",
-      "legacyEventId": "19006490AF7E8895",
-      "name": "Saosin: 20 Years of Self-Titled",
-      "eventUrl": "https://www.ticketmaster.com/saosin-20-years-of-selftitled-tempe-arizona-10-24-2026/event/19006490AF7E8895",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-25T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/4ea/3585b221-3e42-4f12-8eaf-1ebe054e84ea_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175HH0",
-          "name": "Saosin",
-          "url": "https://www.ticketmaster.com/saosin-tickets/artist/982712"
-        },
-        {
-          "id": "K8vZ917oH6f",
-          "name": "Silent Planet",
-          "url": "https://www.ticketmaster.com/silent-planet-tickets/artist/1938200"
-        },
-        {
-          "id": "K8vZ917GWb0",
-          "name": "Like Moths To Flames",
-          "url": "https://www.ticketmaster.com/like-moths-to-flames-tickets/artist/1487611"
-        },
-        {
-          "id": "K8vZ917Ldd0",
-          "name": "Save Us",
-          "url": "https://www.ticketmaster.com/save-us-tickets/artist/4146359"
-        }
-      ],
-      "searchText": "saosin 20 years of self titled this show is general admission standing balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us saosin silent planet like moths to flames save us"
-    },
-    {
-      "id": "vv1A8v0PzGA5ti7k",
-      "legacyEventId": "010064978BA6C106",
-      "name": "Trae Crowder",
-      "eventUrl": "https://www.ticketmaster.com/trae-crowder-boston-massachusetts-10-24-2026/event/010064978BA6C106",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-24T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ff0/33da1e93-61d4-4c4a-8d49-b2e71207fff0_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9174l1V",
-          "name": "Trae Crowder",
-          "url": "https://www.ticketmaster.com/trae-crowder-tickets/artist/2317398"
-        }
-      ],
-      "searchText": "trae crowder wilbur theatre parking is available at the link below the wilbur boston ma us trae crowder"
-    },
-    {
-      "id": "vvG1zZ_CXNHILg",
-      "legacyEventId": "0E0064EFA3F287F5",
-      "name": "The Number Twelve Looks Like You",
-      "eventUrl": "https://www.ticketmaster.com/the-number-twelve-looks-like-you-atlanta-georgia-10-24-2026/event/0E0064EFA3F287F5",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-24T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ac5/9c9472ce-8d6b-49b0-a8bf-c1879c6a0ac5_SOURCE",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GvGV",
-          "name": "The Number Twelve Looks Like You",
-          "url": "https://www.ticketmaster.com/the-number-twelve-looks-like-you-tickets/artist/1095013"
-        }
-      ],
-      "searchText": "the number twelve looks like you masquerade presents the number twelve looks like you october 24 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us the number twelve looks like you"
-    },
-    {
-      "id": "G5vzZ_ANvnhiu",
-      "legacyEventId": "1E006458C1A9BB0D",
-      "name": "Broadway In Boise Presents & JULIET",
-      "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-juliet-boise-idaho-10-24-2026/event/1E006458C1A9BB0D",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-25T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2d1/12d88370-dc1e-48db-9aa0-6ec7596022d1_SOURCE",
-      "venue": {
-        "id": "KovZpZAE7IFA",
-        "name": "Morrison Center for the Performing Arts",
-        "city": "Boise",
-        "state": "ID",
-        "country": "US",
-        "latitude": 43.606728,
-        "longitude": -116.207386,
-        "street": "2201 W Friendship Ln",
-        "zipCode": "83725",
-        "timezone": "America/Denver"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917jm1f",
-          "name": "& Juliet (Touring)",
-          "url": "https://www.ticketmaster.com/juliet-touring-tickets/artist/3152190"
-        }
-      ],
-      "searchText": "broadway in boise presents juliet all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us juliet touring"
-    },
-    {
-      "id": "17AOv0G61wxv9J7",
-      "legacyEventId": "160064ACA2057984",
-      "name": "Kentucky Wildcats Football vs. Vanderbilt Commodores Football",
-      "eventUrl": "https://www.ticketmaster.com/kentucky-wildcats-football-vs-vanderbilt-commodores-lexington-kentucky-10-24-2026/event/160064ACA2057984",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-24T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/92c/a960f092-a623-4520-9c45-26b05b0d992c_SOURCE",
-      "venue": {
-        "id": "KovZpZAEk7JA",
-        "name": "Kroger Field",
-        "city": "Lexington",
-        "state": "KY",
-        "country": "US",
-        "latitude": 38.021822,
-        "longitude": -84.509457,
-        "street": "1540 University Dr",
-        "zipCode": "40506",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175ECV",
-          "name": "Kentucky Wildcats Football",
-          "url": "https://www.ticketmaster.com/kentucky-wildcats-football-tickets/artist/975203"
-        },
-        {
-          "id": "K8vZ9171lhf",
-          "name": "Vanderbilt Commodores Football",
-          "url": "https://www.ticketmaster.com/vanderbilt-commodores-football-tickets/artist/848138"
-        }
-      ],
-      "searchText": "kentucky wildcats football vs vanderbilt commodores football night kick off 6 to 8 p m et start all patrons require a ticket regardless of age the clear bag policy ukathletics com clearbag is in place at kroger field fans are encouraged to visit the uk athletics gameday website for additional ticket parking and shuttle information resale tickets are available from other fans and prices are determined by the seller the public on sale date for primary inventory is tbd kroger field lexington ky us kentucky wildcats football vanderbilt commodores football"
-    },
-    {
-      "id": "LvZ18QilOj9poXqR1Gqwb",
-      "legacyEventId": "LvZ18QilOj9poXqR1Gqwb",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-24T23:30:00Z",
-      "endDateTime": "2026-10-25T01:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "17A8v0G6G3OU_FM",
-      "legacyEventId": "150064C4A0D99237",
-      "name": "Little Big Town - For The Art Of It Tour",
-      "eventUrl": "https://www.ticketmaster.com/little-big-town-for-the-art-national-harbor-maryland-10-24-2026/event/150064C4A0D99237",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-24T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/db1/0f94accd-382f-4642-9371-d7379f786db1_SOURCE",
-      "venue": {
-        "id": "KovZ917A5LV",
-        "name": "The Theater at MGM National Harbor",
-        "city": "National Harbor",
-        "state": "MD",
-        "country": "US",
-        "latitude": 38.791707,
-        "longitude": -77.003002,
-        "street": "101 MGM National Ave",
-        "zipCode": "20745",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175ykf",
-          "name": "Little Big Town",
-          "url": "https://www.ticketmaster.com/little-big-town-tickets/artist/960074"
-        },
-        {
-          "id": "K8vZ917ulu0",
-          "name": "Ashley Ray",
-          "url": "https://www.ticketmaster.com/ashley-ray-tickets/artist/1097456"
-        }
-      ],
-      "searchText": "little big town for the art of it tour welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us little big town ashley ray"
-    },
-    {
-      "id": "vvG1IZ_5QDPyT3",
-      "legacyEventId": "0A0064B6BB979FD2",
-      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-chula-vista-california-10-24-2026/event/0A0064B6BB979FD2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-25T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/433/021fc7b3-815d-4f88-9fce-83b31a96d433_SOURCE",
-      "venue": {
-        "id": "KovZpa2WZe",
-        "name": "North Island Credit Union Amphitheatre",
-        "city": "Chula Vista",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.58830386,
-        "longitude": -117.00640802,
-        "street": "2050 Entertainment Circle",
-        "zipCode": "91911",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917KBFf",
-          "name": "Bryson Tiller",
-          "url": "https://www.ticketmaster.com/bryson-tiller-tickets/artist/2171167"
-        },
-        {
-          "id": "K8vZ917fb2V",
-          "name": "Majid Jordan",
-          "url": "https://www.ticketmaster.com/majid-jordan-tickets/artist/2213649"
-        },
-        {
-          "id": "K8vZ917ozIV",
-          "name": "Ty Dolla $ign",
-          "url": "https://www.ticketmaster.com/ty-dolla-ign-tickets/artist/1932449"
-        },
-        {
-          "id": "K8vZ917fofV",
-          "name": "Austin Millz",
-          "url": "https://www.ticketmaster.com/austin-millz-tickets/artist/2201141"
-        }
-      ],
-      "searchText": "bryson tiller presents the neo trapsoul tour rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance north island credit union amphitheatre chula vista ca us bryson tiller majid jordan ty dolla ign austin millz"
-    },
-    {
-      "id": "LvZ18QJSG6KS-37IC4N0E",
-      "legacyEventId": "LvZ18QJSG6KS-37IC4N0E",
-      "name": "R&B ONLY LIVE - Memphis, TN",
-      "eventUrl": "https://www.universe.com/events/r-b-only-live-memphis-tn-tickets-H21MQN?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T01:00:00Z",
-      "endDateTime": "2026-10-25T06:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_SOURCE",
-      "venue": {
-        "id": "KovZpaCWke",
-        "name": "Minglewood Hall",
-        "city": "Memphis",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.137976,
-        "longitude": -90.010044,
-        "street": "1555 Madison Avenue",
-        "zipCode": "38104",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bcfV",
-          "name": "R&B ONLY",
-          "url": "https://www.ticketmaster.com/rb-only-tickets/artist/2473787"
-        },
-        {
-          "id": "K8vZfZ71F7k",
-          "name": "R&B ONLY LIVE",
-          "url": "https://www.ticketmaster.com/rb-only-live-tickets/artist/2797748"
-        }
-      ],
-      "searchText": "r b only live memphis tn 18 r amp b only live is coming to your city for the ultimate r amp b experience come sing dance and experience r amp b music from past to present pics and videos from r amp b only live instagram com rnbonly tiktok com rnbonly q what is r amp b only live a r amp b only live is a live music experience produced by colors worldwide dedicated to celebrating r amp b music from past to present it s a dj driven event where audiences can sing dance and enjoy a nostalgic journey through r amp b music s greatest hits and modern favorites q what can i expect at an r amp b only live show a r amp b only live is a high energy event designed for fans to connect with r amp b music our dj led show takes audiences on a musical journey through classic and contemporary r amp b hits in an atmosphere full of singing dancing and r amp b nostalgia q what s the dress code a there is no specific dress code but we encourage fans to come ready for a night of dancing and fun whether you prefer casual or dressed up come as you are and enjoy the experience q what s the ticketing policy a all tickets for r amp b only live events are non refundable if you have questions about your ticket or need it resent please contact us at info colorsworldwide com q what should i know before attending the show a a valid id is required for entry at age restricted shows we also encourage attendees to check the venue s bag policy and parking information in advance as these are determined by the venue and may vary q how can i stay updated on future shows a follow us on social media instagram tiktok youtube x and facebook for the latest updates event announcements and exclusive content you can also join our mailing list on our website to be among the first to know about new shows and ticket releases legal must be 18 to attend as a condition of your attendance at r amp b only live you agree and irrevocably consent to your image and or likeness being captured on film and or video the benefit of which shall vest in colors worldwide inc its licensees successors and assigns and may be distributed throughout the world in perpetuity without limitation all sales are final with rsvp and or ticket purchase you agree to receive communications from colors worldwide inc minglewood hall memphis tn us r b only r b only live"
-    },
-    {
-      "id": "1A4ZkoNGkeRsbGb",
-      "legacyEventId": "15006463AFC58318",
-      "name": "Kathleen Madigan: Flying Cats & Marching Armadillos 2026 Tour",
-      "eventUrl": "https://www.ticketmaster.com/kathleen-madigan-flying-cats-marching-armadillos-charles-town-west-virginia-10-24-2026/event/15006463AFC58318",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7d5/3153ae11-a8a1-401b-8548-a181700b57d5_SOURCE",
-      "venue": {
-        "id": "KovZpZAJ6knA",
-        "name": "Hollywood Casino at Charles Town Races",
-        "city": "Charles Town",
-        "state": "WV",
-        "country": "US",
-        "latitude": 39.29716807,
-        "longitude": -77.85236187,
-        "street": "750 Hollywood Drive",
-        "zipCode": "25414",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171B-0",
-          "name": "Kathleen Madigan",
-          "url": "https://www.ticketmaster.com/kathleen-madigan-tickets/artist/724139"
-        }
-      ],
-      "searchText": "kathleen madigan flying cats marching armadillos 2026 tour all shows are 21 and over with valid id no one under the age of 21 will be admitted no covid restrictions or protocols unless listed on artist or casino website all times and lineup are subject to change without notice no refunds or exchanges all sales are final no professional photography cell phone photos are allowed free parking please check https www hollywoodcasinocharlestown com entertainment for the most up to date information weapons of any kind are prohibited in the casino and in the event center hollywood casino at charles town races charles town wv us kathleen madigan"
-    },
-    {
-      "id": "vvG1fZ_16CoPfh",
-      "legacyEventId": "050064A1CE46551B",
-      "name": "The Fab Four - The Ultimate Tribute",
-      "eventUrl": "https://www.ticketmaster.com/the-fab-four-the-ultimate-tribute-northfield-ohio-10-24-2026/event/050064A1CE46551B",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/809/fd1dc45c-bff7-4f2d-a339-927960e83809_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9172tE0",
-          "name": "The Fab Four - The Ultimate Tribute",
-          "url": "https://www.ticketmaster.com/the-fab-four-the-ultimate-tribute-tickets/artist/1586286"
-        }
-      ],
-      "searchText": "the fab four the ultimate tribute this is a 21 over all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor dining areas and live harness racing on scheduled nights all seats are reserved no cameras permitted the box office opens at 1 00pm on days of shows for more information call 330 908 7793 there is ample free parking available the closest entrance to center stage is the south entrance northfield park racino center stage northfield oh us the fab four the ultimate tribute"
-    },
-    {
-      "id": "vv1AFZkoyGkdPqyhP",
-      "legacyEventId": "08006479E57796E5",
-      "name": "Jo Koy: Koy Meets World Tour",
-      "eventUrl": "https://www.ticketmaster.com/jo-koy-koy-meets-world-tour-detroit-michigan-10-24-2026/event/08006479E57796E5",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/fb8/e45d0f19-ccb4-4ee3-93d3-7c3b1ff8efb8_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GJk0",
-          "name": "Jo Koy",
-          "url": "https://www.ticketmaster.com/jo-koy-tickets/artist/1179917"
-        }
-      ],
-      "searchText": "jo koy koy meets world tour age restriction 12 all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us jo koy"
-    },
-    {
-      "id": "rZ7HnEZ1AfuvG7",
-      "legacyEventId": "rZ7HnEZ1AfuvG7",
-      "name": "Tipton Rock Band & The Salty Sister Project",
-      "eventUrl": "https://www.ticketweb.com/event/tipton-rock-band-the-off-the-rails-music-venue-tickets/14341304",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": "2026-10-25T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/05/70/44_Edp.jpg?v=2",
-      "venue": {
-        "id": "rZ7HnEZ1739fP",
-        "name": "Off The Rails Music Venue",
-        "city": "Worcester",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.2666,
-        "longitude": -71.79923,
-        "street": "90 Commercial Street",
-        "zipCode": "01608",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "tipton rock band the salty sister project all agesgeneral admission general admission is standing room only reserved table seating upgrade your experience with one of our exclusive bar height tables for two availability is limited to 15 tables per show and reserved table tickets must be purchased as a pair reserved table tickets include two 2 general admission tickets a private bar height table for two full access to the off the rails food menu dedicated table service for food and beverage orders one 1 complimentary parking space per table please present your reserved table ticket to the parking attendant upon arrival for ticketing questions or ada accommodations please contact us at info offtherailsworcester com important information please note restaurant reservations made through toast are not valid event tickets and do not include admission to the music venue restaurant seating does not provide views of the stage or access to ticketed performances if you plan to attend a ticketed event you must purchase an event ticket separately regardless of any restaurant reservation made through toast reserved table tickets purchased through our ticketing platform are the only table reservations that include admission to the performance and seating inside the music venue off the rails music venue worcester ma us"
-    },
-    {
-      "id": "vvG1zZ_CB4MJ-z",
-      "legacyEventId": "0E0064EE95DE6878",
-      "name": "Sueco",
-      "eventUrl": "https://www.ticketmaster.com/sueco-atlanta-georgia-10-24-2026/event/0E0064EE95DE6878",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/212/ec4f1561-7a99-428b-b844-39f933dcb212_SOURCE",
-      "venue": {
-        "id": "KovZpZA1tn1A",
-        "name": "The Loft",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St.",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917_qT0",
-          "name": "Sueco",
-          "url": "https://www.ticketmaster.com/sueco-tickets/artist/2807067"
-        },
-        {
-          "id": "K8vZ917_qTV",
-          "name": "Jeris Johnson",
-          "url": "https://www.ticketmaster.com/jeris-johnson-tickets/artist/2807071"
-        }
-      ],
-      "searchText": "sueco masquerade presents sueco october 24 2026 loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us sueco jeris johnson"
-    },
-    {
-      "id": "LvZ18QIjbtVjtZwZh4hxj",
-      "legacyEventId": "LvZ18QIjbtVjtZwZh4hxj",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T00:00:00Z",
-      "endDateTime": "2026-10-25T02:00:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "vvG10Z_13iOWiS",
-      "legacyEventId": "090064A4AC83DB33",
-      "name": "Two Friends",
-      "eventUrl": "https://www.ticketmaster.com/two-friends-hollywood-california-10-24-2026/event/090064A4AC83DB33",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-25T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/3c0/087f8a32-5ed1-4939-b220-c98b1617f3c0_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAlaA",
-        "name": "Hollywood Palladium",
-        "city": "Hollywood",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.09850537,
-        "longitude": -118.32421313,
-        "street": "6215 Sunset Blvd",
-        "zipCode": "90028",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9174RP7",
-          "name": "Two Friends",
-          "url": "https://www.ticketmaster.com/two-friends-tickets/artist/2224106"
-        }
-      ],
-      "searchText": "two friends all ages welcome doors 8 00 pm show 9 00 pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 90 minutes prior to doors opening to the music hall hollywood palladium hollywood ca us two friends"
-    },
-    {
-      "id": "rZ7HnEZ1AfJ_OK",
-      "legacyEventId": "rZ7HnEZ1AfJ_OK",
-      "name": "ALICIA BLUE at FITZGERALDS Nightclub",
-      "eventUrl": "https://www.ticketweb.com/event/alicia-blue-at-fitzgeralds-nightclub-fitzgeralds-nightclub-tickets/14999813",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-25T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/34/53_Edp.jpg?v=10",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "alicia blue at fitzgeralds nightclub fitzgeralds nightclub presents alicia blue at fitzgeralds nightclub 20 general admission reserved tables available raised between the orange groves of california and the south borderlands of texas nashville based alicia blue writes country songs rooted in desire consequence and control the daughter of a truck driver and a bank teller her voice carries a blue collar directness shaped by classic country alicia doesn t look away from her past she instead aims straight through she lands between the outlaw gravity of waylon the high lonesome clarity of dolly and the ache of emmylou it s not borrowed but claimed her 2024 duet with lucinda williams rdquo tennessee is proof four time grammy award winning producer shooter jennings heard alicia s demo s last year calling her voice as rare as they come coming along once in a generation together refusing to play it safe they made her debut album country desire which hit worldwide on aug 28 the sessions pulled together a powerhouse of players jay bellerose on drums alison krauss robert plant ray lamontagne brian whelan on keys and textures dwight yoakam ted russell kamp on bass sturgill simpson tanya tucker greg leisz on pedal steel bob dylan eric clapton and alicia s guitarist alex labrie each one serving the songs rather than polishing them with label support from soundly thirty tigers tour dates with charley crockett and her new album country desire growing fast and building new fans the ground is shifting beneath her feet alicia blue isn t arriving she s already here grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "LvZ18QigO59ZimFSWi2ms",
-      "legacyEventId": "LvZ18QigO59ZimFSWi2ms",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-25T00:30:00Z",
-      "endDateTime": "2026-10-25T02:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "vvG1bZ_1Ll5Gew",
-      "legacyEventId": "060064A7EB2CC0B2",
-      "name": "The Rock Gods",
-      "eventUrl": "https://www.ticketmaster.com/the-rock-gods-kansas-city-missouri-10-24-2026/event/060064A7EB2CC0B2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-25T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/fc8/3d033468-5540-446e-b515-ba54d6a9ffc8_SOURCE",
-      "venue": {
-        "id": "KovZpZAJa77A",
-        "name": "Ameristar Casino and Hotel",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.153353,
-        "longitude": -94.483047,
-        "street": "3200 Ameristar Dr",
-        "zipCode": "64161",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917_QF7",
-          "name": "The Rock Gods",
-          "url": "https://www.ticketmaster.com/the-rock-gods-tickets/artist/2791399"
-        }
-      ],
-      "searchText": "the rock gods star pavilion presents rock gods live in concert saturday october 26 2026 door 7 30pm show 8 30pm ages 18 unless accompanied by an adult ada seats are removable and can accommodate a standard sized wheelchair they are reserved for ada customers enjoy one of ameristar s 6 restaurants before the show secure covered parking is always free at ameristar want to make a night of it book a hotel room at https ameristarkansascity boydgaming com or call 816 414 7000 no refunds or exchanges all sales are final ameristar casino and hotel kansas city mo us the rock gods"
-    },
-    {
-      "id": "rZ7HnEZ1AfJ3AS",
-      "legacyEventId": "rZ7HnEZ1AfJ3AS",
-      "name": "Blade Rave",
-      "eventUrl": "https://www.ticketweb.com/event/blade-rave-diamondback-music-hall-tickets/14992173",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "21:00",
-      "startDateTime": "2026-10-25T01:00:00Z",
-      "endDateTime": "2026-10-25T06:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/59/52/43_Edp.jpg?v=18",
-      "venue": {
-        "id": "rZ7HnEZ17_apd",
-        "name": "Diamondback Music Hall",
-        "city": "Belleville",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.2185947623,
-        "longitude": -83.5218059153,
-        "street": "49345 S Interstate 94 Service Dr",
-        "zipCode": "48111",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "blade rave step into the vampire underworld as blade rave turns diamondback music hall into a reimagined night inside the iconic bloodbath rave scene from the film blade on saturday october 24th arrive early stay late just be on the lookout for vampires this event includes djs playing a mix of goth techno house and additional sub genres of edm gogo dancers dressed to impress and ready to bite themed cocktails and limited blood bags event photos video recap posted on bladerave com cosplayers customized visuals created by deadeyesart a midnight bloodbath suggested attire goth industrial steampunk vampire superhero cosplay tickets on sale now at diamondbackmusic hall com please note if you are in the crowd during the blood bath you may get wet rdquo blood is washable but there s always a small chance it may leave a stain interested in becoming a vendor at this event please fill out our vendor application at https form jotform com 250504157629154 or click the rdquo vendor application link in bio event details date saturday october 24th doors open 9 pm 2 am age restriction 18 only valid id required headlining dj to be announced local support djs to be announced venue diamondback music hall 49345 s interstate 94 service dr belleville mi 48111 parking on site parking is available for 10 cash upon arrival should our main lot fill up a complimentary shuttle will run continuously from our overflow parking lot to ensure you get to the venue smoothly for a refresher on the iconic scene from the original 1998 blade movie https www youtube com watch v xzd7eptgdfq diamondback music hall belleville mi us"
-    },
-    {
-      "id": "1AyZkfUGkd9pKz2",
-      "legacyEventId": "39006536D7593E0F",
-      "name": "Lakeside Laughs Comedy Club",
-      "eventUrl": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-24-2026/event/39006536D7593E0F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "21:30",
-      "startDateTime": "2026-10-25T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpaF28e",
-        "name": "The Cabaret at Caesars Republic Lake Tahoe",
-        "city": "Lake Tahoe",
-        "state": "NV",
-        "country": "US",
-        "latitude": 38.96030808,
-        "longitude": -119.94269562,
-        "street": "18 Hwy 50",
-        "zipCode": "89449",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "lakeside laughs comedy club harrah s caesars republic lake tahoe prohibits the carrying and or possession of firearms even with a ccw or other dangerous weapons on the premises the venue reserves the right to implement security procedures designed to protect the experience for all of our customers paid parking charges may apply doors open 9pm maitre d seating must be 21 yrs w valid id to attend the show the cabaret at caesars republic lake tahoe lake tahoe nv us"
-    },
-    {
-      "id": "vvG1fZ_CHZLSYG",
-      "legacyEventId": "050064EF007F3C0C",
-      "name": "Spencer Crandall",
-      "eventUrl": "https://www.ticketmaster.com/spencer-crandall-indianapolis-indiana-10-24-2026/event/050064EF007F3C0C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "22:00",
-      "startDateTime": "2026-10-25T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/777/21745294-bcb1-4d5c-be93-ced72ed1f777_SOURCE",
-      "venue": {
-        "id": "KovZpZAF7AnA",
-        "name": "8 Seconds Saloon",
-        "city": "Indianapolis",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.768343,
-        "longitude": -86.249381,
-        "street": "111 N Lynhurst Dr",
-        "zipCode": "46224",
-        "timezone": "America/Indiana/Indianapolis"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9174rof",
-          "name": "Spencer Crandall",
-          "url": "https://www.ticketmaster.com/spencer-crandall-tickets/artist/2288120"
-        }
-      ],
-      "searchText": "spencer crandall must be 21 to enter doors 6pm no opener spencer crandall 10pm free parking no backpacks or large purses bags subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us spencer crandall"
-    },
-    {
-      "id": "G5viZ_4oSw7Jw",
-      "legacyEventId": "1B00655473C849B2",
-      "name": "Sábado Gigante Hosted by Don Sevilla with VDJ Emotion & DJ Danny",
-      "eventUrl": "https://www.ticketmaster.com/sabado-gigante-hosted-by-don-sevilla-new-orleans-louisiana-10-24-2026/event/1B00655473C849B2",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-24",
-      "localTime": "23:00",
-      "startDateTime": "2026-10-25T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/7c5/79b33d85-9379-4e6b-8ba5-c93a1ef617c5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZ917AaR7",
-        "name": "New Orleans Jazz Market",
-        "city": "New Orleans",
-        "state": "LA",
-        "country": "US",
-        "latitude": 29.941223,
-        "longitude": -90.0789724,
-        "street": "1436 Oretha Castle Haley Boulevard",
-        "zipCode": "70113",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "sabado gigante hosted by don sevilla with vdj emotion dj danny 21 event dress code dress to impress doors open at 11pm free valet parking for ladies until 12 30 a m new orleans jazz market new orleans la us"
     },
     {
       "id": "rZ7HnEZ1AfuI-f",
@@ -13174,7 +11828,7 @@
       "localTime": "20:30",
       "startDateTime": "2026-11-13T02:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/62/68/13_Edp.jpg?v=4",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/62/68/13_Edp.jpg?v=5",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -13188,7 +11842,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "yarn w special guest terry white the loaded dice at fitzgeralds nightclub fitzgeralds nightclub presents yarn w special guest terry white the loaded dice 25 general admission 30 seat reserved tables available you might expect a band that calls itself yarn to naturally tend to spin a yarn or two thats what we do we tell stories live and in the studio truth and fiction singer songwriter blake christiana insists we dont always opt for consistency theres a different vibe onstage from what comes through in our recordings theres a difference in every show as well you never know what youre going to get yarns ability to persevere ought to come as no great surprise especially for a band that spent two years honing their chops during a monday night residency at the famed kennys castaway in new yorks greenwich village in effect it allowed them to rehearse onstage mostly in front of audiences that often ranged in size from five to a hundred people on any given night 10 studio albums followed yarn 2007 empty pockets 2008 leftovers part one 2009 come on in 2010 leftovers part 2 2011 almost home 2012 shine the light on 2013 this is the year 2016 and lucky 13 parts 1 ve driven nonstop made countless radio station appearances driven broken down rvs and watched as their van caught fire theyve paid their dues and then some looking forward even as they were forced to glance behind indeed the accolades piled up quickly along the way they have landed on the grammy ballot 4 times garnered nods from the americana music association placed top five on both radio and records and the ama album charts garnered airplay on sirius xm itunes pandora cnn and cmt been streamed millions of times on spotify apple music and amazon and also accorded the download of the day from rolling stone shine the light on found shared songwriting credits with john oates the oates of hall the yarmy grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
+      "searchText": "yarn w special guest terry white the loaded dice at fitzgeralds nightclub fitzgeralds nightclub presents yarn w special guest terry white the loaded dice 25 general admission 30 seat reserved tables available you might expect a band that calls itself yarn to naturally tend to spin a yarn or two rdquo that s what we do we tell stories live and in the studio truth and fiction singer songwriter blake christiana insists rdquo we don t always opt for consistency there s a different vibe onstage from what comes through in our recordings there s a difference in every show as well you never know what you re going to get yarn s ability to persevere ought to come as no great surprise especially for a band that spent two years honing their chops during a monday night residency at the famed kenny s castaway in new york s greenwich village in effect it allowed them to rehearse onstage mostly in front of audiences that often ranged in size from five to a hundred people on any given night 10 studio albums followed yarn 2007 empty pockets 2008 leftovers part one 2009 come on in 2010 leftovers part 2 2011 almost home 2012 shine the light on 2013 this is the year 2016 and lucky 13 parts 1 2 2019 the band then took to the road playing upwards of 170 shows a year and sharing stages with such superstars as dwight yoakam charlie daniels railroad earth marty stuart allison krauss leon russell jim lauderdale leftover salmon amos lee the lumineers and many more they performed at any number of prestigious venues mountain stage daytrotter the orange peel in asheville the fox theater in boulder the 9 30 club in d c south by southwest the strawberry festival rhythm and roots meadowgrass floydfest and so much more eventually surpassing 1 000 shows half a million miles and performances in nearly every state they ve driven nonstop made countless radio station appearances driven broken down rvs and watched as their van caught fire they ve paid their dues and then some looking forward even as they were forced to glance behind indeed the accolades piled up quickly along the way they have landed on the grammy ballot 4 times garnered nods from the americana music association placed top five on both radio and records and the ama album charts garnered airplay on sirius xm itunes pandora cnn and cmt been streamed millions of times on spotify apple music and amazon and also accorded the rdquo download of the day from rolling stone shine the light on found shared songwriting credits with john oates the oates of hall oates fame and when audiences expressed their admiration it brought the band a populist cult following of diehard devotees popularly known as rdquo the yarmy grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "rZ7HnEZ1Af0PqK",
@@ -18308,6 +16962,33 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "rZ7HnEZ1AfCpuf",
+      "legacyEventId": "rZ7HnEZ1AfCpuf",
+      "name": "La Bota: A Bailar",
+      "eventUrl": "https://www.ticketweb.com/event/la-bota-a-bailar-alta-sea-tickets/14396354",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-20",
+      "localTime": "19:00",
+      "startDateTime": "2026-11-21T03:00:00Z",
+      "endDateTime": "2026-11-21T07:55:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/11/13/94_Edp.jpg?v=2",
+      "venue": {
+        "id": "rZ7HnEZ17_YuS",
+        "name": "Alta Sea",
+        "city": "San Pedro",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.72215,
+        "longitude": -118.2733994,
+        "street": "2459 Signal Street",
+        "zipCode": "90731 ",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [],
+      "searchText": "la bota a bailar friday novemberr 20 2026 fall harvest party new venue altasea berth 60 lands end 2451 signal st san pedro ca 90731 the event entrance is at the stairs near door 35 this show will be outdoors and indoors doors 7 00pm all ages show djs luis con ritmo start at 7 00pm live music starts at 8pm sunset at 7pm headliner mala influencia special guest tamborazo hasta la luna opening act 7 00pm doors and dj king steady beat 8 00 9 00pm betty s mustache 9 00pm catrinas 9 00 9 30pm dj king steady beat la cosecha internacional 9 30pm 10 30pm tamborazo hasta la luna 10 30pm costume contest 10 30pm 11 00pm dj king steady beat la cosecha internacional 11 00 12 00am tamborazo de oro 5 drink specials from 7pm 8pm first 50 guests in recieve a treat halloween costume contest food pepe s red tacos dip deez preferred parking 20 kids under 12 accompanied by an adult are free no ticket required kids 12 and up require a full priced ticket tickets general admission 15 presale limited tax fees 20 general admission tax fees 25 day of show at the door tax fees presale vip seating options 2 guests 125 plus tax fees and includes day of show admission ticket for each guest 1 table for 2 vip bar line vip restroom 1 drink ticket per guest 4 guests 250 plus tax fees and includes day of show admission ticket for each guest 1 table for 4 vip bar line vip restroom 1 drink ticket per guest 8 guests 500 plus tax fees and includes day of show admission ticket for each guest 1 table for 8 vip bar line vip restroom 1 drink ticket per guest all on the la waterfront ocean views inside stage inside dance floor outside food vendors and smoking area food vendors state of the art visuals free plentiful parking inside our gates just outside the grounds venue accepts cash and card limited seating is first come first serve inside and outside vip section includes ticket to enter one drink ticket per ticket and guaranteed seating no ins and outs smoking section outside small clear bags encouraged rain or shine no refunds all masks must be taken off for id verification everything and everyone is subject to search upon entry not allowed in the venue no backpacks no wagons no weapons of any kind no pets no lawn chairs no scooters no skateboards no coolers no outside food no outside drinks no drugs no ins and outs no fighting alta sea san pedro ca us"
+    },
+    {
       "id": "1A9ZkffGkeTWL_3",
       "legacyEventId": "17006514BFF5F652",
       "name": "Tahoe Knight Monsters vs. New Mexico Goatheads",
@@ -21521,9 +20202,14 @@
           "id": "K8vZ917rBzV",
           "name": "Moral",
           "url": "https://www.ticketmaster.com/moral-tickets/artist/4109649"
+        },
+        {
+          "id": "K8vZ917O6e7",
+          "name": "Nocturne's Kiss",
+          "url": "https://www.ticketmaster.com/nocturnes-kiss-tickets/artist/4429124"
         }
       ],
-      "searchText": "moral rival presents moral november 22 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us moral"
+      "searchText": "moral rival presents moral w nocturne s kiss november 22 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us moral nocturne s kiss"
     },
     {
       "id": "rZ7HnEZ1AfuSr7",
@@ -36924,12 +35610,12 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205094",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-11",
       "localTime": "18:00",
       "startDateTime": "2026-12-11T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/11/33/44_Edp.jpg?v=1",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -36943,7 +35629,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8qg",
@@ -80020,8 +78706,8 @@
     {
       "id": "vv16FZkfMA3ZAC8uka",
       "legacyEventId": "08006537152DFC58",
-      "name": "A Perfect Circle",
-      "eventUrl": "https://www.ticketmaster.com/a-perfect-circle-detroit-michigan-04-25-2027/event/08006537152DFC58",
+      "name": "A Perfect Circle with special guest Puscifer",
+      "eventUrl": "https://www.ticketmaster.com/a-perfect-circle-with-special-guest-detroit-michigan-04-25-2027/event/08006537152DFC58",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2027-04-25",
@@ -80053,7 +78739,7 @@
           "url": "https://www.ticketmaster.com/puscifer-tickets/artist/1278783"
         }
       ],
-      "searchText": "a perfect circle all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us a perfect circle puscifer"
+      "searchText": "a perfect circle with special guest puscifer all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us a perfect circle puscifer"
     },
     {
       "id": "rZ7HnEZ1A4v8ZS",
@@ -82769,8 +81455,8 @@
     {
       "id": "vvG1IZ_KL8JvKq",
       "legacyEventId": "0A006537D09814DD",
-      "name": "A Perfect Circle",
-      "eventUrl": "https://www.ticketmaster.com/a-perfect-circle-chula-vista-california-06-08-2027/event/0A006537D09814DD",
+      "name": "A Perfect Circle with special guests The Cult",
+      "eventUrl": "https://www.ticketmaster.com/a-perfect-circle-with-special-guests-chula-vista-california-06-08-2027/event/0A006537D09814DD",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2027-06-08",
@@ -82802,7 +81488,7 @@
           "url": "https://www.ticketmaster.com/the-cult-tickets/artist/1440075"
         }
       ],
-      "searchText": "a perfect circle rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance north island credit union amphitheatre chula vista ca us a perfect circle the cult"
+      "searchText": "a perfect circle with special guests the cult rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance north island credit union amphitheatre chula vista ca us a perfect circle the cult"
     },
     {
       "id": "vv17bZ_fGkMJnNXo",
