@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-29T09:12:59.601Z",
+  "generatedAt": "2026-10-30T09:24:24.887Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-29T08:22:05Z",
-    "numberOfEvents": 111004,
-    "compressedSizeBytes": 85550043,
-    "checksum": "dca57066c68d7f98c07eabe211184218"
+    "lastUpdated": "2026-10-30T08:25:14Z",
+    "numberOfEvents": 110462,
+    "compressedSizeBytes": 85172921,
+    "checksum": "0c2dd2aad21056f28e71dd35a3527eb7"
   },
   "summary": {
-    "parkingEvents": 2509
+    "parkingEvents": 2508
   },
   "diagnostics": {
     "terms": {
-      "olivia": 85,
-      "rodrigo": 67,
-      "metallica": 66,
-      "intuit dome": 99,
+      "olivia": 84,
+      "rodrigo": 65,
+      "metallica": 65,
+      "intuit dome": 97,
       "sphere": 1256,
-      "parking": 6060
+      "parking": 5996
     },
     "samples": {
       "olivia": [
@@ -355,16 +355,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "vvG1OZ_G51vzoD",
-          "name": "Rodrigo y Gabriela - OurHome Tour",
-          "eventUrl": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-detroit-michigan-10-29-2026/event/080064C2CA07847B",
-          "venue": "The Fillmore Detroit",
-          "city": "Detroit",
-          "state": "MI",
-          "matchedTerm": "rodrigo",
-          "matchedAsParking": false
-        },
-        {
           "id": "1AdZZ_aGkVw1WPg",
           "name": "Olivia Rodrigo: The Unraveled Tour",
           "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-brooklyn-new-york-02-27-2027/event/3000649D322BD975",
@@ -421,6 +411,16 @@
           "venue": "T-Mobile Arena",
           "city": "Las Vegas",
           "state": "NV",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv170Z_aGkMETJ8b",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-13-2027/event/0900649DE7FE6418",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
           "matchedTerm": "rodrigo",
           "matchedAsParking": false
         }
@@ -1680,534 +1680,6 @@
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
     },
     {
-      "id": "LvZ18QlUCLjz6fYZdvkQF",
-      "legacyEventId": "LvZ18QlUCLjz6fYZdvkQF",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-29T22:30:00Z",
-      "endDateTime": "2026-10-30T01:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "vvG1iZ_G91b9vN",
-      "legacyEventId": "0B0064C5CA617063",
-      "name": "EPIK HIGH 3.0 NORTH AMERICAN TOUR",
-      "eventUrl": "https://www.ticketmaster.com/epik-high-30-north-american-tour-san-diego-california-10-29-2026/event/0B0064C5CA617063",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-30T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/b72/aefdadd8-39ca-4186-b13d-d89e1d97fb72_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917KbD7",
-          "name": "EPIK HIGH",
-          "url": "https://www.ticketmaster.com/epik-high-tickets/artist/2112936"
-        }
-      ],
-      "searchText": "epik high 3 0 north american tour doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us epik high"
-    },
-    {
-      "id": "rZ7HnEZ1AfuA8V",
-      "legacyEventId": "rZ7HnEZ1AfuA8V",
-      "name": "Ka'au Crater Boys - The Second Chapter",
-      "eventUrl": "https://www.ticketweb.com/event/kaau-crater-boys-blue-note-hawaii-tickets/14345434",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-30T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/11/54_Edp.jpg?v=17",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [],
-      "searchText": "ka au crater boys the second chapter sponsored by outrigger resorts upwpresented by kine 105 1 kccn fm100 sponsored by outrigger resorts upw ka au crater boys the second chapter the soundtrack of a generation returns live to blue note hawaii ka au crater boys the second chapter brings the defining sound of contemporary hawai i back to the stage formed in palolo valley in the early 1990s by troy fernandez and the late ernie cruz jr the iconic duo reshaped island music with hits like tropical hawaiian day opihi man and surf featuring three time na hoku hanohano award winner troy fernandez this special performance honors their palolo roots bringing these beloved songs to life for longtime fans and a new generation tickets 25 45 club policies 10 29 show 7pm doors 5pm 10 30 shows 6 30pm 9 pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
-    },
-    {
-      "id": "rZ7HnEZ1Af-tAS",
-      "legacyEventId": "rZ7HnEZ1Af-tAS",
-      "name": "GWAR",
-      "eventUrl": "https://www.ticketweb.com/event/gwar-five-tickets/14869173",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-29T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/909/c0e06fb3-7dd3-4508-899d-68ec0d009909_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17_tPS",
-        "name": "FIVE",
-        "city": "Jacksonville",
-        "state": "FL",
-        "country": "US",
-        "latitude": 30.314939,
-        "longitude": -81.681258,
-        "street": "1028 Park Street",
-        "zipCode": "32204",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171G4f",
-          "name": "GWAR",
-          "url": "https://www.ticketmaster.com/gwar-tickets/artist/735222"
-        },
-        {
-          "id": "K8vZ9178WAV",
-          "name": "Midnight",
-          "url": "https://www.ticketmaster.com/midnight-tickets/artist/1842117"
-        },
-        {
-          "id": "K8vZ917KhF7",
-          "name": "Mac Sabbath",
-          "url": "https://www.ticketmaster.com/mac-sabbath-tickets/artist/2117004"
-        }
-      ],
-      "searchText": "gwar all tickets are general admission standing room only limited seating will be available for mezzanine and projector room suite ticket holders on a first come first served basis the mezzanine and projector room suite are 21 only ticket prices include all fees and taxes tickets purchased in person have reduced fees tickets can be purchased at the five box office every friday 10am 4pm or at tiger records every day from 10am 8pm five box office 1028 park st jacksonville fl 32204tiger records 875 stockton street jacksonville fl 32204 please note five is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter presale tickets are available online only five jacksonville fl us gwar midnight mac sabbath"
-    },
-    {
-      "id": "vv17OZ_eGkS8fpFH",
-      "legacyEventId": "0800642CD051623C",
-      "name": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "eventUrl": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-grand-rapids-michigan-10-29-2026/event/0800642CD051623C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-29T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/666/72aacd35-2869-4428-b4c3-fb9fc9b13666_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAlkA",
-        "name": "Van Andel Arena",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.962098,
-        "longitude": -85.67158,
-        "street": "130 Fulton West",
-        "zipCode": "49503",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917hekV",
-          "name": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
-          "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-presents-tickets/artist/2962779"
-        }
-      ],
-      "searchText": "ringling bros and barnum bailey with special guest bello nock the circus is here youre invited to the most next level family fun party on the planet the all new ringling bros and barnum bailey is a non stop celebration of jaw dropping acts laugh out loud fun and memory making moments you wont want to miss because this isnt just about the action on stage its about the fun of sharing it with the people who matter most from wide eyed kids to seen it all grown ups weve got the wow that will amaze them all weve taken the biggest boldest most joy sparking acts in the world and transformed them into a one of a kind shared experience so grab your crew and bring your biggest energy the greatest show on earth is throwing the worlds most unforgettable party and the best seat in the house is the one right next to you van andel arena grand rapids mi us ringling bros and barnum bailey presents the greatest show on earth"
-    },
-    {
-      "id": "17k8v0G6GKLctnZ",
-      "legacyEventId": "190064C4DFB69A80",
-      "name": "Pigeons Playing Ping Pong",
-      "eventUrl": "https://www.ticketmaster.com/pigeons-playing-ping-pong-tempe-arizona-10-29-2026/event/190064C4DFB69A80",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-30T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/346/50895d1f-ff30-4fcc-bc71-afe8db759346_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Ce9f",
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://www.ticketmaster.com/pigeons-playing-ping-pong-tickets/artist/1556409"
-        },
-        {
-          "id": "K8vZ9179hO7",
-          "name": "Dizgo",
-          "url": "https://www.ticketmaster.com/dizgo-tickets/artist/2546098"
-        }
-      ],
-      "searchText": "pigeons playing ping pong this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees babies toddlers are not permitted even at an all ages show children under the age of 10 must have earmuff protection parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us pigeons playing ping pong dizgo"
-    },
-    {
-      "id": "17AYv0G65KjEddV",
-      "legacyEventId": "170064B4DC9C30F4",
-      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
-      "eventUrl": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-las-vegas-nevada-10-29-2026/event/170064B4DC9C30F4",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-30T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/762/707b5aed-2537-4fc0-9f79-57789bbcd762_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917oVbV",
-          "name": "Wage War",
-          "url": "https://www.ticketmaster.com/wage-war-tickets/artist/1926855"
-        },
-        {
-          "id": "K8vZ9173Wj7",
-          "name": "Varials",
-          "url": "https://www.ticketmaster.com/varials-tickets/artist/2057242"
-        },
-        {
-          "id": "K8vZ917Gt8V",
-          "name": "We Came As Romans",
-          "url": "https://www.ticketmaster.com/we-came-as-romans-tickets/artist/1472244"
-        },
-        {
-          "id": "K8vZ917KuXV",
-          "name": "Cane Hill",
-          "url": "https://www.ticketmaster.com/cane-hill-tickets/artist/2091191"
-        }
-      ],
-      "searchText": "wage war emergency broadcast tour door time 7 pm show time 8 pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support cane hill varials we came as romans all support acts are subject to change without notice parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us wage war varials we came as romans cane hill"
-    },
-    {
-      "id": "vvG1fZ_GmYO5fY",
-      "legacyEventId": "050064CBB080B530",
-      "name": "Daughtry - 20 Years Unplugged Tour",
-      "eventUrl": "https://www.ticketmaster.com/daughtry-20-years-unplugged-tour-nashville-indiana-10-29-2026/event/050064CBB080B530",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-29T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f10/e3737f6c-a9f9-4b4f-b62f-b4a91fab2f10_SOURCE",
-      "venue": {
-        "id": "KovZ917AOr1",
-        "name": "Brown County Music Center",
-        "city": "Nashville",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.197639,
-        "longitude": -86.238487,
-        "street": "200 Maple Leaf Boulevard",
-        "zipCode": "47448",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917GZFf",
-          "name": "Daughtry",
-          "url": "https://www.ticketmaster.com/daughtry-tickets/artist/1097212"
-        },
-        {
-          "id": "K8vZ917Oagf",
-          "name": "Ryan Perdz",
-          "url": "https://www.ticketmaster.com/ryan-perdz-tickets/artist/4439734"
-        }
-      ],
-      "searchText": "daughtry 20 years unplugged tour support ryan perdz doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us daughtry ryan perdz"
-    },
-    {
-      "id": "vvG17Z_u1BY4r1",
-      "legacyEventId": "010064D2BAC1578A",
-      "name": "The Moth Mainstage",
-      "eventUrl": "https://www.ticketmaster.com/the-moth-mainstage-boston-massachusetts-10-29-2026/event/010064D2BAC1578A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-29T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/dd1/ceb4e8e1-1c2c-4f0e-84ca-949705da1dd1_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9178BK0",
-          "name": "The Moth Mainstage",
-          "url": "https://www.ticketmaster.com/the-moth-mainstage-tickets/artist/1837789"
-        }
-      ],
-      "searchText": "the moth mainstage wilbur theatre parking is available at the link below the wilbur boston ma us the moth mainstage"
-    },
-    {
-      "id": "LvZ18QmZCv7rJWnwpwlTq",
-      "legacyEventId": "LvZ18QmZCv7rJWnwpwlTq",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-29T23:30:00Z",
-      "endDateTime": "2026-10-30T01:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "vvG1zZ_2933Lpz",
-      "legacyEventId": "0E0064F5D249F5B8",
-      "name": "Ouija Macc",
-      "eventUrl": "https://www.ticketmaster.com/ouija-macc-atlanta-georgia-10-29-2026/event/0E0064F5D249F5B8",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-30T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/b03/3a02bd40-1722-4808-9334-9d32fbc58b03_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917brW0",
-          "name": "Ouija Macc",
-          "url": "https://www.ticketmaster.com/ouija-macc-tickets/artist/2685039"
-        },
-        {
-          "id": "K8vZ917bfMV",
-          "name": "Billy Marchiafava",
-          "url": "https://www.ticketmaster.com/billy-marchiafava-tickets/artist/2671742"
-        },
-        {
-          "id": "K8vZfZ7EEIk",
-          "name": "Mikey Rotten",
-          "url": "https://www.ticketmaster.com/mikey-rotten-tickets/artist/2798309"
-        }
-      ],
-      "searchText": "ouija macc rival presents ouija macc america s most wicked tour october 29 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us ouija macc billy marchiafava mikey rotten"
-    },
-    {
-      "id": "1AeFZ_oGkS1ZU5s",
-      "legacyEventId": "2200651CCA0362F1",
-      "name": "ROA",
-      "eventUrl": "https://www.ticketmaster.com/roa-orlando-florida-10-29-2026/event/2200651CCA0362F1",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-30T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/f3a/eb6cf1cc-d30d-4d5a-894e-c62bac650f3a_SOURCE",
-      "venue": {
-        "id": "KovZpZAEkJeA",
-        "name": "Hard Rock Live Orlando",
-        "city": "Orlando",
-        "state": "FL",
-        "country": "US",
-        "latitude": 28.473773,
-        "longitude": -81.468224,
-        "street": "6050 Universal Blvd",
-        "zipCode": "32819",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917raXV",
-          "name": "ROA",
-          "url": "https://www.ticketmaster.com/roa-tickets/artist/3668514"
-        }
-      ],
-      "searchText": "roa hard rock live orlando is located at universal orlando s citywalk additional parking fees apply venue doors 7pm show start 8pm for all hard rock shows with a ga floor or ga perimeter there is a designated wheelchair area on the raised perimeter of the main floor guests may arrive at door time and hard rock will escort them to this area and provide a companion seat no backpacks extended lens cameras video cameras ipads allowed inside of venue hard rock live orlando orlando fl us roa"
-    },
-    {
-      "id": "vvG1zZ_uL_trSp",
-      "legacyEventId": "0E0064D7D9A5ECD6",
-      "name": "Jon B.",
-      "eventUrl": "https://www.ticketmaster.com/jon-b-atlanta-georgia-10-29-2026/event/0E0064D7D9A5ECD6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-30T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f1e/bd3fa22e-8ed0-4d20-84b8-f1d6f9503f1e_SOURCE",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171KXf",
-          "name": "Jon B.",
-          "url": "https://www.ticketmaster.com/jon-b-tickets/artist/775071"
-        }
-      ],
-      "searchText": "jon b rival presents jon b october 29 2026 center stage theater reserved seating all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us jon b"
-    },
-    {
-      "id": "rZ7HnEZ1Af-PrK",
-      "legacyEventId": "rZ7HnEZ1Af-PrK",
-      "name": "Failure - The Rising Skyline Tour w/ Quannnic",
-      "eventUrl": "https://www.ticketweb.com/event/failure-the-rising-music-box-tickets/14865793",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-30T03:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/dd9/b084ba10-e6ef-4d9d-aad4-978623bbfdd9_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917oTCf",
-          "name": "Failure",
-          "url": "https://www.ticketmaster.com/failure-tickets/artist/1943314"
-        }
-      ],
-      "searchText": "failure the rising skyline tour w quannnic the rising skyline tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 35 adv standing 35 day of standing note tickets available at box office convenience service charges apply for online purchases magnified vip package 235 available online only early entry and watch soundcheck hang with the band professional photo and signing laminate and lanyard exclusive lapel pin exclusive location lost tote bag 10 off on merch and first access table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us failure"
-    },
-    {
-      "id": "rZ7HnEZ1AfuvfV",
-      "legacyEventId": "rZ7HnEZ1AfuvfV",
-      "name": "Dead Sullivan’s Retro Rock & Roll Halloween Bash!",
-      "eventUrl": "https://www.ticketweb.com/event/dead-sullivans-retro-rock-fitzgeralds-nightclub-tickets/14341534",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-29",
-      "localTime": "20:30",
-      "startDateTime": "2026-10-30T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/05/72/94_Edp.jpg?v=10",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "dead sullivan s retro rock roll halloween bash fitzgeralds nightclub presents dead sullivan s retro rock roll halloween bash a vintage rock roll dance party featuring smashed hits from the 50s 60s by rdquo bloody holly rdquo scary lee lewis the rdquo ghoul groups of the 60s hosted by rdquo dead sullivan and featuring deadly performances by zachary stevenson friends costumes are encouraged free general admission dance floor 20 seat reserved tables available grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
       "id": "vvG17Z_ClEVv4g",
       "legacyEventId": "010064EAE7D01575",
       "name": "moe. 2-Day Pass",
@@ -2965,7 +2437,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-10-31T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/93/71/64_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/12/93/71/64_Edp.jpg?v=11",
       "venue": {
         "id": "rZ7HnEZ17feC4",
         "name": "The Hall",
@@ -2979,7 +2451,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "the alchemyxxii masquerade witches ball step beyond the veil and into an unforgettable evening of glamour mystery and magick at the witches ball arkansas s premier immersive samhain gala guests become part of the experience as they don elegant ballgowns formal attire and masquerade masks entering a world of breathtaking installations live aerial performances dancing themed experiences and enchanting photo opportunities designed as an annual celebration of creativity artistry and community the witches ball blends the elegance of a traditional masquerade with the wonder of magical storytelling whether you re a witch mystic creative or simply enchanted by the atmosphere prepare for a night unlike anything else in arkansas formal masquerade attire is required ballgowns fantasy formalwear black tie attire and masquerade masks are all part of the immersive experience ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hall is open every friday from 10am 4pm address 721 w 9th st little rock ar 72201 please note the hall is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience the hall little rock ar us"
+      "searchText": "the alchemyxxii masquerade witches ball please note sales close thursday 10 29 11 59pm step beyond the veil and into an unforgettable evening of glamour mystery and magick at the witches ball arkansas s premier immersive samhain gala guests become part of the experience as they don elegant ballgowns formal attire and masquerade masks entering a world of breathtaking installations live aerial performances dancing themed experiences and enchanting photo opportunities designed as an annual celebration of creativity artistry and community the witches ball blends the elegance of a traditional masquerade with the wonder of magical storytelling whether you re a witch mystic creative or simply enchanted by the atmosphere prepare for a night unlike anything else in arkansas formal masquerade attire is required ballgowns fantasy formalwear black tie attire and masquerade masks are all part of the immersive experience ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hall is open every friday from 10am 4pm address 721 w 9th st little rock ar 72201 please note the hall is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience the hall little rock ar us"
     },
     {
       "id": "LvZ18QJSGkFI7l6p2lAEg",
@@ -3504,7 +2976,7 @@
       "localTime": "15:00",
       "startDateTime": "2026-10-31T20:00:00Z",
       "endDateTime": "2026-10-31T22:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/23_Edp.jpg?v=15",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/23_Edp.jpg?v=21",
       "venue": {
         "id": "rZ7HnEZ17qeqS",
         "name": "Luminary Arts Center",
@@ -3839,7 +3311,7 @@
           "url": "https://www.ticketmaster.com/lazarus-tickets/artist/1522046"
         }
       ],
-      "searchText": "lazarus halloween show general admission general admission is standing room only for ticketing questions or ada accommodations please contact us at info otrboston com please note restaurant reservations made are not valid event tickets and do not include admission to the show if you plan to attend a ticketed event you must purchase an event ticket separately know before you go off the rails boston doors 6 30 pm show 7 30 pm address 25 school st boston dining before the show the last dinner reservations are at 5 pm have your ticket ready at check in and collect a wristband from security before entering a valid id is required to purchase alcohol regardless of age cash and cards are accepted large bags and backpacks are not permitted coat check is not available closest parking pi alley garage 275 washington st taking the t exit at state or downtown crossing off the rails boston boston ma us lazarus"
+      "searchText": "lazarus halloween show general admission general admission is standing room only for ticketing questions or ada accommodations please contact us at info otrboston com please note restaurant reservations made are not valid event tickets and do not include admission to the show if you plan to attend a ticketed event you must purchase an event ticket separately know before you go off the rails boston doors 6 00 pm show 7 00 pm address 25 school st boston dining before the show the last dinner reservations are at 5 pm have your ticket ready at check in and collect a wristband from security before entering a valid id is required to purchase alcohol regardless of age cash and cards are accepted large bags and backpacks are not permitted coat check is not available closest parking pi alley garage 275 washington st taking the t exit at state or downtown crossing off the rails boston boston ma us lazarus"
     },
     {
       "id": "LvZ18QmdzpErkpdkjioBO",
@@ -3885,7 +3357,7 @@
       "localTime": "19:30",
       "startDateTime": "2026-11-01T00:30:00Z",
       "endDateTime": "2026-11-01T02:30:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/33_Edp.jpg?v=13",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/33_Edp.jpg?v=16",
       "venue": {
         "id": "rZ7HnEZ17qeqS",
         "name": "Luminary Arts Center",
@@ -3992,7 +3464,7 @@
           "url": "https://www.ticketmaster.com/the-funeral-portrait-tickets/artist/2022824"
         }
       ],
-      "searchText": "the funeral portrait a ghoulish gathering in suffocate city 1 from each ticket sold will benefit the make a wish foundation of east tennessee vip dopamine meet greet experienceone general admission standing ticket with early entrymeet greet experience with the funeral portrait including one professional individual photoone autographed poster signed by the funeral portraitone vip exclusive the funeral portrait merchandise itemone commemorative vip laminate and lanyardon site perks such as vip check in priority lane into the venue for ease of entry before general doors and an on site customer service mobile text only number where available ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the signal is open every friday from 10am 4pm address 21 choo choo ave chattanooga tn 37402 the mezzanine is 21 only click here for full map image please note the signal is a cashless venue only credit or debit cards are accepted at the bars box office or guest services please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter the signal concert hall chattanooga tn us the funeral portrait"
+      "searchText": "the funeral portrait a ghoulish gathering in suffocate city 1 from each ticket sold will benefit the make a wish foundation of east tennessee vip rdquo dopamine meet greet experience one general admission standing ticket with early entry meet greet experience with the funeral portrait including one professional individual photo one autographed poster signed by the funeral portrait one vip exclusive the funeral portrait merchandise item one commemorative vip laminate and lanyard on site perks such as vip check in priority lane into the venue for ease of entry before general doors and an on site customer service mobile text only number where available ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the signal is open every friday from 10am 4pm address 21 choo choo ave chattanooga tn 37402 the mezzanine is 21 only click here for full map image please note the signal is a cashless venue only credit or debit cards are accepted at the bars box office or guest services please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter the signal concert hall chattanooga tn us the funeral portrait"
     },
     {
       "id": "rZ7HnEZ1Af0eGN",
@@ -13218,7 +12690,7 @@
       "name": "Ohio State Buckeyes Wrestling vs. Columbia Lions Wrestling",
       "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-wrestling-vs-columbia-columbus-ohio-11-15-2026/event/05006557AE196EEC",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-11-15",
       "localTime": "13:00",
       "startDateTime": "2026-11-15T18:00:00Z",
@@ -24930,7 +24402,7 @@
       "localTime": "23:55",
       "startDateTime": "2026-12-01T07:55:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/12/01/94_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/12/01/94_Edp.jpg?v=11",
       "venue": {
         "id": "rZ7HnEZ17ao8f",
         "name": "Feinstein's at The Nikko",
@@ -24944,7 +24416,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "friends of feinstein s new renewing members thank you for renewing your friends of feinstein s membership renew or start your membership before november 30 2026 and save 400 450 enter access code renew2027 and click to unlock your rate if you are renewing and enter access code newmember2027 and click to unlock your rate if you are renewing benefits of membership still include pre reserved tables one of your three favorite tables will always be waiting for you no matter what time you arrive 3 hours validated hosted parking at hotel nikko per visit friends of feinstein s members are the only patrons at the nikko that receive this benefit preferred vip entry to feinstein s at the nikko events four 4 free tickets to any feinstein s performance in 2027 and up to 4 additional surprise comp tickets throughout the year a 750 value four free tickets to any of our local talent concerts four 4 tickets to our mimosas motown sunday brunch experience second sunday most months four 4 vouchers for complimentary cocktails at feinstein s concerts priority discounts on all shows free ticket exchange and refund privileges 10 discount in anzu restaurant best rate offers and online reservations for hotel nikko overnight stays membership benefits are designed for up to two guests and cost 1300 annually be sure to use the access code above renew2027 to unlock your renewal rate 450 off if ordering before november 30 2027 again we deeply appreciate your membership you ve become a valued member of the feinstein s family and we re thrilled to have you join us for 2025 exclusions restrictions ticket exchanges can be made via e mail or phone only exchanges must be requested at least 8 hours prior to concert time exchanges from artist to artist can be made on a per case basis complimentary tickets must be used during your one year membership or periods of limitation when offered blackout dates exceptions may apply tickets valued 85 and above may not be applicable per artist contracts comp tickets may not be issued based on high occupancy comp tickets are not available on performances that take place outside the feinstein s nightclub venue and may be limited on vip artist events there is no cash value on comp tickets members can receive refunds on up to four concerts a year refund requests must be made in writing at least two days prior to the printed concert date and are only good on up to two tickets per concert event discount based on full price room rates and cannot be combned are not applicable to any special rates offered through the hotel or third party sites feinstein s at the nikko san francisco ca us"
+      "searchText": "friends of feinstein s new renewing members thank you for renewing your friends of feinstein s membership renew or start your membership before november 30 2026 and save 350 400 enter access code renew2027 and click to unlock your rate if you are renewing and enter access code newmember2027 and click to unlock your rate if you are renewing benefits of membership still include pre reserved tables one of your three favorite tables will always be waiting for you no matter what time you arrive 3 hours validated hosted parking at hotel nikko per visit friends of feinstein s members are the only patrons at the nikko that receive this benefit preferred vip entry to feinstein s at the nikko events four 4 free tickets to any feinstein s performance in 2027 and additional surprise comp tickets throughout the year a 700 value four free tickets to any of our local talent concerts four 4 tickets to our mimosas motown sunday brunch experience second sunday most months four 4 vouchers for complimentary cocktails at feinstein s concerts priority discounts on all shows free ticket exchange and refund privileges 10 discount in anzu restaurant best rate offers and online reservations for hotel nikko overnight stays membership benefits are designed for up to two guests and cost 1300 annually be sure to use the access code above renew2027 to unlock your renewal rate 450 off if ordering before november 30 2027 again we deeply appreciate your membership you ve become a valued member of the feinstein s family and we re thrilled to have you join us for 2025 exclusions restrictions ticket exchanges can be made via e mail or phone only exchanges must be requested at least 8 hours prior to concert time exchanges from artist to artist can be made on a per case basis complimentary tickets must be used during your one year membership or periods of limitation when offered blackout dates exceptions may apply tickets valued 85 and above may not be applicable per artist contracts comp tickets may not be issued based on high occupancy comp tickets are not available on performances that take place outside the feinstein s nightclub venue and may be limited on vip artist events there is no cash value on comp tickets members can receive refunds on up to four concerts a year refund requests must be made in writing at least two days prior to the printed concert date and are only good on up to two tickets per concert event discount based on full price room rates and cannot be combned are not applicable to any special rates offered through the hotel or third party sites feinstein s at the nikko san francisco ca us"
     },
     {
       "id": "vv1AvZkfgGkdbVFwl",
@@ -36763,6 +36235,39 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "rZ7HnEZ1Af8kFV",
+      "legacyEventId": "rZ7HnEZ1Af8kFV",
+      "name": "GRUPO NICHE - Latin Christmas Block Party Event",
+      "eventUrl": "https://www.ticketweb.com/event/grupo-niche-latin-fergs-pavilion-tickets/14406234",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-12",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-13T00:00:00Z",
+      "endDateTime": "2026-12-13T04:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/318/fe23a39a-f99e-4028-a16d-e7e36dee8318_SOURCE",
+      "venue": {
+        "id": "rZ7HnEZ17f64g",
+        "name": "Ferg's Pavilion",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "country": "US",
+        "latitude": 27.77088,
+        "longitude": -82.65227,
+        "street": "1320 Central Avenue",
+        "zipCode": "33701",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171110",
+          "name": "Grupo Niche",
+          "url": "https://www.ticketmaster.com/grupo-niche-tickets/artist/754969"
+        }
+      ],
+      "searchText": "grupo niche latin christmas block party event el parche st pete presents grupo niche latin christmas block party event saturday december 12 2026 ferg s world famous entertainment complex ticket options general admission ga standing courtyard section allows for access to the show and standing room sections with views to the stage and limited tables and seating areas in back of the venue vip 2 mid venue seated section reserved seating section with excellent mid venue sightlines vip 1 front of stage seated section premium reserved seating section closest to the stage ultra vip seating photo meet greet with grupo niche the ultimate concert experience one premium ultra vip seats first 5 rows of stage ultra vip early entry into the venue exclusive photo meet with grupo niche official concert vip photo meet laminate note all ga and vip seated sections are first come first served for private party corporate sponsored vip sections at the concert please call 727 643 1752 or email info fergspavilion com ferg s pavilion 1320 central avenue st petersburg fl 33705 directly across from tropicana field all ages welcome no pets please too loud show is rain or shine don t miss your chance to experience grupo niche live in downtown st petersburg florida about the venue voted best of the bay readers choice best concert venue in tampa bay creative loafing ferg s pavilion is located in the heart of downtown st petersburg edge district ferg s pavilion is part of the iconic ferg s world famous sports bar and entertainment complex a 70 000 square foot destination known for live events dining and nightlife since 1992 the venue offers scalable concert capacity from intimate shows of 500 up to 5 000 attendees for block parties and music festivals access to 8 000 parking spaces across the street from the main stage at tropicana field at 1st avenue s and 13th street s and 500 space parking garage across from ferg s sports bar at central avenue and 13th street n multiple ga and vip standing and seated viewing areas full service food and beverage options indoor and outdoor event spaces ferg s pavilion has quickly emerged as one of florida s most unique live music destinations combining large scale concert capability with the energy of a full entertainment complex for all upcoming shows at ferg s pavilion visit fergspavilion com for all ferg s concert tickets ticketweb com key word ferg s ferg s pavilion st petersburg fl us grupo niche"
+    },
+    {
       "id": "LvZ18QIpYHijEl8Ywn8rF",
       "legacyEventId": "LvZ18QIpYHijEl8Ywn8rF",
       "name": "Dazzling Nights® Orlando",
@@ -38704,6 +38209,39 @@
       "searchText": "nutcracker magical christmas ballet all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us nutcracker magical christmas ballet the former moscow ballet the nutcracker"
     },
     {
+      "id": "vvG1zZ_4wJiIlz",
+      "legacyEventId": "0E00655CA6B28AF8",
+      "name": "Lazer Dim 700",
+      "eventUrl": "https://www.ticketmaster.com/lazer-dim-700-atlanta-georgia-12-13-2026/event/0E00655CA6B28AF8",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-12-13",
+      "localTime": "20:00",
+      "startDateTime": "2026-12-14T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/c86/2f4ec489-8d25-4cd8-8a6f-6d6ea3278c86_SOURCE",
+      "venue": {
+        "id": "KovZpZAFF1tA",
+        "name": "Center Stage Theater",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US",
+        "latitude": 33.7918926,
+        "longitude": -84.3877907,
+        "street": "1374 W Peachtree St. NW",
+        "zipCode": "30309",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917jBFV",
+          "name": "Lazer Dim 700",
+          "url": "https://www.ticketmaster.com/lazer-dim-700-tickets/artist/3167901"
+        }
+      ],
+      "searchText": "lazer dim 700 bowe inc presents lazer dim 700 winter tour december 13 2026 center stage theater general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us lazer dim 700"
+    },
+    {
       "id": "LvZ18QIpYHijEl8Ywn8rQ",
       "legacyEventId": "LvZ18QIpYHijEl8Ywn8rQ",
       "name": "Dazzling Nights® Orlando",
@@ -39803,6 +39341,39 @@
         }
       ],
       "searchText": "trippie redd the non disclosure agreement tour all ages welcome doors 7pm show 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 5 30pm hollywood palladium hollywood ca us trippie redd topoppgen k suave balloutdadon gigi holland goldie"
+    },
+    {
+      "id": "vvG1VZ_fXJ_J4s",
+      "legacyEventId": "0D00654FA6666571",
+      "name": "PRECIOUS PACE: THE NUTCRACKER",
+      "eventUrl": "https://www.ticketmaster.com/precious-pace-the-nutcracker-ft-lauderdale-florida-12-15-2026/event/0D00654FA6666571",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-15",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-16T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/322/1a42a97d-e908-484a-89c2-e23974317322_SOURCE",
+      "venue": {
+        "id": "KovZpZAEeaeA",
+        "name": "Rose & Alfred Miniaci Performing Arts Center",
+        "city": "Ft Lauderdale",
+        "state": "FL",
+        "country": "US",
+        "latitude": 26.0884017,
+        "longitude": -80.2461624,
+        "street": "3100 Ray Ferrero Jr. Blvd.",
+        "zipCode": "33314",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917138f",
+          "name": "The Nutcracker",
+          "url": "https://www.ticketmaster.com/the-nutcracker-tickets/artist/804130"
+        }
+      ],
+      "searchText": "precious pace the nutcracker parking is available in the nsu alvin sherman library parking garage for 1 00 per hour via paybyphone com app or kiosk located at the 1st floor elevators before you go to the show visit miniacipac com visit for more info on directions to the nsu campus parking and faq use 3051 ray ferrero jr blvd davie fl 33314 in your map or gps app rose alfred miniaci performing arts center ft lauderdale fl us the nutcracker"
     },
     {
       "id": "1Av0Z_oGkT1iEGF",
@@ -42473,7 +42044,7 @@
       "name": "Ohio State Buckeyes Wrestling vs. Kent State Golden Flashes Wrestling",
       "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-wrestling-vs-kent-columbus-ohio-12-18-2026/event/05006557AE1D6EFF",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-12-18",
       "localTime": "19:00",
       "startDateTime": "2026-12-19T00:00:00Z",
@@ -43945,7 +43516,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-12-20T00:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/77/04_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/04/77/04_Edp.jpg?v=9",
       "venue": {
         "id": "rZ7HnEZa7N9",
         "name": "Scullers Jazz Club",
@@ -44857,7 +44428,7 @@
       "localTime": "21:00",
       "startDateTime": "2026-12-20T02:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/77/14_Edp.jpg?v=12",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/04/77/14_Edp.jpg?v=13",
       "venue": {
         "id": "rZ7HnEZa7N9",
         "name": "Scullers Jazz Club",
@@ -54804,6 +54375,39 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "vv17fZ_4GkYon2O2",
+      "legacyEventId": "0500655C11A8F80F",
+      "name": "New Year's Eve Dinner",
+      "eventUrl": "https://www.ticketmaster.com/new-years-eve-dinner-indianapolis-indiana-12-31-2026/event/0500655C11A8F80F",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-31",
+      "localTime": "18:00",
+      "startDateTime": "2026-12-31T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/c/a78/b54d9c27-4ddd-45e5-bc82-7b0a9be05a78_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZpZAF7AnA",
+        "name": "8 Seconds Saloon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.768343,
+        "longitude": -86.249381,
+        "street": "111 N Lynhurst Dr",
+        "zipCode": "46224",
+        "timezone": "America/Indiana/Indianapolis"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917hB37",
+          "name": "New Year's Eve Dinner",
+          "url": "https://www.ticketmaster.com/new-years-eve-dinner-tickets/artist/2410264"
+        }
+      ],
+      "searchText": "new year s eve dinner includes buffet dinner and free reservations text 317 567 9451 free party favors balloon drop champagne toast must be 21 to enter doors 6pm free parking no backpacks or large purses bags no male tank tops or sleeveless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us new year s eve dinner"
+    },
+    {
       "id": "LvZ18QIpYHijEl8Ywn8xC",
       "legacyEventId": "LvZ18QIpYHijEl8Ywn8xC",
       "name": "Dazzling Nights® Orlando",
@@ -55240,6 +54844,39 @@
         }
       ],
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "vv17fZ_4GkY8529T",
+      "legacyEventId": "0500655C102CF5FF",
+      "name": "New Year's Eve Party",
+      "eventUrl": "https://www.ticketmaster.com/new-years-eve-party-indianapolis-indiana-12-31-2026/event/0500655C102CF5FF",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-31",
+      "localTime": "20:00",
+      "startDateTime": "2027-01-01T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/a6d/fd1793d7-b178-446e-84e4-51c07ff7da6d_SOURCE",
+      "venue": {
+        "id": "KovZpZAF7AnA",
+        "name": "8 Seconds Saloon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.768343,
+        "longitude": -86.249381,
+        "street": "111 N Lynhurst Dr",
+        "zipCode": "46224",
+        "timezone": "America/Indiana/Indianapolis"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171Tef",
+          "name": "New Year's Eve Party",
+          "url": "https://www.ticketmaster.com/new-years-eve-party-tickets/artist/848286"
+        }
+      ],
+      "searchText": "new year s eve party free party favors balloon drop champagne toast must be 21 to enter doors 8pm billy the tall boys 10pm free parking no backpacks or large purses bags no male tank tops or sleeveless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us new year s eve party"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8xp",
@@ -57284,7 +56921,7 @@
       "name": "Ohio State Buckeyes Wrestling vs. Clarion Golden Eagles Wrestling",
       "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-wrestling-vs-clarion-columbus-ohio-01-03-2027/event/05006557AE146EDA",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-03",
       "localTime": "13:00",
       "startDateTime": "2027-01-03T18:00:00Z",
@@ -64979,6 +64616,33 @@
         }
       ],
       "searchText": "broadway in boise presents mrs doubtfire all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us mrs doubtfire touring"
+    },
+    {
+      "id": "rZ7HnEZ1Af8F4V",
+      "legacyEventId": "rZ7HnEZ1Af8F4V",
+      "name": "LIVE BAND KARAOKE! w/ your host: IAN LEITH & Friends",
+      "eventUrl": "https://www.ticketweb.com/event/live-band-karaoke-w-your-fitzgeralds-nightclub-tickets/14408574",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-26",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-27T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/12/11/64_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f7Z4",
+        "name": "FITZGERALDS NIGHTCLUB",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "live band karaoke w your host ian leith friends fitzgeralds nightclub presents live band karaoke ft ian leith friends 10 general admission c mon y all y know ya wanna have you ever eyed the nightclub stage and thought to yourself one day i d like to be up there beltin out now is your chance join ian leith and friends and their deep repertoire of hits to choose from ok of course you have questions here are the answers yes there will is a list of available songs click this link here s the song list no you do not have to be a great singer yes every single person who gets up to sing will be awarded a complimentary babygold coldbeer or reasonable alternative no you cannot sign up ahead of time sign up begins when doors open at 6pm all first come first served yes you can suggest songs for the band to prepare via the google form linked here no hard no no eagles yes this will be a night you will never forget grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "G5vzZ_AN7hjEx",
@@ -81452,7 +81116,7 @@
       "name": "Queens of The Stone Age - PERFECTH WORLD TOUR",
       "eventUrl": "https://www.ticketmaster.com/queens-of-the-stone-age-perfecth-columbus-ohio-05-19-2027/event/050065549EDC4B2C",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-19",
       "localTime": "18:30",
       "startDateTime": "2027-05-19T22:30:00Z",
@@ -81672,8 +81336,8 @@
     {
       "id": "vvG1iZ_4LxnLFq",
       "legacyEventId": "0B006557E2A9F21D",
-      "name": "DIIV",
-      "eventUrl": "https://www.ticketmaster.com/diiv-san-diego-california-05-21-2027/event/0B006557E2A9F21D",
+      "name": "DIIV - ZIRP! The World",
+      "eventUrl": "https://www.ticketmaster.com/diiv-zirp-the-world-san-diego-california-05-21-2027/event/0B006557E2A9F21D",
       "resaleEventUrl": null,
       "status": "offsale",
       "localDate": "2027-05-21",
@@ -81705,7 +81369,7 @@
           "url": "https://www.ticketmaster.com/shes-green-tickets/artist/3134361"
         }
       ],
-      "searchText": "diiv doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us diiv she s green"
+      "searchText": "diiv zirp the world doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us diiv she s green"
     },
     {
       "id": "G5vzZ_ANrVIPs",
@@ -81860,7 +81524,7 @@
       "name": "Queens of The Stone Age - PERFECTH WORLD TOUR",
       "eventUrl": "https://www.ticketmaster.com/queens-of-the-stone-age-perfecth-detroit-michigan-05-22-2027/event/080065559CA03C03",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-22",
       "localTime": "18:30",
       "startDateTime": "2027-05-22T22:30:00Z",
@@ -82511,7 +82175,7 @@
     {
       "id": "vvG1IZ_KL8JvKq",
       "legacyEventId": "0A006537D09814DD",
-      "name": "A Perfect Circle with Special Guest The Cult",
+      "name": "A Perfect Circle with special guest The Cult",
       "eventUrl": "https://www.ticketmaster.com/a-perfect-circle-with-special-guest-chula-vista-california-06-08-2027/event/0A006537D09814DD",
       "resaleEventUrl": null,
       "status": "onsale",
@@ -83993,6 +83657,237 @@
       "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
     },
     {
+      "id": "G5vYZ_4M6OugI",
+      "legacyEventId": "1C00655DC780DD68",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-10-2027/event/1C00655DC780DD68",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-10",
+      "localTime": "19:30",
+      "startDateTime": "2027-08-11T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4MCzXxV",
+      "legacyEventId": "1C00655DCEE3E8B4",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-11-2027/event/1C00655DCEE3E8B4",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-11",
+      "localTime": "19:30",
+      "startDateTime": "2027-08-12T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4M29mJ_",
+      "legacyEventId": "1C00655DCF5EE999",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-12-2027/event/1C00655DCF5EE999",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-12",
+      "localTime": "13:30",
+      "startDateTime": "2027-08-12T20:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4M2RmtA",
+      "legacyEventId": "1C00655DCFBEEA45",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-12-2027/event/1C00655DCFBEEA45",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-12",
+      "localTime": "19:30",
+      "startDateTime": "2027-08-13T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4M8umiS",
+      "legacyEventId": "1C00655DD036EB33",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-13-2027/event/1C00655DD036EB33",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-13",
+      "localTime": "19:30",
+      "startDateTime": "2027-08-14T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4M3rCHu",
+      "legacyEventId": "1C00655DD278EF0D",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-14-2027/event/1C00655DD278EF0D",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-14",
+      "localTime": "13:30",
+      "startDateTime": "2027-08-14T20:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
+      "id": "G5vYZ_4MfZ2kK",
+      "legacyEventId": "1C00655DD400F193",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-14-2027/event/1C00655DD400F193",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-14",
+      "localTime": "19:30",
+      "startDateTime": "2027-08-15T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
+    },
+    {
       "id": "1AeFZ_fGkBixNQh",
       "legacyEventId": "2200654EAC8A369B",
       "name": "Eric Andre: Subtle",
@@ -84024,6 +83919,39 @@
         }
       ],
       "searchText": "eric andre subtle hard rock live orlando is located at universal orlando s citywalk additional parking fees apply venue doors 7pm show start 8pm no backpacks extended lens cameras video cameras ipads allowed inside of venue hard rock live orlando orlando fl us eric andre"
+    },
+    {
+      "id": "G5vYZ_4MfS2uN",
+      "legacyEventId": "1C00655DD4CCF363",
+      "name": "Maybe Happy Ending (Touring)",
+      "eventUrl": "https://www.ticketmaster.com/maybe-happy-ending-touring-sacramento-california-08-15-2027/event/1C00655DD4CCF363",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-15",
+      "localTime": "13:30",
+      "startDateTime": "2027-08-15T20:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE",
+      "venue": {
+        "id": "KovZ917AJup",
+        "name": "SAFE Credit Union Performing Arts Center",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "latitude": 38.57741,
+        "longitude": -121.48936,
+        "street": "1301 L St.",
+        "zipCode": "95814",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917LQKf",
+          "name": "Maybe Happy Ending (Touring)",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-touring-tickets/artist/4265144"
+        }
+      ],
+      "searchText": "maybe happy ending touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us maybe happy ending touring"
     },
     {
       "id": "rZ7HnEZ1A4v8FN",
