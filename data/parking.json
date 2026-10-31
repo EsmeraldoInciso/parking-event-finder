@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-30T09:24:24.887Z",
+  "generatedAt": "2026-10-31T09:11:09.418Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-10-30T08:25:14Z",
-    "numberOfEvents": 110462,
-    "compressedSizeBytes": 85172921,
-    "checksum": "0c2dd2aad21056f28e71dd35a3527eb7"
+    "lastUpdated": "2026-10-31T08:35:27Z",
+    "numberOfEvents": 110299,
+    "compressedSizeBytes": 85081972,
+    "checksum": "fdace1f69d7f776207c19b369c3578f2"
   },
   "summary": {
-    "parkingEvents": 2508
+    "parkingEvents": 2495
   },
   "diagnostics": {
     "terms": {
-      "olivia": 84,
-      "rodrigo": 65,
+      "olivia": 83,
+      "rodrigo": 64,
       "metallica": 65,
-      "intuit dome": 97,
-      "sphere": 1256,
-      "parking": 5996
+      "intuit dome": 96,
+      "sphere": 1245,
+      "parking": 5956
     },
     "samples": {
       "olivia": [
@@ -1685,7 +1685,7 @@
       "name": "moe. 2-Day Pass",
       "eventUrl": "https://www.ticketmaster.com/moe-2day-pass-boston-massachusetts-10-30-2026/event/010064EAE7D01575",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-10-30",
       "localTime": null,
       "startDateTime": null,
@@ -1711,1139 +1711,6 @@
         }
       ],
       "searchText": "moe 2 day pass 1 from every ticket sold goes to rock the pink rock the pink is an industry wide campaign to help end breast cancer as we know it for everyone musicians artists venues music influencers join together each october to raise awareness funds for the american cancer society wilbur theatre parking is available at the link below the wilbur boston ma us moe"
-    },
-    {
-      "id": "vv17OZ_eGkS8pkad",
-      "legacyEventId": "0800642CD0586243",
-      "name": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
-      "eventUrl": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-presents-grand-rapids-michigan-10-30-2026/event/0800642CD0586243",
-      "resaleEventUrl": null,
-      "status": "cancelled",
-      "localDate": "2026-10-30",
-      "localTime": "10:30",
-      "startDateTime": "2026-10-30T14:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/de7/abc62c6e-d466-44bf-a399-ec30e3875de7_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAlkA",
-        "name": "Van Andel Arena",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.962098,
-        "longitude": -85.67158,
-        "street": "130 Fulton West",
-        "zipCode": "49503",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917hekV",
-          "name": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
-          "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-presents-tickets/artist/2962779"
-        }
-      ],
-      "searchText": "ringling bros and barnum bailey presents the greatest show on earth the circus is here youre invited to the most next level family fun party on the planet the all new ringling bros and barnum bailey is a non stop celebration of jaw dropping acts laugh out loud fun and memory making moments you wont want to miss because this isnt just about the action on stage its about the fun of sharing it with the people who matter most from wide eyed kids to seen it all grown ups weve got the wow that will amaze them all weve taken the biggest boldest most joy sparking acts in the world and transformed them into a one of a kind shared experience so grab your crew and bring your biggest energy the greatest show on earth is throwing the worlds most unforgettable party and the best seat in the house is the one right next to you van andel arena grand rapids mi us ringling bros and barnum bailey presents the greatest show on earth"
-    },
-    {
-      "id": "LvZ18QfqZmFLx6ZZ0ywoz",
-      "legacyEventId": "LvZ18QfqZmFLx6ZZ0ywoz",
-      "name": "INKwell Harbor Club Annual Costumes & Cocktails",
-      "eventUrl": "https://www.universe.com/events/inkwell-harbor-club-annual-costumes-cocktails-tickets-1K2RFZ?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "17:00",
-      "startDateTime": "2026-10-30T21:00:00Z",
-      "endDateTime": "2026-10-31T03:00:00Z",
-      "imageUrl": "https://images.universe.com/5b28e3f6-cd74-40e1-9639-ae94d6a59b88/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917AEbX",
-        "name": "The INKwell Harbor-Club Rooftop",
-        "city": "New York",
-        "state": "NY",
-        "country": "US",
-        "latitude": 40.76418434,
-        "longitude": -73.99751398,
-        "street": "621 W 46th Street",
-        "zipCode": "10036",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "inkwell harbor club annual costumes cocktails theinkwellnyc com need help with your table call us at 646 696 8879 android samsung galaxy users can use the following link if you have issues accessing the online purchase link https www universe com users inkwell club cruise comments and or questions 646 696 8879 email info theinkwellnyc com vip banquet seating large dancefloor state of the art lighting amp sound food available r amp b hip hop reggae house top 40 salsa soca amp calypso express entry by pass the line w 15 advance tickets fully stocked premium bar valet parking available celebrations anniversaries birthday packages bachelor amp bachelorette party packages chirstmas amp holiday parties college graduation packages corporate events covid release parties divorce parties ladies guys night out promotion parties retirement parties wedding receptions table reservations amp bottle service vip table reservations start at 75 and can easily be made online bottle service food and bottles can be added to any table package simply goto checkout and select add on s directions to the inkwell harbor club rooftop 621 w 46th streetnew york city ny 10036 https moovitapp com nycnj 121 poi 621 20west 2046th 20street t en customerid 4908 amp ref 1 amp poitype egsite amp tll 40 759193 73 986519 google vignette dress code fashionable amp trendy sneakers yes jogging sneakers no no athletic wear shorts flip flops slides or work boots and just so we re clear keep it cute keep it clean keep it elevated think polished grown and camera ready for the rooftop entry at doorman s discretion to maintain the vibe food food is available for purchase in the club other than birthday cakes or cupcakes outside food is not allowed inside the club if you bring your own birthday cake or cupcakes they can not contain alcohol or shots if you or your guest have food restrictions please advise the inkwell of your dietary needs 646 696 8879 email info theinkwellnyc com parking if you are driving the inkwell offers valet parking for 25 please check your reservation valet parking is included with certain table reservations there is metered parking on 11th ave amp 46th street until 7pm after 7pm 11th ave parking is free you can park on all the adjacent street surrounding the club for free after 6pm 47th st 48th st etc please be cautious if parking at nearby parking lots rates exceed 50 pets pets and service animals not allowed private rentals available call 646 660 3232 restrooms 13 ladies amp gentleman lounges restrooms are ada accessible smoking there are exterior designated smoking areas tickets online advance tickets available advance tickets highly recommended cash ticket sales available at the door if not sold out simply save your ticket on your mobile device amp present for entry android users if you experience viewing and purchasing goto https www universe com users inkwell club cruise concerts ty5l80 or call the inkwell 646 696 8879 refunds and cancellations no refunds all sales are final frequently asked questions a d m i s s i o n age for entry 21 with valid government issued id how much is admission everyone is free until 7pm 15 after except during performances holidays amp special events b a r h a p p y h o u r what time is happy hour what s included fridays afterwork 5pm 8pm amp happy hour includes all drinks except water soda amp juice except during performances holidays amp special events r e s e r v a t i o n s can i reserve a table yeshow do i pay for my table or bottles the inkwell accepts all major debit and credit and or zelle can i order bottle service yes can i pre pay for bottle service yes pre paid bottles receive discounted pricing how long do i have my table you have your table for the entire event 5pm until closing 10 45pm i have a table is my admission included please check your table package certain vip tables come with admission included i have a table are my guest free no please check your table package what do i get with my table food cupcakes and or bottle service can be pre ordered with your table how many guest can sit at my table table sizes vary please check your package vip tables are highly recommended for large parties 10 can i pre pay for my guest yes can i bring my own cake amp balloons yes however cakes or cupcakes can not contain any alcohol or shots can i bring my own food no can i order food if i don t have a table yes can i bring my own alcohol no can i get a refund after i book my table or tickets no what time does the inkwell close 11pm what tye of music does the inkwell play r amp b hip hop house top 40 funk reggae soca calypso salsa e v e n t s what dj s are playing at the inkwell club check the inkwell upcoming events page what artist will be performing at the inkwell check ticketmaster or the inkwell upcoming events page www theinkwellnyc com when is the next inkwell cruise the inkwell is on the water every summer starting in june to join the inkwell after work yacht club or view the crruise schedule log onto www theinkwellnyc com the inkwell harbor club rooftop new york ny us"
-    },
-    {
-      "id": "rZ7HnEZ1A4vKrd",
-      "legacyEventId": "rZ7HnEZ1A4vKrd",
-      "name": "GREASY GRAVY w/ special guest TOM V. RAY!!",
-      "eventUrl": "https://www.ticketweb.com/event/greasy-gravy-w-special-guest-fitzgeralds-sidebar-tickets/15053783",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "17:30",
-      "startDateTime": "2026-10-30T22:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/65/08/93_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "greasy gravy w special guest tom v ray happy hour in fitzgeralds sidebar ft greasy gravy w special guest tom v ray free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over greasy gravy is the acoustic styled trio of matt hendricks and rick sherry and this time tom v ray matt leads the band vocals fingerpicking and slide guitar and is a veteran of the chicago solo acoustic scene rick washboard harmonica clarinet jug and kick drum has also been a chicago fixture playing old american music with devil in a woodpile sanctified grumblers the hat stretchers hillbilly frolic and as an accompanist of delta blues legend david honeyboy edwards for many years beau sample plays upright bass and is a prolific bottom man who plays with a huge number of bands in chicago and throughout the national indie music scene too many to name it s a natural match due to the trio s shared love and output of the pre war genre and matt s storied originals grab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds sidebar berwyn il us"
-    },
-    {
-      "id": "vvG1fZ_2h9jCY6",
-      "legacyEventId": "050064F6D770EC07",
-      "name": "Ohio State Buckeyes Women's Hockey vs. Bemidji State University Beavers Womens Hockey",
-      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-hockey-vs-columbus-ohio-10-30-2026/event/050064F6D770EC07",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-30T22:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a25/2519403b-69cd-4347-917b-0ce86b3f2a25_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAAtA",
-        "name": "Ohio State University Ice Rink",
-        "city": "Columbus",
-        "state": "OH",
-        "country": "US",
-        "latitude": 40.0041967,
-        "longitude": -83.0191684,
-        "street": "390 Woody Hayes Dr.",
-        "zipCode": "43210",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917G2z7",
-          "name": "Ohio State Buckeyes Women's Hockey",
-          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-hockey-tickets/artist/1312413"
-        },
-        {
-          "id": "K8vZ917GgCf",
-          "name": "Bemidji State University Beavers Womens Hockey",
-          "url": "https://www.ticketmaster.com/bemidji-state-university-beavers-womens-hockey-tickets/artist/1480819"
-        }
-      ],
-      "searchText": "ohio state buckeyes women s hockey vs bemidji state university beavers womens hockey tickets are general admission only children under the age of 2 are free ohio state students are granted free admission by presenting their buck id at the osu ice rink on gameday please keep in mind there are a limited amount of tickets available per game doors to the osu ice rink open 1 hour prior to puck drop group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 parking is free in lots north of st john arena ohio state university ice rink columbus oh us ohio state buckeyes women s hockey bemidji state university beavers womens hockey"
-    },
-    {
-      "id": "vvG1YZ_8RqdBCW",
-      "legacyEventId": "0C00650BDD0FA3BD",
-      "name": "Uforia Latino Mix Live",
-      "eventUrl": "https://www.ticketmaster.com/uforia-latino-mix-live-dallas-texas-10-30-2026/event/0C00650BDD0FA3BD",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "18:00",
-      "startDateTime": "2026-10-30T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/b21/537ef38a-1fd4-4112-b723-693755406b21_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAFeA",
-        "name": "Dos Equis Pavilion",
-        "city": "Dallas",
-        "state": "TX",
-        "country": "US",
-        "latitude": 32.77507215,
-        "longitude": -96.75646586,
-        "street": "3839 S Fitzhugh",
-        "zipCode": "75210",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bAj0",
-          "name": "Eladio Carrion",
-          "url": "https://www.ticketmaster.com/eladio-carrion-tickets/artist/2639367"
-        },
-        {
-          "id": "K8vZ917Q4H7",
-          "name": "Chencho Corleone",
-          "url": "https://www.ticketmaster.com/chencho-corleone-tickets/artist/2875157"
-        },
-        {
-          "id": "K8vZ9179kF0",
-          "name": "Manuel Turizo",
-          "url": "https://www.ticketmaster.com/manuel-turizo-tickets/artist/2506196"
-        },
-        {
-          "id": "K8vZ917rQhf",
-          "name": "Kapo",
-          "url": "https://www.ticketmaster.com/kapo-tickets/artist/3813104"
-        }
-      ],
-      "searchText": "uforia latino mix live rain or shine all patrons require a ticket no pdf s allowed parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue to reduce staff contact with guest belongings we have implemented the following bag policy we will allow clear plastic vinyl or pvc tote bags no larger than 12 x 6 x 12 and or small clutch bags 6 x 9 personal lawn chairs are no longer permitted within the venue dos equis pavilion dallas tx us eladio carrion chencho corleone manuel turizo kapo"
-    },
-    {
-      "id": "LvZ18QIQn8wgC512mDg90",
-      "legacyEventId": "LvZ18QIQn8wgC512mDg90",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-30T22:30:00Z",
-      "endDateTime": "2026-10-31T00:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "rZ7HnEZ1AfuAo7",
-      "legacyEventId": "rZ7HnEZ1AfuAo7",
-      "name": "Ka'au Crater Boys - The Second Chapter",
-      "eventUrl": "https://www.ticketweb.com/event/kaau-crater-boys-blue-note-hawaii-tickets/14345444",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-31T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/11/54_Edp.jpg?v=17",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [],
-      "searchText": "ka au crater boys the second chapter sponsored by outrigger resorts upwpresented by kine 105 1 kccn fm100 sponsored by outrigger resorts upw ka au crater boys the second chapter the soundtrack of a generation returns live to blue note hawaii ka au crater boys the second chapter brings the defining sound of contemporary hawai i back to the stage formed in palolo valley in the early 1990s by troy fernandez and the late ernie cruz jr the iconic duo reshaped island music with hits like tropical hawaiian day opihi man and surf featuring three time na hoku hanohano award winner troy fernandez this special performance honors their palolo roots bringing these beloved songs to life for longtime fans and a new generation tickets 25 45 club policies 10 29 show 7pm doors 5pm 10 30 shows 6 30pm 9 pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
-    },
-    {
-      "id": "vvG1iZ_196_Etg",
-      "legacyEventId": "0B0064A5C7667A75",
-      "name": "Mom Jeans",
-      "eventUrl": "https://www.ticketmaster.com/mom-jeans-san-diego-california-10-30-2026/event/0B0064A5C7667A75",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "18:30",
-      "startDateTime": "2026-10-31T01:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5e7/226e1492-f104-4407-97d0-6d6a21af15e7_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91798A0",
-          "name": "Mom Jeans",
-          "url": "https://www.ticketmaster.com/mom-jeans-tickets/artist/2419024"
-        },
-        {
-          "id": "K8vZ917jWCV",
-          "name": "Harrison Gordon",
-          "url": "https://www.ticketmaster.com/harrison-gordon-tickets/artist/3174541"
-        },
-        {
-          "id": "K8vZ917hZ87",
-          "name": "Sobs",
-          "url": "https://www.ticketmaster.com/sobs-tickets/artist/2958239"
-        },
-        {
-          "id": "K8vZ917CWR7",
-          "name": "Weatherbox",
-          "url": "https://www.ticketmaster.com/weatherbox-tickets/artist/1453249"
-        }
-      ],
-      "searchText": "mom jeans doors open 6 30pm show starts 7pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us mom jeans harrison gordon sobs weatherbox"
-    },
-    {
-      "id": "G5viZ_uh9fl5U",
-      "legacyEventId": "1B0064D6D752B2F6",
-      "name": "Pure Prairie League, Atlanta Rhythm Section, Firefall",
-      "eventUrl": "https://www.ticketmaster.com/pure-prairie-league-atlanta-rhythm-section-memphis-tennessee-10-30-2026/event/1B0064D6D752B2F6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f3c/b65696fd-5d85-454b-add5-967428c48f3c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpa3EHe",
-        "name": "Cannon Center for the Performing Arts",
-        "city": "Memphis",
-        "state": "TN",
-        "country": "US",
-        "latitude": 35.1517949,
-        "longitude": -90.0501709,
-        "street": "255 North Main Street",
-        "zipCode": "38103",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171EQ7",
-          "name": "Pure Prairie League",
-          "url": "https://www.ticketmaster.com/pure-prairie-league-tickets/artist/952638"
-        },
-        {
-          "id": "K8vZ9171jLf",
-          "name": "Atlanta Rhythm Section",
-          "url": "https://www.ticketmaster.com/atlanta-rhythm-section-tickets/artist/767275"
-        },
-        {
-          "id": "K8vZ91754VV",
-          "name": "Firefall",
-          "url": "https://www.ticketmaster.com/firefall-tickets/artist/859357"
-        }
-      ],
-      "searchText": "pure prairie league atlanta rhythm section firefall note the cannon center for the performing arts is a cashless venue for assistance with ada wheelchair seating please contact the box office 901 576 1269 or send email to info thecannoncenter com no refunds no exchanges or upgrades garage parking is available at 266 front street all bags are subject to search prohibited items no outside food or drink is allowed no large bags or backpacks allowed no weapons of any kind including guns pocket knives no re entry not responsible for any for lost stolen tickets or tickets purchased through third party websites cannon center for the performing arts memphis tn us pure prairie league atlanta rhythm section firefall"
-    },
-    {
-      "id": "vv17OZ_eGkS89paa",
-      "legacyEventId": "0800642CD05D6249",
-      "name": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "eventUrl": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-grand-rapids-michigan-10-30-2026/event/0800642CD05D6249",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-30T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/587/0573711f-0212-49e4-935f-08ba7e4e3587_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAlkA",
-        "name": "Van Andel Arena",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.962098,
-        "longitude": -85.67158,
-        "street": "130 Fulton West",
-        "zipCode": "49503",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917hekV",
-          "name": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
-          "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-presents-tickets/artist/2962779"
-        }
-      ],
-      "searchText": "ringling bros and barnum bailey with special guest bello nock the circus is here youre invited to the most next level family fun party on the planet the all new ringling bros and barnum bailey is a non stop celebration of jaw dropping acts laugh out loud fun and memory making moments you wont want to miss because this isnt just about the action on stage its about the fun of sharing it with the people who matter most from wide eyed kids to seen it all grown ups weve got the wow that will amaze them all weve taken the biggest boldest most joy sparking acts in the world and transformed them into a one of a kind shared experience so grab your crew and bring your biggest energy the greatest show on earth is throwing the worlds most unforgettable party and the best seat in the house is the one right next to you van andel arena grand rapids mi us ringling bros and barnum bailey presents the greatest show on earth"
-    },
-    {
-      "id": "vvG1IZ_ukj7bEs",
-      "legacyEventId": "0A0064D19C1189F1",
-      "name": "THE B-52s * DEVO:  COSMIC DE-EVOLUTION TOUR",
-      "eventUrl": "https://www.ticketmaster.com/the-b52s-devo-cosmic-deevolution-tour-chula-vista-california-10-30-2026/event/0A0064D19C1189F1",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-31T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/fc1/7e21a72a-89cb-4107-92cf-017b17c49fc1_SOURCE",
-      "venue": {
-        "id": "KovZpa2WZe",
-        "name": "North Island Credit Union Amphitheatre",
-        "city": "Chula Vista",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.58830386,
-        "longitude": -117.00640802,
-        "street": "2050 Entertainment Circle",
-        "zipCode": "91911",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171Fjf",
-          "name": "The B-52s",
-          "url": "https://www.ticketmaster.com/the-b52s-tickets/artist/734479"
-        },
-        {
-          "id": "K8vZ91716wV",
-          "name": "Devo",
-          "url": "https://www.ticketmaster.com/devo-tickets/artist/869383"
-        },
-        {
-          "id": "K8vZ917Qwuf",
-          "name": "DJ Cummerbund",
-          "url": "https://www.ticketmaster.com/dj-cummerbund-tickets/artist/2939726"
-        }
-      ],
-      "searchText": "the b 52s devo cosmic de evolution tour rain or shine every ticket includes parking in the unpaved lots general parking gates typically open at 4pm on day of show upgrades are available for premier parking in the paved lots and closer to the venue entrance north island credit union amphitheatre chula vista ca us the b 52s devo dj cummerbund"
-    },
-    {
-      "id": "17k8v0G6GCBe_GE",
-      "legacyEventId": "190064C3BA099327",
-      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
-      "eventUrl": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-tempe-arizona-10-30-2026/event/190064C3BA099327",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-31T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/762/707b5aed-2537-4fc0-9f79-57789bbcd762_SOURCE",
-      "venue": {
-        "id": "KovZpZAJk7eA",
-        "name": "Marquee Theatre",
-        "city": "Tempe",
-        "state": "AZ",
-        "country": "US",
-        "latitude": 33.43699137,
-        "longitude": -111.94398356,
-        "street": "730 N. Mill Ave",
-        "zipCode": "85281",
-        "timezone": "America/Phoenix"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917oVbV",
-          "name": "Wage War",
-          "url": "https://www.ticketmaster.com/wage-war-tickets/artist/1926855"
-        },
-        {
-          "id": "K8vZ917Gt8V",
-          "name": "We Came As Romans",
-          "url": "https://www.ticketmaster.com/we-came-as-romans-tickets/artist/1472244"
-        },
-        {
-          "id": "K8vZ9173Wj7",
-          "name": "Varials",
-          "url": "https://www.ticketmaster.com/varials-tickets/artist/2057242"
-        },
-        {
-          "id": "K8vZ917KuXV",
-          "name": "Cane Hill",
-          "url": "https://www.ticketmaster.com/cane-hill-tickets/artist/2091191"
-        }
-      ],
-      "searchText": "wage war emergency broadcast tour this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us wage war we came as romans varials cane hill"
-    },
-    {
-      "id": "1A9ZkffGkeTDR9M",
-      "legacyEventId": "17006514BFEEF5F7",
-      "name": "Tahoe Knight Monsters vs. Kansas City Mavericks",
-      "eventUrl": "https://www.ticketmaster.com/tahoe-knight-monsters-vs-kansas-city-stateline-nevada-10-30-2026/event/17006514BFEEF5F7",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:00",
-      "startDateTime": "2026-10-31T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/089/fb977431-eb71-4cf6-8fe9-754cd4d94089_SOURCE",
-      "venue": {
-        "id": "KovZ917Ai8b",
-        "name": "Tahoe Blue Event Center",
-        "city": "Stateline",
-        "state": "NV",
-        "country": "US",
-        "latitude": 38.9631,
-        "longitude": -119.94034,
-        "street": "75 US Highway 50",
-        "zipCode": "89449",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qdr0",
-          "name": "Tahoe Knight Monsters",
-          "url": "https://www.ticketmaster.com/tahoe-knight-monsters-tickets/artist/3181624"
-        },
-        {
-          "id": "K8vZ917p6x0",
-          "name": "Kansas City Mavericks",
-          "url": "https://www.ticketmaster.com/kansas-city-mavericks-tickets/artist/2389635"
-        }
-      ],
-      "searchText": "tahoe knight monsters vs kansas city mavericks for more information on knight monsters games including the clear bag policy parking information and more please visit https knightmonstershockey com faq tahoe blue event center stateline nv us tahoe knight monsters kansas city mavericks"
-    },
-    {
-      "id": "vvG1OZ_Gl4JtDZ",
-      "legacyEventId": "080064CAD59A9EC0",
-      "name": "Saginaw Spirit vs. Barrie Colts",
-      "eventUrl": "https://www.ticketmaster.com/saginaw-spirit-vs-barrie-colts-saginaw-michigan-10-30-2026/event/080064CAD59A9EC0",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:05",
-      "startDateTime": "2026-10-30T23:05:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ec4/e5066377-4678-48d5-b61f-c47d3ebd6ec4_SOURCE",
-      "venue": {
-        "id": "KovZpZAdFatA",
-        "name": "Dow Event Center",
-        "city": "Saginaw",
-        "state": "MI",
-        "country": "US",
-        "latitude": 43.43586,
-        "longitude": -83.936171,
-        "street": "303 Johnson",
-        "zipCode": "48607",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175uo7",
-          "name": "Saginaw Spirit",
-          "url": "https://www.ticketmaster.com/saginaw-spirit-tickets/artist/836382"
-        },
-        {
-          "id": "K8vZ9171Io7",
-          "name": "Barrie Colts",
-          "url": "https://www.ticketmaster.com/barrie-colts-tickets/artist/838344"
-        }
-      ],
-      "searchText": "saginaw spirit vs barrie colts the dow event center has a clear bag policy and is cashless for all events only credit cards and debit cards will be accepted at all points of purchase including parking dow bucks available at the box office in 5 increments for cash dow bucks can be used at all concession stands managed by legends throughout the building 20 cash 20 in dow bucks no limit per guest only available with usd visa gift cards available in 20 increments a 2 bank processing fee applies per card i e 22 cash 20 card value standard limit of 2 per guest while supplies last exceptions may be made for higher value purchases only available with usd small clutches no larger than 4 5 x 6 5 x 2 inches or clear bags 12 x12 x 6 inches or smaller will only be permitted no bags backpacks or purses other than those required for medical or parenting needs will be permitted into the venue medical or parenting bags will undergo additional security screening dow event center saginaw mi us saginaw spirit barrie colts"
-    },
-    {
-      "id": "LvZ18QilOj9poXqR1Gqw_",
-      "legacyEventId": "LvZ18QilOj9poXqR1Gqw_",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-30T23:30:00Z",
-      "endDateTime": "2026-10-31T01:30:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "rZ7HnEZ1A4Z74d",
-      "legacyEventId": "rZ7HnEZ1A4Z74d",
-      "name": "THE HUNCHBACK OF NOTRE DAME silent film with LIVE ORCHESTRA",
-      "eventUrl": "https://www.ticketweb.com/event/the-hunchback-of-notre-dame-luminary-arts-center-tickets/15004543",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-31T00:30:00Z",
-      "endDateTime": "2026-10-31T02:30:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/82/43_Edp.jpg?v=19",
-      "venue": {
-        "id": "rZ7HnEZ17qeqS",
-        "name": "Luminary Arts Center",
-        "city": "Minneapolis",
-        "state": "MN",
-        "country": "US",
-        "latitude": 44.989603,
-        "longitude": -93.274872,
-        "street": "700 N 1st St",
-        "zipCode": "55401",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "the hunchback of notre dame silent film with live orchestra the hunchback of notre dame silent film with live orchestra friday october 30 7 30pm all ages a spooktacular premiere at luminary arts center minneapolis mn this halloween weekend leo presents invites audiences to experience a breathtaking new production of the hunchback of notre dame silent film with live orchestra at luminary arts center in minneapolis s north loop leo presents invites audiences to experience a breathtaking new production of the hunchback of notre dame silent film with live orchestra at luminary arts center in minneapolis s north loop home to the minnesota opera and other acclaimed acts luminary arts center will serve as the stage for this extraordinary cinematic concert featuring the 1923 universal studios monster silent film crafted by local composer philip shorey the production combines an original score with an international 50 piece orchestra choral ensemble renaissance band theatrical special effects and a rock n roll inspired light show based on victor hugo s timeless 1831 gothic novel the hunchback of notre dame tells the story of quasimodo the bell ringer of notre dame cathedral and his enduring love for the beautiful dancer esmeralda set against the tragic backdrop of 15th century paris this dark romance explores themes of compassion prejudice heroism and virtue this immersive presentation brings new life to a beloved story combining the power of orchestral performance with the magic of cinema shorey has built an international reputation for reimagining classic silent films for modern audiences his productions have headlined major music festivals and sold out concert halls throughout europe and the united states this halloween marks his return to minneapolis for the world premiere of his latest original work the hunchback of notre dame audience attire guests are encouraged to embrace the spirit of the evening by dressing in their favorite renaissance inspired costume attire parking convenient event parking is available directly across the street from the venue for 6 making for an easy and enjoyable night out in minneapolis s vibrant north loop district street parking is also free after 6pm luminary arts center minneapolis mn us"
-    },
-    {
-      "id": "1AvjZ_dGkS0xjtM",
-      "legacyEventId": "1700643CE489CA77",
-      "name": "W.A.S.P. -1984 TO HEADLESS",
-      "eventUrl": "https://www.ticketmaster.com/wasp-1984-to-headless-las-vegas-nevada-10-30-2026/event/1700643CE489CA77",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-31T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/4a2/f044bd80-ab67-4319-ad3a-3a94631394a2_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171uFV",
-          "name": "W.A.S.P.",
-          "url": "https://www.ticketmaster.com/wasp-tickets/artist/772561"
-        },
-        {
-          "id": "K8vZ917hL80",
-          "name": "KK's Priest",
-          "url": "https://www.ticketmaster.com/kks-priest-tickets/artist/3032403"
-        }
-      ],
-      "searchText": "w a s p 1984 to headless door time 7 30 pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support kk s priest all support acts are subject to change without notice special offers complimentary admission to foundation room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us w a s p kk s priest"
-    },
-    {
-      "id": "LvZ18QJSG6KdAtx_KbWZ-",
-      "legacyEventId": "LvZ18QJSG6KdAtx_KbWZ-",
-      "name": "R&B ONLY LIVE - Sacramento, CA",
-      "eventUrl": "https://www.universe.com/events/r-b-only-live-sacramento-ca-tickets-0TS19H?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "19:30",
-      "startDateTime": "2026-10-31T02:30:00Z",
-      "endDateTime": "2026-10-31T07:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_SOURCE",
-      "venue": {
-        "id": "KovZpZAJ6lvA",
-        "name": "Ace of Spades",
-        "city": "Sacramento",
-        "state": "CA",
-        "country": "US",
-        "latitude": 38.569993,
-        "longitude": -121.49087928,
-        "street": "1417 R St.",
-        "zipCode": "95811",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bcfV",
-          "name": "R&B ONLY",
-          "url": "https://www.ticketmaster.com/rb-only-tickets/artist/2473787"
-        },
-        {
-          "id": "K8vZfZ71F7k",
-          "name": "R&B ONLY LIVE",
-          "url": "https://www.ticketmaster.com/rb-only-live-tickets/artist/2797748"
-        }
-      ],
-      "searchText": "r b only live sacramento ca 18 r amp b only live is coming to your city for the ultimate r amp b experience come sing dance and experience r amp b music from past to present pics and videos from r amp b only live instagram com rnbonly tiktok com rnbonly q what is r amp b only live a r amp b only live is a live music experience produced by colors worldwide dedicated to celebrating r amp b music from past to present it s a dj driven event where audiences can sing dance and enjoy a nostalgic journey through r amp b music s greatest hits and modern favorites q what can i expect at an r amp b only live show a r amp b only live is a high energy event designed for fans to connect with r amp b music our dj led show takes audiences on a musical journey through classic and contemporary r amp b hits in an atmosphere full of singing dancing and r amp b nostalgia q what s the dress code a there is no specific dress code but we encourage fans to come ready for a night of dancing and fun whether you prefer casual or dressed up come as you are and enjoy the experience q what s the ticketing policy a all tickets for r amp b only live events are non refundable if you have questions about your ticket or need it resent please contact us at info colorsworldwide com q what should i know before attending the show a a valid id is required for entry at age restricted shows we also encourage attendees to check the venue s bag policy and parking information in advance as these are determined by the venue and may vary q how can i stay updated on future shows a follow us on social media instagram tiktok youtube x and facebook for the latest updates event announcements and exclusive content you can also join our mailing list on our website to be among the first to know about new shows and ticket releases legal must be 18 to attend as a condition of your attendance at r amp b only live you agree and irrevocably consent to your image and or likeness being captured on film and or video the benefit of which shall vest in colors worldwide inc its licensees successors and assigns and may be distributed throughout the world in perpetuity without limitation all sales are final with rsvp and or ticket purchase you agree to receive communications from colors worldwide inc ace of spades sacramento ca us r b only r b only live"
-    },
-    {
-      "id": "rZ7HnEZ1AfG3v0",
-      "legacyEventId": "rZ7HnEZ1AfG3v0",
-      "name": "NIGHT MOVES w/ special guest Astrachan at FITZGERALDS!!",
-      "eventUrl": "https://www.ticketweb.com/event/night-moves-w-special-guest-fitzgeralds-nightclub-tickets/14312064",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/02/82/54_Edp.jpg?v=6",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "night moves w special guest astrachan at fitzgeralds fitzgeralds nightclub presents night moves w speical guest astrachan at fitzgeralds nightclub 25 general admission some seating available first come first served night moves double lifebless its battered body but the night moves tour van is a piece of shit it is your standard issueblue ford e 350 now months away from its 25th birthday the sort of vehicle that occasionallyprompts so called normal folks to give the grimy musicians inside suspect stares the catalyticconverter has been stolen three times so it s now permanently straight piped the exhaust leaksthrough the holes and cracks in the sides slowly gassing anyone inside the wheel wells areshambles and while john pelant was writingdouble life night moves fourthlp and first insix years someone swiped the license plates just after he had paid for new tags god fuckingdammit he remembers thinking who the hell steals a license plate but pelant soon sublimated his frustration turning his vision of a thief who had rdquo borrowed theplate in order to commit more crimes elsewhere into one of the most winning tunes in nightmoves country soul psych rock catalogue rdquo daytona as sun swept synthesizers and pedalsteel curl around stuttering drums pelant offers an empathetic portrait of someone doingwhatever is necessary to reinvent their lives rdquo daytona you only wanted a win he opens thefinal verse rdquo daytona no chance i ll see you again there s irritation in his voice sure butmostly there s acceptance an understanding that he cannot comprehend someone else sdifficultiesand that he has plenty of his own grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1AfGOf0",
-      "legacyEventId": "rZ7HnEZ1AfGOf0",
-      "name": "Little Lies - New England's Premier Fleetwood Mac Tribute",
-      "eventUrl": "https://www.ticketweb.com/event/little-lies-new-off-the-rails-music-venue-tickets/14320524",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": "2026-10-31T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/03/70/94_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ1739fP",
-        "name": "Off The Rails Music Venue",
-        "city": "Worcester",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.2666,
-        "longitude": -71.79923,
-        "street": "90 Commercial Street",
-        "zipCode": "01608",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "little lies new england s premier fleetwood mac tribute all agesgeneral admission general admission is standing room only reserved table seating upgrade your experience with one of our exclusive bar height tables for two availability is limited to 15 tables per show and reserved table tickets must be purchased as a pair reserved table tickets include two 2 general admission tickets a private bar height table for two full access to the off the rails food menu dedicated table service for food and beverage orders one 1 complimentary parking space per table please present your reserved table ticket to the parking attendant upon arrival for ticketing questions or ada accommodations please contact us at info offtherailsworcester com important information please note restaurant reservations made through toast are not valid event tickets and do not include admission to the music venue restaurant seating does not provide views of the stage or access to ticketed performances if you plan to attend a ticketed event you must purchase an event ticket separately regardless of any restaurant reservation made through toast reserved table tickets purchased through our ticketing platform are the only table reservations that include admission to the performance and seating inside the music venue off the rails music venue worcester ma us"
-    },
-    {
-      "id": "rZ7HnEZ1AfFb-V",
-      "legacyEventId": "rZ7HnEZ1AfFb-V",
-      "name": "The AlchemyXXII Masquerade Witches Ball",
-      "eventUrl": "https://www.ticketweb.com/event/the-alchemyxxii-masquerade-witches-ball-the-hall-tickets/14218874",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/93/71/64_Edp.jpg?v=11",
-      "venue": {
-        "id": "rZ7HnEZ17feC4",
-        "name": "The Hall",
-        "city": "Little Rock",
-        "state": "AR",
-        "country": "US",
-        "latitude": 34.74113784062877,
-        "longitude": -92.27955864518148,
-        "street": "721 West 9th Street",
-        "zipCode": "72201",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "the alchemyxxii masquerade witches ball please note sales close thursday 10 29 11 59pm step beyond the veil and into an unforgettable evening of glamour mystery and magick at the witches ball arkansas s premier immersive samhain gala guests become part of the experience as they don elegant ballgowns formal attire and masquerade masks entering a world of breathtaking installations live aerial performances dancing themed experiences and enchanting photo opportunities designed as an annual celebration of creativity artistry and community the witches ball blends the elegance of a traditional masquerade with the wonder of magical storytelling whether you re a witch mystic creative or simply enchanted by the atmosphere prepare for a night unlike anything else in arkansas formal masquerade attire is required ballgowns fantasy formalwear black tie attire and masquerade masks are all part of the immersive experience ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hall is open every friday from 10am 4pm address 721 w 9th st little rock ar 72201 please note the hall is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience the hall little rock ar us"
-    },
-    {
-      "id": "LvZ18QJSGkFI7l6p2lAEg",
-      "legacyEventId": "LvZ18QJSGkFI7l6p2lAEg",
-      "name": "R&B ONLY LIVE - Pittsburgh, PA",
-      "eventUrl": "https://www.universe.com/events/r-b-only-live-pittsburgh-pa-tickets-Z2Q6MJ?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": "2026-10-31T05:00:00Z",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_SOURCE",
-      "venue": {
-        "id": "KovZ917Ax13",
-        "name": "Roxian Theatre Presented By Citizens",
-        "city": "McKees Rocks",
-        "state": "PA",
-        "country": "US",
-        "latitude": 40.464828,
-        "longitude": -80.058873,
-        "street": "425 Chartiers Ave",
-        "zipCode": "15136",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917bcfV",
-          "name": "R&B ONLY",
-          "url": "https://www.ticketmaster.com/rb-only-tickets/artist/2473787"
-        },
-        {
-          "id": "K8vZfZ71F7k",
-          "name": "R&B ONLY LIVE",
-          "url": "https://www.ticketmaster.com/rb-only-live-tickets/artist/2797748"
-        }
-      ],
-      "searchText": "r b only live pittsburgh pa 18 r amp b only live is coming to your city for the ultimate r amp b experience come sing dance and experience r amp b music from past to present pics and videos from r amp b only live instagram com rnbonly tiktok com rnbonly q what is r amp b only live a r amp b only live is a live music experience produced by colors worldwide dedicated to celebrating r amp b music from past to present it s a dj driven event where audiences can sing dance and enjoy a nostalgic journey through r amp b music s greatest hits and modern favorites q what can i expect at an r amp b only live show a r amp b only live is a high energy event designed for fans to connect with r amp b music our dj led show takes audiences on a musical journey through classic and contemporary r amp b hits in an atmosphere full of singing dancing and r amp b nostalgia q what s the dress code a there is no specific dress code but we encourage fans to come ready for a night of dancing and fun whether you prefer casual or dressed up come as you are and enjoy the experience q what s the ticketing policy a all tickets for r amp b only live events are non refundable if you have questions about your ticket or need it resent please contact us at info colorsworldwide com q what should i know before attending the show a a valid id is required for entry at age restricted shows we also encourage attendees to check the venue s bag policy and parking information in advance as these are determined by the venue and may vary q how can i stay updated on future shows a follow us on social media instagram tiktok youtube x and facebook for the latest updates event announcements and exclusive content you can also join our mailing list on our website to be among the first to know about new shows and ticket releases legal must be 18 to attend as a condition of your attendance at r amp b only live you agree and irrevocably consent to your image and or likeness being captured on film and or video the benefit of which shall vest in colors worldwide inc its licensees successors and assigns and may be distributed throughout the world in perpetuity without limitation all sales are final with rsvp and or ticket purchase you agree to receive communications from colors worldwide inc roxian theatre presented by citizens mckees rocks pa us r b only r b only live"
-    },
-    {
-      "id": "LvZ18QIQn8wgC512mDg9P",
-      "legacyEventId": "LvZ18QIQn8wgC512mDg9P",
-      "name": "Forever Forest Trolly of Terror, Halloween Experience 2026",
-      "eventUrl": "https://www.universe.com/events/forever-forest-trolly-of-terror-halloween-experience-2026-tickets-W2CN3P?ref=ticketmaster",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": "2026-10-31T02:00:00Z",
-      "imageUrl": "https://images.universe.com/fe40c0df-f668-4fa2-998a-1db907b8c141/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-      "venue": {
-        "id": "KovZ917As0-",
-        "name": "Forever Forest",
-        "city": "Egg Harbor City",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 39.523724,
-        "longitude": -74.630446,
-        "street": "354 Breman Ave",
-        "zipCode": "08215",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917r-J7",
-          "name": "Trolly of Terror",
-          "url": "https://www.ticketmaster.com/trolly-of-terror-tickets/artist/3888579"
-        }
-      ],
-      "searchText": "forever forest trolly of terror halloween experience 2026 saturday october 17 and 24 2026 four late scary sessions 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session saturday closes at 11 00 pm each ticket remains valid for its own selected session window forever forest presents the trolley of terror halloween experience step into the 2026 forever forest halloween experience a halloween adventure packed with new attractions spooky surprises family activities and haunted fun listed attractions are included with your forever forest halloween experience ticket s mores food snacks and beverages cost extra and are not included in the session package special urgent report from forever forest there have been sightings of abnormal activity throughout the farm stay alert proceed with caution and enter at your own risk by purchasing a forever forest trolley of terror ticket you ll receive access to the full 2026 halloween experience including the activities listed below featured activities include late sessions only the haunted forever forest trolley ride of terror featuring live actors this experience is not recommended for younger children enter at your own risk early sessions only a family friendly trolley ride through the forever forest christmas tree farm featuring halloween decorations and seasonal decor this daytime scenic experience is intended for younger children and families before dark haunted tree maze walking trail new attraction monster mini golf perfect for families new trolley of terror feature an old fashioned ghost town experience forever forest interactive halloween workshop includes halloween themed arts and crafts to take home spooky face painting magical halloween decorations inside our authentic barn workshop live interaction with santa s halloween helpers assisting children with safe arts and crafts halloween monster mash karaoke music stage inside our featured theatre barn outdoor activities include forever forest spooky halloween walking tree maze trail strange things happen on this trail especially during late sessions enter at your own risk bouncy castle outdoor campfires for family gathering s mores are optional and cost an additional fee barns with indoor activities and halloween photo opportunities s mores cost an additional fee food snacks and beverages are sold separately at the food truck important ticket amp session information please read tickets are valid for the selected date and time session regular friday saturday and sunday sessions last two hours from their scheduled start special thursday session times are listed separately below late arrival does not extend the booked session please arrive no later than 30 minutes after your selected session start time to enjoy the full experience session times friday october 16 23 and 30 early session non scary 6 30 8 30 pm late session scary 7 30 9 30 pm and 8 00 10 00 pm maximum 250 people per session saturday october 17 and 24 early session non scary 6 30 8 30 pm maximum 250 people late session scary 7 30 9 30 pm 8 00 10 00 pm 8 30 10 30 pm and 9 00 11 00 pm maximum 150 people per late session 600 late admissions total sunday early session 5 30 7 30 pm late trolly of terror 7 00 9 00 pm capacity is limited for each date and time slot to ensure a high quality experience please reserve tickets in advance as preferred dates and times may sell out early family friendly sessions early sessions are intended for younger children and families before it gets dark these sessions include halloween decorations family activities and a scenic trolley ride through the farm the family friendly portion generally runs until dark around 7 30 pm late haunted sessions late sessions are haunted experiences featuring live actors and are recommended for teenagers and adults live actors generally begin around dark approximately 7 30 pm throughout the attractions and surrounding areas for the haunted experience with live actors book a late session scary 7 00 pm on sundays 7 30 pm or 8 00 pm on fridays or 7 30 pm 8 00 pm 8 30 pm or 9 00 pm on saturdays october 17 and 24 all saturday late sessions are scary not the early session non scary closing times friday 10 00 pm saturday october 17 and 24 at 11 00 pm sunday 9 00 pm each ticket ends at its booked session end time even if the venue remains open for a later session see the special thursday exceptions below parking is free on property thursday late session exceptions october 22 and october 29 6 30 9 30 pm these are the only thursday sessions offered forever forest egg harbor city nj us trolly of terror"
-    },
-    {
-      "id": "rZ7HnEZ1Af1_Pf",
-      "legacyEventId": "rZ7HnEZ1Af1_Pf",
-      "name": "Ten Years Gone - Tribute to Led Zeppelin",
-      "eventUrl": "https://www.ticketweb.com/event/ten-years-gone-the-token-lounge-tickets/14299954",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/62/04_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17FgfV",
-        "name": "The Token Lounge",
-        "city": "Westland",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.355071,
-        "longitude": -83.327698,
-        "street": "28949 JOY ROAD",
-        "zipCode": "48185",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "ten years gone tribute to led zeppelin ten years gone tirbute to led zeppelin showtime 8pm 3 sets 20 at the doordoors open at 7pm21 w proper id all ages w parentoutdoor smoking patio plenty of free lite parkingno re entry no backpacks no outside beverages the token lounge westland mi us"
-    },
-    {
-      "id": "rZ7HnEZ1Af0vPN",
-      "legacyEventId": "rZ7HnEZ1Af0vPN",
-      "name": "Micro Wrestling",
-      "eventUrl": "https://www.ticketweb.com/event/micro-wrestling-the-hawthorn-tickets/14901963",
-      "resaleEventUrl": null,
-      "status": "cancelled",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/49/77/23_Edp.jpg?v=6",
-      "venue": {
-        "id": "rZ7HnEZ17fpA4",
-        "name": "The Hawthorn",
-        "city": "St. Louis",
-        "state": "MO",
-        "country": "US",
-        "latitude": 38.6353739943,
-        "longitude": -90.21153963558,
-        "street": "2231 Washington Avenue",
-        "zipCode": "63103",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "micro wrestling ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hawthorn is open every friday from 10am 4pm address 2231 washington ave st louis mo 63103 please note the hawthorn is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience the hawthorn st louis mo us"
-    },
-    {
-      "id": "vvG17Z_ClEs-f5",
-      "legacyEventId": "010064EAE7C6150B",
-      "name": "moe.",
-      "eventUrl": "https://www.ticketmaster.com/moe-boston-massachusetts-10-30-2026/event/010064EAE7C6150B",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/669/17ab1bb4-9260-4baa-83be-dd55dea37669_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171jX0",
-          "name": "moe.",
-          "url": "https://www.ticketmaster.com/moe-tickets/artist/780809"
-        }
-      ],
-      "searchText": "moe 1 from every ticket sold goes to rock the pink rock the pink is an industry wide campaign to help end breast cancer as we know it for everyone musicians artists venues music influencers join together each october to raise awareness funds for the american cancer society wilbur theatre parking is available at the link below the wilbur boston ma us moe"
-    },
-    {
-      "id": "rZ7HnEZ1AfaoC7",
-      "legacyEventId": "rZ7HnEZ1AfaoC7",
-      "name": "Letdown",
-      "eventUrl": "https://www.ticketweb.com/event/letdown-off-the-rails-boston-tickets/14251384",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": "2026-10-31T03:55:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/12/96/76/84_Edp.jpg?v=11",
-      "venue": {
-        "id": "rZ7HnEZ17r9uV",
-        "name": "Off The Rails Boston",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3577549,
-        "longitude": -71.0591691,
-        "street": "25 School Street",
-        "zipCode": "02108",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "letdown all agesgeneral admission general admission is standing room only for ticketing questions or ada accommodations please contact us at info otrboston com please note restaurant reservations made through toast are not valid event tickets and do not include admission to the show if you plan to attend a ticketed event you must purchase an event ticket separately know before you go off the rails boston doors 7 pm show 8 pm address 25 school st boston dining before the show the last dinner reservations are at 5 pm have your ticket ready at check in and collect a wristband from security before entering a valid id is required to purchase alcohol regardless of age cash and cards are accepted large bags and backpacks are not permitted coat check is not available closest parking pi alley garage 275 washington st taking the t exit at state or downtown crossing off the rails boston boston ma us"
-    },
-    {
-      "id": "17FOv0G6CDfzSp_",
-      "legacyEventId": "220064EED4E33599",
-      "name": "Hablando Huevadas - US Tour 2026",
-      "eventUrl": "https://www.ticketmaster.com/hablando-huevadas-us-tour-2026-orlando-florida-10-30-2026/event/220064EED4E33599",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/b50/bd6aed73-6732-4e3b-8dce-635319696b50_SOURCE",
-      "venue": {
-        "id": "KovZpZAEkJeA",
-        "name": "Hard Rock Live Orlando",
-        "city": "Orlando",
-        "state": "FL",
-        "country": "US",
-        "latitude": 28.473773,
-        "longitude": -81.468224,
-        "street": "6050 Universal Blvd",
-        "zipCode": "32819",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qAv7",
-          "name": "Hablando Huevadas",
-          "url": "https://www.ticketmaster.com/hablando-huevadas-tickets/artist/3184884"
-        }
-      ],
-      "searchText": "hablando huevadas us tour 2026 hard rock live orlando is located at universal orlando s citywalk additional parking fees apply venue doors 7pm show start 8pm no backpacks extended lens cameras video cameras ipads allowed inside of venue hard rock live orlando orlando fl us hablando huevadas"
-    },
-    {
-      "id": "1A4Zk8JGkd8B6tU",
-      "legacyEventId": "15006426D0E87A76",
-      "name": "Charlie Wilson",
-      "eventUrl": "https://www.ticketmaster.com/charlie-wilson-national-harbor-maryland-10-30-2026/event/15006426D0E87A76",
-      "resaleEventUrl": null,
-      "status": "rescheduled",
-      "localDate": "2026-10-30",
-      "localTime": "20:00",
-      "startDateTime": "2026-10-31T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/e9d/8cfff9c9-6ec6-4fc3-a5cc-8de822aaae9d_SOURCE",
-      "venue": {
-        "id": "KovZ917A5LV",
-        "name": "The Theater at MGM National Harbor",
-        "city": "National Harbor",
-        "state": "MD",
-        "country": "US",
-        "latitude": 38.791707,
-        "longitude": -77.003002,
-        "street": "101 MGM National Ave",
-        "zipCode": "20745",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175zf7",
-          "name": "Charlie Wilson",
-          "url": "https://www.ticketmaster.com/charlie-wilson-tickets/artist/1013367"
-        }
-      ],
-      "searchText": "charlie wilson welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us charlie wilson"
-    },
-    {
-      "id": "rZ7HnEZ1AfuAof",
-      "legacyEventId": "rZ7HnEZ1AfuAof",
-      "name": "Ka'au Crater Boys - The Second Chapter",
-      "eventUrl": "https://www.ticketweb.com/event/kaau-crater-boys-blue-note-hawaii-tickets/14345454",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "21:00",
-      "startDateTime": "2026-10-31T07:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/11/54_Edp.jpg?v=17",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [],
-      "searchText": "ka au crater boys the second chapter sponsored by outrigger resorts upwpresented by kine 105 1 kccn fm100 sponsored by outrigger resorts upw ka au crater boys the second chapter the soundtrack of a generation returns live to blue note hawaii ka au crater boys the second chapter brings the defining sound of contemporary hawai i back to the stage formed in palolo valley in the early 1990s by troy fernandez and the late ernie cruz jr the iconic duo reshaped island music with hits like tropical hawaiian day opihi man and surf featuring three time na hoku hanohano award winner troy fernandez this special performance honors their palolo roots bringing these beloved songs to life for longtime fans and a new generation tickets 25 45 club policies 10 29 show 7pm doors 5pm 10 30 shows 6 30pm 9 pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
-    },
-    {
-      "id": "rZ7HnEZ1Af0e-d",
-      "legacyEventId": "rZ7HnEZ1Af0e-d",
-      "name": "Theo Katzman",
-      "eventUrl": "https://www.ticketweb.com/event/theo-katzman-music-box-tickets/14902843",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "21:00",
-      "startDateTime": "2026-10-31T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/08c/397a6be9-7a58-4671-b57f-f4b05ce9308c_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917uBYV",
-          "name": "Theo Katzman",
-          "url": "https://www.ticketmaster.com/theo-katzman-tickets/artist/1546725"
-        }
-      ],
-      "searchText": "theo katzman there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 32 adv standing 34 day of standingnote tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847box office contact 619 795 1337 boxoffice musicboxsd com faqbox office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd comnot on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us theo katzman"
-    },
-    {
-      "id": "vvG1zZ_2pfrFaj",
-      "legacyEventId": "0E0064F59478825C",
-      "name": "Daft Disko Halloween",
-      "eventUrl": "https://www.ticketmaster.com/daft-disko-halloween-atlanta-georgia-10-30-2026/event/0E0064F59478825C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "21:00",
-      "startDateTime": "2026-10-31T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/d08/bafb9e49-cb3d-4011-ba28-8445a1a64d08_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "daft disko halloween daft disko halloween october 30 2026 vinyl general admission age restrictions the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us"
-    },
-    {
-      "id": "1AyZkfUGkd9_dzJ",
-      "legacyEventId": "39006536D7643E26",
-      "name": "Lakeside Laughs Comedy Club",
-      "eventUrl": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-10-30-2026/event/39006536D7643E26",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "21:30",
-      "startDateTime": "2026-10-31T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpaF28e",
-        "name": "The Cabaret at Caesars Republic Lake Tahoe",
-        "city": "Lake Tahoe",
-        "state": "NV",
-        "country": "US",
-        "latitude": 38.96030808,
-        "longitude": -119.94269562,
-        "street": "18 Hwy 50",
-        "zipCode": "89449",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "lakeside laughs comedy club harrah s caesars republic lake tahoe prohibits the carrying and or possession of firearms even with a ccw or other dangerous weapons on the premises the venue reserves the right to implement security procedures designed to protect the experience for all of our customers paid parking charges may apply doors open 9pm maitre d seating must be 21 yrs w valid id to attend the show the cabaret at caesars republic lake tahoe lake tahoe nv us"
-    },
-    {
-      "id": "vvG1zZ_KxjihuF",
-      "legacyEventId": "0E0065389CB1B348",
-      "name": "Peak Halloween Atlanta",
-      "eventUrl": "https://www.ticketmaster.com/peak-halloween-atlanta-atlanta-georgia-10-30-2026/event/0E0065389CB1B348",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-10-30",
-      "localTime": "22:00",
-      "startDateTime": "2026-10-31T02:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/c67/a94fa360-fc4f-4503-adc4-06af10285c67_SOURCE",
-      "venue": {
-        "id": "KovZpZA1tn1A",
-        "name": "The Loft",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St.",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "peak halloween atlanta peak halloween takes over the loft on friday october 30 from 10pm to 2am expect a high energy halloween party with music production and a college crowd from across atltanta costumes encouraged 18 to enter and 21 to drink october 30 2026 loft general admission age restrictions the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us"
     },
     {
       "id": "vv17OZ_eGkS8bpaG",
@@ -2976,7 +1843,7 @@
       "localTime": "15:00",
       "startDateTime": "2026-10-31T20:00:00Z",
       "endDateTime": "2026-10-31T22:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/23_Edp.jpg?v=21",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/83/23_Edp.jpg?v=22",
       "venue": {
         "id": "rZ7HnEZ17qeqS",
         "name": "Luminary Arts Center",
@@ -3772,7 +2639,7 @@
       "name": "The Jumpoff: Scary Hours",
       "eventUrl": "https://www.ticketmaster.com/the-jumpoff-scary-hours-atlanta-georgia-10-31-2026/event/0E006548B49ADA7C",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-10-31",
       "localTime": "21:00",
       "startDateTime": "2026-11-01T01:00:00Z",
@@ -7603,7 +6470,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-11-08T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/81/98/94_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/12/81/98/94_Edp.jpg?v=15",
       "venue": {
         "id": "rZ7HnEZ17FgfV",
         "name": "The Token Lounge",
@@ -14541,9 +13408,14 @@
           "id": "K8vZ917hQT7",
           "name": "Chrissy Chlapecka",
           "url": "https://www.ticketmaster.com/chrissy-chlapecka-tickets/artist/3019205"
+        },
+        {
+          "id": "K8vZ917OASf",
+          "name": "Slajer",
+          "url": "https://www.ticketmaster.com/slajer-tickets/artist/4418594"
         }
       ],
-      "searchText": "chrissy chlapecka rival presents chrissy chlapecka november 19 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us chrissy chlapecka"
+      "searchText": "chrissy chlapecka rival presents chrissy chlapecka w slajer november 19 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us chrissy chlapecka slajer"
     },
     {
       "id": "rZ7HnEZ1Afrp8N",
@@ -14655,7 +13527,7 @@
       "localTime": "20:30",
       "startDateTime": "2026-11-20T02:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/61/88/93_Edp.jpg?v=4",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/61/88/93_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -14669,7 +13541,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "dom flemons returns to fitzgeralds historic nightclub fitzgeralds nightclub presents dom flemons returns to fitzgeralds nightclub 27 general admission seat reserved tables available dom flemons is known as the american songster since his repertoire covers over one hundred years of american roots music flemons is a folk musician black country artist songwriter multi instrumentalist music scholar historian actor slam poet record collector curator podcaster cultural commentator influencer and the creator host and producer of the american songster radio show on wsm in nashville tn he is the co founder and original member of the groundbreaking carolina chocolate drops the first ever black string band to win a grammy award over the past 25 years he has received major awards gained world wide media recognition and has become one of the most influential and highly decorated voices in american roots music dom flemons is one of the most accomplished american folk artists few have pumped as much lifeblood into tradition as he has mojo magazine grab dinner before the show at babygold barbecueor enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
+      "searchText": "dom flemons returns to fitzgeralds historic nightclub fitzgeralds nightclub presents dom flemons returns to fitzgeralds nightclub 27 general admission seat reserved tables available dom flemons is known as rdquo the american songster since his repertoire covers over one hundred years of american roots music flemons is a folk musician black country artist songwriter multi instrumentalist music scholar historian actor slam poet record collector curator podcaster cultural commentator influencer and the creator host and producer of the american songster radio show on wsm in nashville tn he is the co founder and original member of the groundbreaking carolina chocolate drops the first ever black string band to win a grammy award over the past 25 years he has received major awards gained world wide media recognition and has become one of the most influential and highly decorated voices in american roots music rdquo dom flemons is one of the most accomplished american folk artists few have pumped as much lifeblood into tradition as he has mojo magazine grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "rZ7HnEZ1AfGv8V",
@@ -19559,7 +18431,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-11-26T00:00:00Z",
       "endDateTime": "2026-11-26T12:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/03/14/54_Edp.jpg?v=4",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/03/14/54_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17FtjV",
         "name": "Pop's Concert Venue",
@@ -20002,6 +18874,138 @@
       "searchText": "bayport credit union holiday trail of lights event series presented by huffman huffman brothers in law the show is designed to be able to walk it from both directions you can enter from both the north and the south entrances there are 700 parking spaces in the north lot main entrance and 200 spaces in the south lot marsh pavilion entrance is the path ada accessible yes the path is flat and wheelchair accessible the aquarium also has wheelchairs available to rent upon request what can i bring you may bring a stroller wheelchair mobility scooter outside food drink bags etc bags may be subject to search upon entry what can i not bring you may not bring weapons of any kind glass containers outside alcohol chairs pets vehicles of any kind bikes e bikes skateboards scooters etc or professional camera video equipment will there be refunds can i exchange my ticket date all sales are final and valid only for your day and time of purchase no refunds or exchanges virginia aquarium virginia beach va us holiday trail of lights"
     },
     {
+      "id": "LvZ18QmKoqVseRhnDLsAQ",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAQ",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "17:30",
+      "startDateTime": "2026-11-26T22:30:00Z",
+      "endDateTime": "2026-11-27T00:30:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAh",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAh",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "17:45",
+      "startDateTime": "2026-11-26T22:45:00Z",
+      "endDateTime": "2026-11-27T00:45:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAj",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAj",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "18:00",
+      "startDateTime": "2026-11-26T23:00:00Z",
+      "endDateTime": "2026-11-27T01:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAq",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAq",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "18:15",
+      "startDateTime": "2026-11-26T23:15:00Z",
+      "endDateTime": "2026-11-27T01:15:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
       "id": "rZ7HnEZ1AfFz3f",
       "legacyEventId": "rZ7HnEZ1AfFz3f",
       "name": "Chip Chantry's Thanksgiving In Paradise",
@@ -20035,6 +19039,171 @@
       "searchText": "chip chantry s thanksgiving in paradise presented by vacation weightblue note comedy series chip chantry waikiki s annual thanksgiving tradition presented by vacation weight chip chantry is a stand up comedian actor and television writer known for razor sharp one liners perfectly crafted storytelling and zero filler catch him reprising his role as fan favorite kyle the liar in season 3 of netflix s hit comedy tires august 2026 when he s not opening for legends like dave chappelle and sarah silverman chip co hosts the sunburnt podcast the world s 1 tropical travel comedy podcast alongside emmy winning producer thomas o brien ticket prices 35 55 club policies show 6 30pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us chip chantry"
     },
     {
+      "id": "LvZ18QmKoqVseRhnDLsAr",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAr",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "18:30",
+      "startDateTime": "2026-11-26T23:30:00Z",
+      "endDateTime": "2026-11-27T01:30:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAL",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAL",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "18:45",
+      "startDateTime": "2026-11-26T23:45:00Z",
+      "endDateTime": "2026-11-27T01:45:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAO",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAO",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "19:00",
+      "startDateTime": "2026-11-27T00:00:00Z",
+      "endDateTime": "2026-11-27T02:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsA-",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsA-",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "19:15",
+      "startDateTime": "2026-11-27T00:15:00Z",
+      "endDateTime": "2026-11-27T02:15:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAx",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAx",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "19:30",
+      "startDateTime": "2026-11-27T00:30:00Z",
+      "endDateTime": "2026-11-27T02:30:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
       "id": "1Ad0Z_4GknzB_M3",
       "legacyEventId": "3900655AB8E99DD2",
       "name": "Alex Ramon Magic",
@@ -20066,6 +19235,72 @@
         }
       ],
       "searchText": "alex ramon magic vip seating guaranteed front rows priority seating no waiting in line harrah s caesars republic lake tahoe prohibits the carrying and or possession of firearms even with a ccw or other dangerous weapons on the premises the venue reserves the right to implement security procedures designed to protect the experience for all of our customers paid parking charges may apply doors open 7 00pm maitre d seating all ages under 2 yrs free 3 yrs requires an admission ticket south shore room at harrah s lake tahoe lake tahoe nv us alex ramon"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsAN",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsAN",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "19:45",
+      "startDateTime": "2026-11-27T00:45:00Z",
+      "endDateTime": "2026-11-27T02:45:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "LvZ18QmKoqVseRhnDLsA0",
+      "legacyEventId": "LvZ18QmKoqVseRhnDLsA0",
+      "name": "Dazzling Nights® Orlando",
+      "eventUrl": "https://www.universe.com/events/dazzling-nights-orlando-tickets-CV9DKN?ref=ticketmaster",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-26",
+      "localTime": "20:00",
+      "startDateTime": "2026-11-27T01:00:00Z",
+      "endDateTime": "2026-11-27T03:00:00Z",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2d8/fc3a15fc-41cc-4681-b1e0-28eaacc3a2d8_SOURCE",
+      "venue": {
+        "id": "KovZpZAaldlA",
+        "name": "Harry P. Leu Gardens",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "latitude": 28.5676,
+        "longitude": -81.35538,
+        "street": "1920 North Forest Ave",
+        "zipCode": "32803",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917QRKf",
+          "name": "Dazzling Nights - Orlando",
+          "url": "https://www.ticketmaster.com/dazzling-nights-orlando-tickets/artist/2931218"
+        }
+      ],
+      "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
       "id": "vv1A8vPu8GAGlJQ3",
@@ -20960,7 +20195,7 @@
       "name": "Triumph: The Rock & Roll Machine Reloaded Tour",
       "eventUrl": "https://www.ticketmaster.com/triumph-the-rock-roll-machine-reloaded-fishers-indiana-11-27-2026/event/05006514D59346E9",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "cancelled",
       "localDate": "2026-11-27",
       "localTime": "20:00",
       "startDateTime": "2026-11-28T01:00:00Z",
@@ -23722,7 +22957,7 @@
       "name": "Meek Mill: Dream Chasers Nights",
       "eventUrl": "https://www.ticketmaster.com/meek-mill-dream-chasers-nights-hollywood-california-11-29-2026/event/09006550EDCC51CA",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-11-29",
       "localTime": "19:00",
       "startDateTime": "2026-11-30T03:00:00Z",
@@ -28529,7 +27764,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205104",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-05",
       "localTime": "18:00",
       "startDateTime": "2026-12-05T23:00:00Z",
@@ -38056,7 +37291,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-14T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/65/05/93_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/65/05/93_Edp.jpg?v=13",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -38214,7 +37449,7 @@
       "name": "Lazer Dim 700",
       "eventUrl": "https://www.ticketmaster.com/lazer-dim-700-atlanta-georgia-12-13-2026/event/0E00655CA6B28AF8",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-12-13",
       "localTime": "20:00",
       "startDateTime": "2026-12-14T01:00:00Z",
@@ -39353,7 +38588,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-12-16T00:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/322/1a42a97d-e908-484a-89c2-e23974317322_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/a25/dbe7a9d9-2d2c-49d6-8486-8ed55c8afa25_SOURCE",
       "venue": {
         "id": "KovZpZAEeaeA",
         "name": "Rose & Alfred Miniaci Performing Arts Center",
@@ -40475,8 +39710,8 @@
     {
       "id": "rZ7HnEZ1A4Zbfd",
       "legacyEventId": "rZ7HnEZ1A4Zbfd",
-      "name": "Venna",
-      "eventUrl": "https://www.ticketweb.com/event/venna-music-box-tickets/15018503",
+      "name": "Venna - North America Tour 26' Malik w/ Khal!l",
+      "eventUrl": "https://www.ticketweb.com/event/venna-north-america-music-box-tickets/15018503",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2026-12-16",
@@ -40503,7 +39738,7 @@
           "url": "https://www.ticketmaster.com/venna-tickets/artist/3125585"
         }
       ],
-      "searchText": "venna there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 25 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us venna"
+      "searchText": "venna north america tour 26 malik w khal l north america tour 26 malikthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 25 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us venna"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8L7",
@@ -41661,7 +40896,7 @@
       "name": "Mudsock Basketball",
       "eventUrl": "https://www.ticketmaster.com/mudsock-basketball-fishers-indiana-12-18-2026/event/05006536C10B4A23",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-12-18",
       "localTime": "18:00",
       "startDateTime": "2026-12-18T23:00:00Z",
@@ -44701,7 +43936,7 @@
       "localTime": "14:00",
       "startDateTime": "2026-12-20T19:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/12/51/04_Edp.jpg?v=2",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -44715,7 +43950,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "G5vYZ_8m5QzCu",
@@ -58233,7 +57468,7 @@
       "name": "One Vision Of Queen Featuring Marc Martel",
       "eventUrl": "https://www.ticketmaster.com/one-vision-of-queen-featuring-marc-rancho-mirage-california-01-08-2027/event/0900655AD428C462",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-08",
       "localTime": "20:00",
       "startDateTime": "2027-01-09T04:00:00Z",
@@ -60800,6 +60035,44 @@
         }
       ],
       "searchText": "prca pro rodeo sat jan 16 3 30pm prca pro rodeo sat jan 16 3 30pm all event tickets include grounds admission for the entire event day you do not need to purchase a separate grounds admission ticket for this day parking is free at coors field due to construction parking is very limited around the national western area and there is a fee to park all patrons are encouraged to park at coors field where there are shuttle buses that run every 10 minutes children 2 under are free as long as they sit on their guardian s lap will call is located in the south lobby of the national western complex building 4655 humboldt st denver co 80216 for any questions please call the box office at 303 295 6124 or via e mail to nwtickets nationalwestern com denver coliseum denver co us national western stock show presented by commonspirit health"
+    },
+    {
+      "id": "vv17fZ_4GkD7MnOr",
+      "legacyEventId": "0500655EC4DEA81E",
+      "name": "Ohio State Buckeyes Women's Gymnastics vs. Michigan State Spartans Women's Gymnastics",
+      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-vs-columbus-ohio-01-16-2027/event/0500655EC4DEA81E",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-16",
+      "localTime": "16:00",
+      "startDateTime": "2027-01-16T21:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/8e4/931f411e-5611-4610-b3e7-85d45a8df8e4_SOURCE",
+      "venue": {
+        "id": "KovZ917A-LH",
+        "name": "Covelli Center Columbus",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "latitude": 40.014115,
+        "longitude": -83.02774,
+        "street": "2640 Fred Taylor Dr.",
+        "zipCode": "43210",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fAf7",
+          "name": "Ohio State Buckeyes Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-tickets/artist/1279852"
+        },
+        {
+          "id": "K8vZ917q4r0",
+          "name": "Michigan State Spartans Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/michigan-state-spartans-womens-gymnastics-tickets/artist/3323074"
+        }
+      ],
+      "searchText": "ohio state buckeyes women s gymnastics vs michigan state spartans women s gymnastics osu students are admitted free with a valid osu id doors to the covelli center open 1 hour beforehand group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 children under 2 are admitted free but must sit on their parent guardian s lap parking is free in the surface lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s gymnastics michigan state spartans women s gymnastics"
     },
     {
       "id": "LvZ18QntiAq4J4G9IYIoV",
@@ -64328,7 +63601,7 @@
       "name": "The Sinatra Experience With Dave Halston",
       "eventUrl": "https://www.ticketmaster.com/the-sinatra-experience-with-dave-halston-ft-lauderdale-florida-01-24-2027/event/0D00654FD1E3B432",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-24",
       "localTime": "15:00",
       "startDateTime": "2027-01-24T20:00:00Z",
@@ -65164,7 +64437,7 @@
       "name": "Leslie Jones: I'm Hot Tour",
       "eventUrl": "https://www.ticketmaster.com/leslie-jones-im-hot-tour-boston-massachusetts-01-29-2027/event/01006553BDB39E34",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-29",
       "localTime": "19:30",
       "startDateTime": "2027-01-30T00:30:00Z",
@@ -65301,7 +64574,7 @@
       "name": "Dirty Heads",
       "eventUrl": "https://www.ticketmaster.com/dirty-heads-charles-town-west-virginia-01-29-2027/event/1500655595A96221",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-29",
       "localTime": "20:00",
       "startDateTime": "2027-01-30T01:00:00Z",
@@ -65717,7 +64990,7 @@
       "name": "Jerry Seinfeld",
       "eventUrl": "https://www.ticketmaster.com/jerry-seinfeld-detroit-michigan-01-30-2027/event/0800653E0119E24B",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-30",
       "localTime": "19:00",
       "startDateTime": "2027-01-31T00:00:00Z",
@@ -66718,6 +65991,44 @@
       "searchText": "ohio state buckeyes women s hockey vs st cloud state university huskies womens hockey tickets are general admission only children under the age of 2 are free ohio state students are granted free admission by presenting their buck id at the osu ice rink on gameday please keep in mind there are a limited amount of tickets available per game doors to the osu ice rink open 1 hour prior to puck drop group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 parking is free in lots north of st john arena ohio state university ice rink columbus oh us ohio state buckeyes women s hockey st cloud state university huskies womens hockey"
     },
     {
+      "id": "vv17fZ_4GkDAd1-U",
+      "legacyEventId": "0500655EC50CA876",
+      "name": "Ohio State Buckeyes Women's Gymnastics vs. Nebraska Cornhuskers Gymnastics",
+      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-vs-columbus-ohio-02-05-2027/event/0500655EC50CA876",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-05",
+      "localTime": "18:00",
+      "startDateTime": "2027-02-05T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/8e4/931f411e-5611-4610-b3e7-85d45a8df8e4_SOURCE",
+      "venue": {
+        "id": "KovZ917A-LH",
+        "name": "Covelli Center Columbus",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "latitude": 40.014115,
+        "longitude": -83.02774,
+        "street": "2640 Fred Taylor Dr.",
+        "zipCode": "43210",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fAf7",
+          "name": "Ohio State Buckeyes Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-tickets/artist/1279852"
+        },
+        {
+          "id": "K8vZ917uIh7",
+          "name": "Nebraska Cornhuskers Gymnastics",
+          "url": "https://www.ticketmaster.com/nebraska-cornhuskers-gymnastics-tickets/artist/1526124"
+        }
+      ],
+      "searchText": "ohio state buckeyes women s gymnastics vs nebraska cornhuskers gymnastics osu students are admitted free with a valid osu id doors to the covelli center open 1 hour beforehand group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 children under 2 are admitted free but must sit on their parent guardian s lap parking is free in the surface lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s gymnastics nebraska cornhuskers gymnastics"
+    },
+    {
       "id": "vvG1zZ_KdZHNjm",
       "legacyEventId": "0E006530C0F2372E",
       "name": "Amber Autry: Happy Holler Tour",
@@ -66974,6 +66285,39 @@
       "searchText": "hairball ameristar kansas city star pavilion presents hairball live in concert february 5 2027 door 7 30pm show 8 30pm ages 18 unless accompanied by an adult enjoy one of ameristar s restaurants before the show secure covered parking is always free at ameristar want to make a night of it book a hotel room at https ameristarkansascity boydgaming com or call 816 414 7000 no refunds or exchanges all sales are final ameristar casino and hotel kansas city mo us hairball"
     },
     {
+      "id": "1AvbZ_oGknYIMto",
+      "legacyEventId": "1600651AB0A37A51",
+      "name": "Hot Wheels Monster Trucks Live Color Bash",
+      "eventUrl": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-highland-heights-kentucky-02-06-2027/event/1600651AB0A37A51",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-06",
+      "localTime": "12:00",
+      "startDateTime": "2027-02-06T17:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ccd/ec06d972-f2d0-4871-a76c-bfe9f5bf9ccd_SOURCE",
+      "venue": {
+        "id": "KovZpZAE7EvA",
+        "name": "Truist Arena",
+        "city": "Highland Heights",
+        "state": "KY",
+        "country": "US",
+        "latitude": 39.0332377,
+        "longitude": -84.4604585,
+        "street": "500 Nunn Drive",
+        "zipCode": "41099",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917-bkV",
+          "name": "Hot Wheels Monster Trucks Live Color Bash",
+          "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
+        }
+      ],
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
+    },
+    {
       "id": "vvG1fZ_2h9prmM",
       "legacyEventId": "050064F6D759EBB7",
       "name": "Ohio State Buckeyes Women's Hockey vs. ST Cloud State University Huskies Womens Hockey",
@@ -67053,6 +66397,39 @@
         }
       ],
       "searchText": "polyphia be not afraid world tour door time 630pm show time 730pm room music hall ages all ages welcome anyone under 16 must have a purchased ticket be accompanied by an adult 18 with valid photo id if you are 16 then you must have an id to show proof support ladrones rj pasin all support acts are subject to change without notice parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues bag policy only bags measuring 12 x 6 x 12 or clutches measuring 4 5 x 6 5 will be allowed into the venue all other bags will not be allowed into the venue and will need to be checked house of blues las vegas las vegas nv us polyphia ladrones rj pasin"
+    },
+    {
+      "id": "1AvbZ_oGknYtMtm",
+      "legacyEventId": "1600651AB0A77A6E",
+      "name": "Hot Wheels Monster Trucks Live Color Bash",
+      "eventUrl": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-highland-heights-kentucky-02-06-2027/event/1600651AB0A77A6E",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-06",
+      "localTime": "19:00",
+      "startDateTime": "2027-02-07T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ccd/ec06d972-f2d0-4871-a76c-bfe9f5bf9ccd_SOURCE",
+      "venue": {
+        "id": "KovZpZAE7EvA",
+        "name": "Truist Arena",
+        "city": "Highland Heights",
+        "state": "KY",
+        "country": "US",
+        "latitude": 39.0332377,
+        "longitude": -84.4604585,
+        "street": "500 Nunn Drive",
+        "zipCode": "41099",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917-bkV",
+          "name": "Hot Wheels Monster Trucks Live Color Bash",
+          "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
+        }
+      ],
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
     },
     {
       "id": "G5vzZ_kUFpP0p",
@@ -67382,7 +66759,7 @@
       "name": "The Wilder Blue",
       "eventUrl": "https://www.ticketmaster.com/the-wilder-blue-atlanta-georgia-02-06-2027/event/0E006556A698BA22",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-06",
       "localTime": "20:00",
       "startDateTime": "2027-02-07T01:00:00Z",
@@ -67474,6 +66851,39 @@
         }
       ],
       "searchText": "umphrey s mcgee fresh cut 2027 all shows are 21 and over with valid id no one under the age of 21 will be admitted no covid restrictions or protocols unless listed on artist or casino website all times and lineup are subject to change without notice no refunds or exchanges all sales are final no professional photography cell phone photos are allowed free parking please check https www hollywoodcasinocharlestown com entertainment for the most up to date information weapons of any kind are prohibited in the casino and in the event center hollywood casino at charles town races charles town wv us umphrey s mcgee"
+    },
+    {
+      "id": "1AvbZ_oGknYnMtX",
+      "legacyEventId": "1600651AB0AB7A7E",
+      "name": "Hot Wheels Monster Trucks Live Color Bash",
+      "eventUrl": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-highland-heights-kentucky-02-07-2027/event/1600651AB0AB7A7E",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-07",
+      "localTime": "14:00",
+      "startDateTime": "2027-02-07T19:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ccd/ec06d972-f2d0-4871-a76c-bfe9f5bf9ccd_SOURCE",
+      "venue": {
+        "id": "KovZpZAE7EvA",
+        "name": "Truist Arena",
+        "city": "Highland Heights",
+        "state": "KY",
+        "country": "US",
+        "latitude": 39.0332377,
+        "longitude": -84.4604585,
+        "street": "500 Nunn Drive",
+        "zipCode": "41099",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917-bkV",
+          "name": "Hot Wheels Monster Trucks Live Color Bash",
+          "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
+        }
+      ],
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
     },
     {
       "id": "1A9ZkffGkdZaRLg",
@@ -68435,7 +67845,7 @@
       "name": "Killers of Kill Tony",
       "eventUrl": "https://www.ticketmaster.com/killers-of-kill-tony-sacramento-california-02-12-2027/event/1C006556AB77FD47",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-12",
       "localTime": "19:00",
       "startDateTime": "2027-02-13T03:00:00Z",
@@ -68680,7 +68090,7 @@
       "name": "ARRIVAL From Sweden THE MUSIC OF ABBA ",
       "eventUrl": "https://www.ticketmaster.com/arrival-from-sweden-the-music-of-rancho-mirage-california-02-12-2027/event/09006554A1CC92E7",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-12",
       "localTime": "20:00",
       "startDateTime": "2027-02-13T04:00:00Z",
@@ -69798,7 +69208,7 @@
       "name": "Collective Soul with special guest Edwin McCain: Presented by HSEF",
       "eventUrl": "https://www.ticketmaster.com/collective-soul-with-special-guest-edwin-fishers-indiana-02-19-2027/event/0500654D989E8FC5",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-19",
       "localTime": "20:00",
       "startDateTime": "2027-02-20T01:00:00Z",
@@ -70268,7 +69678,7 @@
       "name": "Spafford",
       "eventUrl": "https://www.ticketmaster.com/spafford-fort-worth-texas-02-20-2027/event/0C006557DE5DD35B",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-20",
       "localTime": "20:00",
       "startDateTime": "2027-02-21T02:00:00Z",
@@ -70458,6 +69868,44 @@
         }
       ],
       "searchText": "tyler farr must be 21 to enter doors 6pm opener 8 45pm headliner 10 30pm free parking no backpacks or large purses bags no male tank tops or sleevless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us tyler farr"
+    },
+    {
+      "id": "vv17fZ_4GkDA7Qxv",
+      "legacyEventId": "0500655EC511A881",
+      "name": "Ohio State Buckeyes Women's Gymnastics vs. Penn State Gymnastics",
+      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-vs-columbus-ohio-02-21-2027/event/0500655EC511A881",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-21",
+      "localTime": "14:00",
+      "startDateTime": "2027-02-21T19:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/8e4/931f411e-5611-4610-b3e7-85d45a8df8e4_SOURCE",
+      "venue": {
+        "id": "KovZ917A-LH",
+        "name": "Covelli Center Columbus",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "latitude": 40.014115,
+        "longitude": -83.02774,
+        "street": "2640 Fred Taylor Dr.",
+        "zipCode": "43210",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fAf7",
+          "name": "Ohio State Buckeyes Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-tickets/artist/1279852"
+        },
+        {
+          "id": "K8vZ9171lE0",
+          "name": "Penn State Gymnastics",
+          "url": "https://www.ticketmaster.com/penn-state-gymnastics-tickets/artist/881994"
+        }
+      ],
+      "searchText": "ohio state buckeyes women s gymnastics vs penn state gymnastics osu students are admitted free with a valid osu id doors to the covelli center open 1 hour beforehand group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 children under 2 are admitted free but must sit on their parent guardian s lap parking is free in the surface lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s gymnastics penn state gymnastics"
     },
     {
       "id": "1A9ZkffGkdZ5LO4",
@@ -71071,7 +70519,7 @@
       "name": "Tyler Henry - The Hollywood Medium",
       "eventUrl": "https://www.ticketmaster.com/tyler-henry-the-hollywood-medium-detroit-michigan-02-25-2027/event/08006531D53CA88C",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-25",
       "localTime": "20:00",
       "startDateTime": "2027-02-26T01:00:00Z",
@@ -71765,7 +71213,7 @@
       "name": "Tyler Henry",
       "eventUrl": "https://www.ticketmaster.com/tyler-henry-northfield-ohio-02-27-2027/event/0500654EB90CACFD",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-27",
       "localTime": "20:00",
       "startDateTime": "2027-02-28T01:00:00Z",
@@ -71934,7 +71382,7 @@
       "name": "South Florida Pride Youth Band Season 16",
       "eventUrl": "https://www.ticketmaster.com/south-florida-pride-youth-band-season-ft-lauderdale-florida-02-28-2027/event/0D006546A5EB7C48",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-28",
       "localTime": "14:00",
       "startDateTime": "2027-02-28T19:00:00Z",
@@ -72714,7 +72162,7 @@
       "name": "Lonestar",
       "eventUrl": "https://www.ticketmaster.com/lonestar-nashville-indiana-03-05-2027/event/05006551E811B254",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-05",
       "localTime": "20:00",
       "startDateTime": "2027-03-06T01:00:00Z",
@@ -73099,6 +72547,54 @@
         }
       ],
       "searchText": "corey kent must be 21 to enter doors 6pm opener 8 45pm headliner 10 30pm free parking no backpacks or large purses bags no male tank tops or sleevless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us corey kent tyler nance"
+    },
+    {
+      "id": "vv17fZ_4GkDAAQxF",
+      "legacyEventId": "0500655EC515A888",
+      "name": "Quad Meet Feat. Ohio State, Illinois State, LIU & Towson",
+      "eventUrl": "https://www.ticketmaster.com/quad-meet-feat-ohio-state-illinois-columbus-ohio-03-07-2027/event/0500655EC515A888",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-07",
+      "localTime": "14:00",
+      "startDateTime": "2027-03-07T19:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/8e4/931f411e-5611-4610-b3e7-85d45a8df8e4_SOURCE",
+      "venue": {
+        "id": "KovZ917A-LH",
+        "name": "Covelli Center Columbus",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "latitude": 40.014115,
+        "longitude": -83.02774,
+        "street": "2640 Fred Taylor Dr.",
+        "zipCode": "43210",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fAf7",
+          "name": "Ohio State Buckeyes Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-tickets/artist/1279852"
+        },
+        {
+          "id": "K8vZ9171EF0",
+          "name": "Towson Gymnastics",
+          "url": "https://www.ticketmaster.com/towson-gymnastics-tickets/artist/848476"
+        },
+        {
+          "id": "K8vZ917pha0",
+          "name": "Illinois State Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/illinois-state-womens-gymnastics-tickets/artist/2429711"
+        },
+        {
+          "id": "K8vZ917hsY7",
+          "name": "Long Island University Sharks Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/long-island-university-sharks-womens-gymnastics-tickets/artist/3065994"
+        }
+      ],
+      "searchText": "quad meet feat ohio state illinois state liu towson osu students are admitted free with a valid osu id doors to the covelli center open 1 hour beforehand group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 children under 2 are admitted free but must sit on their parent guardian s lap parking is free in the surface lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s gymnastics towson gymnastics illinois state women s gymnastics long island university sharks women s gymnastics"
     },
     {
       "id": "1A9ZkffGkdZCR-m",
@@ -73691,7 +73187,7 @@
       "name": "Joanne Shaw Taylor With Special Guest Ally Venable",
       "eventUrl": "https://www.ticketmaster.com/joanne-shaw-taylor-with-special-guest-ft-lauderdale-florida-03-11-2027/event/0D006545B9F09714",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-11",
       "localTime": "20:00",
       "startDateTime": "2027-03-12T01:00:00Z",
@@ -73828,7 +73324,7 @@
       "name": "CHVRCHES - LIVE 2027",
       "eventUrl": "https://www.ticketmaster.com/chvrches-live-2027-san-diego-california-03-12-2027/event/0B00654FDBADA3B5",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-12",
       "localTime": "19:00",
       "startDateTime": "2027-03-13T03:00:00Z",
@@ -73998,7 +73494,7 @@
       "name": "Wynonna Judd: The Hard Truth Tour",
       "eventUrl": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-charles-town-west-virginia-03-12-2027/event/1500654DD49FBAD8",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-12",
       "localTime": "20:00",
       "startDateTime": "2027-03-13T01:00:00Z",
@@ -74158,6 +73654,39 @@
       "searchText": "wheeler walker jr pullin out the farewell tour balcony section is 21 only this show is general admission no refunds exchanges all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us wheeler walker jr"
     },
     {
+      "id": "vvG1zZ_4m9hgSx",
+      "legacyEventId": "0E00655B976F5CE2",
+      "name": "Kate Yeager",
+      "eventUrl": "https://www.ticketmaster.com/kate-yeager-atlanta-georgia-03-12-2027/event/0E00655B976F5CE2",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-12",
+      "localTime": "20:00",
+      "startDateTime": "2027-03-13T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d78/d3b4926c-4c07-4a9f-9d0b-a714e03afd78_SOURCE",
+      "venue": {
+        "id": "KovZpZA1lJ7A",
+        "name": "Vinyl",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US",
+        "latitude": 33.7918926,
+        "longitude": -84.3877907,
+        "street": "1374 West Peachtree St",
+        "zipCode": "30309",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917KQGV",
+          "name": "Kate Yeager",
+          "url": "https://www.ticketmaster.com/kate-yeager-tickets/artist/2114816"
+        }
+      ],
+      "searchText": "kate yeager rival presents kate yeager march 12 2027 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us kate yeager"
+    },
+    {
       "id": "1AxZkf0GkeUR4gr",
       "legacyEventId": "22006524B6BD5D5E",
       "name": "Parking Pass: The Players Championship - Saturday",
@@ -74189,6 +73718,44 @@
         }
       ],
       "searchText": "parking pass the players championship saturday tpc sawgrass ponte vedra beach fl us the players championship"
+    },
+    {
+      "id": "vv17fZ_4GkD7yQOn",
+      "legacyEventId": "0500655EC4E5A82A",
+      "name": "Ohio State Buckeyes Women's Gymnastics vs. Auburn Tigers Gymnastics",
+      "eventUrl": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-vs-columbus-ohio-03-13-2027/event/0500655EC4E5A82A",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-13",
+      "localTime": "12:00",
+      "startDateTime": "2027-03-13T17:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/8e4/931f411e-5611-4610-b3e7-85d45a8df8e4_SOURCE",
+      "venue": {
+        "id": "KovZ917A-LH",
+        "name": "Covelli Center Columbus",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "latitude": 40.014115,
+        "longitude": -83.02774,
+        "street": "2640 Fred Taylor Dr.",
+        "zipCode": "43210",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fAf7",
+          "name": "Ohio State Buckeyes Women's Gymnastics",
+          "url": "https://www.ticketmaster.com/ohio-state-buckeyes-womens-gymnastics-tickets/artist/1279852"
+        },
+        {
+          "id": "K8vZ917uIq7",
+          "name": "Auburn Tigers Gymnastics",
+          "url": "https://www.ticketmaster.com/auburn-tigers-gymnastics-tickets/artist/1526138"
+        }
+      ],
+      "searchText": "ohio state buckeyes women s gymnastics vs auburn tigers gymnastics osu students are admitted free with a valid osu id doors to the covelli center open 1 hour beforehand group tickets 10 can be purchased by contacting the ohio state athletics sales team at 614 292 2624 option 2 children under 2 are admitted free but must sit on their parent guardian s lap parking is free in the surface lots surrounding the covelli center covelli center columbus columbus oh us ohio state buckeyes women s gymnastics auburn tigers gymnastics"
     },
     {
       "id": "vv1AvZkfUGkduvafN",
@@ -74551,7 +74118,7 @@
       "name": "CHVRCHES: LIVE 2027",
       "eventUrl": "https://www.ticketmaster.com/chvrches-live-2027-hollywood-california-03-14-2027/event/09006550F3696476",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-14",
       "localTime": "19:00",
       "startDateTime": "2027-03-15T02:00:00Z",
@@ -74980,12 +74547,17 @@
           "url": "https://www.ticketmaster.com/the-interrupters-tickets/artist/1860963"
         },
         {
+          "id": "K8vZ91719j7",
+          "name": "The Aquabats!",
+          "url": "https://www.ticketmaster.com/the-aquabats-tickets/artist/790384"
+        },
+        {
           "id": "K8vZ917jCEV",
           "name": "The Mainliners",
           "url": "https://www.ticketmaster.com/the-mainliners-tickets/artist/3092589"
         }
       ],
-      "searchText": "the interrupters this show is general admission babies toddles are not permitted even at an all ages show children under the age of 10 must have earmuff ear protection balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless the interrupters have partnered with plus1 so that 1 from every ticket sold goes to support war child and their work protecting children and their families in conflict zones marquee theatre tempe az us the interrupters the mainliners"
+      "searchText": "the interrupters this show is general admission babies toddles are not permitted even at an all ages show children under the age of 10 must have earmuff ear protection balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless the interrupters have partnered with plus1 so that 1 from every ticket sold goes to support war child and their work protecting children and their families in conflict zones marquee theatre tempe az us the interrupters the aquabats the mainliners"
     },
     {
       "id": "vv17fZ_8GkRaRnMY",
@@ -75156,7 +74728,7 @@
       "name": "The Plot In You: WORLD TOUR: PART 1",
       "eventUrl": "https://www.ticketmaster.com/the-plot-in-you-world-tour-hollywood-california-03-20-2027/event/09006557006EF5EB",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-20",
       "localTime": "18:00",
       "startDateTime": "2027-03-21T01:00:00Z",
@@ -76032,7 +75604,7 @@
       "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
       "eventUrl": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-las-vegas-nevada-03-27-2027/event/17006551E3FD2A5D",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-27",
       "localTime": "18:30",
       "startDateTime": "2027-03-28T01:30:00Z",
@@ -76441,7 +76013,7 @@
       "name": "The Plot In You: WORLD TOUR: PART 1",
       "eventUrl": "https://www.ticketmaster.com/the-plot-in-you-world-tour-orlando-florida-03-30-2027/event/22006555CD285222",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-30",
       "localTime": "19:00",
       "startDateTime": "2027-03-30T23:00:00Z",
@@ -78413,7 +77985,7 @@
       "name": "Jimmy Failla: The Escape From New York Tour",
       "eventUrl": "https://www.ticketmaster.com/jimmy-failla-the-escape-from-new-atlanta-georgia-04-17-2027/event/0E006559157F2104",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-17",
       "localTime": "18:30",
       "startDateTime": "2027-04-17T22:30:00Z",
@@ -78828,7 +78400,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-20-2027/event/1E006458DB0272D4",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-20",
       "localTime": "19:00",
       "startDateTime": "2027-04-21T01:00:00Z",
@@ -78861,7 +78433,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-21-2027/event/1E006458DB0772F5",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-21",
       "localTime": "19:00",
       "startDateTime": "2027-04-22T01:00:00Z",
@@ -79003,7 +78575,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-22-2027/event/1E006458DB0C7336",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-22",
       "localTime": "19:00",
       "startDateTime": "2027-04-23T01:00:00Z",
@@ -79036,7 +78608,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-23-2027/event/1E006458DB117360",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-23",
       "localTime": "19:00",
       "startDateTime": "2027-04-24T01:00:00Z",
@@ -79069,7 +78641,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-24-2027/event/1E006458DB1673AD",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-24",
       "localTime": "13:00",
       "startDateTime": "2027-04-24T19:00:00Z",
@@ -79127,7 +78699,7 @@
           "url": "https://www.ticketmaster.com/professional-championship-bull-riders-tickets/artist/1350195"
         }
       ],
-      "searchText": "professional championship bull riders a clear bag policy is in effect for all shows events you must abide by the following to gain entrance 12 x 6 x 12 clear bag 1 clutch bag per guest permitted clutch bag no larger than 4 6 x6 5 with or without straps permitted exceptions can be made for medical bags after a proper inspection ages 2 and over need a ticket for entry parking is included be advised that seats in the last 5 rows of 204 205 208 209 are bleacher seats with no seat back floor seats are not recommended for ada since cannot use a wheelchair any many people may be standing truist arena highland heights ky us professional championship bull riders"
+      "searchText": "professional championship bull riders facility parking fee of 9 is included in the ticket price a clear bag policy is in effect for all shows events you must abide by the following to gain entrance 12 x 6 x 12 clear bag 1 clutch bag per guest permitted clutch bag no larger than 4 6 x6 5 with or without straps permitted exceptions can be made for medical bags after a proper inspection ages 2 and over need a ticket for entry parking is included be advised that seats in the last 5 rows of 204 205 208 209 are bleacher seats with no seat back floor seats are not recommended for ada since cannot use a wheelchair any many people may be standing truist arena highland heights ky us professional championship bull riders"
     },
     {
       "id": "vv17bZ_fGkwrZpmS",
@@ -79178,7 +78750,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-24-2027/event/1E006458DB1C73D8",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-24",
       "localTime": "19:00",
       "startDateTime": "2027-04-25T01:00:00Z",
@@ -79254,7 +78826,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-25-2027/event/1E006458DB2173F8",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-25",
       "localTime": "13:00",
       "startDateTime": "2027-04-25T19:00:00Z",
@@ -79287,7 +78859,7 @@
       "name": "Broadway In Boise Presents THE GREAT GATSBY",
       "eventUrl": "https://www.ticketmaster.com/broadway-in-boise-presents-the-great-boise-idaho-04-25-2027/event/1E006458DB267425",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-25",
       "localTime": "18:30",
       "startDateTime": "2027-04-26T00:30:00Z",
@@ -80154,6 +79726,39 @@
         }
       ],
       "searchText": "lizzy mcalpine the over country tour all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us lizzy mcalpine sydney ross mitchell"
+    },
+    {
+      "id": "vvG1iZ_4QtR4yT",
+      "legacyEventId": "0B006556A9BD5E7F",
+      "name": "Luka Sulic",
+      "eventUrl": "https://www.ticketmaster.com/luka-sulic-el-cajon-california-05-07-2027/event/0B006556A9BD5E7F",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-05-07",
+      "localTime": "19:00",
+      "startDateTime": "2027-05-08T02:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/bee/a4074c82-29b6-4d9e-9289-fa51d9dbbbee_SOURCE",
+      "venue": {
+        "id": "KovZ917AOww",
+        "name": "The Magnolia",
+        "city": "El Cajon",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.795625,
+        "longitude": -116.95955,
+        "street": "210 E Main Street",
+        "zipCode": "92020",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91788J0",
+          "name": "Luka Sulic",
+          "url": "https://www.ticketmaster.com/luka-sulic-tickets/artist/1775823"
+        }
+      ],
+      "searchText": "luka sulic doors 7pm show 8pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us luka sulic"
     },
     {
       "id": "vv1AvZkf0GkdOX_UM",
@@ -81339,7 +80944,7 @@
       "name": "DIIV - ZIRP! The World",
       "eventUrl": "https://www.ticketmaster.com/diiv-zirp-the-world-san-diego-california-05-21-2027/event/0B006557E2A9F21D",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-21",
       "localTime": "19:00",
       "startDateTime": "2027-05-22T02:00:00Z",
@@ -81567,7 +81172,7 @@
       "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
       "eventUrl": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-22-2027/event/09006553853A4496",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-22",
       "localTime": "19:00",
       "startDateTime": "2027-05-23T02:00:00Z",
@@ -81818,7 +81423,7 @@
       "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
       "eventUrl": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-23-2027/event/0900655ABA9598E2",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-23",
       "localTime": "19:00",
       "startDateTime": "2027-05-24T02:00:00Z",
@@ -81856,7 +81461,7 @@
       "name": "Hot 8 Brass Band",
       "eventUrl": "https://www.ticketmaster.com/hot-8-brass-band-atlanta-georgia-05-23-2027/event/0E00655BAB7D79A7",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-23",
       "localTime": "20:00",
       "startDateTime": "2027-05-24T00:00:00Z",
@@ -82658,7 +82263,7 @@
       "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
       "eventUrl": "https://www.ticketmaster.com/donny-osmond-crazy-horses-2027-summer-el-cajon-california-06-21-2027/event/0B00655A8D333D3F",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-06-21",
       "localTime": "19:00",
       "startDateTime": "2027-06-22T02:00:00Z",
@@ -82751,7 +82356,7 @@
       "name": "Donny Osmond- Crazy Horses 2027 Summer Tour ",
       "eventUrl": "https://www.ticketmaster.com/donny-osmond-crazy-horses-2027-summer-rancho-mirage-california-06-25-2027/event/09006558EF6AF971",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-06-25",
       "localTime": "20:00",
       "startDateTime": "2027-06-26T03:00:00Z",
@@ -82882,7 +82487,7 @@
       "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
       "eventUrl": "https://www.ticketmaster.com/donny-osmond-crazy-horses-2027-summer-boise-idaho-06-28-2027/event/1E006554E2DA6673",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-06-28",
       "localTime": "19:30",
       "startDateTime": "2027-06-29T01:30:00Z",
@@ -83179,7 +82784,7 @@
       "name": "Donny Osmond",
       "eventUrl": "https://www.ticketmaster.com/donny-osmond-northfield-ohio-07-16-2027/event/05006554B59A7079",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-07-16",
       "localTime": "19:30",
       "startDateTime": "2027-07-16T23:30:00Z",
@@ -83282,7 +82887,7 @@
       "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
       "eventUrl": "https://www.ticketmaster.com/donny-osmond-crazy-horses-2027-summer-detroit-michigan-07-22-2027/event/0800655AAA8E2F41",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-07-22",
       "localTime": "20:00",
       "startDateTime": "2027-07-23T00:00:00Z",
