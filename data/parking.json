@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-05T10:09:58.304Z",
+  "generatedAt": "2026-11-06T10:14:41.529Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-11-05T09:18:01Z",
-    "numberOfEvents": 111093,
-    "compressedSizeBytes": 85199754,
-    "checksum": "5a54a9b992bbcf744855e6b705795e65"
+    "lastUpdated": "2026-11-06T10:01:42Z",
+    "numberOfEvents": 111494,
+    "compressedSizeBytes": 85613487,
+    "checksum": "e4cafbca1f1636e7d925c54d5debca7f"
   },
   "summary": {
-    "parkingEvents": 2533
+    "parkingEvents": 2531
   },
   "diagnostics": {
     "terms": {
-      "olivia": 81,
+      "olivia": 80,
       "rodrigo": 62,
-      "metallica": 64,
-      "intuit dome": 91,
+      "metallica": 68,
+      "intuit dome": 130,
       "sphere": 1222,
-      "parking": 6027
+      "parking": 6026
     },
     "samples": {
       "olivia": [
@@ -629,6 +629,16 @@
       ],
       "intuit dome": [
         {
+          "id": "vv1ke8vP__GA5TauC",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-03-08-2027/event/090065659BFC934E",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
           "id": "vv1ke8vPF-GAu8xGo",
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-17-2026/event/090065221D422311",
@@ -649,9 +659,49 @@
           "matchedAsParking": false
         },
         {
+          "id": "vv16aZk4PJFZAua5kk",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-02-27-2027/event/09006565988C8A55",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
           "id": "vvG10Z_CNXL8xi",
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-19-2026/event/090064E8FE7D08AC",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1F0Z_ppb-FZd57G",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-02-18-2027/event/0900656598848A3B",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vP__GA5ytGx",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-01-22-2027/event/090065659BE69322",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vP__GAGZtuE",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-03-11-2027/event/090065659C029367",
           "venue": "Intuit Dome Tours",
           "city": "Inglewood",
           "state": "CA",
@@ -679,6 +729,16 @@
           "matchedAsParking": false
         },
         {
+          "id": "vv1ke8vP__GA5UyGk",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-01-09-2027/event/090065659BDB9306",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
           "id": "vvG10Z_CNXLON7",
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-20-2026/event/090064E8FE7E08C4",
@@ -699,10 +759,30 @@
           "matchedAsParking": false
         },
         {
+          "id": "vv16aZk4PJFZA2a5k5",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-03-03-2027/event/09006565988E8A5A",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
           "id": "vv170Z_8GkRDAsxG",
           "name": "LA Clippers v TBD (Emirates NBA Cup)",
           "eventUrl": "https://www.ticketmaster.com/la-clippers-v-tbd-emirates-nba-inglewood-california/event/0900650BFB17188C",
           "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vP__GAGZauN",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-03-10-2027/event/090065659C009363",
+          "venue": "Intuit Dome Tours",
           "city": "Inglewood",
           "state": "CA",
           "matchedTerm": "intuit dome",
@@ -743,86 +823,6 @@
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-09-2026/event/090064E8FE740807",
           "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vvG10Z_CNXOONY",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-26-2026/event/090064E8FE8208F0",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vvG10Z_CNXrY-4",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-18-2026/event/090064E8FE7B0855",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vv170Z_8GkRQWWns",
-          "name": "LA Clippers vs Phoenix Suns",
-          "eventUrl": "https://www.ticketmaster.com/la-clippers-vs-phoenix-suns-inglewood-california-01-18-2027/event/0900650BDAF7DAB1",
-          "venue": "Intuit Dome",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vv170Z_8GkR8Wji0",
-          "name": "LA Clippers vs Denver Nuggets",
-          "eventUrl": "https://www.ticketmaster.com/la-clippers-vs-denver-nuggets-inglewood-california-12-21-2026/event/0900650BD0F5CB24",
-          "venue": "Intuit Dome",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vvG10Z_CNXrZOy",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-16-2026/event/090064E8FE780839",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vvG10Z_CNXOZNP",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-23-2026/event/090064E8FE8008E5",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vvG10Z_CNXQ2MN",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-25-2026/event/090064E8FE68FDE3",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
-          "id": "vv170Z_8GkRQXWnT",
-          "name": "LA Clippers vs Detroit Pistons",
-          "eventUrl": "https://www.ticketmaster.com/la-clippers-vs-detroit-pistons-inglewood-california-02-09-2027/event/0900650BDAFBDABF",
-          "venue": "Intuit Dome",
           "city": "Inglewood",
           "state": "CA",
           "matchedTerm": "intuit dome",
@@ -1713,420 +1713,6 @@
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
     },
     {
-      "id": "rZ7HnEZ1AfGYOV",
-      "legacyEventId": "rZ7HnEZ1AfGYOV",
-      "name": "SNAGZ (Joshua Valdovinos) Art Exhibition in SIDEBAR!",
-      "eventUrl": "https://www.ticketweb.com/event/snagz-joshua-valdovinos-art-exhibition-fitzgeralds-sidebar-tickets/14330834",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "17:30",
-      "startDateTime": "2026-11-05T23:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/70/14_Edp.jpg?v=7",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "snagz joshua valdovinos art exhibition in sidebar fitzgeralds sidebar presents free show click rdquo book now to rsvp for guaranteed entry snagz joshua valdovinos art exhibition in sidebar fitzgeralds is proud to showcase local artist joshua snagz valdovinos in sidebar babygold bbq for the months of november and december original pieces and prints will be for sale the opening event reception is free and will include a live art demonstration and free live music joshua rdquo snagz valdovinos is a berwyn based muralist artist and instructor with 20 years of experience creating art in and around his community rooted in hiphop and streetart culture his work moves between sketchy expressive cityscapes and his rdquo universe within series exploring the connection between people energy and the world around us snagz works across murals canvas custom cars live painting and community art projects beyond his own studio practice he teaches street art and breakdancing to kids through the oak park education network using creativity as a way to build confidence connection and self expression he also stays active in his community through volunteer work with the berwyn public art initiative helping bring more art and creative opportunities into local public spaces whether he s painting a wall creating a piece for a collector or working with kids on their first spray painted masterpiece his goal is simple make art that feels alive connects with people and brings positive energy into the spaces we share come celebrate and support art community with us grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1Af0afd",
-      "legacyEventId": "rZ7HnEZ1Af0afd",
-      "name": "The Wailers",
-      "eventUrl": "https://www.ticketweb.com/event/the-wailers-blue-note-hawaii-tickets/14909503",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "18:30",
-      "startDateTime": "2026-11-06T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/38b/926ef738-7366-438b-8a9d-5fc8d920338b_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917unM7",
-          "name": "The Wailers",
-          "url": "https://www.ticketmaster.com/the-wailers-tickets/artist/848111"
-        }
-      ],
-      "searchText": "the wailers 50 years of positive vibrationspresented by island 98 5 the wailers 50 years of positive vibrations in 2026 the wailers celebrate 50 years of rastaman vibration marking a defining moment in reggae history and honoring one of bob marley the wailers most influential albums this special tour 50 years of positive vibrations highlights select cuts from rastaman vibration alongside the timeless classics that continue to unite audiences across generations released in 1976 rastaman vibration was a pivotal album that carried reggae s message of resistance spirituality and hope onto the global stage songs like rdquo positive vibration rdquo roots rock reggae and rdquo war remain as relevant today as ever powerful expressions of music as both a cultural force and a call for unity under the leadership of aston barrett jr son of legendary bassist aston rdquo familyman barrett the wailers continue to honor their roots while carrying the music forward with purpose and authenticity in a unique crossover into film aston barrett jr portrayed his father in the 2024 biopic bob marley one love directed by reinaldo marcus green and starring kingsley ben adir his portrayal added rare authenticity grounded in lived experience and a deep personal connection to the legacy tickets 35 50 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us the wailers"
-    },
-    {
-      "id": "vvG1iZ_u1cpdK8",
-      "legacyEventId": "0B0064D2AD5834D0",
-      "name": "Jose Madero - USA Tour 2026",
-      "eventUrl": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-diego-california-11-05-2026/event/0B0064D2AD5834D0",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-06T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5e2/83e20271-2959-4544-87fc-ab93087cc5e2_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917psO0",
-          "name": "José Madero",
-          "url": "https://www.ticketmaster.com/jose-madero-tickets/artist/2470990"
-        },
-        {
-          "id": "K8vZ917KvG7",
-          "name": "Wonderfox",
-          "url": "https://www.ticketmaster.com/wonderfox-tickets/artist/2063535"
-        }
-      ],
-      "searchText": "jose madero usa tour 2026 doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us jose madero wonderfox"
-    },
-    {
-      "id": "17AYv0G6Ck1GFdB",
-      "legacyEventId": "170064E18A3080FA",
-      "name": "SiriusXM Presents An Intimate Evening with SANTANA Greatest Hits Live",
-      "eventUrl": "https://www.ticketmaster.com/siriusxm-presents-an-intimate-evening-with-las-vegas-nevada-11-05-2026/event/170064E18A3080FA",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-06T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/84d/48d8005a-2613-4db9-8701-f70231c3384d_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91718pf",
-          "name": "Santana",
-          "url": "https://www.ticketmaster.com/santana-tickets/artist/741473"
-        },
-        {
-          "id": "K8vZ9171uV0",
-          "name": "Carlos Santana",
-          "url": "https://www.ticketmaster.com/carlos-santana-tickets/artist/781063"
-        }
-      ],
-      "searchText": "siriusxm presents an intimate evening with santana greatest hits live room music hall door time 7 pm ages 18 years and older with valid photo id artist website santana com special offers complimentary admission to vinyl room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues las vegas las vegas nv us santana carlos santana"
-    },
-    {
-      "id": "rZ7HnEZ1AfayA0",
-      "legacyEventId": "rZ7HnEZ1AfayA0",
-      "name": "Victor Garcia's Listening Party Live in the SIDEBAR!",
-      "eventUrl": "https://www.ticketweb.com/event/victor-garcias-listening-party-live-fitzgeralds-sidebar-tickets/14279164",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-06T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/99/44/24_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "victor garcia s listening party live in the sidebar fitzgeralds sidebar presents victor garcia s listening party come hang out with victor garcia s listening party victor and his talented students from his jazz program are jamming out live and you re invited to join the fun expect great music good vibes and a chance to see these rising stars show off their improv chops bring your friends and enjoy a night of jamming juicy eats and joy free show click rdquo book now to rsvp for guaranteed entry grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us"
-    },
-    {
-      "id": "vv1AAZkfUGkeyfdjP",
-      "legacyEventId": "05006536B9503725",
-      "name": "Wild Thread Presents: Shelter by Eric Mansfield",
-      "eventUrl": "https://www.ticketmaster.com/wild-thread-presents-shelter-by-eric-akron-ohio-11-05-2026/event/05006536B9503725",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-06T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/3b2/7022b0ad-f7cf-4816-896d-4a44498063b2_SOURCE",
-      "venue": {
-        "id": "KovZ917Am4V",
-        "name": "Wild Oscar's",
-        "city": "Akron",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.081084,
-        "longitude": -81.519453,
-        "street": "182 S. Main Street",
-        "zipCode": "44308",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "wild thread presents shelter by eric mansfield park in the state street parking deck at 52 w state street take the elevator to the lock 3 level and head toward lock 4 wild oscar s akron oh us"
-    },
-    {
-      "id": "vv177Z_8GkUrfG8x",
-      "legacyEventId": "0100650D9E50C422",
-      "name": "Tim Dillon",
-      "eventUrl": "https://www.ticketmaster.com/tim-dillon-boston-massachusetts-11-05-2026/event/0100650D9E50C422",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-06T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/c10/0d3aef77-e96b-481a-9b0f-f2cbcc5abc10_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9178wAf",
-          "name": "Tim Dillon",
-          "url": "https://www.ticketmaster.com/tim-dillon-tickets/artist/1826854"
-        }
-      ],
-      "searchText": "tim dillon wilbur theatre parking is available at the link below the wilbur boston ma us tim dillon"
-    },
-    {
-      "id": "vv17fZ_8GkMux1Jd",
-      "legacyEventId": "0500650DCD88A983",
-      "name": "WFMS ACOUSTIC JAM 6 ft CHASE MATTHEW",
-      "eventUrl": "https://www.ticketmaster.com/wfms-acoustic-jam-6-ft-chase-indianapolis-indiana-11-05-2026/event/0500650DCD88A983",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-06T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/a23/0ce12eb5-4fe4-4952-84ac-5c4e01ec5a23_SOURCE",
-      "venue": {
-        "id": "KovZpZAF7AnA",
-        "name": "8 Seconds Saloon",
-        "city": "Indianapolis",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.768343,
-        "longitude": -86.249381,
-        "street": "111 N Lynhurst Dr",
-        "zipCode": "46224",
-        "timezone": "America/Indiana/Indianapolis"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QKSV",
-          "name": "Chase Matthew",
-          "url": "https://www.ticketmaster.com/chase-matthew-tickets/artist/2867929"
-        }
-      ],
-      "searchText": "wfms acoustic jam 6 ft chase matthew must be 21 to enter doors 6pm opener 7 30pm headliner 9pm free parking no backpacks or large purses bags subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us chase matthew"
-    },
-    {
-      "id": "vv1kfZ_oFZG7Wsun",
-      "legacyEventId": "0500651200F7136A",
-      "name": "Kem",
-      "eventUrl": "https://www.ticketmaster.com/kem-northfield-ohio-11-05-2026/event/0500651200F7136A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-06T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f7f/6a1eadad-38ab-45e7-810c-3aa05a3e5f7f_SOURCE",
-      "venue": {
-        "id": "KovZpZAJAnIA",
-        "name": "Northfield Park Racino - Center Stage",
-        "city": "Northfield",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.35002986,
-        "longitude": -81.5266107,
-        "street": "10777 Northfield Rd",
-        "zipCode": "44067",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175r8f",
-          "name": "Kem",
-          "url": "https://www.ticketmaster.com/kem-tickets/artist/888133"
-        }
-      ],
-      "searchText": "kem this is a 21 over all weather event large purses and backpacks are not permitted doors open up to 60 minutes before show time but guests can enjoy the gaming floor dining areas and live harness racing on scheduled nights all seats are reserved no cameras permitted the box office opens at 1 00pm on days of shows for more information call 330 908 7793 there is ample free parking available the closest entrance to center stage is the south entrance northfield park racino center stage northfield oh us kem"
-    },
-    {
-      "id": "vvG1zZ_GwUELEk",
-      "legacyEventId": "0E0064CCB69DF9C6",
-      "name": "The Arcadian Wild",
-      "eventUrl": "https://www.ticketmaster.com/the-arcadian-wild-atlanta-georgia-11-05-2026/event/0E0064CCB69DF9C6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-06T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f74/d0889dcc-b44e-41e5-b5ce-29daf4c54f74_SOURCE",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917h3s0",
-          "name": "The Arcadian Wild",
-          "url": "https://www.ticketmaster.com/the-arcadian-wild-tickets/artist/2051459"
-        },
-        {
-          "id": "K8vZ917pHsV",
-          "name": "Addison Agen",
-          "url": "https://www.ticketmaster.com/addison-agen-tickets/artist/2489036"
-        }
-      ],
-      "searchText": "the arcadian wild rival presents the arcadian wild make it out alive tour november 5 2026 center stage reserved seating all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us the arcadian wild addison agen"
-    },
-    {
-      "id": "rZ7HnEZ1Af1_8f",
-      "legacyEventId": "rZ7HnEZ1Af1_8f",
-      "name": "Neil Young's 81st Bday Celebration w/ Tommi Zender, Alton Smith, Steve Dawson, John Abbey and Gerald Dowd",
-      "eventUrl": "https://www.ticketweb.com/event/neil-youngs-81st-bday-celebration-fitzgeralds-nightclub-tickets/14299414",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "20:30",
-      "startDateTime": "2026-11-06T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/57/04_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "neil young s 81st bday celebration w tommi zender alton smith steve dawson john abbey and gerald dowd fitzgeralds nightclub presents neil youngs 81st bday celebration w tommi zender alton smith steve dawson john abbey and gerald dowd 20 general admission seat reserved tables available join for an intimate evening in celebration of the great neil youngs 81st birthday lucky for us a world class crew of chicagolands finest have assembled for the occasion tommi zender alton smith steve dawson john abbey t miss grab dinner before the show at babygold barbecueor enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "rZ7HnEZ1Af0afK",
-      "legacyEventId": "rZ7HnEZ1Af0afK",
-      "name": "The Wailers",
-      "eventUrl": "https://www.ticketweb.com/event/the-wailers-blue-note-hawaii-tickets/14909513",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "21:00",
-      "startDateTime": "2026-11-06T07:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/38b/926ef738-7366-438b-8a9d-5fc8d920338b_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917unM7",
-          "name": "The Wailers",
-          "url": "https://www.ticketmaster.com/the-wailers-tickets/artist/848111"
-        }
-      ],
-      "searchText": "the wailers 50 years of positive vibrationspresented by island 98 5 the wailers 50 years of positive vibrations in 2026 the wailers celebrate 50 years of rastaman vibration marking a defining moment in reggae history and honoring one of bob marley the wailers most influential albums this special tour 50 years of positive vibrations highlights select cuts from rastaman vibration alongside the timeless classics that continue to unite audiences across generations released in 1976 rastaman vibration was a pivotal album that carried reggae s message of resistance spirituality and hope onto the global stage songs like rdquo positive vibration rdquo roots rock reggae and rdquo war remain as relevant today as ever powerful expressions of music as both a cultural force and a call for unity under the leadership of aston barrett jr son of legendary bassist aston rdquo familyman barrett the wailers continue to honor their roots while carrying the music forward with purpose and authenticity in a unique crossover into film aston barrett jr portrayed his father in the 2024 biopic bob marley one love directed by reinaldo marcus green and starring kingsley ben adir his portrayal added rare authenticity grounded in lived experience and a deep personal connection to the legacy tickets 35 50 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us the wailers"
-    },
-    {
-      "id": "rZ7HnEZ1Af86uf",
-      "legacyEventId": "rZ7HnEZ1Af86uf",
-      "name": "Pachanka Music Presents: FUEGO DE CUMBIA in the SIDEBAR",
-      "eventUrl": "https://www.ticketweb.com/event/pachanka-music-presents-fuego-de-fitzgeralds-sidebar-tickets/14407354",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-05",
-      "localTime": "21:00",
-      "startDateTime": "2026-11-06T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/11/98/24_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "pachanka music presents fuego de cumbia in the sidebar pachanka music fitzgeralds sidebar presents fuego de cumbia free show click rdquo book now to rsvp for guaranteed entry fuego de cumbia is a colombian traditional music group based in chicago rooted in the rich heritage and folk traditions of colombian music fuego de cumbia brings communities together to dance in a celebration of culture and history transcending boundaries and connecting generations enjoy dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us"
-    },
-    {
       "id": "G5dIZ_89h5u_P",
       "legacyEventId": "3A006505DB2CD665",
       "name": "Hollydays Market Corpus Christi Fri. 11-6 through Sun. 11-8, 2026",
@@ -2183,8 +1769,8 @@
     {
       "id": "LvZ18QfqZy9cgeYZyhIBO",
       "legacyEventId": "LvZ18QfqZy9cgeYZyhIBO",
-      "name": "INKwell Times Sq Harbor Club Grown Folk Fridays Afterwork",
-      "eventUrl": "https://www.universe.com/events/inkwell-times-sq-harbor-club-grown-folk-fridays-afterwork-tickets-MQNPRB?ref=ticketmaster",
+      "name": "INKwell Grown Folk Fridays Afterwork CLOSED REOPENING FRI NOV-20",
+      "eventUrl": "https://www.universe.com/events/inkwell-grown-folk-fridays-afterwork-closed-reopening-fri-nov-20-tickets-MQNPRB?ref=ticketmaster",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2026-11-06",
@@ -2205,7 +1791,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "inkwell times sq harbor club grown folk fridays afterwork theinkwellnyc com need help with your table call us at 646 696 8879 android samsung galaxy users can use the following link if you have issues accessing the online purchase link https www universe com users inkwell club cruise comments and or questions 646 696 8879 email info theinkwellnyc com vip banquet seating large dancefloor state of the art lighting amp sound food available r amp b hip hop reggae house top 40 salsa soca amp calypso express entry by pass the line w 15 advance tickets fully stocked premium bar valet parking available celebrations anniversaries birthday packages bachelor amp bachelorette party packages chirstmas amp holiday parties college graduation packages corporate events covid release parties divorce parties ladies guys night out promotion parties retirement parties wedding receptions table reservations amp bottle service vip table reservations start at 75 and can easily be made online bottle service food and bottles can be added to any table package simply goto checkout and select add on s directions to the inkwell harbor club rooftop 621 w 46th streetnew york city ny 10036 https moovitapp com nycnj 121 poi 621 20west 2046th 20street t en customerid 4908 amp ref 1 amp poitype egsite amp tll 40 759193 73 986519 google vignette dress code fashionable amp trendy sneakers yes jogging sneakers no no athletic wear shorts flip flops slides or work boots and just so we re clear keep it cute keep it clean keep it elevated think polished grown and camera ready for the rooftop entry at doorman s discretion to maintain the vibe food food is available for purchase in the club other than birthday cakes or cupcakes outside food is not allowed inside the club if you bring your own birthday cake or cupcakes they can not contain alcohol or shots if you or your guest have food restrictions please advise the inkwell of your dietary needs 646 696 8879 email info theinkwellnyc com parking if you are driving the inkwell offers valet parking for 25 please check your reservation valet parking is included with certain table reservations there is metered parking on 11th ave amp 46th street until 7pm after 7pm 11th ave parking is free you can park on all the adjacent street surrounding the club for free after 6pm 47th st 48th st etc please be cautious if parking at nearby parking lots rates exceed 50 pets pets and service animals not allowed private rentals available call 646 660 3232 restrooms 13 ladies amp gentleman lounges restrooms are ada accessible smoking there are exterior designated smoking areas tickets online advance tickets available advance tickets highly recommended cash ticket sales available at the door if not sold out simply save your ticket on your mobile device amp present for entry android users if you experience viewing and purchasing goto https www universe com users inkwell club cruise concerts ty5l80 or call the inkwell 646 696 8879 refunds and cancellations no refunds all sales are final frequently asked questions a d m i s s i o n age for entry 21 with valid government issued id how much is admission everyone is free until 7pm 15 after except during performances holidays amp special events b a r h a p p y h o u r what time is happy hour what s included fridays afterwork 5pm 8pm amp happy hour includes all drinks except water soda amp juice except during performances holidays amp special events r e s e r v a t i o n s can i reserve a table yeshow do i pay for my table or bottles the inkwell accepts all major debit and credit and or zelle can i order bottle service yes can i pre pay for bottle service yes pre paid bottles receive discounted pricing how long do i have my table you have your table for the entire event 5pm until closing 10 45pm i have a table is my admission included please check your table package certain vip tables come with admission included i have a table are my guest free no please check your table package what do i get with my table food cupcakes and or bottle service can be pre ordered with your table how many guest can sit at my table table sizes vary please check your package vip tables are highly recommended for large parties 10 can i pre pay for my guest yes can i bring my own cake amp balloons yes however cakes or cupcakes can not contain any alcohol or shots can i bring my own food no can i order food if i don t have a table yes can i bring my own alcohol no can i get a refund after i book my table or tickets no what time does the inkwell close 11pm what tye of music does the inkwell play r amp b hip hop house top 40 funk reggae soca calypso salsa e v e n t s what dj s are playing at the inkwell club check the inkwell upcoming events page what artist will be performing at the inkwell check ticketmaster or the inkwell upcoming events page www theinkwellnyc com when is the next inkwell cruise the inkwell is on the water every summer starting in june to join the inkwell after work yacht club or view the crruise schedule log onto www theinkwellnyc com the inkwell harbor club rooftop new york ny us"
+      "searchText": "inkwell grown folk fridays afterwork closed reopening fri nov 20 inkwell friday afterwork nov 6 has been rescheduled to friday november 20 theinkwellnyc com need help with your table call us at 646 696 8879 android samsung galaxy users can use the following link if you have issues accessing the online purchase link https www universe com users inkwell club cruise comments and or questions 646 696 8879 email info theinkwellnyc com vip banquet seating large dancefloor state of the art lighting amp sound food available r amp b hip hop reggae house top 40 salsa soca amp calypso express entry by pass the line w 15 advance tickets fully stocked premium bar valet parking available celebrations anniversaries birthday packages bachelor amp bachelorette party packages chirstmas amp holiday parties college graduation packages corporate events covid release parties divorce parties ladies guys night out promotion parties retirement parties wedding receptions table reservations amp bottle service vip table reservations start at 75 and can easily be made online bottle service food and bottles can be added to any table package simply goto checkout and select add on s directions to the inkwell harbor club rooftop 621 w 46th streetnew york city ny 10036 https moovitapp com nycnj 121 poi 621 20west 2046th 20street t en customerid 4908 amp ref 1 amp poitype egsite amp tll 40 759193 73 986519 google vignette dress code fashionable amp trendy sneakers yes jogging sneakers no no athletic wear shorts flip flops slides or work boots and just so we re clear keep it cute keep it clean keep it elevated think polished grown and camera ready for the rooftop entry at doorman s discretion to maintain the vibe food food is available for purchase in the club other than birthday cakes or cupcakes outside food is not allowed inside the club if you bring your own birthday cake or cupcakes they can not contain alcohol or shots if you or your guest have food restrictions please advise the inkwell of your dietary needs 646 696 8879 email info theinkwellnyc com parking if you are driving the inkwell offers valet parking for 25 please check your reservation valet parking is included with certain table reservations there is metered parking on 11th ave amp 46th street until 7pm after 7pm 11th ave parking is free you can park on all the adjacent street surrounding the club for free after 6pm 47th st 48th st etc please be cautious if parking at nearby parking lots rates exceed 50 pets pets and service animals not allowed private rentals available call 646 660 3232 restrooms 13 ladies amp gentleman lounges restrooms are ada accessible smoking there are exterior designated smoking areas tickets online advance tickets available advance tickets highly recommended cash ticket sales available at the door if not sold out simply save your ticket on your mobile device amp present for entry android users if you experience viewing and purchasing goto https www universe com users inkwell club cruise concerts ty5l80 or call the inkwell 646 696 8879 refunds and cancellations no refunds all sales are final frequently asked questions a d m i s s i o n age for entry 21 with valid government issued id how much is admission everyone is free until 7pm 15 after except during performances holidays amp special events b a r h a p p y h o u r what time is happy hour what s included fridays afterwork 5pm 8pm amp happy hour includes all drinks except water soda amp juice except during performances holidays amp special events r e s e r v a t i o n s can i reserve a table yeshow do i pay for my table or bottles the inkwell accepts all major debit and credit and or zelle can i order bottle service yes can i pre pay for bottle service yes pre paid bottles receive discounted pricing how long do i have my table you have your table for the entire event 5pm until closing 10 45pm i have a table is my admission included please check your table package certain vip tables come with admission included i have a table are my guest free no please check your table package what do i get with my table food cupcakes and or bottle service can be pre ordered with your table how many guest can sit at my table table sizes vary please check your package vip tables are highly recommended for large parties 10 can i pre pay for my guest yes can i bring my own cake amp balloons yes however cakes or cupcakes can not contain any alcohol or shots can i bring my own food no can i order food if i don t have a table yes can i bring my own alcohol no can i get a refund after i book my table or tickets no what time does the inkwell close 11pm what tye of music does the inkwell play r amp b hip hop house top 40 funk reggae soca calypso salsa e v e n t s what dj s are playing at the inkwell club check the inkwell upcoming events page what artist will be performing at the inkwell check ticketmaster or the inkwell upcoming events page www theinkwellnyc com when is the next inkwell cruise the inkwell is on the water every summer starting in june to join the inkwell after work yacht club or view the crruise schedule log onto www theinkwellnyc com the inkwell harbor club rooftop new york ny us"
     },
     {
       "id": "rZ7HnEZ1Af86u0",
@@ -3127,6 +2713,44 @@
       "searchText": "friday night in the sidebar w the menards friday night in the sidebar featuring the menards free show band namesake tim menard is a chicago veteran tim s hand picked a coterie of his favorite players his wonderful fiddle playing bride cathie van wert menard drum legend paul bivans veteran bass ace michael krayniak guitar master jim o donnell and pedal steel guru gabriel stutz featuring tim s indelible original tunes mixed with some carefully curated covers the menards spin aspects of folk rock blues and country into a rich web of americana enjoy dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us"
     },
     {
+      "id": "rZ7HnEZ1AfaE70",
+      "legacyEventId": "rZ7HnEZ1AfaE70",
+      "name": "Paul Oakenfold + The Crystal Method - Mission Underground 2026 Tour w/ Liquid Todd",
+      "eventUrl": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-06",
+      "localTime": "20:30",
+      "startDateTime": "2026-11-07T04:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/fa7/2ef92360-0060-4535-b5a3-3642bbe5ffa7_SOURCE",
+      "venue": {
+        "id": "rZ7HnEZ178O8g",
+        "name": "Music Box",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.71938,
+        "longitude": -117.16813,
+        "street": "1337 India Street",
+        "zipCode": "92101",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171tg0",
+          "name": "Paul Oakenfold",
+          "url": "https://www.ticketmaster.com/paul-oakenfold-tickets/artist/806648"
+        },
+        {
+          "id": "K8vZ91719q7",
+          "name": "Crystal Method",
+          "url": "https://www.ticketmaster.com/crystal-method-tickets/artist/807086"
+        }
+      ],
+      "searchText": "paul oakenfold the crystal method mission underground 2026 tour w liquid todd mission underground 2026 tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price sold out table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us paul oakenfold crystal method"
+    },
+    {
       "id": "vvG1fZ_u2I2maM",
       "legacyEventId": "050064D3E83EE277",
       "name": "Lily Rose",
@@ -3191,44 +2815,6 @@
         }
       ],
       "searchText": "the wailers 50 years of positive vibrationspresented by island 98 5 the wailers 50 years of positive vibrations in 2026 the wailers celebrate 50 years of rastaman vibration marking a defining moment in reggae history and honoring one of bob marley the wailers most influential albums this special tour 50 years of positive vibrations highlights select cuts from rastaman vibration alongside the timeless classics that continue to unite audiences across generations released in 1976 rastaman vibration was a pivotal album that carried reggae s message of resistance spirituality and hope onto the global stage songs like rdquo positive vibration rdquo roots rock reggae and rdquo war remain as relevant today as ever powerful expressions of music as both a cultural force and a call for unity under the leadership of aston barrett jr son of legendary bassist aston rdquo familyman barrett the wailers continue to honor their roots while carrying the music forward with purpose and authenticity in a unique crossover into film aston barrett jr portrayed his father in the 2024 biopic bob marley one love directed by reinaldo marcus green and starring kingsley ben adir his portrayal added rare authenticity grounded in lived experience and a deep personal connection to the legacy tickets 35 50 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us the wailers"
-    },
-    {
-      "id": "rZ7HnEZ1AfaE70",
-      "legacyEventId": "rZ7HnEZ1AfaE70",
-      "name": "Paul Oakenfold + The Crystal Method - Mission Underground 2026 Tour w/ Liquid Todd",
-      "eventUrl": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-06",
-      "localTime": "21:00",
-      "startDateTime": "2026-11-07T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/fa7/2ef92360-0060-4535-b5a3-3642bbe5ffa7_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171tg0",
-          "name": "Paul Oakenfold",
-          "url": "https://www.ticketmaster.com/paul-oakenfold-tickets/artist/806648"
-        },
-        {
-          "id": "K8vZ91719q7",
-          "name": "Crystal Method",
-          "url": "https://www.ticketmaster.com/crystal-method-tickets/artist/807086"
-        }
-      ],
-      "searchText": "paul oakenfold the crystal method mission underground 2026 tour w liquid todd mission underground 2026 tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price sold out table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us paul oakenfold crystal method"
     },
     {
       "id": "1AyZkfUGkd9qdB2",
@@ -3685,9 +3271,14 @@
           "id": "K8vZ9173jL7",
           "name": "Tinashe",
           "url": "https://www.ticketmaster.com/tinashe-tickets/artist/1990454"
+        },
+        {
+          "id": "K8vZ917qkgf",
+          "name": "SEES00000",
+          "url": "https://www.ticketmaster.com/sees00000-tickets/artist/3203813"
         }
       ],
-      "searchText": "tinashe one night with a popstar all ages welcome doors 7pm show 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 5 30pm hollywood palladium hollywood ca us tinashe"
+      "searchText": "tinashe one night with a popstar all ages welcome doors 7pm show 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 5 30pm hollywood palladium hollywood ca us tinashe sees00000"
     },
     {
       "id": "17AYv0G6Ck1ub7d",
@@ -8597,7 +8188,7 @@
       "localTime": "19:30",
       "startDateTime": "2026-11-15T03:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/10/00/44_Edp.jpg?v=6",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/10/00/44_Edp.jpg?v=9",
       "venue": {
         "id": "rZ7HnEZ17jE-K",
         "name": "Lucky Strike Hollywood",
@@ -8611,7 +8202,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "delivery boys live at lucky strike hollywood los angeles delivery boys stumble into a bowling alley don t miss it arrive early for better parking all ages until 9pm 21 after lucky strike hollywood hollywood ca us"
+      "searchText": "delivery boys live at lucky strike hollywood los angeles delivery boys stumble into a bowling alley don t miss it arrive early for better parking all ages until 9pm 21 after all tickets are subject to capacity lucky strike hollywood hollywood ca us"
     },
     {
       "id": "vvG1zZ_ue0Mz-2",
@@ -11362,6 +10953,39 @@
       "searchText": "bayport credit union holiday trail of lights event series presented by huffman huffman brothers in law the show is designed to be able to walk it from both directions you can enter from both the north and the south entrances there are 700 parking spaces in the north lot main entrance and 200 spaces in the south lot marsh pavilion entrance is the path ada accessible yes the path is flat and wheelchair accessible the aquarium also has wheelchairs available to rent upon request what can i bring you may bring a stroller wheelchair mobility scooter outside food drink bags etc bags may be subject to search upon entry what can i not bring you may not bring weapons of any kind glass containers outside alcohol chairs pets vehicles of any kind bikes e bikes skateboards scooters etc or professional camera video equipment will there be refunds can i exchange my ticket date all sales are final and valid only for your day and time of purchase no refunds or exchanges virginia aquarium virginia beach va us holiday trail of lights"
     },
     {
+      "id": "vv1AAZk40Gkd1iB2e",
+      "legacyEventId": "05006564CAB3A3C2",
+      "name": "2026 Big Ten Volleyball Session #1",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-1-fishers-indiana-11-20-2026/event/05006564CAB3A3C2",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-20",
+      "localTime": "11:00",
+      "startDateTime": "2026-11-20T16:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/26e/b19d3d27-b0cc-4fc1-94a9-32065754d26e_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 1 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
+    },
+    {
       "id": "LvZ18QfqvObLx6ZZyywIV",
       "legacyEventId": "LvZ18QfqvObLx6ZZyywIV",
       "name": "Funkmaster Flex Reunion *TICKETS AVAILABLE @TICKETMASTER",
@@ -13009,6 +12633,39 @@
       "searchText": "fort lauderdale children s ballet theatre cinderella to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us fort lauderdale children s ballet theatre"
     },
     {
+      "id": "vv1AAZk40GkdG2Qbw",
+      "legacyEventId": "05006564CC3DA632",
+      "name": "2026 Big Ten Volleyball Session #2",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-2-fishers-indiana-11-21-2026/event/05006564CC3DA632",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-21",
+      "localTime": "12:00",
+      "startDateTime": "2026-11-21T17:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/0a3/b64a689d-d65d-4962-886f-e733add950a3_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 2 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
+    },
+    {
       "id": "vv1AAZkoeGkdsvG2Q",
       "legacyEventId": "05006442F104C3DA",
       "name": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
@@ -13248,6 +12905,39 @@
         }
       ],
       "searchText": "senses fail presents still searching doors open 6pm show starts 7pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us senses fail koyo initiate"
+    },
+    {
+      "id": "vv1AAZk40Gkd8IQBu",
+      "legacyEventId": "05006564D0A1AE8D",
+      "name": "2026 Big Ten Volleyball Session #3",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-3-fishers-indiana-11-21-2026/event/05006564D0A1AE8D",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-21",
+      "localTime": "18:00",
+      "startDateTime": "2026-11-21T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/394/53fdaed1-799e-4bd0-9976-9afdb0a2a394_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 3 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8_r",
@@ -14677,6 +14367,39 @@
       "searchText": "vip tailgate tent arizona cardinals v kansas city chiefs enjoy a tailgate experience with all you can eat and drink beer seltzers and soft drinks the tailgate opens four hours prior to kickoff and closes at kickoff located in lot m next to the stadium inside a covered tent dedicated restrooms are available for tailgate guests tailgate games are available for pregame entertainment passes do not include parking or event entry arrowhead stadium kansas city mo us arrowhead stadium vip tailgate tent"
     },
     {
+      "id": "vv1AAZk40GkdoXl1k",
+      "legacyEventId": "05006564D1FAB286",
+      "name": "2026 Big Ten Volleyball Session #4",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-4-fishers-indiana-11-22-2026/event/05006564D1FAB286",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-22",
+      "localTime": "12:00",
+      "startDateTime": "2026-11-22T17:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/9c5/f88feb48-6fc8-4e65-882c-abc9701869c5_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 4 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
+    },
+    {
       "id": "vv16AZkff03ZACFFFC",
       "legacyEventId": "05006514912D777D",
       "name": "Scarlet and Gray Saturdays: The Ohio State Football Story",
@@ -14839,6 +14562,39 @@
         }
       ],
       "searchText": "fort lauderdale children s ballet theatre cinderella to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us fort lauderdale children s ballet theatre"
+    },
+    {
+      "id": "vv1AAZk40Gkdpblwj",
+      "legacyEventId": "05006564D662BC9C",
+      "name": "2026 Big Ten Volleyball Session #5",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-5-fishers-indiana-11-22-2026/event/05006564D662BC9C",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-22",
+      "localTime": "18:00",
+      "startDateTime": "2026-11-22T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/ce2/f6f7977a-34f3-449a-a726-888abb594ce2_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 5 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
     },
     {
       "id": "vv1AAZkoeGkdskj2U",
@@ -15790,6 +15546,39 @@
       "searchText": "public ice skating 6 00pm 7 00pm session please enter through the rinkside door in the lower parking lot near the convention center facing i 16 public ice skating continues as scheduled unless otherwise noted macon coliseum macon ga us public ice skating macon coliseum"
     },
     {
+      "id": "vv1AAZk40Gkd9WDys",
+      "legacyEventId": "05006564D7F7BE71",
+      "name": "2026 Big Ten Volleyball Session #6",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-6-fishers-indiana-11-24-2026/event/05006564D7F7BE71",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-24",
+      "localTime": "18:00",
+      "startDateTime": "2026-11-24T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/c28/cb26f79a-cba3-4867-a1bd-fd8837b5fc28_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 6 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
+    },
+    {
       "id": "rZ7HnEZ1AfPVvd",
       "legacyEventId": "rZ7HnEZ1AfPVvd",
       "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
@@ -16492,6 +16281,39 @@
         }
       ],
       "searchText": "hawthorne heights 20th anniversary of if only you were lonely all tickets are general admission standing room only limited barstool seating will be available on a first come first served basis ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hawthorn is open every friday from 10am 4pm address 2231 washington ave st louis mo 63103 please note the hawthorn is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter the hawthorn st louis mo us hawthorne heights creeper"
+    },
+    {
+      "id": "vv1AAZk40GkdbXhT6",
+      "legacyEventId": "05006564D8F9BFC7",
+      "name": "2026 Big Ten Volleyball Session #7",
+      "eventUrl": "https://www.ticketmaster.com/2026-big-ten-volleyball-session-7-fishers-indiana-11-25-2026/event/05006564D8F9BFC7",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-11-25",
+      "localTime": "20:00",
+      "startDateTime": "2026-11-26T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/bd3/63ff3dc7-2221-4469-9035-080ad2916bd3_SOURCE",
+      "venue": {
+        "id": "KovZ917AmVB",
+        "name": "Fishers Event Center",
+        "city": "Fishers",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.9474345,
+        "longitude": -86.0061368,
+        "street": "11000 Stockdale Street",
+        "zipCode": "46037",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917x1f0",
+          "name": "Big Ten Volleyball",
+          "url": "https://www.ticketmaster.com/big-ten-volleyball-tickets/artist/4787386"
+        }
+      ],
+      "searchText": "2026 big ten volleyball session 7 children 2 years under are free with an accompanying adult ticket but must sit on a lap purchase parking in advance or use on site signs fishers event center is cashless card and mobile only clear bags up to 12x6x12 inches and non clear bags under 4 5x6 5 inches allowed see fisherseventcenter com for additional guidelines fishers event center fishers in us big ten volleyball"
     },
     {
       "id": "rZ7HnEZ1AfG--7",
@@ -35782,7 +35604,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-14T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/65/05/93_Edp.jpg?v=17",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/65/05/93_Edp.jpg?v=18",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -35796,7 +35618,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "the linda lindas presented by alt 94 9 s december to remember 94 9s december to rememberartist presale 10 28 2026 10 00am pt venue presale 10 29 2026 10 00am pst radio presale 10 29 2026 10 00am pst public on sale 10 30 2026 10 00am pst there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 27 advanced standing 30 day of show standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11 am to 5 pm monday through friday as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change no persons under the age of eighteen 18 years shall be permitted at any time into the designated entertainment area s whenever entertainment is provided unless such person is accompanied by their parent spouse or legal guardian or an adult twenty five 25 years or older who has written authorization from the parent spouse or legal guardian intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations protect the minors from alcohol and other criminal activity music box san diego ca us"
+      "searchText": "the linda lindas presented by alt 94 9 s december to remember 94 9s december to rememberthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 27 advanced standing 30 day of show standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11 am to 5 pm monday through friday as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change no persons under the age of eighteen 18 years shall be permitted at any time into the designated entertainment area s whenever entertainment is provided unless such person is accompanied by their parent spouse or legal guardian or an adult twenty five 25 years or older who has written authorization from the parent spouse or legal guardian intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations protect the minors from alcohol and other criminal activity music box san diego ca us"
     },
     {
       "id": "vvG1zZ_2MeSQr4",
@@ -46397,6 +46219,33 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "rZ7HnEZ1Af8POV",
+      "legacyEventId": "rZ7HnEZ1Af8POV",
+      "name": "TRIBUTOSAURUS Christmas Spectacular!",
+      "eventUrl": "https://www.ticketweb.com/event/tributosaurus-christmas-spectacular-fitzgeralds-nightclub-tickets/14425834",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-23",
+      "localTime": "20:30",
+      "startDateTime": "2026-12-24T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/13/47/94_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17f7Z4",
+        "name": "FITZGERALDS NIGHTCLUB",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "tributosaurus christmas spectacular fitzgeralds nightclub presents tributosaurus christmas spectacular december is a wonderful time for popular music always has been for decades some of our favorite artists have mined the holidays to write songs of emotion and cheer hoping to create a christmas classic let s pick the best and play them all in one night shall we join us on wednesday december 23rd at fitzgerald s as tributosaurus reyturns with our christmas spectacular through the years we ve played holiday killers from the likes of the kinks sinatra james taylor bruce springsteen and david bowie those will be gathered along with songs we ve always wanted to do from donnie hathaway darlene love the pogues and lots more maybe we ll slide in a hannukah track everything will be performed with reverence and authenticity continuing the now 25 year tradition of the tributosaurus ethos where music is the star and we the happy facilitators you are an essential part of the process come to commune over fabulous holiday music together with us see you there with an eggnog in hand grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
+    },
+    {
       "id": "LvZ18QtplEBRwwgmAykd2",
       "legacyEventId": "LvZ18QtplEBRwwgmAykd2",
       "name": "Dazzling Nights® Orlando",
@@ -52650,6 +52499,64 @@
       "searchText": "war new year s celebration94 7 kumu presents war new year s celebration chicano funk icons war rolled their way to fame in the early 70s with classic hits like low rider and why can t we be friends and they ve kept fans dancing ever since with their groovy socially conscious jams the group s roster has changed over the years but founding member leroy lonnie jordan has remained a constant and his familiar voice and jazzy keyboard licks continue to drive the band s fun loving sets their first single spill the wine was a top 3 hit on billboard s hot 100 making them stars overnight and leading to extensive touring war was quickly hailed as one of the best live bands in the business war dominated the r b charts in the 70s with a string of no 1 albums including the world is a ghetto 1972 deliver the word 1973 and why can t we be friends 1975 the band remaines a funk force to be reckoned with tickets 60 80 club policies 12 30 show 6 30pm doors 5pm 12 30 show 9pm doors 8 30pm 12 31 show 7pm doors 5pm 12 31 show 10pm doors 9pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us war"
     },
     {
+      "id": "vv1FOZ_p3eFoZdC1v",
+      "legacyEventId": "0800656482211D90",
+      "name": "New Year's Eve Comedy Jam",
+      "eventUrl": "https://www.ticketmaster.com/new-years-eve-comedy-jam-detroit-michigan-12-31-2026/event/0800656482211D90",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2026-12-31",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-01T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/e8c/33d562eb-d808-4b4a-a7c8-8ed6b0a2de8c_SOURCE",
+      "venue": {
+        "id": "KovZpZA6kdtA",
+        "name": "Fox Theatre Detroit",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.338548,
+        "longitude": -83.05207,
+        "street": "2211 Woodward Ave",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171hmV",
+          "name": "Cedric The Entertainer",
+          "url": "https://www.ticketmaster.com/cedric-the-entertainer-tickets/artist/803612"
+        },
+        {
+          "id": "K8vZ9175di7",
+          "name": "Sommore",
+          "url": "https://www.ticketmaster.com/sommore-tickets/artist/806185"
+        },
+        {
+          "id": "K8vZ917GPUV",
+          "name": "Earthquake",
+          "url": "https://www.ticketmaster.com/earthquake-tickets/artist/856354"
+        },
+        {
+          "id": "K8vZ9171Kjf",
+          "name": "Bill Bellamy",
+          "url": "https://www.ticketmaster.com/bill-bellamy-tickets/artist/821440"
+        },
+        {
+          "id": "K8vZ917C_hV",
+          "name": "JJ Williamson",
+          "url": "https://www.ticketmaster.com/jj-williamson-tickets/artist/1587737"
+        },
+        {
+          "id": "K8vZ9171Sdf",
+          "name": "Damon Williams",
+          "url": "https://www.ticketmaster.com/damon-williams-tickets/artist/807052"
+        }
+      ],
+      "searchText": "new year s eve comedy jam all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us cedric the entertainer sommore earthquake bill bellamy jj williamson damon williams"
+    },
+    {
       "id": "LvZ18QIpYHijEl8Ywn8xo",
       "legacyEventId": "LvZ18QIpYHijEl8Ywn8xo",
       "name": "Dazzling Nights® Orlando",
@@ -57383,6 +57290,33 @@
       "searchText": "co v the world rodeo finals sat jan 9 8pm co vs the world rodeo finals sat jan 9 8pm all event tickets include grounds admission for the entire event day you do not need to purchase a separate grounds admission ticket for this day parking is free at coors field due to construction parking is very limited around the national western area and there is a fee to park all patrons are encouraged to park at coors field where there are shuttle buses that run every 10 minutes children 2 under are free as long as they sit on their guardian s lap will call is located in the south lobby of the national western complex building 4655 humboldt st denver co 80216 for any questions please call the box office at 303 295 6124 or via e mail to nwtickets nationalwestern com denver coliseum denver co us national western stock show presented by commonspirit health"
     },
     {
+      "id": "rZ7HnEZ1Af8JFV",
+      "legacyEventId": "rZ7HnEZ1Af8JFV",
+      "name": "Saturday Night w/ WEBB WILDER & THE BEATNECKS",
+      "eventUrl": "https://www.ticketweb.com/event/saturday-night-w-webb-wilder-fitzgeralds-nightclub-tickets/14426234",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-09",
+      "localTime": "20:30",
+      "startDateTime": "2027-01-10T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/13/52/24_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17f7Z4",
+        "name": "FITZGERALDS NIGHTCLUB",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "saturday night w webb wilder the beatnecks fitzgeralds nightclub presents webb wilder the beatnecks seen here 25 general admission reserved tables available webb wilder was americana before it had a name and is bonafide roots rock royalty wilder s long and storied career began with his classic debut it came from nashville album it was chosen one of the top 50 southern rock albums of all time by paste magazine his latest and 13th album hillbilly speedball made with friends like david grissom and vince gill got much critical and popular acclaim sitting in the americana chart top 20 for weeks his nearly four decades in the public eye have included stints with major labels mtv airplay induction in the mississippi musicians hall of fame a cult classic movie career and being one of the first national djs hired by a then upstart xm satellite radio he now is a dj on nashville radio station wmot and host of the list a weekly americana top countdown show he also continues spreading his credo on his never ending tour as an electrifying artist wilder notes rdquo it s sorta like we re a roots band for rock n roll fans and a rock band for roots fans he also uses the phrases rdquo swampadelic rdquo uneasy listening and rdquo psychobilly webb wilder brings us americana rock and roll in the purest sense and his live shows are a joyride worth taking again and again credo work hard rock hard eat hard sleep hard grow big wear glasses if you need em grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
+    },
+    {
       "id": "rZ7HnEZ1A4Z-0d",
       "legacyEventId": "rZ7HnEZ1A4Z-0d",
       "name": "Long Beach Dub Allstars",
@@ -57728,7 +57662,7 @@
       "name": "Space Oddity - The Quintessential David Bowie Tribute Experience",
       "eventUrl": "https://www.ticketmaster.com/space-oddity-the-quintessential-david-bowie-ft-lauderdale-florida-01-10-2027/event/0D006554C6B3A29D",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-10",
       "localTime": "19:00",
       "startDateTime": "2027-01-11T00:00:00Z",
@@ -58539,7 +58473,7 @@
       "name": "Meet Loaf: The Ultimate Tribute To Meat Loaf",
       "eventUrl": "https://www.ticketmaster.com/meet-loaf-the-ultimate-tribute-to-ft-lauderdale-florida-01-15-2027/event/0D00655AAB8D5FA9",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-15",
       "localTime": "19:30",
       "startDateTime": "2027-01-16T00:30:00Z",
@@ -59693,7 +59627,7 @@
       "name": "Indy Ignite vs Las Vegas Thrill",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-las-vegas-thrill-fishers-indiana-01-17-2027/event/0500654F861D4840",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-17",
       "localTime": "15:00",
       "startDateTime": "2027-01-17T20:00:00Z",
@@ -63778,7 +63712,7 @@
       "name": "Indy Ignite vs NorCal Rumble",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-norcal-rumble-fishers-indiana-01-29-2027/event/0500654F87DA4CC3",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-29",
       "localTime": "20:00",
       "startDateTime": "2027-01-30T01:00:00Z",
@@ -63813,7 +63747,7 @@
     {
       "id": "rZ7HnEZ1AfuZe7",
       "legacyEventId": "rZ7HnEZ1AfuZe7",
-      "name": "Ballyhoo! - We Ride at Dawn Tour w/ Chad Tepper | Keep Flying",
+      "name": "Ballyhoo! - We Ride at Dawn Tour w/ Chad Tepper & Keep Flying",
       "eventUrl": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084",
       "resaleEventUrl": null,
       "status": "onsale",
@@ -65570,7 +65504,7 @@
       "name": "Indy Ignite vs Grand Rapids Rise",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-grand-rapids-rise-fishers-indiana-02-06-2027/event/0500654F88684E15",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-06",
       "localTime": null,
       "startDateTime": null,
@@ -67639,7 +67573,7 @@
       "name": "Indy Ignite vs Atlanta Vibe",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-atlanta-vibe-fishers-indiana-02-13-2027/event/0500654F8C69586B",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-13",
       "localTime": null,
       "startDateTime": null,
@@ -68484,7 +68418,7 @@
       "name": "Indy Ignite vs Orlando Valkyries",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-orlando-valkyries-fishers-indiana-02-18-2027/event/0500654F8CBE597F",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-18",
       "localTime": "19:00",
       "startDateTime": "2027-02-19T00:00:00Z",
@@ -71174,7 +71108,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-02-28T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/13/08/84_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/13/08/84_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZa5yw",
         "name": "The Masonic Lodge at Hollywood Forever",
@@ -71188,7 +71122,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "particle kid daniel lanois onsite parking opens 1 hour before doors purchase onsite parking in advance online here limit 4 tickets per household customer email account cc address purchases that exceed the 4 ticket limit are subject to cancellation orders placed for the sole purpose of resale may be cancelled without notice the show will be held in a beautiful masonic lodge built in 1931 there are no elevators in this historic landmark ascending stairs is required to enter the venue the masonic lodge at hollywood forever los angeles ca us"
+      "searchText": "particle kid daniel lanois onsite parking opens 1 hour before doors purchase onsite parking here limit 4 tickets per household customer email account cc address purchases that exceed the 4 ticket limit are subject to cancellation orders placed for the sole purpose of resale may be cancelled without notice the show will be held in a beautiful masonic lodge built in 1931 there are no elevators in this historic landmark ascending stairs is required to enter the venue the masonic lodge at hollywood forever los angeles ca us"
     },
     {
       "id": "vv17fZ_fGkXuu4lW",
@@ -71196,7 +71130,7 @@
       "name": "Indy Ignite vs Columbus Fury",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-columbus-fury-fishers-indiana-02-28-2027/event/0500654F8D355AFD",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-02-28",
       "localTime": null,
       "startDateTime": null,
@@ -72140,7 +72074,7 @@
       "name": "Indy Ignite vs DC Flight",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-dc-flight-fishers-indiana-03-06-2027/event/0500654F8D6A5BCE",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-06",
       "localTime": null,
       "startDateTime": null,
@@ -73789,7 +73723,7 @@
       "name": "Indy Ignite vs Omaha Supernovas",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-omaha-supernovas-fishers-indiana-03-13-2027/event/0500654F8DB25C67",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-13",
       "localTime": null,
       "startDateTime": null,
@@ -74386,7 +74320,7 @@
     {
       "id": "rZ7HnEZ1AfutZ7",
       "legacyEventId": "rZ7HnEZ1AfutZ7",
-      "name": "Saxsquatch - The Conspiracy Theory Tour",
+      "name": "Saxsquatch - The Conspiracy Theory Tour w/ Martian Circus",
       "eventUrl": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-music-box-tickets/14369004",
       "resaleEventUrl": null,
       "status": "onsale",
@@ -74394,7 +74328,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-03-17T03:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/23/34_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/08/23/34_Edp.jpg?v=11",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -74408,7 +74342,7 @@
         "timezone": "America/Los_Angeles"
       },
       "attractions": [],
-      "searchText": "saxsquatch the conspiracy theory tour the conspiracy theory tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 27 day of standing note tickets available at box office convenience service charges apply for online purchases theme alien tin foil hat table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us"
+      "searchText": "saxsquatch the conspiracy theory tour w martian circus the conspiracy theory tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 adv standing 27 day of standing note tickets available at box office convenience service charges apply for online purchases theme alien tin foil hat table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us"
     },
     {
       "id": "rZ7HnEZ1AfC770",
@@ -75289,7 +75223,7 @@
       "name": "Indy Ignite vs Minnesota Forge",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-minnesota-forge-fishers-indiana-03-21-2027/event/0500654F8E185DA0",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-21",
       "localTime": null,
       "startDateTime": null,
@@ -75449,7 +75383,7 @@
       "name": "Neil Berg's 100 Years Of Broadway",
       "eventUrl": "https://www.ticketmaster.com/neil-bergs-100-years-of-broadway-ft-lauderdale-florida-03-22-2027/event/0D00655CA47D62B2",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-22",
       "localTime": "19:30",
       "startDateTime": "2027-03-22T23:30:00Z",
@@ -75614,7 +75548,7 @@
       "name": "Indy Ignite vs Dallas Pulse",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-dallas-pulse-fishers-indiana-03-25-2027/event/0500654F8E625F0A",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-03-25",
       "localTime": "19:00",
       "startDateTime": "2027-03-25T23:00:00Z",
@@ -77524,7 +77458,7 @@
       "name": "Indy Ignite vs Orlando Valkyries",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-orlando-valkyries-fishers-indiana-04-09-2027/event/0500654F930C6DC6",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-09",
       "localTime": "20:00",
       "startDateTime": "2027-04-10T00:00:00Z",
@@ -78595,7 +78529,7 @@
       "name": "Indy Ignite vs LA Thunder",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-la-thunder-fishers-indiana-04-17-2027/event/0500654F949D740E",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-17",
       "localTime": null,
       "startDateTime": null,
@@ -79311,7 +79245,7 @@
       "name": "Indy Ignite vs Grand Rapids Rise",
       "eventUrl": "https://www.ticketmaster.com/indy-ignite-vs-grand-rapids-rise-fishers-indiana-04-22-2027/event/0500654F95D87874",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-04-22",
       "localTime": "19:00",
       "startDateTime": "2027-04-22T23:00:00Z",
@@ -84213,6 +84147,44 @@
       },
       "attractions": [],
       "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
+    },
+    {
+      "id": "1AvbZ_4GkRpAbKs",
+      "legacyEventId": "1600655BD61584F1",
+      "name": "Matchbox Twenty - 30",
+      "eventUrl": "https://www.ticketmaster.com/matchbox-twenty-30-cincinnati-ohio-07-27-2027/event/1600655BD61584F1",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-07-27",
+      "localTime": "19:30",
+      "startDateTime": "2027-07-27T23:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/dda/04ee0a18-67ae-41a0-bede-937ba1ebddda_SOURCE",
+      "venue": {
+        "id": "KovZ917AV-u",
+        "name": "The Farmer Music Center",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US",
+        "latitude": 39.057827,
+        "longitude": -84.421501,
+        "street": "6199 Kellogg Ave.",
+        "zipCode": "45230",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91719p7",
+          "name": "Matchbox Twenty",
+          "url": "https://www.ticketmaster.com/matchbox-twenty-tickets/artist/780731"
+        },
+        {
+          "id": "K8vZ9174Ctf",
+          "name": "David Gray",
+          "url": "https://www.ticketmaster.com/david-gray-tickets/artist/5054"
+        }
+      ],
+      "searchText": "matchbox twenty 30 the venue enforces a clear bag policy for all events to view the bag policy and a complete list of rules and prohibited items please go to our website www farmermusiccenter com general parking is included in the final purchase price the farmer music center cincinnati oh us matchbox twenty david gray"
     },
     {
       "id": "vv1AAZk46GkdZpa64",
