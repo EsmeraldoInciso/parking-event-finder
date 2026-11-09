@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-08T09:46:47.946Z",
+  "generatedAt": "2026-11-09T10:45:49.482Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-11-08T09:36:07Z",
-    "numberOfEvents": 109233,
-    "compressedSizeBytes": 83680637,
-    "checksum": "f0b58d45690a6bbe5bcd9fb47c389fe9"
+    "lastUpdated": "2026-11-09T10:20:22Z",
+    "numberOfEvents": 108377,
+    "compressedSizeBytes": 82933697,
+    "checksum": "bc100d76e4556558fd85ae028b056975"
   },
   "summary": {
-    "parkingEvents": 2485
+    "parkingEvents": 2460
   },
   "diagnostics": {
     "terms": {
-      "olivia": 72,
-      "rodrigo": 55,
-      "metallica": 67,
-      "intuit dome": 129,
-      "sphere": 1216,
-      "parking": 5883
+      "olivia": 68,
+      "rodrigo": 52,
+      "metallica": 66,
+      "intuit dome": 127,
+      "sphere": 1209,
+      "parking": 5824
     },
     "samples": {
       "olivia": [
@@ -213,12 +213,12 @@
           "matchedAsParking": false
         },
         {
-          "id": "17GZv0G61rCxV_-",
-          "name": "Suites - Olivia Rodrigo: The Unraveled Tour",
-          "eventUrl": "https://www.ticketmaster.com/suites-olivia-rodrigo-the-unraveled-tour-philadelphia-pennsylvania-11-08-2026/event/300064A78E8B4661",
-          "venue": "Xfinity Mobile Arena",
-          "city": "Philadelphia",
-          "state": "PA",
+          "id": "k7vGF_3Dd4HL0",
+          "name": "The Rock And Roll Playhouse Plays: Music of Olivia Rodrigo for Kids",
+          "eventUrl": "https://www.ticketmaster.com/the-rock-and-roll-playhouse-plays-brooklyn-new-york-12-27-2026/event/0000652EC357C7E4",
+          "venue": "Brooklyn Bowl",
+          "city": "Brooklyn",
+          "state": "NY",
           "matchedTerm": "olivia",
           "matchedAsParking": false
         }
@@ -365,16 +365,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "17GZv0G61rCxV_-",
-          "name": "Suites - Olivia Rodrigo: The Unraveled Tour",
-          "eventUrl": "https://www.ticketmaster.com/suites-olivia-rodrigo-the-unraveled-tour-philadelphia-pennsylvania-11-08-2026/event/300064A78E8B4661",
-          "venue": "Xfinity Mobile Arena",
-          "city": "Philadelphia",
-          "state": "PA",
-          "matchedTerm": "rodrigo",
-          "matchedAsParking": false
-        },
-        {
           "id": "k7vGF_3Dd4HL0",
           "name": "The Rock And Roll Playhouse Plays: Music of Olivia Rodrigo for Kids",
           "eventUrl": "https://www.ticketmaster.com/the-rock-and-roll-playhouse-plays-brooklyn-new-york-12-27-2026/event/0000652EC357C7E4",
@@ -418,6 +408,16 @@
           "id": "rZ7HnEZ1Afu-b0",
           "name": "Jerome Jennings Quintet",
           "eventUrl": "https://www.ticketweb.com/event/jerome-jennings-quintet-smalls-jazz-club-tickets/14361624",
+          "venue": "Smalls Jazz Club",
+          "city": "New York",
+          "state": "NY",
+          "matchedTerm": "rodrigo",
+          "matchedAsParking": false
+        },
+        {
+          "id": "rZ7HnEZ1Afu-_V",
+          "name": "Jerome Jennings Quintet",
+          "eventUrl": "https://www.ticketweb.com/event/jerome-jennings-quintet-smalls-jazz-club-tickets/14361674",
           "venue": "Smalls Jazz Club",
           "city": "New York",
           "state": "NY",
@@ -1173,16 +1173,6 @@
           "matchedAsParking": true
         },
         {
-          "id": "rZ7HnEZ1AfF7r7",
-          "name": "SOLD OUT! Mimosas & Motown: Sunday Brunch November 8th Brunch in Anzu at 11:30 AM / Show at 12:45 PM",
-          "eventUrl": "https://www.ticketweb.com/event/sold-out-mimosas-motown-feinsteins-at-the-nikko-tickets/14204784",
-          "venue": "Feinstein's at The Nikko",
-          "city": "San Francisco",
-          "state": "CA",
-          "matchedTerm": "parking",
-          "matchedAsParking": false
-        },
-        {
           "id": "G5vzZ_83EJBSk",
           "name": "Boise State Theatre Arts Presents A Christmas Carol",
           "eventUrl": "https://www.ticketmaster.com/boise-state-theatre-arts-presents-a-boise-idaho-11-22-2026/event/1E006504A79BACC6",
@@ -1231,6 +1221,16 @@
           "state": "GA",
           "matchedTerm": "parking",
           "matchedAsParking": true
+        },
+        {
+          "id": "k7vGF_G1MzOJK",
+          "name": "Dru Hill & Ginuwine",
+          "eventUrl": "https://www.ticketmaster.com/dru-hill-ginuwine-westbury-new-york-12-12-2026/event/000064C2B7E20993",
+          "venue": "Flagstar at Westbury Music Fair",
+          "city": "Westbury",
+          "state": "NY",
+          "matchedTerm": "parking",
+          "matchedAsParking": false
         }
       ]
     }
@@ -1711,836 +1711,6 @@
         }
       ],
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
-    },
-    {
-      "id": "G5dIZ_89h5u_P",
-      "legacyEventId": "3A006505DB2CD665",
-      "name": "Hollydays Market Corpus Christi Fri. 11-6 through Sun. 11-8, 2026",
-      "eventUrl": "https://www.ticketmaster.com/hollydays-market-corpus-christi-fri-116-corpus-christi-texas-11-06-2026/event/3A006505DB2CD665",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-06",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/0f8/03e31cb7-5953-46bc-8d60-72eb917400f8_SOURCE",
-      "venue": {
-        "id": "KovZpZAJEA7A",
-        "name": "Hilliard Center Exhibit Hall",
-        "city": "Corpus Christi",
-        "state": "TX",
-        "country": "US",
-        "latitude": 27.8088984,
-        "longitude": -97.3935427,
-        "street": "1901 N. Shoreline Drive",
-        "zipCode": "78401",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "hollydays market corpus christi fri 11 6 through sun 11 8 2026 nov 6 8th 2026 tickets are good for the entire weekend re entry allowed parking is free first call shopping 10 hours friday 9 am 12 pm general admission 7 hours friday 12 pm 5 pm saturday 9 am 5 pm sunday 11 am 4 pm the largest gift market circuit in texas is coming to corpus christi enjoy three days of fun holiday shopping at the hilliard center shop with more than 100 vendors to find lots of new unique and one of a kind gifts all in one place to have you ready for all your festive events shop for the newest clothing trends handmade crafts jewelry one of a kind gifts seasonal finds home decor and so much more grab your girlfriends mom or daughter and come enjoy the fun while shopping and supporting small businesses at hollydays gift market hilliard center exhibit hall corpus christi tx us"
-    },
-    {
-      "id": "17FOv0G61B5i78L",
-      "legacyEventId": "220064AE8BB0441F",
-      "name": "Kissimmee Home & Holiday Market 2-Day Weekend",
-      "eventUrl": "https://www.ticketmaster.com/kissimmee-home-holiday-market-2day-weekend-kissimmee-florida-11-07-2026/event/220064AE8BB0441F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-07",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a34/68a0c9c2-0103-4401-a3fc-57b7551c5a34_SOURCE",
-      "venue": {
-        "id": "KovZpZAE67FA",
-        "name": "Events Center at Osceola Heritage Park",
-        "city": "Kissimmee",
-        "state": "FL",
-        "country": "US",
-        "latitude": 28.298562,
-        "longitude": -81.367836,
-        "street": "1901 Chief Osceola Trail",
-        "zipCode": "34744",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Oa3f",
-          "name": "Kissimmee Home & Holiday Market",
-          "url": "https://www.ticketmaster.com/kissimmee-home-holiday-market-tickets/artist/4431139"
-        }
-      ],
-      "searchText": "kissimmee home holiday market 2 day weekend get ready for a weekend filled with holiday shopping home inspiration unique gifts seasonal decor specialty vendors and so much more all under one roof whether you are looking to get a jump start on your holiday shopping find something special for your home or simply enjoy a festive weekend out with family and friends this is an event you will not want to miss event times saturday 10 00am 6 00pm sunday 10 00am 5 00pm children 16 and under are free parking day of show is 15 00 events center at osceola heritage park kissimmee fl us kissimmee home holiday market"
-    },
-    {
-      "id": "k7vGF_o1CZEOT",
-      "legacyEventId": "000065128E02783F",
-      "name": "MetLife Stadium VIP Tours",
-      "eventUrl": "https://www.ticketmaster.com/metlife-stadium-vip-tours-east-rutherford-new-jersey-11-08-2026/event/000065128E02783F",
-      "resaleEventUrl": null,
-      "status": "offsale",
-      "localDate": "2026-11-08",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dbimages/720729a.jpg",
-      "venue": {
-        "id": "KovZpakS7e",
-        "name": "MetLife Stadium",
-        "city": "East Rutherford",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 40.81359,
-        "longitude": -74.074493,
-        "street": "One MetLife Stadium Drive",
-        "zipCode": "07073",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "metlife stadium vip tours tours depart from west vip lobby please enter through the metlife gate and park in lot f or g parking for tours is free please see the stadium and parking maps for directions tours will last approximately 90 minutes with access to the following areas press box lounge commissioners club field please note field access pending stadium wide calendar coaches club and interview room suite mezzanine level club purses bags will be allowed on the tour but will be subject to a search before entering the stadium no video cameras are allowed on the tour only still photography comfortable walking shoes are highly recommended metlife stadium new meadowlands stadium company reserves the right to cancel all or part of a tour if a tour date must be made up due to a stadium event all tickets will be refunded all tours tour aspects are subject to availability based on stadium wide event schedule metlife stadium east rutherford nj us"
-    },
-    {
-      "id": "17FOv0G61BGPfK9",
-      "legacyEventId": "220064AE8C9544D7",
-      "name": "Kissimmee Home & Holiday Market - Sunday",
-      "eventUrl": "https://www.ticketmaster.com/kissimmee-home-holiday-market-sunday-kissimmee-florida-11-08-2026/event/220064AE8C9544D7",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "10:00",
-      "startDateTime": "2026-11-08T15:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/a34/68a0c9c2-0103-4401-a3fc-57b7551c5a34_SOURCE",
-      "venue": {
-        "id": "KovZpZAE67FA",
-        "name": "Events Center at Osceola Heritage Park",
-        "city": "Kissimmee",
-        "state": "FL",
-        "country": "US",
-        "latitude": 28.298562,
-        "longitude": -81.367836,
-        "street": "1901 Chief Osceola Trail",
-        "zipCode": "34744",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917Oa3f",
-          "name": "Kissimmee Home & Holiday Market",
-          "url": "https://www.ticketmaster.com/kissimmee-home-holiday-market-tickets/artist/4431139"
-        }
-      ],
-      "searchText": "kissimmee home holiday market sunday get ready for a weekend filled with holiday shopping home inspiration unique gifts seasonal decor specialty vendors and so much more all under one roof whether you are looking to get a jump start on your holiday shopping find something special for your home or simply enjoy a festive weekend out with family and friends this is an event you will not want to miss event time sunday 10 00am 5 00pm ages 16 and under are free parking day of show is 15 00 events center at osceola heritage park kissimmee fl us kissimmee home holiday market"
-    },
-    {
-      "id": "vvG1bZ_5K1bRPj",
-      "legacyEventId": "060064B4CA62F95C",
-      "name": "VIP Tailgate Tent - New York Jets v Kansas City Chiefs",
-      "eventUrl": "https://www.ticketmaster.com/vip-tailgate-tent-new-york-jets-kansas-city-missouri-11-08-2026/event/060064B4CA62F95C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "12:00",
-      "startDateTime": "2026-11-08T18:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2c3/fc8ea91d-fa0c-43ff-80f4-8134bab652c3_SOURCE",
-      "venue": {
-        "id": "KovZpZAF7E1A",
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City",
-        "state": "MO",
-        "country": "US",
-        "latitude": 39.04921048,
-        "longitude": -94.48417065,
-        "street": "1 Arrowhead Dr",
-        "zipCode": "64129",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917OpRf",
-          "name": "Arrowhead Stadium VIP Tailgate Tent",
-          "url": "https://www.ticketmaster.com/arrowhead-stadium-vip-tailgate-tent-tickets/artist/4461384"
-        }
-      ],
-      "searchText": "vip tailgate tent new york jets v kansas city chiefs enjoy a tailgate experience with all you can eat and drink beer seltzers and soft drinks the tailgate opens four hours prior to kickoff and closes at kickoff located in lot m next to the stadium inside a covered tent dedicated restrooms are available for tailgate guests tailgate games are available for pregame entertainment passes do not include parking or event entry arrowhead stadium kansas city mo us arrowhead stadium vip tailgate tent"
-    },
-    {
-      "id": "rZ7HnEZ1Af8Yk7",
-      "legacyEventId": "rZ7HnEZ1Af8Yk7",
-      "name": "\"BLOCKBUSTER BRUNCH\" : School Of Rock (2003)",
-      "eventUrl": "https://www.ticketweb.com/event/blockbuster-brunch-school-of-fitzgeralds-nightclub-tickets/14430184",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "12:00",
-      "startDateTime": "2026-11-08T18:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/13/91/54_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "blockbuster brunch school of rock 2003 fitzgeralds presents blockbuster brunch a school of rock watch party free movie viewing click rdquo book now to reserve a table brunch by babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds nightclub berwyn il us"
-    },
-    {
-      "id": "vvG1OZ_18-Tk6A",
-      "legacyEventId": "080064A421FC61C5",
-      "name": "Elmo's Got the Moves",
-      "eventUrl": "https://www.ticketmaster.com/elmos-got-the-moves-detroit-michigan-11-08-2026/event/080064A421FC61C5",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "14:00",
-      "startDateTime": "2026-11-08T19:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/216/4080c07a-cd76-4f5f-8726-54a3fcc86216_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171o77",
-          "name": "Sesame Street Live",
-          "url": "https://www.ticketmaster.com/sesame-street-live-tickets/artist/804287"
-        }
-      ],
-      "searchText": "elmo s got the moves it is the tour s policy that children under 2 years old do not require a ticket all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us sesame street live"
-    },
-    {
-      "id": "vv1AAZkfUGkeTJ7j1",
-      "legacyEventId": "05006536BF98470A",
-      "name": "Wild Thread Presents: Shelter by Eric Mansfield",
-      "eventUrl": "https://www.ticketmaster.com/wild-thread-presents-shelter-by-eric-akron-ohio-11-08-2026/event/05006536BF98470A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "14:30",
-      "startDateTime": "2026-11-08T19:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/97f/24b88a02-1aba-45d4-954d-fa0523e5f97f_SOURCE",
-      "venue": {
-        "id": "KovZ917Am4V",
-        "name": "Wild Oscar's",
-        "city": "Akron",
-        "state": "OH",
-        "country": "US",
-        "latitude": 41.081084,
-        "longitude": -81.519453,
-        "street": "182 S. Main Street",
-        "zipCode": "44308",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "wild thread presents shelter by eric mansfield park in the state street parking deck at 52 w state street take the elevator to the lock 3 level and head toward lock 4 wild oscar s akron oh us"
-    },
-    {
-      "id": "vvG1VZbsQslNoG",
-      "legacyEventId": "0D006316B1AE344C",
-      "name": "NASCAR Cup Series Championship",
-      "eventUrl": "https://www.ticketmaster.com/nascar-cup-series-championship-homestead-florida-11-08-2026/event/0D006316B1AE344C",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "15:00",
-      "startDateTime": "2026-11-08T20:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/f89/c7c11c17-4c47-4d1f-82df-a79b9b1a6f89_SOURCE",
-      "venue": {
-        "id": "KovZpZAdJnAA",
-        "name": "Homestead Miami Speedway",
-        "city": "Homestead",
-        "state": "FL",
-        "country": "US",
-        "latitude": 25.4554984,
-        "longitude": -80.4117875,
-        "street": "1 Speedway Blvd",
-        "zipCode": "33035",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9174lRV",
-          "name": "NASCAR Cup Series",
-          "url": "https://www.ticketmaster.com/nascar-cup-series-tickets/artist/2320356"
-        }
-      ],
-      "searchText": "nascar cup series championship parking required free parking will not be available for nascar championship weekend add a parking pass to your order during check out to secure parking for the event homestead miami speedway homestead fl us nascar cup series"
-    },
-    {
-      "id": "vvG1iZ_8mDsAIN",
-      "legacyEventId": "0B00650BBBC45A23",
-      "name": "Robby Hoffman: Live On Tour",
-      "eventUrl": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B00650BBBC45A23",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "16:00",
-      "startDateTime": "2026-11-09T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/b8a/3a3787fb-d4e9-4782-8989-3fafc0622b8a_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179Qpf",
-          "name": "Robby Hoffman",
-          "url": "https://www.ticketmaster.com/robby-hoffman-tickets/artist/2544728"
-        }
-      ],
-      "searchText": "robby hoffman live on tour ages welcome doors open 4pm show starts 5pm all times are subject to change this event is open to all ages all guests under the age of 18 must be accompanied by a parent guardian or responsible adult over the age of 25 with written authorization dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us robby hoffman"
-    },
-    {
-      "id": "vv17fZ_8GklKiZUI",
-      "legacyEventId": "0500650AD3B00DA8",
-      "name": "Indy Fuel vs Cincinnati Cyclones",
-      "eventUrl": "https://www.ticketmaster.com/indy-fuel-vs-cincinnati-cyclones-fishers-indiana-11-08-2026/event/0500650AD3B00DA8",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "16:00",
-      "startDateTime": "2026-11-08T21:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/52f/d5dd4b00-1b30-4bca-a037-99cc9267352f_SOURCE",
-      "venue": {
-        "id": "KovZ917AmVB",
-        "name": "Fishers Event Center",
-        "city": "Fishers",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.9474345,
-        "longitude": -86.0061368,
-        "street": "11000 Stockdale Street",
-        "zipCode": "46037",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9173ldV",
-          "name": "Indy Fuel",
-          "url": "https://www.ticketmaster.com/indy-fuel-tickets/artist/2017519"
-        },
-        {
-          "id": "K8vZ9171oDf",
-          "name": "Cincinnati Cyclones",
-          "url": "https://www.ticketmaster.com/cincinnati-cyclones-tickets/artist/806439"
-        }
-      ],
-      "searchText": "indy fuel vs cincinnati cyclones children two years and under are free with an accompanying adult but must sit on a lap for a smooth arrival purchase parking in advance or use the on site payment signs located in the lots fishers event center is cashless and accepts only card and mobile payments for the fastest entry please avoid bringing bags clear bags up to 12x6x12 inches are allowed as well as non clear bags smaller than 4 5x6 5 inches all tickets are mobile visit fisherseventcenter com for a list of prohibited items and additional venue guidelines fishers event center fishers in us indy fuel cincinnati cyclones"
-    },
-    {
-      "id": "vv1A8v0ObGAGPItg",
-      "legacyEventId": "010064818C968A75",
-      "name": "New England Patriots v Green Bay Packers",
-      "eventUrl": "https://www.ticketmaster.com/new-england-patriots-v-green-bay-foxborough-massachusetts-11-08-2026/event/010064818C968A75",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "16:25",
-      "startDateTime": "2026-11-08T21:25:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/95c/0173c6d8-736f-487e-8146-794d0313095c_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kvlA",
-        "name": "Gillette Stadium",
-        "city": "Foxborough",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.090918,
-        "longitude": -71.264321,
-        "street": "1 Patriot Place",
-        "zipCode": "02035",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171ouf",
-          "name": "New England Patriots",
-          "url": "https://www.ticketmaster.com/new-england-patriots-tickets/artist/805980"
-        },
-        {
-          "id": "K8vZ9171oC7",
-          "name": "Green Bay Packers",
-          "url": "https://www.ticketmaster.com/green-bay-packers-tickets/artist/805947"
-        }
-      ],
-      "searchText": "new england patriots v green bay packers flex schedule please be aware that there are certain games that are subject to flexible scheduling and the date and time of those games may be changed from what is currently reflected on the schedule and what may appear on the ticket for more detailed information about nfl flexible scheduling procedures for the 2026 nfl season click here https www nfl com ways to watch flexible scheduling procedures free parking stadium owned lots non stadium side everyone regardless of age required to have ticket nfl bag policy rain or shine event no refunds or exchanges no audio or video cameras allowed visa only accepted method of payment visit www gillettestadium com for prohibited items list gillette stadium foxborough ma us new england patriots green bay packers"
-    },
-    {
-      "id": "vvG1OZ_Gl4tyD9",
-      "legacyEventId": "080064CAD5A79ED7",
-      "name": "Saginaw Spirit vs. Brampton Steelheads",
-      "eventUrl": "https://www.ticketmaster.com/saginaw-spirit-vs-brampton-steelheads-saginaw-michigan-11-08-2026/event/080064CAD5A79ED7",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "17:30",
-      "startDateTime": "2026-11-08T22:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/ec4/e5066377-4678-48d5-b61f-c47d3ebd6ec4_SOURCE",
-      "venue": {
-        "id": "KovZpZAdFatA",
-        "name": "Dow Event Center",
-        "city": "Saginaw",
-        "state": "MI",
-        "country": "US",
-        "latitude": 43.43586,
-        "longitude": -83.936171,
-        "street": "303 Johnson",
-        "zipCode": "48607",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175uo7",
-          "name": "Saginaw Spirit",
-          "url": "https://www.ticketmaster.com/saginaw-spirit-tickets/artist/836382"
-        },
-        {
-          "id": "K8vZ9178vKV",
-          "name": "Brampton Steelheads",
-          "url": "https://www.ticketmaster.com/brampton-steelheads-tickets/artist/1753776"
-        }
-      ],
-      "searchText": "saginaw spirit vs brampton steelheads the dow event center has a clear bag policy and is cashless for all events only credit cards and debit cards will be accepted at all points of purchase including parking dow bucks available at the box office in 5 increments for cash dow bucks can be used at all concession stands managed by legends throughout the building 20 cash 20 in dow bucks no limit per guest only available with usd visa gift cards available in 20 increments a 2 bank processing fee applies per card i e 22 cash 20 card value standard limit of 2 per guest while supplies last exceptions may be made for higher value purchases only available with usd small clutches no larger than 4 5 x 6 5 x 2 inches or clear bags 12 x12 x 6 inches or smaller will only be permitted no bags backpacks or purses other than those required for medical or parenting needs will be permitted into the venue medical or parenting bags will undergo additional security screening dow event center saginaw mi us saginaw spirit brampton steelheads"
-    },
-    {
-      "id": "vvG1OZ_18xZp64",
-      "legacyEventId": "080064A4220161D5",
-      "name": "Elmo's Got the Moves",
-      "eventUrl": "https://www.ticketmaster.com/elmos-got-the-moves-detroit-michigan-11-08-2026/event/080064A4220161D5",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "18:00",
-      "startDateTime": "2026-11-08T23:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/216/4080c07a-cd76-4f5f-8726-54a3fcc86216_SOURCE",
-      "venue": {
-        "id": "KovZpZA6kdtA",
-        "name": "Fox Theatre Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.338548,
-        "longitude": -83.05207,
-        "street": "2211 Woodward Ave",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171o77",
-          "name": "Sesame Street Live",
-          "url": "https://www.ticketmaster.com/sesame-street-live-tickets/artist/804287"
-        }
-      ],
-      "searchText": "elmo s got the moves it is the tour s policy that children under 2 years old do not require a ticket all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us sesame street live"
-    },
-    {
-      "id": "vvG1iZ_2m9O3wJ",
-      "legacyEventId": "0B0064FB97812CA6",
-      "name": "Robby Hoffman: Live On Tour",
-      "eventUrl": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B0064FB97812CA6",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "18:30",
-      "startDateTime": "2026-11-09T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/b8a/3a3787fb-d4e9-4782-8989-3fafc0622b8a_SOURCE",
-      "venue": {
-        "id": "KovZ917AxAB",
-        "name": "The Observatory North Park",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.748097,
-        "longitude": -117.131213,
-        "street": "2891 University Ave",
-        "zipCode": "92104",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9179Qpf",
-          "name": "Robby Hoffman",
-          "url": "https://www.ticketmaster.com/robby-hoffman-tickets/artist/2544728"
-        }
-      ],
-      "searchText": "robby hoffman live on tour all ages welcome doors open 6 30pm show starts 7 30pm all times are subject to change this event is open to all ages all guests under the age of 18 must be accompanied by a parent guardian or responsible adult over the age of 25 with written authorization parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us robby hoffman"
-    },
-    {
-      "id": "rZ7HnEZ1AfF_G7",
-      "legacyEventId": "rZ7HnEZ1AfF_G7",
-      "name": "Billy Gardell",
-      "eventUrl": "https://www.ticketweb.com/event/billy-gardell-blue-note-hawaii-tickets/14219304",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-09T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/813/36aa969e-b382-405d-8973-95888913b813_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917uDv0",
-          "name": "Billy Gardell",
-          "url": "https://www.ticketmaster.com/billy-gardell-tickets/artist/1130974"
-        }
-      ],
-      "searchText": "billy gardell with opener josh staplesblue note comedy series presents billy gardell with opener josh staples get ready for an unforgettable night of laughs with billy gardell a powerhouse stand up comedian whose grounded down to earth comedy will make you feel like you re hanging out with your funniest friend while you might recognize him from his starring roles in hit tv sitcoms like mike molly and bob hearts abishola billy s true mastery belongs on the live stage he took the long road to hollywood honing his craft in small town lounges and military bases across the country to build a powerhouse act that resonates with everyday audiences sharing hilariously relatable honest stories about his rough childhood wild adolescence and the chaotic joys of family life billy is a master craftsman of comedy who guarantees a night of non stop belly laugh entertainment tickets 25 35 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us billy gardell"
-    },
-    {
-      "id": "vvG17Z_5UG1WWT",
-      "legacyEventId": "010064BD8C2BDF7F",
-      "name": "DeRay Davis",
-      "eventUrl": "https://www.ticketmaster.com/deray-davis-boston-massachusetts-11-08-2026/event/010064BD8C2BDF7F",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-09T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/332/b7e2b245-267c-402a-a78f-c50f46a63332_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917CV07",
-          "name": "DeRay Davis",
-          "url": "https://www.ticketmaster.com/deray-davis-tickets/artist/1325274"
-        }
-      ],
-      "searchText": "deray davis wilbur theatre parking is available at the link below the wilbur boston ma us deray davis"
-    },
-    {
-      "id": "vvG1iZ_CXzlPAZ",
-      "legacyEventId": "0B0064EFB8AE5140",
-      "name": "Soft Cell",
-      "eventUrl": "https://www.ticketmaster.com/soft-cell-el-cajon-california-11-08-2026/event/0B0064EFB8AE5140",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-09T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/89d/daa0e56c-9b6d-4459-9fc8-4eac8d48b89d_SOURCE",
-      "venue": {
-        "id": "KovZ917AOww",
-        "name": "The Magnolia",
-        "city": "El Cajon",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.795625,
-        "longitude": -116.95955,
-        "street": "210 E Main Street",
-        "zipCode": "92020",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175oNV",
-          "name": "Soft Cell",
-          "url": "https://www.ticketmaster.com/soft-cell-tickets/artist/847004"
-        }
-      ],
-      "searchText": "soft cell doors 7pm show 8pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us soft cell"
-    },
-    {
-      "id": "17AYv0G6Ck1Cz73",
-      "legacyEventId": "170064E18A3B8112",
-      "name": "SiriusXM Presents An Intimate Evening with SANTANA Greatest Hits Live",
-      "eventUrl": "https://www.ticketmaster.com/siriusxm-presents-an-intimate-evening-with-las-vegas-nevada-11-08-2026/event/170064E18A3B8112",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-09T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/84d/48d8005a-2613-4db9-8701-f70231c3384d_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91718pf",
-          "name": "Santana",
-          "url": "https://www.ticketmaster.com/santana-tickets/artist/741473"
-        },
-        {
-          "id": "K8vZ9171uV0",
-          "name": "Carlos Santana",
-          "url": "https://www.ticketmaster.com/carlos-santana-tickets/artist/781063"
-        }
-      ],
-      "searchText": "siriusxm presents an intimate evening with santana greatest hits live room music hall door time 7 pm ages 18 years and older with valid photo id artist website santana com special offers complimentary admission to vinyl room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues las vegas las vegas nv us santana carlos santana"
-    },
-    {
-      "id": "vv1AAZkoSGkezrhqM",
-      "legacyEventId": "05006473B879B777",
-      "name": "Blue October: Foiled 20th Anniversary World Tour",
-      "eventUrl": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-nashville-indiana-11-08-2026/event/05006473B879B777",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "19:30",
-      "startDateTime": "2026-11-09T00:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/472/1426901f-6f24-44ff-986e-54c2f1743472_SOURCE",
-      "venue": {
-        "id": "KovZ917AOr1",
-        "name": "Brown County Music Center",
-        "city": "Nashville",
-        "state": "IN",
-        "country": "US",
-        "latitude": 39.197639,
-        "longitude": -86.238487,
-        "street": "200 Maple Leaf Boulevard",
-        "zipCode": "47448",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171wrV",
-          "name": "Blue October",
-          "url": "https://www.ticketmaster.com/blue-october-tickets/artist/712450"
-        }
-      ],
-      "searchText": "blue october foiled 20th anniversary world tour doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us blue october"
-    },
-    {
-      "id": "vvG1zZ_uB__JjK",
-      "legacyEventId": "0E0064DE99666713",
-      "name": "First To Eleven",
-      "eventUrl": "https://www.ticketmaster.com/first-to-eleven-atlanta-georgia-11-08-2026/event/0E0064DE99666713",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-09T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7f6/9743f2a7-fa47-4375-b94c-aec6f7d077f6_SOURCE",
-      "venue": {
-        "id": "KovZpZA1lJ7A",
-        "name": "Vinyl",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 West Peachtree St",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917QzXf",
-          "name": "First To Eleven",
-          "url": "https://www.ticketmaster.com/first-to-eleven-tickets/artist/2950743"
-        },
-        {
-          "id": "K8vZ9171wF7",
-          "name": "Keepsake",
-          "url": "https://www.ticketmaster.com/keepsake-tickets/artist/703658"
-        },
-        {
-          "id": "K8vZ917QcI0",
-          "name": "Hello Sister",
-          "url": "https://www.ticketmaster.com/hello-sister-tickets/artist/2927270"
-        }
-      ],
-      "searchText": "first to eleven rival presents first to eleven november 8 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us first to eleven keepsake hello sister"
-    },
-    {
-      "id": "vvG1zZ_Gp0p1B-",
-      "legacyEventId": "0E0064C5A458AEA1",
-      "name": "honestav - The Sweet American Boy Tour ",
-      "eventUrl": "https://www.ticketmaster.com/honestav-the-sweet-american-boy-tour-atlanta-georgia-11-08-2026/event/0E0064C5A458AEA1",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-09T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/7e5/02c396dd-5dde-4a2f-a455-c68a60b957e5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917q6V7",
-          "name": "honestav",
-          "url": "https://www.ticketmaster.com/honestav-tickets/artist/3219683"
-        },
-        {
-          "id": "K8vZ917O_Q7",
-          "name": "Untitled",
-          "url": "https://www.ticketmaster.com/untitled-tickets/artist/781383"
-        }
-      ],
-      "searchText": "honestav the sweet american boy tour since entertainment presents honestav the sweet american boy tour w untitled november 8 2026 center stage general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us honestav untitled"
-    },
-    {
-      "id": "rZ7HnEZ1AfPSrd",
-      "legacyEventId": "rZ7HnEZ1AfPSrd",
-      "name": "Stephen Day - The Self Titled Tour w/ Emily Brimlow",
-      "eventUrl": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-09T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2dc/f8a9f217-7791-424d-83c9-6b24225dd2dc_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917b-I0",
-          "name": "Stephen Day",
-          "url": "https://www.ticketmaster.com/stephen-day-tickets/artist/2640644"
-        }
-      ],
-      "searchText": "stephen day the self titled tour w emily brimlow the self titled tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 25 advanced standing 30 day of show standingnote tickets available at box office convenience service charges apply for online purchases vip meet greet package 75 available online only includes 1 general admission standing ticketearly access to the merch stand 1 vip tour laminate 1 vip exclusive poster signed by stephenmeet and greet photo op with stephena one song acoustic performance all vip events will be held before the show prior to doors arrive one hour before doors for check in vip will start 45 minutes before doors and will end 15 minutes prior to doors table reservation vip musicboxsd com 619 836 1847box office contact 619 795 1337 boxoffice musicboxsd com faqbox office hours 11 am to 5 pm monday through friday as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd comnot on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change no persons under the age of eighteen 18 years shall be permitted at any time into the designated entertainment area s whenever entertainment is provided unless such person is accompanied by their parent spouse or legal guardian or an adult twenty five 25 years or older who has written authorization from the parent spouse or legal guardian intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations protect the minors from alcohol and other criminal activity music box san diego ca us stephen day"
-    },
-    {
-      "id": "1AyZkfUGkd9LKXF",
-      "legacyEventId": "39006536D77D3F88",
-      "name": "Lakeside Laughs Comedy Club",
-      "eventUrl": "https://www.ticketmaster.com/lakeside-laughs-comedy-club-lake-tahoe-nevada-11-08-2026/event/39006536D77D3F88",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-08",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-09T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "venue": {
-        "id": "KovZpaF28e",
-        "name": "The Cabaret at Caesars Republic Lake Tahoe",
-        "city": "Lake Tahoe",
-        "state": "NV",
-        "country": "US",
-        "latitude": 38.96030808,
-        "longitude": -119.94269562,
-        "street": "18 Hwy 50",
-        "zipCode": "89449",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "lakeside laughs comedy club harrah s caesars republic lake tahoe prohibits the carrying and orpossession of firearms even with a ccw or other dangerous weapons onthe premises the venue reserves the right to implement securityprocedures designed to protect the experience for all of our customers paid parking charges may apply doors open 7 30pm maitre d seating must be 21 yrs w valid id to attend the show the cabaret at caesars republic lake tahoe lake tahoe nv us"
-    },
-    {
-      "id": "vv17OZ_dGkSYH_YL",
-      "legacyEventId": "0800643CF0F19C1F",
-      "name": "ZAYN: The Konnakol Tour",
-      "eventUrl": "https://www.ticketmaster.com/zayn-the-konnakol-tour-detroit-michigan-11-08-2026/event/0800643CF0F19C1F",
-      "resaleEventUrl": null,
-      "status": "cancelled",
-      "localDate": "2026-11-08",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-09T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/2e8/361ce2bc-e824-4864-a0bc-3a464e0062e8_SOURCE",
-      "venue": {
-        "id": "KovZ917A25V",
-        "name": "Little Caesars Arena",
-        "city": "Detroit",
-        "state": "MI",
-        "country": "US",
-        "latitude": 42.341089,
-        "longitude": -83.055434,
-        "street": "2645 Woodward",
-        "zipCode": "48201",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917fNP0",
-          "name": "ZAYN",
-          "url": "https://www.ticketmaster.com/zayn-tickets/artist/2225397"
-        }
-      ],
-      "searchText": "zayn the konnakol tour all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited little caesars arena detroit mi us zayn"
     },
     {
       "id": "rZ7HnEZ1A4va0d",
@@ -14883,7 +14053,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204874",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-11-27",
       "localTime": "18:00",
       "startDateTime": "2026-11-27T23:00:00Z",
@@ -17205,7 +16375,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-11-29T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/05/04_Edp.jpg?v=2",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -17219,7 +16389,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "rZ7HnEZ1AfCoA0",
@@ -24244,7 +23414,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204964",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-05",
       "localTime": "20:00",
       "startDateTime": "2026-12-06T01:00:00Z",
@@ -25545,7 +24715,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-12-06T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/04/74_Edp.jpg?v=3",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -25559,7 +24729,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "rZ7HnEZ1AfFzo7",
@@ -29971,7 +29141,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-12T01:00:00Z",
       "endDateTime": "2026-12-12T05:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/80/54_Edp.jpg?v=5",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/01/80/54_Edp.jpg?v=7",
       "venue": {
         "id": "rZ7HnEZ17_apd",
         "name": "Diamondback Music Hall",
@@ -31746,7 +30916,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-13T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/04/94_Edp.jpg?v=2",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -31760,7 +30930,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "17A8v0G65lq7CXx",
@@ -32843,7 +32013,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-12-13T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/04/84_Edp.jpg?v=2",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -32857,7 +32027,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8ro",
@@ -33420,7 +32590,7 @@
       "name": "XEEM: Live in Atlanta",
       "eventUrl": "https://www.ticketmaster.com/xeem-live-in-atlanta-atlanta-georgia-12-13-2026/event/0E006563DF6921E5",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-12-13",
       "localTime": "20:00",
       "startDateTime": "2026-12-14T01:00:00Z",
@@ -37095,7 +36265,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-12-18T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/92/17/14_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/05/24_Edp.jpg?v=2",
       "venue": {
         "id": "rZ7HnEZ178_7A",
         "name": "Delaware River Railroad Excursions (Polar Express Train Ride)",
@@ -37109,7 +36279,7 @@
         "timezone": "America/New_York"
       },
       "attractions": [],
-      "searchText": "the polar express trip length 1 hr 45 mindeparture point 38 market st phillipsburg nj 08865how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather norefunds nopeanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discountshow do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flipdouble decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
+      "searchText": "the polar express trip length 1 hr 45 min departure point 38 market st phillipsburg nj 08865 how early should i arrive due to remote parking and the need to take shuttles we strongly suggest you are at least 40 minutes early all trips sell out we cannot seat you on a later train what happens on the train the train is beautifully decorated and you will enjoy the story of the polar express read very audibly over our speaker system all choreographed with the polar express music from the movie hot chocolate and cookies are served santa boards the train and visits the children along with his elves and each child receives a bell from santa can we take pictures with santa yes of course are trips cancelled due to weather no refunds no peanuts it must be assumed that the cookies have or have been made in a factory that contains nuts hot chocolate the hot chocolate we use is swiss miss please contact them with content inquiries groups to sit together you must be early all together and in the front of the line additionally you must purchase your tickets together and board together to sit together also once you get to the station and get your tickets make sure the group leader informs one of the station platform attendants that your group is here and the number of people in your group so we can help you all board group discounts there are no group discounts how do we get our tickets we do not mail tickets please bring your emailed receipt to the ticket office the day of the trip to retrieve your tickets baby seats are not allowed on the train lap sitters a lap sitter is under 2 years of age and must sit on your lap for the entire trip intended for infants only only 1 lap sitter per adult ticket allowed exchanges due to the fact that each trip sells out we cannot exchange your tickets for another trip please make sure when you enter the dates and times that they are correct and check with family beforehand to make sure there are no schedule conflicts we also recommend having at least 2 dates times ready in case your first choice is sold out seating info single level seats do not flip double decker downstairs please buy in pairs of 2 delaware river railroad excursions polar express train ride phillipsburg nj us"
     },
     {
       "id": "vv1AAZkfUGkdveVIN",
@@ -46549,7 +45719,7 @@
       "localTime": "20:30",
       "startDateTime": "2026-12-27T01:30:00Z",
       "endDateTime": "2026-12-27T07:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/13/62/94_Edp.jpg?v=10",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/13/62/94_Edp.jpg?v=11",
       "venue": {
         "id": "rZ7HnEZ17_apd",
         "name": "Diamondback Music Hall",
@@ -81124,7 +80294,7 @@
           "url": "https://www.ticketmaster.com/noah-kahan-tickets/artist/2385568"
         }
       ],
-      "searchText": "noah kahan the last of the bugs world tour all persons entering ohio stadium are subject to inspection bags are not permitted with the exceptions for medical bags or diaper bags guests with medical or childcare needs must enter through the designated medical lanes located at each gate clutches wallets or wristlets with or without a strap no larger than 5 inches x 8 inches x 1 inch are permitted the ohio state athletics ticket office northeast corner of schottenstein center will be open from 9am to 4pm m f with extended hours on event days contact us at athletic tix osu edu or 1 800 go bucks 1 800 462 8257 parking permits will be available for purchase at a later date please check back for updates ohio stadium columbus oh us noah kahan"
+      "searchText": "noah kahan the last of the bugs world tour 1 00 per ticket sold goes to the busyhead project all persons entering ohio stadium are subject to inspection bags are not permitted with the exceptions for medical bags or diaper bags guests with medical or childcare needs must enter through the designated medical lanes located at each gate clutches wallets or wristlets with or without a strap no larger than 5 inches x 8 inches x 1 inch are permitted the ohio state athletics ticket office northeast corner of schottenstein center will be open from 9am to 4pm m f with extended hours on event days contact us at athletic tix osu edu or 1 800 go bucks 1 800 462 8257 parking permits will be available for purchase at a later date please check back for updates ohio stadium columbus oh us noah kahan"
     },
     {
       "id": "G5vYZ_fMfmUax",
