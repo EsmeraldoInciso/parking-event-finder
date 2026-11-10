@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-09T10:45:49.482Z",
+  "generatedAt": "2026-11-10T10:41:04.041Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-11-09T10:20:22Z",
-    "numberOfEvents": 108377,
-    "compressedSizeBytes": 82933697,
-    "checksum": "bc100d76e4556558fd85ae028b056975"
+    "lastUpdated": "2026-11-10T10:35:11Z",
+    "numberOfEvents": 108999,
+    "compressedSizeBytes": 83753050,
+    "checksum": "b120ba066c096d3c4bcb95cc9a80b785"
   },
   "summary": {
-    "parkingEvents": 2460
+    "parkingEvents": 2485
   },
   "diagnostics": {
     "terms": {
       "olivia": 68,
-      "rodrigo": 52,
+      "rodrigo": 50,
       "metallica": 66,
-      "intuit dome": 127,
-      "sphere": 1209,
-      "parking": 5824
+      "intuit dome": 126,
+      "sphere": 1218,
+      "parking": 5863
     },
     "samples": {
       "olivia": [
@@ -405,22 +405,22 @@
           "matchedAsParking": false
         },
         {
-          "id": "rZ7HnEZ1Afu-b0",
-          "name": "Jerome Jennings Quintet",
-          "eventUrl": "https://www.ticketweb.com/event/jerome-jennings-quintet-smalls-jazz-club-tickets/14361624",
-          "venue": "Smalls Jazz Club",
-          "city": "New York",
-          "state": "NY",
+          "id": "vvG10Z_13MtRPH",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-21-2027/event/090064A4B7A6F97C",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
           "matchedTerm": "rodrigo",
           "matchedAsParking": false
         },
         {
-          "id": "rZ7HnEZ1Afu-_V",
-          "name": "Jerome Jennings Quintet",
-          "eventUrl": "https://www.ticketweb.com/event/jerome-jennings-quintet-smalls-jazz-club-tickets/14361674",
-          "venue": "Smalls Jazz Club",
-          "city": "New York",
-          "state": "NY",
+          "id": "vvG10Z_13MRTJD",
+          "name": "Olivia Rodrigo: The Unraveled Tour",
+          "eventUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-california-01-25-2027/event/090064A4B7BFF9BB",
+          "venue": "Intuit Dome",
+          "city": "Inglewood",
+          "state": "CA",
           "matchedTerm": "rodrigo",
           "matchedAsParking": false
         }
@@ -1713,136 +1713,6 @@
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
     },
     {
-      "id": "rZ7HnEZ1A4va0d",
-      "legacyEventId": "rZ7HnEZ1A4va0d",
-      "name": "Modern Swing Mondays",
-      "eventUrl": "https://www.ticketweb.com/event/modern-swing-mondays-stampede-tickets/15049903",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-09",
-      "localTime": "18:00",
-      "startDateTime": "2026-11-10T01:00:00Z",
-      "endDateTime": "2026-11-10T06:30:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/64/70/33_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ173p1A",
-        "name": "Stampede",
-        "city": "Aurora",
-        "state": "CO",
-        "country": "US",
-        "latitude": 39.672363,
-        "longitude": -104.865271,
-        "street": "2430 South Havana",
-        "zipCode": "80014",
-        "timezone": "America/Denver"
-      },
-      "attractions": [],
-      "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
-    },
-    {
-      "id": "rZ7HnEZ1AfCkfV",
-      "legacyEventId": "rZ7HnEZ1AfCkfV",
-      "name": "Local Comedy Showcase",
-      "eventUrl": "https://www.ticketweb.com/event/local-comedy-showcase-blue-note-hawaii-tickets/14386534",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-09",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-10T05:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/10/30/74_Edp.jpg?v=4",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [],
-      "searchText": "local comedy showcase blue note comedy series comedy u presents local comedy showcase comedy u returns to the blue note featuring some of hawaii s best comedians hosted by anette arinix featuring jose dynamite brody neco butler nalo ticket 15 20 5 day of show club policies show 7pm doors 5 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
-    },
-    {
-      "id": "rZ7HnEZ1Af-y7S",
-      "legacyEventId": "rZ7HnEZ1Af-y7S",
-      "name": "GWAR",
-      "eventUrl": "https://www.ticketweb.com/event/gwar-the-hall-tickets/14879133",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-09",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-10T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/909/c0e06fb3-7dd3-4508-899d-68ec0d009909_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ17feC4",
-        "name": "The Hall",
-        "city": "Little Rock",
-        "state": "AR",
-        "country": "US",
-        "latitude": 34.74113784062877,
-        "longitude": -92.27955864518148,
-        "street": "721 West 9th Street",
-        "zipCode": "72201",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171G4f",
-          "name": "GWAR",
-          "url": "https://www.ticketmaster.com/gwar-tickets/artist/735222"
-        },
-        {
-          "id": "K8vZ9178WAV",
-          "name": "Midnight",
-          "url": "https://www.ticketmaster.com/midnight-tickets/artist/1842117"
-        },
-        {
-          "id": "K8vZ917KhF7",
-          "name": "Mac Sabbath",
-          "url": "https://www.ticketmaster.com/mac-sabbath-tickets/artist/2117004"
-        }
-      ],
-      "searchText": "gwar all tickets on the floor mezzanine are general admission standing room only limited seating will be available for mezzanine ticket holders on a first come first served basis the mezzanine is 21 only ticket prices include all fees and taxes tickets purchased at the box office have reduced fees the box office at the hall is open every friday from 10am 4pm address 721 w 9th st little rock ar 72201 please note the hall is a cashless venue only debit or credit cards are accepted at our bars box office and guest services window please plan accordingly please rideshare parking is limited around the venue we strongly recommend using rideshare apps like uber or lyft for transportation to and from the venue there is a designated rideshare pick up drop off location near the entrance for your convenience need an access code sign up for our newsletter to get new show announcements exclusive presale codes rental discounts and more sign up here presale codes are usually sent out on thursdays at 10am as part of our weekly newsletter the hall little rock ar us gwar midnight mac sabbath"
-    },
-    {
-      "id": "rZ7HnEZ1A4Z9vK",
-      "legacyEventId": "rZ7HnEZ1A4Z9vK",
-      "name": "Thomas Dolby - Iconic 80's Recollections Tour 2026 w/ DJ Vaughn Avakian",
-      "eventUrl": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-09",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-10T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/169/8a9c3121-a52d-4deb-8ea8-74e681c3c169_SOURCE",
-      "venue": {
-        "id": "rZ7HnEZ178O8g",
-        "name": "Music Box",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.71938,
-        "longitude": -117.16813,
-        "street": "1337 India Street",
-        "zipCode": "92101",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171F17",
-          "name": "Thomas Dolby",
-          "url": "https://www.ticketmaster.com/thomas-dolby-tickets/artist/734942"
-        }
-      ],
-      "searchText": "thomas dolby iconic 80 s recollections tour 2026 w dj vaughn avakian iconic 80 s recollections tour 2026there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 45 adv standing 45 day of standing note tickets available at box office convenience service charges apply for online purchases thomas dolby meet greet package 145 available online only includes one 1 general admission ticket vip early entry into the venue exclusive meet greet with thomas dolby personal photograph with thomas dolby autographed piece of music composed by thomas dolby specially designed record bag official meet greet laminate priority merchandise shopping limited availability table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us thomas dolby"
-    },
-    {
       "id": "1A9Zk4FGkdpS0oa",
       "legacyEventId": "17006548D6CE4449",
       "name": "Veterans Bowl",
@@ -1965,7 +1835,7 @@
     {
       "id": "rZ7HnEZ1Af84a0",
       "legacyEventId": "rZ7HnEZ1Af84a0",
-      "name": "Songwriter Circle w/ host IAN LEITH",
+      "name": "Songwriter Circle w/ host IAN LEITH and guests Lainey and Mike!",
       "eventUrl": "https://www.ticketweb.com/event/songwriter-circle-w-host-ian-fitzgeralds-nightclub-tickets/14415264",
       "resaleEventUrl": null,
       "status": "onsale",
@@ -1973,7 +1843,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-11-11T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/12/88/54_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/12/88/54_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -1987,7 +1857,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "songwriter circle w host ian leith fitzgeralds songwriter circle hosted by ian leith free show click book now to reserve a table grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
+      "searchText": "songwriter circle w host ian leith and guests lainey and mike fitzgeralds songwriter circle hosted by ian leith free show click book now to reserve a table grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "rZ7HnEZ1AfF67V",
@@ -2339,7 +2209,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-11-12T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/39/54_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/04/39/54_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZa5yw",
         "name": "The Masonic Lodge at Hollywood Forever",
@@ -4165,82 +4035,6 @@
       "searchText": "lakeside laughs comedy club harrah s caesars republic lake tahoe prohibits the carrying and or possession of firearms even with a ccw or other dangerous weapons on the premises the venue reserves the right to implement security procedures designed to protect the experience for all of our customers paid parking charges may apply doors open 9pm maitre d seating must be 21 yrs w valid id to attend the show the cabaret at caesars republic lake tahoe lake tahoe nv us"
     },
     {
-      "id": "vvG1FZ_1T893YU",
-      "legacyEventId": "020064AFD05D2C36",
-      "name": "Football Parking - Minnesota",
-      "eventUrl": "https://www.ticketmaster.com/football-parking-minnesota-university-park-pennsylvania-11-14-2026/event/020064AFD05D2C36",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-14",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5b7/6e74fa87-c37d-4935-b1bb-6f28102f95b7_SOURCE",
-      "venue": {
-        "id": "KovZpZAFdJ6A",
-        "name": "West Shore Home Field at Beaver Stadium",
-        "city": "University Park",
-        "state": "PA",
-        "country": "US",
-        "latitude": 40.8101829,
-        "longitude": -77.862127,
-        "street": "University Drive & Park Ave",
-        "zipCode": "16802",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171Mdf",
-          "name": "Penn State Nittany Lions",
-          "url": "https://www.ticketmaster.com/penn-state-nittany-lions-tickets/artist/836126"
-        },
-        {
-          "id": "K8vZ917Gp4V",
-          "name": "Minnesota Golden Gophers",
-          "url": "https://www.ticketmaster.com/minnesota-golden-gophers-tickets/artist/805240"
-        }
-      ],
-      "searchText": "football parking minnesota parking lots open at 7 a m for noon games parking lots open at 8 a m for all other games west shore home field at beaver stadium university park pa us penn state nittany lions minnesota golden gophers"
-    },
-    {
-      "id": "17AOv0G61wxeEJa",
-      "legacyEventId": "160064ACA20A7989",
-      "name": "Kentucky Wildcats Football vs. Florida Gators Football",
-      "eventUrl": "https://www.ticketmaster.com/kentucky-wildcats-football-vs-florida-gators-lexington-kentucky-11-14-2026/event/160064ACA20A7989",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-14",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/92c/a960f092-a623-4520-9c45-26b05b0d992c_SOURCE",
-      "venue": {
-        "id": "KovZpZAEk7JA",
-        "name": "Kroger Field",
-        "city": "Lexington",
-        "state": "KY",
-        "country": "US",
-        "latitude": 38.021822,
-        "longitude": -84.509457,
-        "street": "1540 University Dr",
-        "zipCode": "40506",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9175ECV",
-          "name": "Kentucky Wildcats Football",
-          "url": "https://www.ticketmaster.com/kentucky-wildcats-football-tickets/artist/975203"
-        },
-        {
-          "id": "K8vZ917GCxV",
-          "name": "Florida Gators Football",
-          "url": "https://www.ticketmaster.com/florida-gators-football-tickets/artist/1350637"
-        }
-      ],
-      "searchText": "kentucky wildcats football vs florida gators football night kick off 6 to 8 p m et start all patrons require a ticket regardless of age the clear bag policy ukathletics com clearbag is in place at kroger field fans are encouraged to visit the uk athletics gameday website for additional ticket parking and shuttle information resale tickets are available from other fans and prices are determined by the seller the public on sale date for primary inventory is tbd kroger field lexington ky us kentucky wildcats football florida gators football"
-    },
-    {
       "id": "k7vGF_o1CvE-u",
       "legacyEventId": "000065128E06784D",
       "name": "MetLife Stadium VIP Tours",
@@ -4546,6 +4340,44 @@
       "searchText": "movements happier now usa tour this event will be held at the observatory festival grounds in the observatory parking lot 3503 s harbor blvd all tickets are general admission doors 6 00pm show 7 00pm all ages observatory festival grounds santa ana ca us movements balance composure midrift niis"
     },
     {
+      "id": "17AOv0G61wxeEJa",
+      "legacyEventId": "160064ACA20A7989",
+      "name": "Kentucky Wildcats Football vs. Florida Gators Football",
+      "eventUrl": "https://www.ticketmaster.com/kentucky-wildcats-football-vs-florida-gators-lexington-kentucky-11-14-2026/event/160064ACA20A7989",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-14",
+      "localTime": "18:15",
+      "startDateTime": "2026-11-14T23:15:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/92c/a960f092-a623-4520-9c45-26b05b0d992c_SOURCE",
+      "venue": {
+        "id": "KovZpZAEk7JA",
+        "name": "Kroger Field",
+        "city": "Lexington",
+        "state": "KY",
+        "country": "US",
+        "latitude": 38.021822,
+        "longitude": -84.509457,
+        "street": "1540 University Dr",
+        "zipCode": "40506",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175ECV",
+          "name": "Kentucky Wildcats Football",
+          "url": "https://www.ticketmaster.com/kentucky-wildcats-football-tickets/artist/975203"
+        },
+        {
+          "id": "K8vZ917GCxV",
+          "name": "Florida Gators Football",
+          "url": "https://www.ticketmaster.com/florida-gators-football-tickets/artist/1350637"
+        }
+      ],
+      "searchText": "kentucky wildcats football vs florida gators football night kick off 6 to 8 p m et start all patrons require a ticket regardless of age the clear bag policy ukathletics com clearbag is in place at kroger field fans are encouraged to visit the uk athletics gameday website for additional ticket parking and shuttle information resale tickets are available from other fans and prices are determined by the seller the public on sale date for primary inventory is tbd kroger field lexington ky us kentucky wildcats football florida gators football"
+    },
+    {
       "id": "rZ7HnEZ1AfuAf0",
       "legacyEventId": "rZ7HnEZ1AfuAf0",
       "name": "Sabrina Claudio",
@@ -4577,6 +4409,33 @@
         }
       ],
       "searchText": "sabrina claudio sabrina claudio sabrina claudio is a cuban puerto rican american singer songwriter and producer known for her sultry atmospheric blend of r b pop alternative music born on september 19 1996 in miami florida claudio first gained attention with her soulful voice and sensual introspective lyrics she rose to prominence with her 2017 ep confidently lost and continued to build a loyal fanbase with her full length albums such as no rain no flowers 2018 and based on a feeling 2022 her standout single belong to you reached raa certified gold status and her record about time charted in 13 countries hit no 1 on the itunes r b chart and her song frozen landed among the top 40 on the tunes r b chart her music often explores themes of love desire and self reflection marked by her smooth vocal delivery and minimalist production sabrina claudio has been praised for her unique sound and emotive storyteling positioning her as a rising star in the contemporary r b scene tickets 30 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us sabrina claudio"
+    },
+    {
+      "id": "rZ7HnEZ1Af8Vv7",
+      "legacyEventId": "rZ7HnEZ1Af8Vv7",
+      "name": "Boots at the Brewery | Line Dancing (Open Dance)",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14434044",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-14",
+      "localTime": "18:30",
+      "startDateTime": "2026-11-14T23:30:00Z",
+      "endDateTime": "2026-11-14T23:30:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/10/84_Edp.jpg?v=2",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing open dance greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night advance tickets 12 88 total fees included door 10 cash 10 38 card all levels welcome open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "vv1AaZkfAGkdmqrVw",
@@ -4648,6 +4507,44 @@
         }
       ],
       "searchText": "siriusxm presents an intimate evening with santana greatest hits live room music hall door time 7 pm ages 18 years and older with valid photo id artist website santana com special offers complimentary admission to vinyl room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues las vegas las vegas nv us santana carlos santana"
+    },
+    {
+      "id": "vvG1FZ_1T893YU",
+      "legacyEventId": "020064AFD05D2C36",
+      "name": "Football Parking - Minnesota",
+      "eventUrl": "https://www.ticketmaster.com/football-parking-minnesota-university-park-pennsylvania-11-14-2026/event/020064AFD05D2C36",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-14",
+      "localTime": "19:00",
+      "startDateTime": "2026-11-15T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/5b7/6e74fa87-c37d-4935-b1bb-6f28102f95b7_SOURCE",
+      "venue": {
+        "id": "KovZpZAFdJ6A",
+        "name": "West Shore Home Field at Beaver Stadium",
+        "city": "University Park",
+        "state": "PA",
+        "country": "US",
+        "latitude": 40.8101829,
+        "longitude": -77.862127,
+        "street": "University Drive & Park Ave",
+        "zipCode": "16802",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171Mdf",
+          "name": "Penn State Nittany Lions",
+          "url": "https://www.ticketmaster.com/penn-state-nittany-lions-tickets/artist/836126"
+        },
+        {
+          "id": "K8vZ917Gp4V",
+          "name": "Minnesota Golden Gophers",
+          "url": "https://www.ticketmaster.com/minnesota-golden-gophers-tickets/artist/805240"
+        }
+      ],
+      "searchText": "football parking minnesota parking lots open at 7 a m for noon games parking lots open at 8 a m for all other games game time is 7 00 pm original tickets good for entry west shore home field at beaver stadium university park pa us penn state nittany lions minnesota golden gophers"
     },
     {
       "id": "1A_ZkoJGkdjSr3Z",
@@ -7259,14 +7156,14 @@
       "endDateTime": null,
       "imageUrl": "https://s1.ticketm.net/dam/a/8d2/bd2a1937-e756-417e-9a6b-34810b8d28d2_SOURCE",
       "venue": {
-        "id": "KovZpZA1tn1A",
-        "name": "The Loft",
+        "id": "KovZpZA1lJ7A",
+        "name": "Vinyl",
         "city": "Atlanta",
         "state": "GA",
         "country": "US",
         "latitude": 33.7918926,
         "longitude": -84.3877907,
-        "street": "1374 West Peachtree St.",
+        "street": "1374 West Peachtree St",
         "zipCode": "30309",
         "timezone": "America/New_York"
       },
@@ -7282,7 +7179,7 @@
           "url": "https://www.ticketmaster.com/reyna-tropical-tickets/artist/2577750"
         }
       ],
-      "searchText": "helado negro and reyna tropical as helado tropical rival presents helado tropical helado negro y reyna tropical november 18 2026 loft general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com the loft atlanta ga us helado negro reyna tropical"
+      "searchText": "helado negro and reyna tropical as helado tropical rival presents helado tropical helado negro y reyna tropical november 18 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us helado negro reyna tropical"
     },
     {
       "id": "1A9ZkffGkeTHTbm",
@@ -7855,7 +7752,7 @@
       "localTime": "11:00",
       "startDateTime": "2026-11-20T16:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/26e/b19d3d27-b0cc-4fc1-94a9-32065754d26e_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d2d/ed9e7336-c0e7-4332-b38d-7140ae291d2d_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -9535,7 +9432,7 @@
       "localTime": "12:00",
       "startDateTime": "2026-11-21T17:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/0a3/b64a689d-d65d-4962-886f-e733add950a3_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/0fc/6a7302d1-3850-44d5-9efb-6782fe1040fc_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -9809,7 +9706,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-11-21T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/394/53fdaed1-799e-4bd0-9976-9afdb0a2a394_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/2ea/aa32ac7e-52bf-4384-b53a-aef9f6af62ea_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -9908,7 +9805,7 @@
       "localTime": "18:30",
       "startDateTime": "2026-11-22T04:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/527/284623c7-ec13-48c3-b157-9e3115e79527_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/a/040/5ea38c15-d40e-4224-9c1c-5697d9eae040_SOURCE",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -11017,7 +10914,7 @@
       "localTime": "21:00",
       "startDateTime": "2026-11-22T07:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/527/284623c7-ec13-48c3-b157-9e3115e79527_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/a/040/5ea38c15-d40e-4224-9c1c-5697d9eae040_SOURCE",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -11269,7 +11166,7 @@
       "localTime": "12:00",
       "startDateTime": "2026-11-22T17:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/9c5/f88feb48-6fc8-4e65-882c-abc9701869c5_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/20c/85095cc1-bfe1-46e6-80cf-6bee74a5020c_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -11466,7 +11363,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-11-22T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/ce2/f6f7977a-34f3-449a-a726-888abb594ce2_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/aba/46d400e9-549f-4626-88be-4d7027a65aba_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -12448,7 +12345,7 @@
       "localTime": "18:00",
       "startDateTime": "2026-11-24T23:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/c28/cb26f79a-cba3-4867-a1bd-fd8837b5fc28_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d57/a0132c16-52e0-47d5-85b0-f9c80f900d57_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -13185,7 +13082,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-11-26T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/e/bd3/63ff3dc7-2221-4469-9035-080ad2916bd3_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6cc/9cef6ba9-c6a2-4284-b6a7-84c51bd5a6cc_SOURCE",
       "venue": {
         "id": "KovZ917AmVB",
         "name": "Fishers Event Center",
@@ -23338,6 +23235,33 @@
       "searchText": "dr seuss how the grinch stole christmas the musical touring all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us dr seuss how the grinch stole christmas the musical touring"
     },
     {
+      "id": "vv17fZ_4GkMGmhMB",
+      "legacyEventId": "0500655DCCB9BDFA",
+      "name": "Dinner Theatre Rejects",
+      "eventUrl": "https://www.ticketmaster.com/dinner-theatre-rejects-akron-ohio-12-05-2026/event/0500655DCCB9BDFA",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-05",
+      "localTime": "19:30",
+      "startDateTime": "2026-12-06T00:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/c3f/2fbc57ff-440c-4387-86f3-e413cec48c3f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZ917Am4V",
+        "name": "Wild Oscar's",
+        "city": "Akron",
+        "state": "OH",
+        "country": "US",
+        "latitude": 41.081084,
+        "longitude": -81.519453,
+        "street": "182 S. Main Street",
+        "zipCode": "44308",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "dinner theatre rejects park in the state street parking deck at 52 w state street take the elevator to the lock 3 level and head toward lock 4 wild oscar s akron oh us"
+    },
+    {
       "id": "G5vzZ_83El1Sc",
       "legacyEventId": "1E006504A7ACACED",
       "name": "Boise State Theatre Arts Presents A Christmas Carol",
@@ -31003,7 +30927,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-13T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/02/02/94_Edp.jpg?v=11",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/02/02/94_Edp.jpg?v=12",
       "venue": {
         "id": "rZ7HnEZaeHB",
         "name": "Emerald Theatre",
@@ -36960,7 +36884,7 @@
       "name": "Alex Ramon Magic",
       "eventUrl": "https://www.ticketmaster.com/alex-ramon-magic-lake-tahoe-nevada-12-18-2026/event/3900655AB9259FE8",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "cancelled",
       "localDate": "2026-12-18",
       "localTime": "19:30",
       "startDateTime": "2026-12-19T03:30:00Z",
@@ -37178,6 +37102,33 @@
         }
       ],
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "rZ7HnEZ1Af8So7",
+      "legacyEventId": "rZ7HnEZ1Af8So7",
+      "name": "So Lucky (A Dave Matthews Tribute)",
+      "eventUrl": "https://www.ticketweb.com/event/so-lucky-a-dave-matthews-off-the-rails-music-venue-tickets/14433444",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-18",
+      "localTime": "20:00",
+      "startDateTime": "2026-12-19T01:00:00Z",
+      "endDateTime": "2026-12-19T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/03/94_Edp.jpg?v=2",
+      "venue": {
+        "id": "rZ7HnEZ1739fP",
+        "name": "Off The Rails Music Venue",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US",
+        "latitude": 42.2666,
+        "longitude": -71.79923,
+        "street": "90 Commercial Street",
+        "zipCode": "01608",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "so lucky a dave matthews tribute all agesgeneral admission general admission is standing room only reserved table seating upgrade your experience with one of our exclusive bar height tables for two availability is limited to 15 tables per show and reserved table tickets must be purchased as a pair reserved table tickets include two 2 general admission tickets a private bar height table for two full access to the off the rails food menu dedicated table service for food and beverage orders one 1 complimentary parking space per table please present your reserved table ticket to the parking attendant upon arrival for ticketing questions or ada accommodations please contact us at info offtherailsworcester com important information please note restaurant reservations made through toast are not valid event tickets and do not include admission to the music venue restaurant seating does not provide views of the stage or access to ticketed performances if you plan to attend a ticketed event you must purchase an event ticket separately regardless of any restaurant reservation made through toast reserved table tickets purchased through our ticketing platform are the only table reservations that include admission to the performance and seating inside the music venue off the rails music venue worcester ma us"
     },
     {
       "id": "17FOv0G65l6e4js",
@@ -42906,7 +42857,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-12-24T05:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/06/13/74_Edp.jpg?v=7",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/06/13/74_Edp.jpg?v=8",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -43845,7 +43796,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-12-25T05:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/51/48/03_Edp.jpg?v=15",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/51/48/03_Edp.jpg?v=16",
       "venue": {
         "id": "rZ7HnEZ178034",
         "name": "Blue Note Hawaii",
@@ -43865,7 +43816,7 @@
           "url": "https://www.ticketmaster.com/mike-lewis-big-band-tickets/artist/4755876"
         }
       ],
-      "searchText": "charlie brown christmas 92 3 kssk hawai i s christmas station presents mike lewis big band local trumpeter and bandleader mike lewis returns to the club with his 17 piece big band now in his th year of big band monday residency at blue note hawaii mike lewis caps his illustrious 55th round the world show biz career trumpeting with the best tony bennett billy joel frank sinatra sarah vaughn wynton marsalis sammy davis and even hawaii s own kalapana c k and bruno mars to name just a few mike his band will be playing all your favorite hits from a charlie brown christmas soundtrack mike also holds the record for the most shows performed and produced at blue note hawaii tickets 25 35 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us mike lewis big band"
+      "searchText": "charlie brown christmas 92 3 kssk hawai i s christmas station presents mike lewis big band local trumpeter and bandleader mike lewis returns to the club with his 17 piece big band now in his 11th year of big band monday residency at blue note hawaii mike lewis caps his illustrious 55th round the world show biz career trumpeting with the best tony bennett billy joel frank sinatra sarah vaughn wynton marsalis sammy davis and even hawaii s own kalapana c k and bruno mars to name just a few mike his band will be playing all your favorite hits from a charlie brown christmas soundtrack mike also holds the record for the most shows performed and produced at blue note hawaii tickets 25 35 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us mike lewis big band"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8OR",
@@ -47919,7 +47870,7 @@
           "url": "https://www.ticketmaster.com/sevendust-tickets/artist/783708"
         }
       ],
-      "searchText": "sevendust ferg s pavilion presents sevendust tuesday december 29 2026 ticket options general admission ga standing courtyard section allows for access to the show and standing room sections with views to the stage and limited tables and seating areas in back of the venue vip 2 mid venue seated section reserved seating section with excellent mid venue sightlines vip 1 front of stage seated section premium reserved seating section closest to the stage ultra vip rock star seating photo meet with the band the ultimate rock concert experience one premium ultra vip seat in the first 3 rows of stage ultra vip early entry into the venue exclusive photo meet with sevendust official concert vip photo meet laminate note all ga and vip seated sections are first come first served for private party corporate sponsored vip sections at the concert call 727 643 1752 or email info fergspavilion com ferg s pavilion 1320 central avenue st petersburg fl 33705 directly across from tropicana field all ages welcome rain of shine don t miss your chance to experience sevendust live in downtown st petersburg florida about the venue located in the heart of downtown st petersburg ferg s pavilion is part of the iconic ferg s world famous sports bar and entertainment complex a 70 000 square foot destination known for live events dining and nightlife since 1992 the venue offers scalable concert capacity from intimate shows of 500 up to 5 000 attendees for block parties and music festivals access to 8 000 parking spaces across the street from the main stage at tropicana field at 1st avenue s and 13th street s and 500 space parking garage across from ferg s sports bar at central avenue and 13th street n multiple ga and vip standing and seated viewing areas full service food and beverage options indoor and outdoor event spaces dog park ferg s pavilion has quickly emerged as one of florida s most unique live music destinations combining large scale concert capability with the energy of a full entertainment complex for all upcoming shows at ferg s pavilion visit fergspavilion com for tickets ticketweb com key word ferg s ferg s pavilion st petersburg fl us sevendust"
+      "searchText": "sevendust ferg s pavilion presents sevendust tuesday december 29 2026 ticket options general admission ga standing courtyard section allows for access to the show and standing room sections with views to the stage and limited tables and seating areas in back of the venue vip 2 mid venue seated section reserved seating section with excellent mid venue sightlines vip 1 front of stage seated section premium reserved seating section closest to the stage ultra vip rock star seating photo meet with the band the ultimate rock concert experience one premium ultra vip seat in the first 3 rows of stage ultra vip early entry into the venue exclusive photo meet with sevendust official concert vip photo meet laminate note all ga and vip seated sections are first come first served for private party corporate sponsored vip sections at the concert call 727 643 1752 or email info fergspavilion com ferg s pavilion 1320 central avenue st petersburg fl 33705 directly across from tropicana field all ages welcome rain of shine don t miss your chance to experience sevendust live in downtown st petersburg florida about the venue located in the heart of downtown st petersburg ferg s pavilion is part of the iconic ferg s world famous sports bar and entertainment complex a 70 000 square foot destination known for live events dining and nightlife since 1992 the venue offers scalable concert capacity from intimate shows of 500 up to 5 000 attendees for block parties and music festivals access to 8 000 parking spaces across the street from the main stage at tropicana field at 1st avenue s and 13th street s and 500 space parking garage across from ferg s sports bar at central avenue and 13th street n multiple ga and vip standing and seated viewing areas full service food and beverage options indoor and outdoor event spaces ferg s pavilion has quickly emerged as one of florida s most unique live music destinations combining large scale concert capability with the energy of a full entertainment complex for all upcoming shows at ferg s pavilion visit fergspavilion com for tickets ticketweb com key word ferg s ferg s pavilion st petersburg fl us sevendust"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8-g",
@@ -50292,8 +50243,8 @@
     {
       "id": "16_Zk4dZYZAGCk5G",
       "legacyEventId": "19006543030BD5AB",
-      "name": "House Party Rave",
-      "eventUrl": "https://www.ticketmaster.com/house-party-rave-tempe-arizona-12-31-2026/event/19006543030BD5AB",
+      "name": "House Party",
+      "eventUrl": "https://www.ticketmaster.com/house-party-tempe-arizona-12-31-2026/event/19006543030BD5AB",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2026-12-31",
@@ -50320,7 +50271,7 @@
           "url": "https://www.ticketmaster.com/house-party-rave-tickets/artist/4131144"
         }
       ],
-      "searchText": "house party rave party with hundreds of your closest friends at house party the chaos and thrill of a 2010s rager louder sweatier and no neighbors to shut it down mid 2000s anthems bloghouse your skinniest jeans and the kind of night that feels like it s happening in a thousand blurry photos the soundtrack lmfao skrillex a ap rocky swedish house mafia passion pit rihanna mgmt more the soundtrack of nights you wish you could remember or maybe forget 18 event must have valid id to attend balcony is 21 this show is general admission parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event a tiered system is in place for certain ticket types this allows us to reward the most loyal fans who buy early by giving them access to the lowest priced tickets prices will increase as each tier sells out every ga tiered ticket regardless of tier will have the same access and benefits marquee theatre tempe az us house party rave"
+      "searchText": "house party party with hundreds of your closest friends at house party the chaos and thrill of a 2010s rager louder sweatier and no neighbors to shut it down mid 2000s anthems bloghouse your skinniest jeans and the kind of night that feels like it s happening in a thousand blurry photos the soundtrack lmfao skrillex a ap rocky swedish house mafia passion pit rihanna mgmt more the soundtrack of nights you wish you could remember or maybe forget 18 event must have valid id to attend balcony is 21 this show is general admission parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event a tiered system is in place for certain ticket types this allows us to reward the most loyal fans who buy early by giving them access to the lowest priced tickets prices will increase as each tier sells out every ga tiered ticket regardless of tier will have the same access and benefits marquee theatre tempe az us house party rave"
     },
     {
       "id": "rZ7HnEZ1AfPbuS",
@@ -53348,6 +53299,39 @@
       "searchText": "mickey avalon 16 event must have valid id for entry this event is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us mickey avalon"
     },
     {
+      "id": "vvG1iZ_p1RuSzp",
+      "legacyEventId": "0B006562AF373E16",
+      "name": "Whos Bad - The Ultimate Michael Jackson Experience",
+      "eventUrl": "https://www.ticketmaster.com/whos-bad-the-ultimate-michael-jackson-el-cajon-california-01-08-2027/event/0B006562AF373E16",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-08",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-09T03:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/a5d/0a63f876-814e-49ad-8b9e-25d98031ea5d_SOURCE",
+      "venue": {
+        "id": "KovZ917AOww",
+        "name": "The Magnolia",
+        "city": "El Cajon",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.795625,
+        "longitude": -116.95955,
+        "street": "210 E Main Street",
+        "zipCode": "92020",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175SCf",
+          "name": "Who's Bad",
+          "url": "https://www.ticketmaster.com/whos-bad-tickets/artist/979222"
+        }
+      ],
+      "searchText": "whos bad the ultimate michael jackson experience doors 7pm show 8pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us who s bad"
+    },
+    {
       "id": "1A9ZkffGkdZ7Lql",
       "legacyEventId": "17006514C011F76B",
       "name": "Tahoe Knight Monsters vs. Tulsa Oilers",
@@ -54270,6 +54254,39 @@
         }
       ],
       "searchText": "common kings no refunds or exchanges 4 ticket limit aisle the first 2 seats next to the aisle may be sold separately no cans bottles or weapons of any kind no food or smoking of any kind no flash photography and no video live recording under 18 must be accompanied by an adult 21 years or older tickets purchased through third party sellers cannot be verified for authenticity and may not be honored at redemption management reserves all rights free self parking valet the show at agua caliente casino rancho mirage rancho mirage ca us common kings sammy johnson the western conference"
+    },
+    {
+      "id": "vvG1iZ_pCQlx0N",
+      "legacyEventId": "0B0065639AAE2923",
+      "name": "Dirt Road - The Jason Aldean Experience",
+      "eventUrl": "https://www.ticketmaster.com/dirt-road-the-jason-aldean-experience-el-cajon-california-01-09-2027/event/0B0065639AAE2923",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-09",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-10T03:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZ917AOww",
+        "name": "The Magnolia",
+        "city": "El Cajon",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.795625,
+        "longitude": -116.95955,
+        "street": "210 E Main Street",
+        "zipCode": "92020",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZpZAJtFAk",
+          "name": "Dirt Road - The Jason Aldean Experience",
+          "url": "https://www.ticketmaster.com/dirt-road-the-jason-aldean-experience-tickets/artist/4782156"
+        }
+      ],
+      "searchText": "dirt road the jason aldean experience doors 7pm show 8pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us dirt road the jason aldean experience"
     },
     {
       "id": "vvG1OZ_Gl48_yA",
@@ -56336,8 +56353,14 @@
         "zipCode": "98052",
         "timezone": "America/Los_Angeles"
       },
-      "attractions": [],
-      "searchText": "non alcoholic bartending competition bitter rivals sweet competition join us for a night of friendly competition as local bartenders shake stir and muddle their way to the best mocktail in town sample creative zero proof drinks shop local craft vendors and grab a bite from buddha bruddah s food truck saturday january 16 2027 5 pm 8 pmclise mansion in marymoor park redmond wa choose your ticket tasting ticket 40 21 enjoy 2 oz pours from every competing bartender each featuring bitters from all the bitter plus a copy of the recipes so you can recreate your favorite at home while every tasting is alcohol free the tasting experience is designed for our 21 guests valid id required at the door family entry 7 all ages make it a family night out cheer on the bartenders shop local craft vendors and enjoy the food truck entry only tastings not included good to know the bar will be open during the event guests must be 21 with valid id to purchase alcohol food is sold separately by buddha bruddah parking is available in the clise lot for 1 per spot first come first served all ticket sales are final questions contact us at info cascademusicgroup com clise mansion redmond wa us"
+      "attractions": [
+        {
+          "id": "K8vZ917x5CV",
+          "name": "Non-Alcoholic Bartending Competition",
+          "url": "https://www.ticketmaster.com/nonalcoholic-bartending-competition-tickets/artist/4791491"
+        }
+      ],
+      "searchText": "non alcoholic bartending competition bitter rivals sweet competition join us for a night of friendly competition as local bartenders shake stir and muddle their way to the best mocktail in town sample creative zero proof drinks shop local craft vendors and grab a bite from buddha bruddah s food truck saturday january 16 2027 5 pm 8 pmclise mansion in marymoor park redmond wa choose your ticket tasting ticket 40 21 enjoy 2 oz pours from every competing bartender each featuring bitters from all the bitter plus a copy of the recipes so you can recreate your favorite at home while every tasting is alcohol free the tasting experience is designed for our 21 guests valid id required at the door family entry 7 all ages make it a family night out cheer on the bartenders shop local craft vendors and enjoy the food truck entry only tastings not included good to know the bar will be open during the event guests must be 21 with valid id to purchase alcohol food is sold separately by buddha bruddah parking is available in the clise lot for 1 per spot first come first served all ticket sales are final questions contact us at info cascademusicgroup com clise mansion redmond wa us non alcoholic bartending competition"
     },
     {
       "id": "LvZ18QntiAojv21YBWC7b",
@@ -59361,8 +59384,8 @@
     {
       "id": "vv16kZkfo0oZA5keu5",
       "legacyEventId": "06006511911A51CA",
-      "name": "Professional Championship Bull Riders vs. Professional Championship Barrel Racing",
-      "eventUrl": "https://www.ticketmaster.com/professional-championship-bull-riders-vs-professional-moline-illinois-01-23-2027/event/06006511911A51CA",
+      "name": "Professional Championship Bull Riders & Barrell Racers",
+      "eventUrl": "https://www.ticketmaster.com/professional-championship-bull-riders-barrell-racers-moline-illinois-01-23-2027/event/06006511911A51CA",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2027-01-23",
@@ -59394,7 +59417,7 @@
           "url": "https://www.ticketmaster.com/professional-championship-barrel-racing-tickets/artist/2260638"
         }
       ],
-      "searchText": "professional championship bull riders vs professional championship barrel racing ages 3 and up require a ticket ticket pricing is subject to change without prior notice no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us professional championship bull riders professional championship barrel racing"
+      "searchText": "professional championship bull riders barrell racers ages 3 and up require a ticket ticket pricing is subject to change without prior notice no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us professional championship bull riders professional championship barrel racing"
     },
     {
       "id": "vvG1VZ_KeR1Bin",
@@ -59875,8 +59898,8 @@
     {
       "id": "vv16kZkfo0oZACkeu8",
       "legacyEventId": "06006511911D51CF",
-      "name": "Professional Championship Bull Riders vs. Professional Championship Barrel Racing",
-      "eventUrl": "https://www.ticketmaster.com/professional-championship-bull-riders-vs-professional-moline-illinois-01-24-2027/event/06006511911D51CF",
+      "name": "Professional Championship Bull Riders & Barrell Racers",
+      "eventUrl": "https://www.ticketmaster.com/professional-championship-bull-riders-barrell-racers-moline-illinois-01-24-2027/event/06006511911D51CF",
       "resaleEventUrl": null,
       "status": "onsale",
       "localDate": "2027-01-24",
@@ -59908,7 +59931,7 @@
           "url": "https://www.ticketmaster.com/professional-championship-barrel-racing-tickets/artist/2260638"
         }
       ],
-      "searchText": "professional championship bull riders vs professional championship barrel racing ages 3 and up require a ticket ticket pricing is subject to change without prior notice no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us professional championship bull riders professional championship barrel racing"
+      "searchText": "professional championship bull riders barrell racers ages 3 and up require a ticket ticket pricing is subject to change without prior notice no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us professional championship bull riders professional championship barrel racing"
     },
     {
       "id": "1A9ZkffGkdZ6RL5",
@@ -62053,6 +62076,49 @@
       "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
     },
     {
+      "id": "vv17fZ_4GkYps8wf",
+      "legacyEventId": "0500655C16C50C94",
+      "name": "Saving Abel (Jason Null)",
+      "eventUrl": "https://www.ticketmaster.com/saving-abel-jason-null-indianapolis-indiana-02-02-2027/event/0500655C16C50C94",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-02",
+      "localTime": "18:00",
+      "startDateTime": "2027-02-02T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/fba/715a67f7-3c55-40de-8c46-959f790e3fba_SOURCE",
+      "venue": {
+        "id": "KovZpZAF7AnA",
+        "name": "8 Seconds Saloon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.768343,
+        "longitude": -86.249381,
+        "street": "111 N Lynhurst Dr",
+        "zipCode": "46224",
+        "timezone": "America/Indiana/Indianapolis"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917rxY0",
+          "name": "Saving Abel (Jason Null)",
+          "url": "https://www.ticketmaster.com/saving-abel-jason-null-tickets/artist/3895494"
+        },
+        {
+          "id": "K8vZ9171R50",
+          "name": "Tantric",
+          "url": "https://www.ticketmaster.com/tantric-tickets/artist/806744"
+        },
+        {
+          "id": "K8vZ9171HN7",
+          "name": "Flaw",
+          "url": "https://www.ticketmaster.com/flaw-tickets/artist/807369"
+        }
+      ],
+      "searchText": "saving abel jason null must be 21 to enter doors 6pm flaw 7pm tantric 7 45pm saving abel 9pm free parking no backpacks or large purses bags no male tank tops or sleevless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us saving abel jason null tantric flaw"
+    },
+    {
       "id": "G5vzZ_KxwzhJ7",
       "legacyEventId": "1E006538B2E1B984",
       "name": "The Piano Guys",
@@ -62371,6 +62437,39 @@
       "searchText": "death from above 1979 private lives tour doors open 7pm show starts 8pm all times are subject to change dinner and drinks are available at our connected restaurant west coast tavern more information www westcoasttavern com parking is available at the parking structure directly across the street from us on 29th st your ticket fee includes validation for the parking structure which is redeemable at the venue the observatory north park san diego ca us death from above 1979"
     },
     {
+      "id": "vvG1VZ_4lL_BN2",
+      "legacyEventId": "0D00655ADF67A8CF",
+      "name": "Solve-along-a-murder, She Wrote",
+      "eventUrl": "https://www.ticketmaster.com/solvealongamurder-she-wrote-ft-lauderdale-florida-02-04-2027/event/0D00655ADF67A8CF",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-04",
+      "localTime": "19:30",
+      "startDateTime": "2027-02-05T00:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZpZA7AeJA",
+        "name": "Amaturo Theater at Broward Center",
+        "city": "Ft Lauderdale",
+        "state": "FL",
+        "country": "US",
+        "latitude": 26.1193,
+        "longitude": -80.149426,
+        "street": "201 SW 5th Avenue",
+        "zipCode": "33312",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917-T47",
+          "name": "Solve-Along-A-Murder, She Wrote",
+          "url": "https://www.ticketmaster.com/solvealongamurder-she-wrote-tickets/artist/4766801"
+        }
+      ],
+      "searchText": "solve along a murder she wrote to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us solve along a murder she wrote"
+    },
+    {
       "id": "rZ7HnEZ1A4Z6Zd",
       "legacyEventId": "rZ7HnEZ1A4Z6Zd",
       "name": "FITZGERALDS TEACHER HAPPY HOUR 2/5",
@@ -62679,6 +62778,39 @@
         }
       ],
       "searchText": "indy fuel vs bloomington bison children two years and under are free with an accompanying adult but must sit on a lap for a smooth arrival purchase parking in advance or use the on site payment signs located in the lots fishers event center is cashless and accepts only card and mobile payments for the fastest entry please avoid bringing bags clear bags up to 12x6x12 inches are allowed as well as non clear bags smaller than 4 5x6 5 inches all tickets are mobile visit fisherseventcenter com for a list of prohibited items and additional venue guidelines fishers event center fishers in us indy fuel bloomington bison"
+    },
+    {
+      "id": "vvG1VZ_4lLhnNb",
+      "legacyEventId": "0D00655ADF6EA8D8",
+      "name": "Solve-along-a-murder, She Wrote",
+      "eventUrl": "https://www.ticketmaster.com/solvealongamurder-she-wrote-ft-lauderdale-florida-02-05-2027/event/0D00655ADF6EA8D8",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-05",
+      "localTime": "19:30",
+      "startDateTime": "2027-02-06T00:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZpZA7AeJA",
+        "name": "Amaturo Theater at Broward Center",
+        "city": "Ft Lauderdale",
+        "state": "FL",
+        "country": "US",
+        "latitude": 26.1193,
+        "longitude": -80.149426,
+        "street": "201 SW 5th Avenue",
+        "zipCode": "33312",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917-T47",
+          "name": "Solve-Along-A-Murder, She Wrote",
+          "url": "https://www.ticketmaster.com/solvealongamurder-she-wrote-tickets/artist/4766801"
+        }
+      ],
+      "searchText": "solve along a murder she wrote to become a member of the broward center and receive access to great seats and presales visit browardcenter org entourage today plan your visit before you go to the show for info on parking using the parkmobile app dining experiences including the nicklaus children s health system intermezzo lounge and our food and drink options in the horvitz lobby or amaturo theater find all the information you need to help make your experience as magical as what happens on stage at browardcenter org visit everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales amaturo theater at broward center ft lauderdale fl us solve along a murder she wrote"
     },
     {
       "id": "vv177Z_4GkBGY9oV",
@@ -64826,6 +64958,69 @@
       "searchText": "major nine kloud9 tour 2027 major nine kloud9 tour 2027 february 12 2027 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us"
     },
     {
+      "id": "vv16FZk4xJeZA27v18",
+      "legacyEventId": "08006562982E309F",
+      "name": "The 19th Annual Motor City Blues Festival",
+      "eventUrl": "https://www.ticketmaster.com/the-19th-annual-motor-city-blues-detroit-michigan-02-12-2027/event/08006562982E309F",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-12",
+      "localTime": "20:00",
+      "startDateTime": "2027-02-13T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce4/06d952f1-ca2c-4432-8b7b-c3a0c1b9cce4_SOURCE",
+      "venue": {
+        "id": "KovZpZA6kdtA",
+        "name": "Fox Theatre Detroit",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.338548,
+        "longitude": -83.05207,
+        "street": "2211 Woodward Ave",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917hgKf",
+          "name": "Blues is Alright",
+          "url": "https://www.ticketmaster.com/blues-is-alright-tickets/artist/3067870"
+        },
+        {
+          "id": "K8vZ917Q-Zf",
+          "name": "King George",
+          "url": "https://www.ticketmaster.com/king-george-tickets/artist/779573"
+        },
+        {
+          "id": "K8vZ917oiV0",
+          "name": "Tucka",
+          "url": "https://www.ticketmaster.com/tucka-tickets/artist/1913323"
+        },
+        {
+          "id": "K8vZ917GMxf",
+          "name": "Sir Charles Jones",
+          "url": "https://www.ticketmaster.com/sir-charles-jones-tickets/artist/1483015"
+        },
+        {
+          "id": "K8vZ917K2X7",
+          "name": "Pokey Bear",
+          "url": "https://www.ticketmaster.com/pokey-bear-tickets/artist/2096529"
+        },
+        {
+          "id": "K8vZ917hL-f",
+          "name": "Cecily Wilborn",
+          "url": "https://www.ticketmaster.com/cecily-wilborn-tickets/artist/3029665"
+        },
+        {
+          "id": "K8vZ917bEM0",
+          "name": "Melvia \"Chick\" Rodgers-Williams",
+          "url": "https://www.ticketmaster.com/melvia-chick-rodgerswilliams-tickets/artist/2703261"
+        }
+      ],
+      "searchText": "the 19th annual motor city blues festival all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fox theatre detroit detroit mi us blues is alright king george tucka sir charles jones pokey bear cecily wilborn melvia chick rodgers williams"
+    },
+    {
       "id": "vv1AaZk4fGke-Sa5E",
       "legacyEventId": "09006554A1CC92E7",
       "name": "ARRIVAL From Sweden THE MUSIC OF ABBA ",
@@ -65294,6 +65489,39 @@
         }
       ],
       "searchText": "anthony rodia insanely funny tour wilbur theatre parking is available at the link below the wilbur boston ma us anthony rodia"
+    },
+    {
+      "id": "vvG1VZ_p5tlHDj",
+      "legacyEventId": "0D006562E9AFCEDC",
+      "name": "Fpa Presents C.s. Lewis On Stage: Further Up & Further In",
+      "eventUrl": "https://www.ticketmaster.com/fpa-presents-cs-lewis-on-stage-ft-lauderdale-florida-02-14-2027/event/0D006562E9AFCEDC",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-02-14",
+      "localTime": "15:00",
+      "startDateTime": "2027-02-14T20:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/dfd/a64d36aa-dfd2-43e1-bc4a-2d844367ddfd_SOURCE",
+      "venue": {
+        "id": "KovZpZAEeFtA",
+        "name": "Wells Hall at The Parker",
+        "city": "Ft Lauderdale",
+        "state": "FL",
+        "country": "US",
+        "latitude": 26.134246,
+        "longitude": -80.136172,
+        "street": "707 NE 8th Street",
+        "zipCode": "33304",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917h5y7",
+          "name": "C.S Lewis on Stage Further Up & Further In",
+          "url": "https://www.ticketmaster.com/cs-lewis-on-stage-further-up-tickets/artist/2980710"
+        }
+      ],
+      "searchText": "fpa presents c s lewis on stage further up further in to become a member of the broward center including the parker and receive access to great seats and presales visit browardcenter org entourage today visit parkerplayhouse com visit before you go to the show for info on parking dining concessions and premium experiences the haller club and the place to be everyone must have a ticket to enter the venue for group discounts visit browardcenter org group sales wells hall at the parker ft lauderdale fl us c s lewis on stage further up further in"
     },
     {
       "id": "G5dIZ_2SsD0W2",
@@ -69942,6 +70170,44 @@
       "searchText": "corey kent must be 21 to enter doors 6pm opener 8 45pm headliner 10 30pm free parking no backpacks or large purses bags no male tank tops or sleevless subject to search no weapons patrons subject to wanding 8 seconds saloon indianapolis in us corey kent tyler nance"
     },
     {
+      "id": "rZ7HnEZ1Af8PO7",
+      "legacyEventId": "rZ7HnEZ1Af8PO7",
+      "name": "Moontricks, Will Evans",
+      "eventUrl": "https://www.ticketweb.com/event/moontricks-will-evans-music-box-tickets/14425804",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-06",
+      "localTime": "21:00",
+      "startDateTime": "2027-03-07T05:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/0cc/c4ab77a5-077f-4337-9f58-fc5958a230cc_SOURCE",
+      "venue": {
+        "id": "rZ7HnEZ178O8g",
+        "name": "Music Box",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "latitude": 32.71938,
+        "longitude": -117.16813,
+        "street": "1337 India Street",
+        "zipCode": "92101",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fkF7",
+          "name": "Moontricks",
+          "url": "https://www.ticketmaster.com/moontricks-tickets/artist/2180282"
+        },
+        {
+          "id": "K8vZ917KM0f",
+          "name": "Will Evans",
+          "url": "https://www.ticketmaster.com/will-evans-tickets/artist/2162422"
+        }
+      ],
+      "searchText": "moontricks will evans there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 27 50 adv standing 30 day of standing note tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us moontricks will evans"
+    },
+    {
       "id": "vv17fZ_4GkDAAQxF",
       "legacyEventId": "0500655EC515A888",
       "name": "Quad Meet Feat. Ohio State, Illinois State, LIU & Towson",
@@ -70064,6 +70330,44 @@
         }
       ],
       "searchText": "indy fuel vs bloomington bison children two years and under are free with an accompanying adult but must sit on a lap for a smooth arrival purchase parking in advance or use the on site payment signs located in the lots fishers event center is cashless and accepts only card and mobile payments for the fastest entry please avoid bringing bags clear bags up to 12x6x12 inches are allowed as well as non clear bags smaller than 4 5x6 5 inches all tickets are mobile visit fisherseventcenter com for a list of prohibited items and additional venue guidelines fishers event center fishers in us indy fuel bloomington bison"
+    },
+    {
+      "id": "vv1AAZk4xGkdRsyzY",
+      "legacyEventId": "05006562EFC79E30",
+      "name": "Blue Oyster Cult with Uriah Heep",
+      "eventUrl": "https://www.ticketmaster.com/blue-oyster-cult-with-uriah-heep-nashville-indiana-03-07-2027/event/05006562EFC79E30",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-07",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-08T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/57c/e0c4ef9f-a97d-4b6b-b96b-40cd2846957c_SOURCE",
+      "venue": {
+        "id": "KovZ917AOr1",
+        "name": "Brown County Music Center",
+        "city": "Nashville",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.197639,
+        "longitude": -86.238487,
+        "street": "200 Maple Leaf Boulevard",
+        "zipCode": "47448",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171uwf",
+          "name": "Blue Oyster Cult",
+          "url": "https://www.ticketmaster.com/blue-oyster-cult-tickets/artist/734593"
+        },
+        {
+          "id": "K8vZ91712Hf",
+          "name": "Uriah Heep",
+          "url": "https://www.ticketmaster.com/uriah-heep-tickets/artist/736375"
+        }
+      ],
+      "searchText": "blue oyster cult with uriah heep doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us blue oyster cult uriah heep"
     },
     {
       "id": "vvG1iZ_3EiHEa6",
@@ -70308,9 +70612,9 @@
           "url": "https://www.ticketmaster.com/vana-tickets/artist/3090560"
         },
         {
-          "id": "K8vZ917pw4V",
-          "name": "Novelists",
-          "url": "https://www.ticketmaster.com/novelists-tickets/artist/2473945"
+          "id": "K8vZ917GDBf",
+          "name": "Stick To Your Guns",
+          "url": "https://www.ticketmaster.com/stick-to-your-guns-tickets/artist/978782"
         },
         {
           "id": "K8vZ917jrTV",
@@ -70318,7 +70622,7 @@
           "url": "https://www.ticketmaster.com/dreamwake-tickets/artist/3122729"
         }
       ],
-      "searchText": "currents our fates lie in tandem this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us currents vana novelists dreamwake"
+      "searchText": "currents our fates lie in tandem this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us currents vana stick to your guns dreamwake"
     },
     {
       "id": "G5vzZ_KMkRWPR",
@@ -71728,6 +72032,39 @@
       "searchText": "little big there is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 37 early bird ga 47 tier 1 ga 57 tier 2 ga 67 tier 3 ga 82 last chance ga note all tiers are general admission tickets available at box office convenience service charges apply for online purchases table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11am to 5pm mon fri as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change music box san diego ca us little big"
     },
     {
+      "id": "G5vzZ_4MEPtw7",
+      "legacyEventId": "1E00655DE7969C84",
+      "name": "Bryce Crawford: Not Your Average Jesus Tour",
+      "eventUrl": "https://www.ticketmaster.com/bryce-crawford-not-your-average-jesus-boise-idaho-03-16-2027/event/1E00655DE7969C84",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-16",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-17T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/492/fd42db8a-1cb1-4115-91a2-7af6e1c1c492_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZpZAE7IFA",
+        "name": "Morrison Center for the Performing Arts",
+        "city": "Boise",
+        "state": "ID",
+        "country": "US",
+        "latitude": 43.606728,
+        "longitude": -116.207386,
+        "street": "2201 W Friendship Ln",
+        "zipCode": "83725",
+        "timezone": "America/Denver"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917qBhV",
+          "name": "Bryce Crawford",
+          "url": "https://www.ticketmaster.com/bryce-crawford-tickets/artist/3521719"
+        }
+      ],
+      "searchText": "bryce crawford not your average jesus tour all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us bryce crawford"
+    },
+    {
       "id": "vvG1zZ_fMqV9te",
       "legacyEventId": "0E00654DDDD17A42",
       "name": "Alex Sampson",
@@ -72794,6 +73131,39 @@
       "searchText": "we them one s comedy tour all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited little caesars arena detroit mi us we them one s comedy tour mike epps dc young fly deon cole karlous miller chico bean kountry wayne d lai"
     },
     {
+      "id": "vv1kOZ_38NG7BRqp",
+      "legacyEventId": "0800652423EAF756",
+      "name": "History of R&B Starring Dru Hill",
+      "eventUrl": "https://www.ticketmaster.com/history-of-rb-starring-dru-hill-detroit-michigan-03-21-2027/event/0800652423EAF756",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-21",
+      "localTime": "19:30",
+      "startDateTime": "2027-03-21T23:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/e07/488bc243-c730-4570-8e9d-71fea931ce07_SOURCE",
+      "venue": {
+        "id": "KovZpZAFAE1A",
+        "name": "Sound Board at MotorCity Casino Hotel",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.339324,
+        "longitude": -83.067158,
+        "street": "2901 Grand River",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171h90",
+          "name": "Dru Hill",
+          "url": "https://www.ticketmaster.com/dru-hill-tickets/artist/781102"
+        }
+      ],
+      "searchText": "history of r b starring dru hill this is an age restricted event 21 with valid photo id doors open 1 hour before show time guests can enjoy the casino and dining area before doors all seats are reserved all bags are subject to inspection by our security team upon entry all times and lineup are subject to change without notice accessible seating please use the filter seats feature to see wheelchair accessible seats and companion availability please click show accessible seats we are a no smoking or vaping venue smoking area available free and convenient self parking is available sound board at motorcity casino hotel detroit mi us dru hill"
+    },
+    {
       "id": "rZ7HnEZ1A4v8ud",
       "legacyEventId": "rZ7HnEZ1A4v8ud",
       "name": "Modern Swing Mondays",
@@ -73306,6 +73676,39 @@
         }
       ],
       "searchText": "kathleen madigan flying cats tour no refunds or exchanges 4 ticket limit aisle the first 2 seats next to the aisle may be sold separately no cans bottles or weapons of any kind no food or smoking of any kind no flash photography and no video live recording under 18 must be accompanied by an adult 21 years or older must be 2 years old with a ticket to enter under 2 years not permitted tickets purchased through third party sellers cannot be verified for authenticity and may not be honored at redemption management reserves all rights free valet and self parking the show at agua caliente casino rancho mirage rancho mirage ca us kathleen madigan"
+    },
+    {
+      "id": "vvG1YZ_pf02hhT",
+      "legacyEventId": "0C006565243DB6FF",
+      "name": "Noah Rinker",
+      "eventUrl": "https://www.ticketmaster.com/noah-rinker-fort-worth-texas-03-26-2027/event/0C006565243DB6FF",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-03-26",
+      "localTime": "20:30",
+      "startDateTime": "2027-03-27T01:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/aa6/7474974d-228b-475c-8d22-7671c115aaa6_SOURCE",
+      "venue": {
+        "id": "KovZ917AEVr",
+        "name": "Tannahill's Music Hall & Lounge",
+        "city": "Fort Worth",
+        "state": "TX",
+        "country": "US",
+        "latitude": 32.7885,
+        "longitude": -97.34775,
+        "street": "122 E. Exchange Suite 200",
+        "zipCode": "76164",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917qd2V",
+          "name": "Noah Rinker",
+          "url": "https://www.ticketmaster.com/noah-rinker-tickets/artist/3183717"
+        }
+      ],
+      "searchText": "noah rinker doors open one hour prior to showtime venue box office opens one hour prior to door time closing hours vary per event bag policy bags up to 12 x6 x12 are allowed in the venue all bags will be searched prior to entry bags that are not clear will be subject to additional search mobile tickets your phone is your ticket download your tickets into your mobile wallet and transfer to friends via www livenation com or the live nation app ticket help https help livenation com covid 19 the venue follows local covid 19 guidelines which currently are not requiring proof of vaccination negative test for entry parking ride share service is encouraged valet parking is available near the entrance to tannahill s on exchange street for 20 paid lots within short walking distance venue faq page https www tannahills com connect faqs dining by chef tim love https www tannahills com food drink tannahill s music hall lounge fort worth tx us noah rinker"
     },
     {
       "id": "rZ7HnEZ1AfCdGf",
@@ -74057,6 +74460,39 @@
       "searchText": "broadway in boise presents the book of mormon all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us the book of mormon touring"
     },
     {
+      "id": "vv1F0Z_pp_GzZdGuC",
+      "legacyEventId": "0900656599338BCD",
+      "name": "Dashboard Confessional",
+      "eventUrl": "https://www.ticketmaster.com/dashboard-confessional-hollywood-california-04-01-2027/event/0900656599338BCD",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-01",
+      "localTime": "19:00",
+      "startDateTime": "2027-04-02T02:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d93/7e555e44-1783-47e5-8a14-26d6418ded93_SOURCE",
+      "venue": {
+        "id": "KovZpZAEAlaA",
+        "name": "Hollywood Palladium",
+        "city": "Hollywood",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.09850537,
+        "longitude": -118.32421313,
+        "street": "6215 Sunset Blvd",
+        "zipCode": "90028",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171DF0",
+          "name": "Dashboard Confessional",
+          "url": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045"
+        }
+      ],
+      "searchText": "dashboard confessional all ages welcome doors 7pm show 8pm all times and supporting acts are subject to change without notice premier parking vouchers are valid starting two 2 hours prior to doors opening for the event earlier on site parking access is not guaranteed vinyl room doors open 5 30pm hollywood palladium hollywood ca us dashboard confessional"
+    },
+    {
       "id": "vv1AvZk4FGkdCXf_M",
       "legacyEventId": "01006548CEF94677",
       "name": "Jimmy O. Yang Has No Friends Tour",
@@ -74429,6 +74865,72 @@
       "searchText": "brad williams the big and small tour no refunds or exchanges 4 ticket limit aisle the first 2 seats next to the aisle may be sold separately no cans bottles or weapons of any kind no food or smoking of any kind no flash photography and no video live recording tickets purchased through third party sellers cannot be verified for authenticity and may not be honored at redemption management reserves all rights free self parking and valet the show at agua caliente casino rancho mirage rancho mirage ca us brad williams"
     },
     {
+      "id": "vv1AAZk4xGkdNMa5H",
+      "legacyEventId": "05006562E3DC92FC",
+      "name": "Melissa Etheridge: Rise Again 2027",
+      "eventUrl": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-nashville-indiana-04-02-2027/event/05006562E3DC92FC",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-02",
+      "localTime": "20:00",
+      "startDateTime": "2027-04-03T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d16/58b6920d-f192-46ea-88f5-20791aa25d16_SOURCE",
+      "venue": {
+        "id": "KovZ917AOr1",
+        "name": "Brown County Music Center",
+        "city": "Nashville",
+        "state": "IN",
+        "country": "US",
+        "latitude": 39.197639,
+        "longitude": -86.238487,
+        "street": "200 Maple Leaf Boulevard",
+        "zipCode": "47448",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91712f0",
+          "name": "Melissa Etheridge",
+          "url": "https://www.ticketmaster.com/melissa-etheridge-tickets/artist/735024"
+        }
+      ],
+      "searchText": "melissa etheridge rise again 2027 doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us melissa etheridge"
+    },
+    {
+      "id": "vv1AkZk4xGkdmI2xZ",
+      "legacyEventId": "06006562EEA0F880",
+      "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+      "eventUrl": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-moline-illinois-04-03-2027/event/06006562EEA0F880",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-03",
+      "localTime": "10:00",
+      "startDateTime": "2027-04-03T15:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d9a/808a39b1-2f89-4376-ac3e-fb1d84c23d9a_SOURCE",
+      "venue": {
+        "id": "KovZpZAJEaEA",
+        "name": "Vibrant Arena at the Mark",
+        "city": "Moline",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.5078737,
+        "longitude": -90.52071936,
+        "street": "1201 River Dr",
+        "zipCode": "61265",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917j08V",
+          "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+          "url": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-tickets/artist/3130531"
+        }
+      ],
+      "searchText": "paw patrol live a mighty adventure any child who has celebrated their first birthday must have a paid ticket prices are subject to demand and can change at any time no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us paw patrol live a mighty adventure"
+    },
+    {
       "id": "G5vzZ_AN9y4nM",
       "legacyEventId": "1E006458D7E55AB7",
       "name": "Broadway In Boise Presents THE BOOK OF MORMON",
@@ -74460,6 +74962,39 @@
         }
       ],
       "searchText": "broadway in boise presents the book of mormon all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us the book of mormon touring"
+    },
+    {
+      "id": "vv1AkZk4xGkdmtTx4",
+      "legacyEventId": "06006562EEA7F895",
+      "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+      "eventUrl": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-moline-illinois-04-03-2027/event/06006562EEA7F895",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-03",
+      "localTime": "14:00",
+      "startDateTime": "2027-04-03T19:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d9a/808a39b1-2f89-4376-ac3e-fb1d84c23d9a_SOURCE",
+      "venue": {
+        "id": "KovZpZAJEaEA",
+        "name": "Vibrant Arena at the Mark",
+        "city": "Moline",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.5078737,
+        "longitude": -90.52071936,
+        "street": "1201 River Dr",
+        "zipCode": "61265",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917j08V",
+          "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+          "url": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-tickets/artist/3130531"
+        }
+      ],
+      "searchText": "paw patrol live a mighty adventure any child who has celebrated their first birthday must have a paid ticket prices are subject to demand and can change at any time no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us paw patrol live a mighty adventure"
     },
     {
       "id": "vv17fZ_8GkwI9gNc",
@@ -74564,6 +75099,39 @@
         }
       ],
       "searchText": "broadway in boise presents the book of mormon all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us the book of mormon touring"
+    },
+    {
+      "id": "vv1AkZk4xGkdmlLxc",
+      "legacyEventId": "06006562EEADF8AD",
+      "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+      "eventUrl": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-moline-illinois-04-04-2027/event/06006562EEADF8AD",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-04",
+      "localTime": "11:00",
+      "startDateTime": "2027-04-04T16:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/d9a/808a39b1-2f89-4376-ac3e-fb1d84c23d9a_SOURCE",
+      "venue": {
+        "id": "KovZpZAJEaEA",
+        "name": "Vibrant Arena at the Mark",
+        "city": "Moline",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.5078737,
+        "longitude": -90.52071936,
+        "street": "1201 River Dr",
+        "zipCode": "61265",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917j08V",
+          "name": "PAW Patrol Live! \"A Mighty Adventure\"",
+          "url": "https://www.ticketmaster.com/paw-patrol-live-a-mighty-adventure-tickets/artist/3130531"
+        }
+      ],
+      "searchText": "paw patrol live a mighty adventure any child who has celebrated their first birthday must have a paid ticket prices are subject to demand and can change at any time no bag policy bags are not permitted except 5x7x2 inch or smaller walk thru metal detectors fans will be required to enter through a walk thru magnetometer cashless concessions merchandise and parking the vibrant arena has card only transactions for food beverage retail purchases and parking gate fees cash is accepted at the box office only for ticket purchases and advance parking passes vibrant arena at the mark moline il us paw patrol live a mighty adventure"
     },
     {
       "id": "G5vzZ_AN9HAca",
@@ -75893,6 +76461,44 @@
       "searchText": "shucked touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us shucked touring"
     },
     {
+      "id": "vv1AeZk44GkdQ27W-",
+      "legacyEventId": "02006555DA3C4F61",
+      "name": "Marc Anthony: THE LAST DANCE",
+      "eventUrl": "https://www.ticketmaster.com/marc-anthony-the-last-dance-newark-new-jersey-04-15-2027/event/02006555DA3C4F61",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-15",
+      "localTime": "20:00",
+      "startDateTime": "2027-04-16T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/a05/70211fb5-5106-4bed-b454-c85bf12dda05_SOURCE",
+      "venue": {
+        "id": "KovZpZAE7vaA",
+        "name": "Prudential Center",
+        "city": "Newark",
+        "state": "NJ",
+        "country": "US",
+        "latitude": 40.73340555,
+        "longitude": -74.17121214,
+        "street": "25 Lafayette Street",
+        "zipCode": "07102",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171h9V",
+          "name": "Marc Anthony",
+          "url": "https://www.ticketmaster.com/marc-anthony-tickets/artist/759949"
+        },
+        {
+          "id": "K8vZ9178SzV",
+          "name": "Eddie Santiago",
+          "url": "https://www.ticketmaster.com/eddie-santiago-tickets/artist/755191"
+        }
+      ],
+      "searchText": "marc anthony the last dance to purchase advance parking for this event please click here https prucenter clickandpark com prudential center newark nj us marc anthony eddie santiago"
+    },
+    {
       "id": "G5vYZ_K6-yywH",
       "legacyEventId": "1C006531E1E79CBC",
       "name": "Shucked (Touring)",
@@ -76160,6 +76766,39 @@
         }
       ],
       "searchText": "shucked touring for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us shucked touring"
+    },
+    {
+      "id": "1A4Zk4xGkeIOAZO",
+      "legacyEventId": "15006562A8805020",
+      "name": "The Price Is Right Live - On Stage",
+      "eventUrl": "https://www.ticketmaster.com/the-price-is-right-live-on-national-harbor-maryland-04-17-2027/event/15006562A8805020",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-17",
+      "localTime": "18:00",
+      "startDateTime": "2027-04-17T22:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ef1/d29fa1ff-2358-4c68-ab05-974d8d18eef1_SOURCE",
+      "venue": {
+        "id": "KovZ917A5LV",
+        "name": "The Theater at MGM National Harbor",
+        "city": "National Harbor",
+        "state": "MD",
+        "country": "US",
+        "latitude": 38.791707,
+        "longitude": -77.003002,
+        "street": "101 MGM National Ave",
+        "zipCode": "20745",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91750q0",
+          "name": "The Price Is Right Live - Stage Show",
+          "url": "https://www.ticketmaster.com/the-price-is-right-live-stage-tickets/artist/920498"
+        }
+      ],
+      "searchText": "the price is right live on stage welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us the price is right live stage show"
     },
     {
       "id": "vvG1zZ_404Lw77",
@@ -76439,6 +77078,39 @@
         }
       ],
       "searchText": "boise state university music dept all campus concert band all seats are general admission first come first served seating everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us boise state university department of music"
+    },
+    {
+      "id": "1A4Zk4xGkeI-4Z0",
+      "legacyEventId": "15006562A8855024",
+      "name": "The Price Is Right Live - On Stage",
+      "eventUrl": "https://www.ticketmaster.com/the-price-is-right-live-on-national-harbor-maryland-04-18-2027/event/15006562A8855024",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-18",
+      "localTime": "16:00",
+      "startDateTime": "2027-04-18T20:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/ef1/d29fa1ff-2358-4c68-ab05-974d8d18eef1_SOURCE",
+      "venue": {
+        "id": "KovZ917A5LV",
+        "name": "The Theater at MGM National Harbor",
+        "city": "National Harbor",
+        "state": "MD",
+        "country": "US",
+        "latitude": 38.791707,
+        "longitude": -77.003002,
+        "street": "101 MGM National Ave",
+        "zipCode": "20745",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91750q0",
+          "name": "The Price Is Right Live - Stage Show",
+          "url": "https://www.ticketmaster.com/the-price-is-right-live-stage-tickets/artist/920498"
+        }
+      ],
+      "searchText": "the price is right live on stage welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us the price is right live stage show"
     },
     {
       "id": "G5vzZ_8hogv_X",
@@ -77529,6 +78201,39 @@
         }
       ],
       "searchText": "jessica kirson wilbur theatre parking is available at the link below the wilbur boston ma us jessica kirson"
+    },
+    {
+      "id": "vv1AFZk4NGkeJUKfO",
+      "legacyEventId": "08006563A6D93520",
+      "name": "Gabriel Iglesias: The 1976 Tour",
+      "eventUrl": "https://www.ticketmaster.com/gabriel-iglesias-the-1976-tour-detroit-michigan-04-30-2027/event/08006563A6D93520",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-04-30",
+      "localTime": "20:00",
+      "startDateTime": "2027-05-01T00:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/f02/33a32096-d2fb-45cf-9d95-b71260f94f02_SOURCE",
+      "venue": {
+        "id": "KovZ917A25V",
+        "name": "Little Caesars Arena",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.341089,
+        "longitude": -83.055434,
+        "street": "2645 Woodward",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175rM7",
+          "name": "Gabriel Iglesias",
+          "url": "https://www.ticketmaster.com/gabriel-iglesias-tickets/artist/853206"
+        }
+      ],
+      "searchText": "gabriel iglesias the 1976 tour all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited little caesars arena detroit mi us gabriel iglesias"
     },
     {
       "id": "rZ7HnEZ1Afuv47",
@@ -79016,6 +79721,39 @@
       "searchText": "broadway in boise presents a beautiful noise all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us a beautiful noise touring"
     },
     {
+      "id": "1Av0Z_4GkSOk62b",
+      "legacyEventId": "1900655CE01873D8",
+      "name": "Silversun Pickups : Tenterhooks Tour",
+      "eventUrl": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-tempe-arizona-05-18-2027/event/1900655CE01873D8",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-05-18",
+      "localTime": "19:30",
+      "startDateTime": "2027-05-19T02:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/772/ae9580b0-d91d-40eb-8ec8-40bbe8b2a772_SOURCE",
+      "venue": {
+        "id": "KovZpZAJk7eA",
+        "name": "Marquee Theatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US",
+        "latitude": 33.43699137,
+        "longitude": -111.94398356,
+        "street": "730 N. Mill Ave",
+        "zipCode": "85281",
+        "timezone": "America/Phoenix"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175WJV",
+          "name": "Silversun Pickups",
+          "url": "https://www.ticketmaster.com/silversun-pickups-tickets/artist/1065866"
+        }
+      ],
+      "searchText": "silversun pickups tenterhooks tour this show is general admission balcony section is 21 balcony seat ticket must be purchased for seating no seats on the main floor standing room only no refunds exchanges unless headliner cancels all ticket sales are subject to service fees babies toddlers are not permitted even at an all ages show children under the age of 10 must have earmuff protection parking in the marquee lots is an additional 15 00 per space used paid to the parking attendants night of event parking is cashless marquee theatre tempe az us silversun pickups"
+    },
+    {
       "id": "1Av0Z_3GkXBl6Ta",
       "legacyEventId": "1900652FBAAC7FC9",
       "name": "Powerman 5000",
@@ -79437,6 +80175,39 @@
         }
       ],
       "searchText": "riley green that s just me tour rain or shine all patrons require a ticket no pdf s allowed parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue to reduce staff contact with guest belongings we have implemented the following bag policy we will allow clear plastic vinyl or pvc tote bags no larger than 12 x 6 x 12 and or small clutch bags 6 x 9 personal lawn chairs are no longer permitted within the venue dos equis pavilion dallas tx us riley green randy houser jake worthington hannah mcfarland"
+    },
+    {
+      "id": "vv16aZk4PodZAGCF11",
+      "legacyEventId": "09006565443BD799",
+      "name": "Silversun Pickups",
+      "eventUrl": "https://www.ticketmaster.com/silversun-pickups-rancho-mirage-california-05-21-2027/event/09006565443BD799",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-05-21",
+      "localTime": "20:00",
+      "startDateTime": "2027-05-22T03:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/772/ae9580b0-d91d-40eb-8ec8-40bbe8b2a772_SOURCE",
+      "venue": {
+        "id": "KovZ917A2Af",
+        "name": "The Show at Agua Caliente Casino Rancho Mirage",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.81399,
+        "longitude": -116.407947,
+        "street": "32250 Bob Hope Dr",
+        "zipCode": "92270",
+        "timezone": "America/Los_Angeles"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175WJV",
+          "name": "Silversun Pickups",
+          "url": "https://www.ticketmaster.com/silversun-pickups-tickets/artist/1065866"
+        }
+      ],
+      "searchText": "silversun pickups no refunds or exchanges 4 ticket limit aisle the first 2 seats next to the aisle may be sold separately no cans bottles or weapons of any kind no food or smoking of any kind no flash photography and no video live recording under 18 must be accompanied by an adult 21 years or older must be 2 years old with a ticket to enter under 2 years not permitted tickets purchased through third party sellers cannot be verified for authenticity and may not be honored at redemption management reserves all rights free self parking and valet the show at agua caliente casino rancho mirage rancho mirage ca us silversun pickups"
     },
     {
       "id": "G5vzZ_ANrUFJ6",
@@ -81613,6 +82384,54 @@
       "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
     },
     {
+      "id": "vv1AFZk4JGkdvW4EB",
+      "legacyEventId": "08006566C1F559FA",
+      "name": "Fall Out Boy: Twilight Of The Punks",
+      "eventUrl": "https://www.ticketmaster.com/fall-out-boy-twilight-of-the-detroit-michigan-07-20-2027/event/08006566C1F559FA",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-07-20",
+      "localTime": "17:30",
+      "startDateTime": "2027-07-20T21:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/76c/14756420-4dda-4aa2-b0da-812f2978276c_SOURCE",
+      "venue": {
+        "id": "KovZpZAdEatA",
+        "name": "Fifth Third Park",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "latitude": 42.338753,
+        "longitude": -83.048487,
+        "street": "2100 Woodward Ave",
+        "zipCode": "48201",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175h30",
+          "name": "Fall Out Boy",
+          "url": "https://www.ticketmaster.com/fall-out-boy-tickets/artist/854398"
+        },
+        {
+          "id": "K8vZ91713uV",
+          "name": "The Offspring",
+          "url": "https://www.ticketmaster.com/the-offspring-tickets/artist/753206"
+        },
+        {
+          "id": "K8vZ9171UO7",
+          "name": "Good Charlotte",
+          "url": "https://www.ticketmaster.com/good-charlotte-tickets/artist/704321"
+        },
+        {
+          "id": "K8vZ917C-C0",
+          "name": "The Story So Far",
+          "url": "https://www.ticketmaster.com/the-story-so-far-tickets/artist/1598200"
+        }
+      ],
+      "searchText": "fall out boy twilight of the punks all bags purses and clutches larger than 4 x 6 x 1 5 are prohibited diaper and medical bags are permitted and should be no larger than 14 x 14 x 6 cashless payment methods only for parking concessions and merchandise all tickets are mobile prior to the show download and save your tickets to your mobile wallet for ease of entry early arrival strongly recommended due to multiple events in the district detroit re entry to the venue is prohibited fifth third park detroit mi us fall out boy the offspring good charlotte the story so far"
+    },
+    {
       "id": "vv17OZ_4GknnNxWv",
       "legacyEventId": "0800655AAA8E2F41",
       "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
@@ -82004,6 +82823,49 @@
       "searchText": "killer queen a tribute to queen featuring patrick myers as freddie mercury doors open 1 5 hours before event begins no refunds or exchanges venue has clear bag policy no weapons no outside food or drink no elevator to balcony level general parking 10 00 per vehicle gravel lot preferred parking 25 00 per vehicle paved lot brown county music center nashville in us killer queen"
     },
     {
+      "id": "1A-Zk40Gkd1PsoK",
+      "legacyEventId": "21006564CA971453",
+      "name": "Fall Out Boy: Twilight Of The Punks",
+      "eventUrl": "https://www.ticketmaster.com/fall-out-boy-twilight-of-the-kansas-city-missouri-08-07-2027/event/21006564CA971453",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-07",
+      "localTime": "17:30",
+      "startDateTime": "2027-08-07T22:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/76c/14756420-4dda-4aa2-b0da-812f2978276c_SOURCE",
+      "venue": {
+        "id": "KovZ917ASlK",
+        "name": "Morton Amphitheater",
+        "city": "Kansas City",
+        "state": "MO",
+        "country": "US",
+        "latitude": 39.16288,
+        "longitude": -94.6368,
+        "street": "6150 NW Music Blvd",
+        "zipCode": "64150",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9175h30",
+          "name": "Fall Out Boy",
+          "url": "https://www.ticketmaster.com/fall-out-boy-tickets/artist/854398"
+        },
+        {
+          "id": "K8vZ91713uV",
+          "name": "The Offspring",
+          "url": "https://www.ticketmaster.com/the-offspring-tickets/artist/753206"
+        },
+        {
+          "id": "K8vZ917C-C0",
+          "name": "The Story So Far",
+          "url": "https://www.ticketmaster.com/the-story-so-far-tickets/artist/1598200"
+        }
+      ],
+      "searchText": "fall out boy twilight of the punks parking is sold separately from concert tickets you will need to purchase a parking pass if you plan to park at the venue morton amphitheater kansas city mo us fall out boy the offspring the story so far"
+    },
+    {
       "id": "rZ7HnEZ1A4v81K",
       "legacyEventId": "rZ7HnEZ1A4v81K",
       "name": "Modern Swing Mondays",
@@ -82353,6 +83215,39 @@
       },
       "attractions": [],
       "searchText": "modern swing mondays west coast swing a k a modern swing lessons and dancing happens every monday night at the stampede the stampede located at 2430 s havana st aurora co 80014 is a country western themed nightclub with a beautiful dance floor 7 bars and a restaurant sprawled around a vast space plenty of free parking dress is casual partner not required 10 cover includes lesson and dance level 2 class 6 15 pm 7 15 pm level 1 class 7 15 pm 8 15 pm level 3 class 7 15 pm 8 15 pm dance 8 30 pm 11 30 pm stampede aurora co us"
+    },
+    {
+      "id": "vv1A8vP_yGAGOFXa",
+      "legacyEventId": "010065679C808F89",
+      "name": "Dave Smith",
+      "eventUrl": "https://www.ticketmaster.com/dave-smith-boston-massachusetts-08-21-2027/event/010065679C808F89",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-08-21",
+      "localTime": "19:00",
+      "startDateTime": "2027-08-21T23:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/153/cd13ef52-6cbc-45ee-8c6d-4a5fc91f5153_SOURCE",
+      "venue": {
+        "id": "KovZpZAEAIvA",
+        "name": "The Wilbur",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "latitude": 42.3504843,
+        "longitude": -71.065086,
+        "street": "246 Tremont St.",
+        "zipCode": "02116",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917op4V",
+          "name": "Dave Smith",
+          "url": "https://www.ticketmaster.com/dave-smith-tickets/artist/1880312"
+        }
+      ],
+      "searchText": "dave smith wilbur theatre parking is available at the link below the wilbur boston ma us dave smith"
     },
     {
       "id": "rZ7HnEZ1A4v8uK",
