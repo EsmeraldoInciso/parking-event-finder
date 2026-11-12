@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-11T10:09:12.728Z",
+  "generatedAt": "2026-11-12T10:31:44.234Z",
   "source": "Ticketmaster Discovery Feed",
   "countryCode": "US",
   "feed": {
-    "lastUpdated": "2026-11-11T09:23:26Z",
-    "numberOfEvents": 112041,
-    "compressedSizeBytes": 85434980,
-    "checksum": "693a8e108175e9df24abf8b71e70e681"
+    "lastUpdated": "2026-11-12T09:19:20Z",
+    "numberOfEvents": 112844,
+    "compressedSizeBytes": 86179415,
+    "checksum": "dc591402c8169491aede0d7a0f883929"
   },
   "summary": {
-    "parkingEvents": 2522
+    "parkingEvents": 2534
   },
   "diagnostics": {
     "terms": {
-      "olivia": 69,
-      "rodrigo": 49,
-      "metallica": 66,
-      "intuit dome": 127,
-      "sphere": 1219,
-      "parking": 5934
+      "olivia": 68,
+      "rodrigo": 47,
+      "metallica": 65,
+      "intuit dome": 126,
+      "sphere": 1222,
+      "parking": 5947
     },
     "samples": {
       "olivia": [
@@ -719,16 +719,6 @@
           "matchedAsParking": false
         },
         {
-          "id": "vvG10Z_CNXp2UY",
-          "name": "Intuit Dome Tours",
-          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-11-11-2026/event/090064E8FE58FDB0",
-          "venue": "Intuit Dome Tours",
-          "city": "Inglewood",
-          "state": "CA",
-          "matchedTerm": "intuit dome",
-          "matchedAsParking": false
-        },
-        {
           "id": "vv1ke8vP__GA5UyGk",
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-01-09-2027/event/090065659BDB9306",
@@ -822,6 +812,16 @@
           "id": "vvG10Z_CNXqZO6",
           "name": "Intuit Dome Tours",
           "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-12-09-2026/event/090064E8FE740807",
+          "venue": "Intuit Dome Tours",
+          "city": "Inglewood",
+          "state": "CA",
+          "matchedTerm": "intuit dome",
+          "matchedAsParking": false
+        },
+        {
+          "id": "vv1ke8vP__GA5X_uF",
+          "name": "Intuit Dome Tours",
+          "eventUrl": "https://www.ticketmaster.com/intuit-dome-tours-inglewood-california-03-04-2027/event/090065659BF99348",
           "venue": "Intuit Dome Tours",
           "city": "Inglewood",
           "state": "CA",
@@ -1668,328 +1668,6 @@
         }
       ],
       "searchText": "reality games bmo stadium has a strict clear bag policy no bags will be allowed inside the stadium that do not meet the guideline for more information please visit https bmostadium com a z guide for parking information please visit https bmostadium com match day guide bmo stadium los angeles ca us reality games"
-    },
-    {
-      "id": "rZ7HnEZ1AfGAkf",
-      "legacyEventId": "rZ7HnEZ1AfGAkf",
-      "name": "Christina Sochor",
-      "eventUrl": "https://www.ticketweb.com/event/christina-sochor-blue-note-hawaii-tickets/14305194",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "18:30",
-      "startDateTime": "2026-11-12T04:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/02/15/14_Edp.jpg?v=15",
-      "venue": {
-        "id": "rZ7HnEZ178034",
-        "name": "Blue Note Hawaii",
-        "city": "Honolulu",
-        "state": "HI",
-        "country": "US",
-        "latitude": 21.27724,
-        "longitude": -157.8271,
-        "street": "2335 Kalakaua Ave",
-        "zipCode": "96815",
-        "timezone": "Pacific/Honolulu"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917-Hff",
-          "name": "Christina Sochor",
-          "url": "https://www.ticketmaster.com/christina-sochor-tickets/artist/4755931"
-        }
-      ],
-      "searchText": "christina sochor christina sochor rdquo not a phone in sight album release concert honolulu rising star christina sochor brings her band of hawai i s finest jazz musicians to blue note hawai i on wednesday november 11 for a unique show celebrating the release of her debut album rdquo not a phone in sight signing with a national record label and selling out two concerts at hawai i public radio earlier this year sochor has made clear that in addition to possessing supreme talent she and her music have great appeal these accomplishments are particularly noteworthy given that sochor is just 23 years old at blue note hawai i sochor a classically trained pianist will present a novel program her new album features a collection of jazz r b neo soul and gospel arrangements of contemporary hits from video games animation and american pop culture film classics on november 11 she her band and special guests will perform songs from the album including music from zelda mario pokemon animal crossing and other video game classics mark your calendar and join us for a night of hits all divinely loved yet rarely celebrated presented like you ve never heard before by piano phenomenon christina sochor and her crack band of jazz musicians tickets 20 30 club policies show 6 30pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us christina sochor"
-    },
-    {
-      "id": "17AYv0G6Ck18F79",
-      "legacyEventId": "170064E18A408117",
-      "name": "SiriusXM Presents An Intimate Evening with SANTANA Greatest Hits Live",
-      "eventUrl": "https://www.ticketmaster.com/siriusxm-presents-an-intimate-evening-with-las-vegas-nevada-11-11-2026/event/170064E18A408117",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-12T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/84d/48d8005a-2613-4db9-8701-f70231c3384d_SOURCE",
-      "venue": {
-        "id": "KovZpZA7klAA",
-        "name": "House of Blues Las Vegas ",
-        "city": "Las Vegas",
-        "state": "NV",
-        "country": "US",
-        "latitude": 36.087535,
-        "longitude": -115.174742,
-        "street": "3950 Las Vegas Blvd",
-        "zipCode": "89119",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ91718pf",
-          "name": "Santana",
-          "url": "https://www.ticketmaster.com/santana-tickets/artist/741473"
-        },
-        {
-          "id": "K8vZ9171uV0",
-          "name": "Carlos Santana",
-          "url": "https://www.ticketmaster.com/carlos-santana-tickets/artist/781063"
-        }
-      ],
-      "searchText": "siriusxm presents an intimate evening with santana greatest hits live room music hall door time 7 pm ages 18 years and older with valid photo id artist website santana com special offers complimentary admission to vinyl room before or after the show with your show tickets valid on show day only must be 21 dress code enforced parking details and pricing available at mandalaybay com join us for dinner and drinks before the show at our house of blues restaurant bar make a reservation at houseofblues com lasvegas house of blues las vegas las vegas nv us santana carlos santana"
-    },
-    {
-      "id": "rZ7HnEZ1AfuS_V",
-      "legacyEventId": "rZ7HnEZ1AfuS_V",
-      "name": "The CHRIS GREENE QUARTET in the SIDEBAR!",
-      "eventUrl": "https://www.ticketweb.com/event/the-chris-greene-quartet-in-fitzgeralds-sidebar-tickets/14373674",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-12T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/08/73/84_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Zg",
-        "name": "FITZGERALDS SIDEBAR",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917CjX7",
-          "name": "Chris Greene Quartet",
-          "url": "https://www.ticketmaster.com/chris-greene-quartet-tickets/artist/1591531"
-        }
-      ],
-      "searchText": "the chris greene quartet in the sidebar fitzgeralds presents chris greene quartet free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over the chris greene quartet led by the evanston saxophone colossus played its first gig in 2005 and has since become one of the most highly visible award winning and critically lauded bands in the chicago area while honoring jazz s tradition the band incorporates elements of funk hip hop rock afro cuban the blues and reggae reflecting their diverse backgrounds cgq is currently celebrating the release of rdquo conversance the first ever jazz release for chicago s longest running indie rock label pravda records enjoy dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us chris greene quartet"
-    },
-    {
-      "id": "rZ7HnEZ1A4ZpPS",
-      "legacyEventId": "rZ7HnEZ1A4ZpPS",
-      "name": "Boots at the Brewery | Line Dancing",
-      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/15016973",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-12T00:00:00Z",
-      "endDateTime": "2026-11-12T03:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/61/70/53_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f0uP",
-        "name": "Middle Ages Music Hall",
-        "city": "Syracuse",
-        "state": "NY",
-        "country": "US",
-        "latitude": 43.051315720388,
-        "longitude": -76.16164963558,
-        "street": "120 Wilkinson Street",
-        "zipCode": "13204",
-        "timezone": "America/New_York"
-      },
-      "attractions": [],
-      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
-    },
-    {
-      "id": "vvG1iZ_K9r9JFQ",
-      "legacyEventId": "0B006535DE5E621A",
-      "name": "Adam Ant - Live 2026",
-      "eventUrl": "https://www.ticketmaster.com/adam-ant-live-2026-el-cajon-california-11-11-2026/event/0B006535DE5E621A",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-12T03:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/997/3fe60b04-b2e6-480b-9a7e-1b6f1affe997_SOURCE",
-      "venue": {
-        "id": "KovZ917AOww",
-        "name": "The Magnolia",
-        "city": "El Cajon",
-        "state": "CA",
-        "country": "US",
-        "latitude": 32.795625,
-        "longitude": -116.95955,
-        "street": "210 E Main Street",
-        "zipCode": "92020",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171FqV",
-          "name": "Adam Ant",
-          "url": "https://www.ticketmaster.com/adam-ant-tickets/artist/734446"
-        },
-        {
-          "id": "K8vZ917QnRV",
-          "name": "Sacred Skin",
-          "url": "https://www.ticketmaster.com/sacred-skin-tickets/artist/2920303"
-        }
-      ],
-      "searchText": "adam ant live 2026 doors 7pm show 8pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us adam ant sacred skin"
-    },
-    {
-      "id": "vv1kFZ_6e_G7TEaS",
-      "legacyEventId": "0200647099FE7273",
-      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "eventUrl": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-newark-new-jersey-11-11-2026/event/0200647099FE7273",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "19:00",
-      "startDateTime": "2026-11-12T00:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/d49/63d21920-3adb-4160-a213-72eb06965d49_SOURCE",
-      "venue": {
-        "id": "KovZpZAE7vaA",
-        "name": "Prudential Center",
-        "city": "Newark",
-        "state": "NJ",
-        "country": "US",
-        "latitude": 40.73340555,
-        "longitude": -74.17121214,
-        "street": "25 Lafayette Street",
-        "zipCode": "07102",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917qo40",
-          "name": "Disney Worlds Collide Concert Tour",
-          "url": "https://www.ticketmaster.com/disney-worlds-collide-concert-tour-tickets/artist/3318339"
-        }
-      ],
-      "searchText": "disney descendants zombies camp rock worlds collide concert tour to purchase advance parking for this event please click here https prucenter clickandpark com prudential center newark nj us disney worlds collide concert tour"
-    },
-    {
-      "id": "rZ7HnEZ1AfGEo0",
-      "legacyEventId": "rZ7HnEZ1AfGEo0",
-      "name": "Isabel Dumaa - Lost in Reverie",
-      "eventUrl": "https://www.ticketweb.com/event/isabel-dumaa-lost-the-masonic-lodge-at-hollywood-tickets/14327464",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-12T04:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/04/39/54_Edp.jpg?v=12",
-      "venue": {
-        "id": "rZ7HnEZa5yw",
-        "name": "The Masonic Lodge at Hollywood Forever",
-        "city": "Los Angeles",
-        "state": "CA",
-        "country": "US",
-        "latitude": 34.09146884,
-        "longitude": -118.319735,
-        "street": "5970 Santa Monica Blvd",
-        "zipCode": "90038",
-        "timezone": "America/Los_Angeles"
-      },
-      "attractions": [],
-      "searchText": "isabel dumaa lost in reverie onsite parking opens 1 hour before doors purchase onsite parking here limit 4 tickets per household customer email account cc address purchases that exceed the 4 ticket limit are subject to cancellation orders placed for the sole purpose of resale may be cancelled without notice the show will be held in a beautiful masonic lodge built in 1931 there are no elevators in this historic landmark ascending stairs is required to enter the venue the masonic lodge at hollywood forever los angeles ca us"
-    },
-    {
-      "id": "vvG1zZ_6XYjit9",
-      "legacyEventId": "0E00647FB072CA57",
-      "name": "Grateful Shred",
-      "eventUrl": "https://www.ticketmaster.com/grateful-shred-atlanta-georgia-11-11-2026/event/0E00647FB072CA57",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-12T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/0f3/b59a211c-3d5e-4817-9313-c32bedb790f3_SOURCE",
-      "venue": {
-        "id": "KovZpZAFF1tA",
-        "name": "Center Stage Theater",
-        "city": "Atlanta",
-        "state": "GA",
-        "country": "US",
-        "latitude": 33.7918926,
-        "longitude": -84.3877907,
-        "street": "1374 W Peachtree St. NW",
-        "zipCode": "30309",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917p6T0",
-          "name": "Grateful Shred",
-          "url": "https://www.ticketmaster.com/grateful-shred-tickets/artist/2389326"
-        }
-      ],
-      "searchText": "grateful shred rival presents grateful shred november 11 2026 center stage theater general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us grateful shred"
-    },
-    {
-      "id": "vvG17Z_Gp4v2Om",
-      "legacyEventId": "010064C59504F82E",
-      "name": "The Longest Johns",
-      "eventUrl": "https://www.ticketmaster.com/the-longest-johns-boston-massachusetts-11-11-2026/event/010064C59504F82E",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "20:00",
-      "startDateTime": "2026-11-12T01:00:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/20e/d57ee9bc-08c1-4b4c-a6e9-42b6d31b020e_SOURCE",
-      "venue": {
-        "id": "KovZpZAEAIvA",
-        "name": "The Wilbur",
-        "city": "Boston",
-        "state": "MA",
-        "country": "US",
-        "latitude": 42.3504843,
-        "longitude": -71.065086,
-        "street": "246 Tremont St.",
-        "zipCode": "02116",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ917_6W0",
-          "name": "The Longest Johns",
-          "url": "https://www.ticketmaster.com/the-longest-johns-tickets/artist/2771569"
-        }
-      ],
-      "searchText": "the longest johns wilbur theatre parking is available at the link below the wilbur boston ma us the longest johns"
-    },
-    {
-      "id": "rZ7HnEZ1AfGej0",
-      "legacyEventId": "rZ7HnEZ1AfGej0",
-      "name": "FRANK CATALANO Celebrates Eddie Harris!",
-      "eventUrl": "https://www.ticketweb.com/event/frank-catalano-celebrates-eddie-harris-fitzgeralds-nightclub-tickets/14302724",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-11",
-      "localTime": "20:30",
-      "startDateTime": "2026-11-12T02:30:00Z",
-      "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/87/14_Edp.jpg?v=3",
-      "venue": {
-        "id": "rZ7HnEZ17f7Z4",
-        "name": "FITZGERALDS NIGHTCLUB",
-        "city": "Berwyn",
-        "state": "IL",
-        "country": "US",
-        "latitude": 41.86489,
-        "longitude": -87.78952,
-        "street": "6615 W Roosevelt Road",
-        "zipCode": "60402",
-        "timezone": "America/Chicago"
-      },
-      "attractions": [],
-      "searchText": "frank catalano celebrates eddie harris fitzgeralds nightclub presents frank catalano celebrates eddie harris swiss movement cold duck time exodus to jazz freedom jazz dance 25 general admission seat reserved tables available legendary saxman frank catalano consistently headlines world class festivals and sells out venues throughout the usa europe and japan thanks to his signature sound and renowned reputation catalano averages 150 concerts a year with his jazz quartet as a coveted guest artist frank often lends his sax stylings to high profile rock groups recent highlights include playing a 7 minute improvised sax solo at the hollywood bowl with the smashing pumpkins closing out the chicago blues festival with los lobos and performing with les claypool sean lennon and the violent femmes he also teamed up on a unique version of the janes addiction hit jane says with perry farrell billy corgan and jimmy chamberlin franks longtime friend and collaborator eddie harris was born october 20 1934 in chicago illinois he began his career as a singer in various baptist churches throughout chicago around the age of 3 eddies cousin bernice benson who played piano at eddies mothers church began teaching him how to play the piano where he learned to play by ear and eventually learned to read music eddie learned to play the clarinet vibraphone and saxophone while attending dusable high school in chicago illinois under the guidance of a well known and influential musical director captain walter dyett captain dyett was responsible for the development of several jazz musicians who came out of chicago from the 1940s to the early 1960s eddie always wanted to play the saxophone simply because he admired the way it looked however in order to play saxophone for captain dyett one had to play the clarinet first so eddies first wind instrument was the clarinet grab dinner before the show at babygold barbecueor enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
       "id": "G5vzZ_8honsbj",
@@ -3533,7 +3211,7 @@
       "localTime": "20:30",
       "startDateTime": "2026-11-14T02:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/07/95/04_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/07/95/04_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -5184,7 +4862,7 @@
       "localTime": "22:00",
       "startDateTime": "2026-11-15T03:00:00Z",
       "endDateTime": "2026-11-15T07:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/09/12/14_Edp.jpg?v=8",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/12/14_Edp.jpg?v=10",
       "venue": {
         "id": "rZ7HnEZ17_apd",
         "name": "Diamondback Music Hall",
@@ -6260,7 +5938,7 @@
       "localTime": "19:00",
       "startDateTime": "2026-11-18T01:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/12/94/91/04_Edp.jpg?v=5",
+      "imageUrl": "https://i.ticketweb.com/i/00/12/94/91/04_Edp.jpg?v=6",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -7380,6 +7058,33 @@
         }
       ],
       "searchText": "luenell blue note comedy series luenell get ready for an unforgettable night of non stop laughs with luenell the original bad girl of comedy known for her big personality booming voice and iconic roles in borat hacks and eddie murphy s coming 2 america plus her hit dave chappelle produced netflix special town business this comedy legend is bringing her bold unfiltered humor live to the stage tickets are selling fast grab yours now before they re gone ticket prices 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us luenell"
+    },
+    {
+      "id": "rZ7HnEZ1Afovuf",
+      "legacyEventId": "rZ7HnEZ1Afovuf",
+      "name": "Pachanka Music Culture Presents: SONORA MACONDELICA EP Preview Party!",
+      "eventUrl": "https://www.ticketweb.com/event/pachanka-music-culture-presents-sonora-fitzgeralds-sidebar-tickets/14441354",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-19",
+      "localTime": "21:00",
+      "startDateTime": "2026-11-20T03:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/76/14_Edp.jpg?v=3",
+      "venue": {
+        "id": "rZ7HnEZ17f7Zg",
+        "name": "FITZGERALDS SIDEBAR",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "pachanka music culture presents sonora macondelica ep preview party pachanka music culture presents on fitzgeralds patio cumbia w sonora macondelica free show click rdquo book now to rsvp grab dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "vv1AvZkfgGkdbmzsu",
@@ -8937,44 +8642,6 @@
       "searchText": "bayport credit union holiday trail of lights event series presented by huffman huffman brothers in law the show is designed to be able to walk it from both directions you can enter from both the north and the south entrances there are 700 parking spaces in the north lot main entrance and 200 spaces in the south lot marsh pavilion entrance is the path ada accessible yes the path is flat and wheelchair accessible the aquarium also has wheelchairs available to rent upon request what can i bring you may bring a stroller wheelchair mobility scooter outside food drink bags etc bags may be subject to search upon entry what can i not bring you may not bring weapons of any kind glass containers outside alcohol chairs pets vehicles of any kind bikes e bikes skateboards scooters etc or professional camera video equipment will there be refunds can i exchange my ticket date all sales are final and valid only for your day and time of purchase no refunds or exchanges virginia aquarium virginia beach va us holiday trail of lights"
     },
     {
-      "id": "vvG1FZ_1Toa3Dl",
-      "legacyEventId": "020064AFD1252EEB",
-      "name": "Football Parking - Rutgers",
-      "eventUrl": "https://www.ticketmaster.com/football-parking-rutgers-university-park-pennsylvania-11-21-2026/event/020064AFD1252EEB",
-      "resaleEventUrl": null,
-      "status": "onsale",
-      "localDate": "2026-11-21",
-      "localTime": null,
-      "startDateTime": null,
-      "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/5b7/6e74fa87-c37d-4935-b1bb-6f28102f95b7_SOURCE",
-      "venue": {
-        "id": "KovZpZAFdJ6A",
-        "name": "West Shore Home Field at Beaver Stadium",
-        "city": "University Park",
-        "state": "PA",
-        "country": "US",
-        "latitude": 40.8101829,
-        "longitude": -77.862127,
-        "street": "University Drive & Park Ave",
-        "zipCode": "16802",
-        "timezone": "America/New_York"
-      },
-      "attractions": [
-        {
-          "id": "K8vZ9171Mdf",
-          "name": "Penn State Nittany Lions",
-          "url": "https://www.ticketmaster.com/penn-state-nittany-lions-tickets/artist/836126"
-        },
-        {
-          "id": "K8vZ9171w0V",
-          "name": "Rutgers Scarlet Knights College Football",
-          "url": "https://www.ticketmaster.com/rutgers-scarlet-knights-college-football-tickets/artist/836644"
-        }
-      ],
-      "searchText": "football parking rutgers parking lots open at 7 a m for noon games parking lots open at 8 a m for all other games west shore home field at beaver stadium university park pa us penn state nittany lions rutgers scarlet knights college football"
-    },
-    {
       "id": "vv1AAZkoeGkdsZG29",
       "legacyEventId": "05006442F100C3D7",
       "name": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
@@ -9159,6 +8826,44 @@
         }
       ],
       "searchText": "ringling bros and barnum bailey with special guest bello nock the circus is here you re invited to the most next level family fun party on the planet the all new ringling bros and barnum bailey is a non stop celebration of jaw dropping acts laugh out loud fun and memory making moments you won t want to miss because this isn t just about the action on stage it s about the fun of sharing it with the people who matter most from wide eyed kids to seen it all grown ups we ve got the wow that will amaze them all we ve taken the biggest boldest most joy sparking acts in the world and transformed them into a one of a kind shared experience so grab your crew and bring your biggest energy the greatest show on earth is throwing the world s most unforgettable party and the best seat in the house is the one right next to you gainbridge fieldhouse indianapolis in us ringling bros and barnum bailey presents the greatest show on earth"
+    },
+    {
+      "id": "vvG1FZ_1Toa3Dl",
+      "legacyEventId": "020064AFD1252EEB",
+      "name": "Football Parking - Rutgers",
+      "eventUrl": "https://www.ticketmaster.com/football-parking-rutgers-university-park-pennsylvania-11-21-2026/event/020064AFD1252EEB",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-11-21",
+      "localTime": "15:30",
+      "startDateTime": "2026-11-21T20:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/5b7/6e74fa87-c37d-4935-b1bb-6f28102f95b7_SOURCE",
+      "venue": {
+        "id": "KovZpZAFdJ6A",
+        "name": "West Shore Home Field at Beaver Stadium",
+        "city": "University Park",
+        "state": "PA",
+        "country": "US",
+        "latitude": 40.8101829,
+        "longitude": -77.862127,
+        "street": "University Drive & Park Ave",
+        "zipCode": "16802",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ9171Mdf",
+          "name": "Penn State Nittany Lions",
+          "url": "https://www.ticketmaster.com/penn-state-nittany-lions-tickets/artist/836126"
+        },
+        {
+          "id": "K8vZ9171w0V",
+          "name": "Rutgers Scarlet Knights College Football",
+          "url": "https://www.ticketmaster.com/rutgers-scarlet-knights-college-football-tickets/artist/836644"
+        }
+      ],
+      "searchText": "football parking rutgers parking lots open at 7 a m for noon games parking lots open at 8 a m for all other games time of game is 3 30 pm original tickets still valid west shore home field at beaver stadium university park pa us penn state nittany lions rutgers scarlet knights college football"
     },
     {
       "id": "vvG1VZ_3mN_ytl",
@@ -15142,7 +14847,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204954",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-11-28",
       "localTime": "14:00",
       "startDateTime": "2026-11-28T19:00:00Z",
@@ -15229,7 +14934,7 @@
       "name": "2026 MLS Cup Playoffs: Western Conference Rd 1: LAFC vs. St. Louis",
       "eventUrl": "https://www.ticketmaster.com/2026-mls-cup-playoffs-western-conference-los-angeles-california-11-28-2026/event/0A006563E15D8777",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-11-28",
       "localTime": "17:30",
       "startDateTime": "2026-11-29T01:30:00Z",
@@ -18445,6 +18150,33 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "rZ7HnEZ1AfoZF7",
+      "legacyEventId": "rZ7HnEZ1AfoZF7",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440204",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-02",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-03T00:00:00Z",
+      "endDateTime": "2026-12-03T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/70/04_Edp.jpg?v=2",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "G5vzZ_ANZ-549",
       "legacyEventId": "1E006458C084B557",
       "name": "Broadway In Boise Presents DISNEY'S BEAUTY AND THE BEAST",
@@ -19137,14 +18869,8 @@
         "zipCode": "46037",
         "timezone": "America/New_York"
       },
-      "attractions": [
-        {
-          "id": "K8vZ9171-pf",
-          "name": "MIAA High School Hockey",
-          "url": "https://www.ticketmaster.com/miaa-high-school-hockey-tickets/artist/861321"
-        }
-      ],
-      "searchText": "high school hockey night pres by hamilton county sports authority all individuals entering the venue for this event require a ticket regardless of age doors open at 5 30pm for a smooth arrival purchase parking in advance or use the on site payment signs located in the lots fishers event center is cashless and accepts only card and mobile payments for the fastest entry please avoid bringing bags clear bags up to 12x6x12 inches are allowed as well as non clear bags smaller than 4 5x6 5 inches all tickets are mobile visit fisherseventcenter com for a list of prohibited items and additional venue guidelines fishers event center fishers in us miaa high school hockey"
+      "attractions": [],
+      "searchText": "high school hockey night pres by hamilton county sports authority all individuals entering the venue for this event require a ticket regardless of age doors open at 5 30pm for a smooth arrival purchase parking in advance or use the on site payment signs located in the lots fishers event center is cashless and accepts only card and mobile payments for the fastest entry please avoid bringing bags clear bags up to 12x6x12 inches are allowed as well as non clear bags smaller than 4 5x6 5 inches all tickets are mobile visit fisherseventcenter com for a list of prohibited items and additional venue guidelines fishers event center fishers in us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8jA",
@@ -19685,7 +19411,7 @@
       "name": "Lavender & Velvet: LIVE IN ATL",
       "eventUrl": "https://www.ticketmaster.com/lavender-velvet-live-in-atl-atlanta-georgia-12-03-2026/event/0E006555C37AEED8",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2026-12-03",
       "localTime": "20:00",
       "startDateTime": "2026-12-04T01:00:00Z",
@@ -20074,7 +19800,7 @@
       "localTime": "15:00",
       "startDateTime": "2026-12-04T21:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/96/93_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/96/93_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -20088,7 +19814,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 12 4 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 12 4 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "LvZ18Qfqe_EcgeYZwhtA0",
@@ -22143,7 +21869,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204924",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-05",
       "localTime": "16:00",
       "startDateTime": "2026-12-05T21:00:00Z",
@@ -24426,7 +24152,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204894",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-06",
       "localTime": "18:00",
       "startDateTime": "2026-12-06T23:00:00Z",
@@ -27789,9 +27515,14 @@
           "id": "K8vZ9172B9f",
           "name": "Sundy Best",
           "url": "https://www.ticketmaster.com/sundy-best-tickets/artist/1742933"
+        },
+        {
+          "id": "K8vZ9179oC0",
+          "name": "Adam Chaffins",
+          "url": "https://www.ticketmaster.com/adam-chaffins-tickets/artist/2522712"
         }
       ],
-      "searchText": "sundy best rival presents sundy best december 10 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us sundy best"
+      "searchText": "sundy best rival presents sundy best december 10 2026 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us sundy best adam chaffins"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8qY",
@@ -28221,7 +27952,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205094",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-11",
       "localTime": "18:00",
       "startDateTime": "2026-12-11T23:00:00Z",
@@ -28917,7 +28648,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-12T01:00:00Z",
       "endDateTime": "2026-12-12T05:00:00Z",
-      "imageUrl": "https://i.ticketweb.com/i/00/13/01/80/54_Edp.jpg?v=7",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/01/80/54_Edp.jpg?v=8",
       "venue": {
         "id": "rZ7HnEZ17_apd",
         "name": "Diamondback Music Hall",
@@ -29712,7 +29443,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205134",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-12",
       "localTime": "14:00",
       "startDateTime": "2026-12-12T19:00:00Z",
@@ -30176,6 +29907,33 @@
         }
       ],
       "searchText": "mo amer blue note comedy series mo amer don t miss your chance to see global comedy powerhouse mohammed mo amer live on stage for his unstoppable el oso palestino tour fresh off the hit second season of his acclaimed netflix series mo a peabody and gotham award winning sensation boasting a rare 100 rotten tomatoes rating mo brings his signature hilarious storytelling directly to you from starring in netflix specials like wild world and hulu s ramy to sharing the big screen with dwayne johnson in dc s black adam and earning gq uae s man of the year this world class comedian has captivated audiences in over 40 countries tickets are moving fast for an unforgettable night of high energy award winning stand up so lock in your seats now before they sell out ticket prices 35 45 club policies show 6 30pm 9pm doors 5pm 8 30pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us mo amer"
+    },
+    {
+      "id": "rZ7HnEZ1Afov70",
+      "legacyEventId": "rZ7HnEZ1Afov70",
+      "name": "Boots at the Brewery | Line Dancing (Open Dance)",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14441124",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-12",
+      "localTime": "18:30",
+      "startDateTime": "2026-12-12T23:30:00Z",
+      "endDateTime": "2026-12-13T04:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/75/34_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing open dance greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night advance tickets 12 88 total fees included door 10 cash 10 38 card all levels welcome open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8rA",
@@ -31850,7 +31608,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205144",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-13",
       "localTime": "18:00",
       "startDateTime": "2026-12-13T23:00:00Z",
@@ -34643,6 +34401,33 @@
         }
       ],
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
+    },
+    {
+      "id": "rZ7HnEZ1Af8yPV",
+      "legacyEventId": "rZ7HnEZ1Af8yPV",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14439974",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-16",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-17T00:00:00Z",
+      "endDateTime": "2026-12-17T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/67/94_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "LvZ18QIpYHijEl8Ywn8LZ",
@@ -39410,7 +39195,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14204974",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-20",
       "localTime": "14:00",
       "startDateTime": "2026-12-20T19:00:00Z",
@@ -39826,7 +39611,7 @@
       "name": "The Polar Express",
       "eventUrl": "https://www.ticketweb.com/event/the-polar-express-delaware-river-railroad-excursions-polar-tickets/14205084",
       "resaleEventUrl": null,
-      "status": "onsale",
+      "status": "offsale",
       "localDate": "2026-12-20",
       "localTime": "18:00",
       "startDateTime": "2026-12-20T23:00:00Z",
@@ -41989,7 +41774,7 @@
       "localTime": "20:00",
       "startDateTime": "2026-12-23T02:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/09/69/54_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/09/69/54_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Z4",
         "name": "FITZGERALDS NIGHTCLUB",
@@ -42790,6 +42575,33 @@
         }
       ],
       "searchText": "sacramento ballet nutcracker for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us sacramento ballet"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZZf",
+      "legacyEventId": "rZ7HnEZ1AfoZZf",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440014",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-23",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-24T00:00:00Z",
+      "endDateTime": "2026-12-24T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/14_Edp.jpg?v=6",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "rZ7HnEZ1AfuA_V",
@@ -48648,6 +48460,33 @@
       "searchText": "dazzling nights orlando experience our community s annual holiday tradition as dazzling nights returns for its 7th season way more than a light show your dazzling nights journey immerses you in the wonder of the holidays through world class live music a brand new high energy dance show immersive worlds interactive light experiences fun play areas fantastic food and beverage and so much more make memories that last a lifetime as you explore the 50 acre harry p leu gardens welcoming you to brand new and expanded holiday worlds shop sip and eat while you enjoy a new light show at the twinkle market dance the night away under reflective disco balls hanging from the treetops experience the music of the holidays in front of a 50 foot snowman in the rose garden enjoy an acrobatic dance performance in the wintry driftlands spin through swirling snow and play among towering yetis in the crystal kingdom journey through a forest of choreographed christmas trees at polar nights stroll through the beauty of the poinsettia promenade a 60 ft long immersive tunnel of illuminated poinsettias race a friend in the yeti mine adventure obstacle course step into a magical meadow alive with illuminated forest creatures like deer foxes and bears experience the chilly celebration with a giant mural of tens of thousands of points of light and our yeti scavenger hunt returns so find them all along your adventure all of this plus the beauty of leu gardens decorated with light plan your visit pick up a dazzling package and enjoy all that dazzling nights has to offer or select individual tickets select your date and time for all ticket options and details dazzling packages bundle and save 10 on your visit to dazzling nights family 4 pack includes 2 adult 2 child tickets 4 beverages with led cups 4 snacks 2 merchandise options and a souvenir photo adult 2 pack includes 2 adult tickets 4 beverages 2 with an led cup 2 snacks and a souvenir photo individual adult includes 1 adult ticket 2 beverages 1 with an led cup and a snack individual child includes 1 child ticket 1 beverage with an led cup 1 snack and 1 merchandise option or choose individual tickets for adults and kids group tickets available for groups of 10 or more parking all tickets include complementary off site shuttle parking hop aboard the sparkling express and arrive at the garden in no time if you d like to park on site a limited number of on site valet tickets are available on site parking sells out early in the season get your tickets now and join us for the 7th season of dazzling nights orlando harry p leu gardens orlando fl us dazzling nights orlando"
     },
     {
+      "id": "rZ7HnEZ1AfoZZV",
+      "legacyEventId": "rZ7HnEZ1AfoZZV",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440034",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2026-12-30",
+      "localTime": "19:00",
+      "startDateTime": "2026-12-31T00:00:00Z",
+      "endDateTime": "2026-12-31T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/67/74_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group beginner lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "vv1A6Zk49Gkdvu9Xj",
       "legacyEventId": "07006557C1357F9C",
       "name": "LOVB Madison v LOVB Austin",
@@ -52921,6 +52760,33 @@
       "searchText": "henry carpender live in the sidebar fitzgeralds sidebar presents henry carpender quintet free show reservation available henry carpender is a trombonist composer and educator based in the city of chicago an artist who is equally informed by his classical training love of jazz and childhood playing rock music primarily with his father john carpender henry s playing and writing is a charming blend of punchy sensitive quirky and dripping with love for life and self expression henry s dedication to music making began at age 13 when he played his first gig with the much beloved local band expo 76 since then through both his education and the beginning of his professional freelance career henry has been fortunate enough to share the stage with dag juhlin billy harper robbie fulks tanya darby cathy richardson nrbq and the canadian brass henry has also enjoyed a healthy start to a career as a private instructor and group music educator running a small studio of dedicated middle and high schoolers across the chicagoland area when he s not playing or teaching he can be found playing video games cooking a new dish or relaxing on montrose beach this show will be an opportunity to premiere new work revisit some favorites and share arrangements of some of henry s favorite artists tommy sagins on drums jack sundstrom on bass aval stanley on keys and special guests abram collier on bari sax voice and ricardo jimenez on trumpet and voice grab dinner before the show at babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions all ages fitzgeralds sidebar berwyn il us"
     },
     {
+      "id": "rZ7HnEZ1Af8yJ7",
+      "legacyEventId": "rZ7HnEZ1Af8yJ7",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14439984",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-06",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-07T00:00:00Z",
+      "endDateTime": "2027-01-07T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/44_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "G5vYZ_8UsPR51",
       "legacyEventId": "1C00650DB196F2CA",
       "name": "The Outsiders (Touring)",
@@ -52997,7 +52863,7 @@
       "localTime": "20:00",
       "startDateTime": "2027-01-07T04:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/13/15/44_Edp.jpg?v=4",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/13/15/44_Edp.jpg?v=5",
       "venue": {
         "id": "rZ7HnEZ178O8g",
         "name": "Music Box",
@@ -53161,7 +53027,7 @@
       "localTime": "15:00",
       "startDateTime": "2027-01-08T21:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/03_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/03_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -53175,7 +53041,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 1 8 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 1 8 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "rZ7HnEZ1AfuVoV",
@@ -54266,7 +54132,7 @@
       "name": "Dirt Road - The Jason Aldean Experience",
       "eventUrl": "https://www.ticketmaster.com/dirt-road-the-jason-aldean-experience-el-cajon-california-01-09-2027/event/0B0065639AAE2923",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-01-09",
       "localTime": "19:00",
       "startDateTime": "2027-01-10T03:00:00Z",
@@ -55278,6 +55144,33 @@
         }
       ],
       "searchText": "the chris greene quartet in the sidebar fitzgeralds presents chris greene quartet free show click rdquo book now to reserve a table we always leave room for walk ins so if you can t find a reservation don t sweat it c mon over the chris greene quartet led by the evanston saxophone colossus played its first gig in 2005 and has since become one of the most highly visible award winning and critically lauded bands in the chicago area while honoring jazz s tradition the band incorporates elements of funk hip hop rock afro cuban the blues and reggae reflecting their diverse backgrounds cgq is currently celebrating the release of rdquo conversance the first ever jazz release for chicago s longest running indie rock label pravda records enjoy dinner from babygold barbecue parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw fitzgeralds sidebar berwyn il us chris greene quartet"
+    },
+    {
+      "id": "rZ7HnEZ1Af8yJf",
+      "legacyEventId": "rZ7HnEZ1Af8yJf",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14439994",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-13",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-14T00:00:00Z",
+      "endDateTime": "2027-01-14T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/54_Edp.jpg?v=6",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "G5vzZ_ow8RJts",
@@ -57662,6 +57555,33 @@
       "searchText": "prca pro rodeo wed jan 20 7pm prca pro rodeo wed jan 20 7pm all event tickets include grounds admission for the entire event day you do not need to purchase a separate grounds admission ticket for this day parking is free at coors field due to construction parking is very limited around the national western area and there is a fee to park all patrons are encouraged to park at coors field where there are shuttle buses that run every 10 minutes children 2 under are free as long as they sit on their guardian s lap will call is located in the south lobby of the national western complex building 4655 humboldt st denver co 80216 for any questions please call the box office at 303 295 6124 or via e mail to nwtickets nationalwestern com denver coliseum denver co us national western stock show presented by commonspirit health"
     },
     {
+      "id": "rZ7HnEZ1AfoZvV",
+      "legacyEventId": "rZ7HnEZ1AfoZvV",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440074",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-20",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-21T00:00:00Z",
+      "endDateTime": "2027-01-21T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/64_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
+    },
+    {
       "id": "1kAYvPa0GAu5vMo",
       "legacyEventId": "170065264D2C1DD1",
       "name": "SiriusXM Presents An Intimate Evening with SANTANA Greatest Hits Live",
@@ -58843,6 +58763,44 @@
         }
       ],
       "searchText": "prca pro rodeo fri jan 22 8pm prca pro rodeo fri jan 22 8pm all event tickets include grounds admission for the entire event day you do not need to purchase a separate grounds admission ticket for this day parking is free at coors field due to construction parking is very limited around the national western area and there is a fee to park all patrons are encouraged to park at coors field where there are shuttle buses that run every 10 minutes children 2 under are free as long as they sit on their guardian s lap will call is located in the south lobby of the national western complex building 4655 humboldt st denver co 80216 for any questions please call the box office at 303 295 6124 or via e mail to nwtickets nationalwestern com denver coliseum denver co us national western stock show presented by commonspirit health"
+    },
+    {
+      "id": "1A4Zk4JGkdbD_Fc",
+      "legacyEventId": "15006566D8ED922D",
+      "name": "Keith Sweat with special guest Dave Hollister",
+      "eventUrl": "https://www.ticketmaster.com/keith-sweat-with-special-guest-dave-national-harbor-maryland-01-22-2027/event/15006566D8ED922D",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-22",
+      "localTime": "20:00",
+      "startDateTime": "2027-01-23T01:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/f4e41edc-f090-499d-b0b7-cd4f4f658e1e_SOURCE",
+      "venue": {
+        "id": "KovZ917A5LV",
+        "name": "The Theater at MGM National Harbor",
+        "city": "National Harbor",
+        "state": "MD",
+        "country": "US",
+        "latitude": 38.791707,
+        "longitude": -77.003002,
+        "street": "101 MGM National Ave",
+        "zipCode": "20745",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ91711X0",
+          "name": "Keith Sweat",
+          "url": "https://www.ticketmaster.com/keith-sweat-tickets/artist/736235"
+        },
+        {
+          "id": "K8vZ9171cnV",
+          "name": "Dave Hollister",
+          "url": "https://www.ticketmaster.com/dave-hollister-tickets/artist/769431"
+        }
+      ],
+      "searchText": "keith sweat with special guest dave hollister welcome to the theater at mgm national harbor limited onsite parking is available for a fee and the theater is located adjacent to the conservatory suite amenities are only available to guests who book the entire suite minimum of 13 guests directly through an mgm national harbor suites representative contact us at suites mgmnationalharbor com to hear about our group suite offerings the theater at mgm national harbor national harbor md us keith sweat dave hollister"
     },
     {
       "id": "rZ7HnEZ1A4vKPN",
@@ -60365,6 +60323,39 @@
       "searchText": "live band karaoke w your host ian leith friends fitzgeralds nightclub presents live band karaoke ft ian leith friends 10 general admission c mon y all y know ya wanna have you ever eyed the nightclub stage and thought to yourself one day i d like to be up there beltin out now is your chance join ian leith and friends and their deep repertoire of hits to choose from ok of course you have questions here are the answers yes there will is a list of available songs click this link here s the song list no you do not have to be a great singer yes every single person who gets up to sing will be awarded a complimentary babygold coldbeer or reasonable alternative no you cannot sign up ahead of time sign up begins when doors open at 6pm all first come first served yes you can suggest songs for the band to prepare via the google form linked here no hard no no eagles yes this will be a night you will never forget grab dinner before the show at babygold barbecue or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
     },
     {
+      "id": "vvG1zZ_pl-vW2w",
+      "legacyEventId": "0E00656AE107D3F2",
+      "name": "Dynamicduo 2027 US TOUR - DUO DECADES",
+      "eventUrl": "https://www.ticketmaster.com/dynamicduo-2027-us-tour-duo-decades-atlanta-georgia-01-26-2027/event/0E00656AE107D3F2",
+      "resaleEventUrl": null,
+      "status": "offsale",
+      "localDate": "2027-01-26",
+      "localTime": "19:30",
+      "startDateTime": "2027-01-27T00:30:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://s1.ticketm.net/dam/e/473/0aebd064-84fc-4d5b-b3bc-767d3a568473_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "venue": {
+        "id": "KovZpZAFF1tA",
+        "name": "Center Stage Theater",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US",
+        "latitude": 33.7918926,
+        "longitude": -84.3877907,
+        "street": "1374 W Peachtree St. NW",
+        "zipCode": "30309",
+        "timezone": "America/New_York"
+      },
+      "attractions": [
+        {
+          "id": "K8vZ917fQO7",
+          "name": "Dynamic Duo",
+          "url": "https://www.ticketmaster.com/dynamic-duo-tickets/artist/2215335"
+        }
+      ],
+      "searchText": "dynamicduo 2027 us tour duo decades sean healy presents dynamicduo 2027 us tour duo decades january 26 2027 center stage theater reserved seating all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com center stage theater atlanta ga us dynamic duo"
+    },
+    {
       "id": "rZ7HnEZ1AfCk_0",
       "legacyEventId": "rZ7HnEZ1AfCk_0",
       "name": "Loudon Wainwright III",
@@ -60396,6 +60387,33 @@
         }
       ],
       "searchText": "loudon wainwright iii loudon wainwright iii grammy winning singer songwriter and actor loudon wainwright iii is known for his signature blend of sharp wit deep honesty and lyrical mastery over a multi decade career that began in the 1970s wainwright has built a celebrated discography filled with candid autobiographical storytelling and humor best known for his hit single dead skunk and his grammy award winning album high wide handsome the charlie poole project he remains one of folk music s most captivating live performers beyond music his work spans television film and theater with screen appearances in projects like mash big fish and knocked up ticket 45 55 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us loudon wainwright iii"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZZ0",
+      "legacyEventId": "rZ7HnEZ1AfoZZ0",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440024",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-01-27",
+      "localTime": "19:00",
+      "startDateTime": "2027-01-28T00:00:00Z",
+      "endDateTime": "2027-01-28T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/74_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group beginner lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
     },
     {
       "id": "G5vzZ_AN7hjEx",
@@ -61688,7 +61706,7 @@
       "localTime": "19:30",
       "startDateTime": "2027-01-31T00:30:00Z",
       "endDateTime": null,
-      "imageUrl": "https://s1.ticketm.net/dam/a/206/45cf8eff-f7a8-4d20-a7ea-1bc6f0789206_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/a/533/542e959e-5a35-4a6f-8b54-bff0c9fd0533_SOURCE",
       "venue": {
         "id": "KovZpZA7AeJA",
         "name": "Amaturo Theater at Broward Center",
@@ -62388,6 +62406,33 @@
       "searchText": "family spotlight series magic of jen kramer all seats are reserved everyone through the door regardless of age requires a ticket guests who arrive late will be seated at the discretion of management the morrison center reserves the right to search all bags clutches or purses no larger than 14 14 are permitted large purses tote bags backpacks and fanny packs are strongly discouraged and prohibited for most shows outside food and drink are not allowed into the morrison center tap swipe or scan cards and digital payments only event parking is included with ticket purchase morrison center is a smoke free environment no vaping allowed please be advised that the morrison center facility has been designated as a guns free environment the full policy is at https www boisestate edu publicsafety security weapons on campus all sales are final no exchanges no refunds morrison center for the performing arts boise id us jen kramer"
     },
     {
+      "id": "rZ7HnEZ1AfoZZ7",
+      "legacyEventId": "rZ7HnEZ1AfoZZ7",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440004",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-03",
+      "localTime": "19:00",
+      "startDateTime": "2027-02-04T00:00:00Z",
+      "endDateTime": "2027-02-04T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/84_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "rZ7HnEZ1AfuVb0",
       "legacyEventId": "rZ7HnEZ1AfuVb0",
       "name": "HENRY CARPENDER live in the SIDEBAR!",
@@ -62688,7 +62733,7 @@
       "localTime": "15:00",
       "startDateTime": "2027-02-05T21:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/13_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/13_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -62702,7 +62747,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 2 5 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 2 5 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "rZ7HnEZ1AfuVbV",
@@ -63297,7 +63342,7 @@
           "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
         }
       ],
-      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price any discounts will apply to base price not facility parking fee hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
     },
     {
       "id": "vvG1fZ_2h9prmM",
@@ -63477,7 +63522,7 @@
           "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
         }
       ],
-      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price any discounts will apply to base price not facility parking fee hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
     },
     {
       "id": "G5vzZ_kUFpP0p",
@@ -64057,7 +64102,7 @@
           "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-color-tickets/artist/4623446"
         }
       ],
-      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
+      "searchText": "hot wheels monster trucks live color bash facility parking fee of 9 is included in the ticket price any discounts will apply to base price not facility parking fee hot wheels monster trucks live color bash takes the action to a whole new level transforming the arena into a full throttle collision of color vibrant paint splattered trucks bursts of color and electrifying lighting turn every smash and crash into a vivid spectacle the whole family can see feel and remember when the mischievous skelesaurus drains all the color from monster truck island it s up to the crew of rhinomite mega wrex tiger shark bone shaker and bigfoot to win it back one massive stunt at a time joined by a mysterious new ally every wheelie jump donut and freestyle run brings the color roaring back building to a full arena burst of light sound and pure monster truck energy it s the show you love reimagined like you ve never seen it truist arena highland heights ky us hot wheels monster trucks live color bash"
     },
     {
       "id": "1A9ZkffGkdZaRLg",
@@ -64500,6 +64545,33 @@
         }
       ],
       "searchText": "mania the abba tribute doors 6 30pm show 7 30pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us mania the abba tribute"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZv0",
+      "legacyEventId": "rZ7HnEZ1AfoZv0",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440064",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-10",
+      "localTime": "19:00",
+      "startDateTime": "2027-02-11T00:00:00Z",
+      "endDateTime": "2027-02-11T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/68/94_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "rZ7HnEZ1AfuV_0",
@@ -65727,6 +65799,33 @@
       "searchText": "sons of cream harrah s caesars republic lake tahoe prohibits the carrying and or possession of firearms even with a ccw or other dangerous weapons on the premises the venue reserves the right to implement security procedures designed to protect the experience for all of our customers paid parking charges may apply doors open 6 30pm assigned seating must be 6 yrs to attend show south shore room at harrah s lake tahoe lake tahoe nv us sons of cream"
     },
     {
+      "id": "rZ7HnEZ1AfovQ7",
+      "legacyEventId": "rZ7HnEZ1AfovQ7",
+      "name": "The Rhythm Rockets: One For The Lovers, Valentines Dance",
+      "eventUrl": "https://www.ticketweb.com/event/the-rhythm-rockets-one-for-fitzgeralds-nightclub-tickets/14441684",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-13",
+      "localTime": "20:00",
+      "startDateTime": "2027-02-14T02:00:00Z",
+      "endDateTime": null,
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/79/74_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f7Z4",
+        "name": "FITZGERALDS NIGHTCLUB",
+        "city": "Berwyn",
+        "state": "IL",
+        "country": "US",
+        "latitude": 41.86489,
+        "longitude": -87.78952,
+        "street": "6615 W Roosevelt Road",
+        "zipCode": "60402",
+        "timezone": "America/Chicago"
+      },
+      "attractions": [],
+      "searchText": "the rhythm rockets one for the lovers valentines dance fitzgeralds nightclub presents the rhythm rockets one for the lovers valentines dance 20 general admission reserved tables available the rhythm rockets are a guaranteed good time full of boundless energy top flight musicianship and flat out fun captivating singer miss shea has recently joined the band taking over the vocals so beguiling is her vocal delivery that their repertoire is now dominated by classic material from the postwar era by dinah washington big maybelle peggy lee ella mae morse ruth brown etta james and annie laurie the rhythm rockets not only sound right this seven piece band looks every inch the part of a vintage rhythm blues outfit everyone s impeccably dressed in suits and ties except miss shea obviously the rhythm rockets repertoire encompasses a vast 160 selections including several tasty originals and at least one number penned by our guitarist s late grandmother a jazz loving hipster who wrote rdquo i ll take a holiday from love in the 1930 s never knowing someday her grandson s band would lovingly perform it grab dinner before the show at babygold barbecue link to restaurant website or enjoy full service dining inside the club when doors open parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds nightclub berwyn il us"
+    },
+    {
       "id": "1kA8vP3aGA5cU2T",
       "legacyEventId": "150065489BB763FF",
       "name": "Boyz II Men",
@@ -66177,6 +66276,33 @@
         }
       ],
       "searchText": "marian hill rival presents marian hill act two the tour february 16 2027 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us marian hill terror jr"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZ7f",
+      "legacyEventId": "rZ7HnEZ1AfoZ7f",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440114",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-17",
+      "localTime": "19:00",
+      "startDateTime": "2027-02-18T00:00:00Z",
+      "endDateTime": "2027-02-18T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/34_Edp.jpg?v=7",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "vvG1iZ_oJHDkoo",
@@ -67944,6 +68070,33 @@
       },
       "attractions": [],
       "searchText": "paul shimomoto the swing syndicate paul shimomoto for one night the glamour romance and swing of sinatra s songbook come alive in waikiki hawaii vocalist and crooner paul shimomoto makes his blue note hawaii debut with a stylish journey through the music of frank sinatra from the exhilarating swing of his classic recordings to romantic ballads and some of the most enduring standards ever written this is not an impersonation shimomoto brings his own voice and personality to the music combining timeless songs with stories humor and the intimacy and spontaneity of a great jazz club performance behind him is an exceptional ensemble of hawaii jazz artists dan del negro on piano deshannon higa on trumpet reggie padilla on saxophone mark tanouye on bass and noel okimoto on drums think waikiki after dark a great band a great cocktail and songs that never go out of style tickets 25 40 club policies show 7pm doors 5pm seating is first come first served per section 20 minimum per person full bar dinner menu available no refunds or exchanges tickets will be delivered 48 hours prior to the showtime please ensure you purchase tickets for the correct date and time when all available bar seats are occupied the remaining bar area is standing room only table seating is all ages bar area is 21 important note we are not affiliated with any third party ticket sellers tickets purchased directly through our official website or ticketweb are the only authorized sources group reservations groups of 6 or more that want to sit together must purchase a group package at events bluenotehawaii com parking validated parking available at outrigger paradise entrance located on kuhio ave 6 for up to 4 hours of parking blue note hawaii honolulu hi us"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZ70",
+      "legacyEventId": "rZ7HnEZ1AfoZ70",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440124",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-02-24",
+      "localTime": "19:00",
+      "startDateTime": "2027-02-25T00:00:00Z",
+      "endDateTime": "2027-02-25T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/44_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group beginner lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
     },
     {
       "id": "rZ7HnEZ1AfuVq7",
@@ -69784,6 +69937,33 @@
       "searchText": "james marriott world tour world tourthere is a delivery delay in place for this show tickets will be delivered to your inbox 48 hours in advance of the show ticket price 26 advanced standing 31 day of show standing note tickets available at box office convenience service charges apply for online purchases james marriott has partnered with plus1 to support war child 1 from every ticket sold will help war child to protect educate and stand up for the rights of children affected by war www warchild org uk table reservation vip musicboxsd com 619 836 1847 box office contact 619 795 1337 boxoffice musicboxsd com faq box office hours 11 am to 5 pm monday through friday as well as during show performances parking street parking and paid lot parking available follow us x instagram facebook musicboxsd com not on the e mail list for announcements click here to become a music box insider and you will never miss a chance to grab tickets before they go on sale to the general public again music box is standing room only unless otherwise noted no refunds or exchanges on tickets once purchased all times and supporting acts are subject to change no persons under the age of eighteen 18 years shall be permitted at any time into the designated entertainment area s whenever entertainment is provided unless such person is accompanied by their parent spouse or legal guardian or an adult twenty five 25 years or older who has written authorization from the parent spouse or legal guardian intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations protect the minors from alcohol and other criminal activity music box san diego ca us james marriott"
     },
     {
+      "id": "rZ7HnEZ1AfoZe7",
+      "legacyEventId": "rZ7HnEZ1AfoZe7",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440084",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-03",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-04T00:00:00Z",
+      "endDateTime": "2027-03-04T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/54_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group advanced lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "vv17OZ_3GkY-oWzW",
       "legacyEventId": "0800652C2147DE3D",
       "name": "HANS ZIMMER LIVE - THE NEXT LEVEL",
@@ -69926,7 +70106,7 @@
       "localTime": "15:00",
       "startDateTime": "2027-03-05T21:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/23_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/23_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -69940,7 +70120,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 3 5 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 3 5 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "1A9ZkffGkdZu2-k",
@@ -71241,6 +71421,33 @@
         }
       ],
       "searchText": "parking pass the players championship wednesday tpc sawgrass ponte vedra beach fl us the players championship"
+    },
+    {
+      "id": "rZ7HnEZ1AfoZvf",
+      "legacyEventId": "rZ7HnEZ1AfoZvf",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440054",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-10",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-11T00:00:00Z",
+      "endDateTime": "2027-03-11T03:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/64_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
     },
     {
       "id": "vvG1iZ_4DJOlfZ",
@@ -72847,6 +73054,33 @@
       "searchText": "the black jacket symphony presents michael jackson s thriller doors 6 30pm show 7 30pm times and support acts are subject to change all ages welcome tickets purchased from third party outlets cannot be verified by our box office if you have any issues with a third party purchase you must contact the third party outlet directly purchase your premier parking in advance to save 10 in advance and 20 day of show join us for our plaza pre party 30 minutes before doors on our outdoor patio get early admission to our plaza lobby and taco stand with freshly made nachos elote corn specialty cocktails and more available for purchase the magnolia el cajon ca us black jacket symphony"
     },
     {
+      "id": "rZ7HnEZ1AfoZef",
+      "legacyEventId": "rZ7HnEZ1AfoZef",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440094",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-17",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-17T23:00:00Z",
+      "endDateTime": "2027-03-18T02:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/74_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
+    },
+    {
       "id": "rZ7HnEZ1AfA9_V",
       "legacyEventId": "rZ7HnEZ1AfA9_V",
       "name": "Dan Deacon",
@@ -73994,6 +74228,33 @@
       "searchText": "valencia grace rival presents valencia grace march 23 2027 vinyl general admission all ages the price you see is the price you pay all fees are included in the price you see on ticketmaster excluding taxes for ada accommodations email info rivalentertainment com for parking information and an faq visit us at centerstage atlanta com vinyl atlanta ga us valencia grace"
     },
     {
+      "id": "rZ7HnEZ1AfoZ77",
+      "legacyEventId": "rZ7HnEZ1AfoZ77",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440104",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-24",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-24T23:00:00Z",
+      "endDateTime": "2027-03-25T02:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/84_Edp.jpg?v=5",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking middle ages music hall syracuse ny us"
+    },
+    {
       "id": "vvG1VZ_2648lpP",
       "legacyEventId": "0D0064F1D542B5A5",
       "name": "Jethro Tull’s MARTIN BARRE & BAND",
@@ -75022,6 +75283,33 @@
       "searchText": "the plot in you world tour part 1 hard rock live orlando is located at universal orlando s citywalk additional parking fees apply venue doors 6pm show start 7pm for all hard rock shows with a ga floor or ga perimeter there is a designated wheelchair area on the raised perimeter of the main floor guests may arrive at door time and hard rock will escort them to this area and provide a companion seat no backpacks extended lens cameras video cameras ipads allowed inside of venue hard rock live orlando orlando fl us the plot in you"
     },
     {
+      "id": "rZ7HnEZ1AfoZv7",
+      "legacyEventId": "rZ7HnEZ1AfoZv7",
+      "name": "Boots at the Brewery | Line Dancing",
+      "eventUrl": "https://www.ticketweb.com/event/boots-at-the-brewery-middle-ages-music-hall-tickets/14440044",
+      "resaleEventUrl": null,
+      "status": "onsale",
+      "localDate": "2027-03-31",
+      "localTime": "19:00",
+      "startDateTime": "2027-03-31T23:00:00Z",
+      "endDateTime": "2027-04-01T02:00:00Z",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/14/69/94_Edp.jpg?v=4",
+      "venue": {
+        "id": "rZ7HnEZ17f0uP",
+        "name": "Middle Ages Music Hall",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "latitude": 43.051315720388,
+        "longitude": -76.16164963558,
+        "street": "120 Wilkinson Street",
+        "zipCode": "13204",
+        "timezone": "America/New_York"
+      },
+      "attractions": [],
+      "searchText": "boots at the brewery line dancing greg hale of shotgun line dancers kicks things off bringing 9 years of dancing experience and 3 years of teaching to guide the night doors open 6 30 pm 6 00 pm for small group lesson starts 7 00 pm sharp advance 12 88 total fees included door 10 cash 10 38 card all levels welcome beginner advanced lessons open dancing all night beer cocktails other beverages available outside food welcome free street parking small group beginner lessons start at 6pm and are 20 at the door if not prepurcahsed limited spaces middle ages music hall syracuse ny us"
+    },
+    {
       "id": "G5vzZ_AN9gPI6",
       "legacyEventId": "1E006458D7D65A07",
       "name": "Broadway In Boise Presents THE BOOK OF MORMON",
@@ -75329,7 +75617,7 @@
       "localTime": "15:00",
       "startDateTime": "2027-04-02T20:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/33_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/33_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -75343,7 +75631,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 4 2 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 4 2 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "vvG1iZ_8UQjcZz",
@@ -78654,8 +78942,8 @@
     {
       "id": "G5vYZ_pJBIcEt",
       "legacyEventId": "1C006569BAA2D9E9",
-      "name": "MJ Live Michael Jackson Tribute Concert",
-      "eventUrl": "https://www.ticketmaster.com/mj-live-michael-jackson-tribute-concert-sacramento-california-04-25-2027/event/1C006569BAA2D9E9",
+      "name": "MJ Live",
+      "eventUrl": "https://www.ticketmaster.com/mj-live-sacramento-california-04-25-2027/event/1C006569BAA2D9E9",
       "resaleEventUrl": null,
       "status": "offsale",
       "localDate": "2027-04-25",
@@ -78682,7 +78970,7 @@
           "url": "https://www.ticketmaster.com/mj-live-michael-jackson-tribute-concert-tickets/artist/1751107"
         }
       ],
-      "searchText": "mj live michael jackson tribute concert for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us mj live michael jackson tribute concert"
+      "searchText": "mj live for parking information and to purchase advanced parking visit city of sacramento parking safe credit union performing arts center sacramento ca us mj live michael jackson tribute concert"
     },
     {
       "id": "G5vzZ_ANhaE8P",
@@ -79603,7 +79891,7 @@
       "localTime": "15:00",
       "startDateTime": "2027-05-07T20:00:00Z",
       "endDateTime": null,
-      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/53_Edp.jpg?v=3",
+      "imageUrl": "https://i.ticketweb.com/i/00/13/60/97/53_Edp.jpg?v=4",
       "venue": {
         "id": "rZ7HnEZ17f7Zg",
         "name": "FITZGERALDS SIDEBAR",
@@ -79617,7 +79905,7 @@
         "timezone": "America/Chicago"
       },
       "attractions": [],
-      "searchText": "fitzgeralds teacher happy hour 5 7 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
+      "searchText": "fitzgeralds teacher happy hour 5 7 fitzgeralds presents fitzgeralds teacher happy hour two cents for your first drink between 3 4pm 1 shrimp 2 oyster specials starting at 4pm and full babygold bbq menu available at 5pm bring your teacher id rsvp so we know you re coming parking there is rather limited street parking in the area we recommend arriving by rideshare bicycle or rickshaw age restrictions 21 minors admitted with guardian fitzgeralds sidebar berwyn il us"
     },
     {
       "id": "vv1AFZkfMGkdD0jD5",
@@ -80657,7 +80945,7 @@
       "name": "Jewel City VIP",
       "eventUrl": "https://www.ticketmaster.com/jewel-city-vip-huntington-west-virginia-05-16-2027/event/16006569E66AD6AB",
       "resaleEventUrl": null,
-      "status": "offsale",
+      "status": "onsale",
       "localDate": "2027-05-16",
       "localTime": "19:00",
       "startDateTime": "2027-05-16T23:00:00Z",
